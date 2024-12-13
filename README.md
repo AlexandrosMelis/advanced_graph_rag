@@ -1,1 +1,2 @@
-# advanced_graph_rag
+# Advanced Graph Rag 
+AUTH Diploma Thesis Project
