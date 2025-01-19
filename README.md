@@ -48,17 +48,8 @@ advanced_graph_rag/
 │       ├── run_evaluation.py
 │       └── ...
 │
-├── tests/
-│   ├── test_data_collection.py    # Unit tests for data collection scripts
-│   ├── test_data_preprocessing.py
-│   ├── test_knowledge_graph.py
-│   ├── test_embeddings.py
-│   ├── test_llm.py
-│   └── test_evaluation.py
-│
 ├── scripts/
 │   ├── run_data_pipeline.sh       # Or .py script orchestrating data collection + preprocessing
-│   ├── train_embedding_models.sh  # Example training script for embedding models
 │   ├── evaluate.sh                # Script to run full evaluation on QA datasets
 │   └── ...
 │
