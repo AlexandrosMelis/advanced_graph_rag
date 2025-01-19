@@ -51,13 +51,13 @@ class ConfigPath:
 
     # Base directory is the location of this config file.
     # You may adjust the parent reference as needed.
-    BASE_DIR = Path(__file__).resolve().parent.parent
+    BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
     # Data directories
     DATA_DIR = BASE_DIR / "data"
     RAW_DATA_DIR = DATA_DIR / "raw"
     PROCESSED_DATA_DIR = DATA_DIR / "processed"
-    INTERIM_DATA_DIR = DATA_DIR / "interim"
+    INTERMEDIATE_DATA_DIR = DATA_DIR / "intermediate"
     EXTERNAL_DATA_DIR = DATA_DIR / "external"
 
     @classmethod
@@ -67,7 +67,7 @@ class ConfigPath:
             cls.DATA_DIR,
             cls.RAW_DATA_DIR,
             cls.PROCESSED_DATA_DIR,
-            cls.INTERIM_DATA_DIR,
+            cls.INTERMEDIATE_DATA_DIR,
             cls.EXTERNAL_DATA_DIR,
         ]
 

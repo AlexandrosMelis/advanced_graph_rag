@@ -11,7 +11,7 @@ advanced_graph_rag/
 ├── data/
 │   ├── raw/                   # Original/untouched data, e.g. PubMed articles
 │   ├── processed/             # Preprocessed data ready for modeling
-│   ├── interim/               # Intermediate data outputs
+│   ├── intermediate/               # Intermediate data outputs
 │   └── external/              # Any external datasets or QA benchmark data
 │
 ├── notebooks/
