@@ -2,6 +2,7 @@
 AUTH Diploma Thesis Project
 
 ## Project's folder structure
+```text
 advanced_graph_rag/
 ├── README.md                  # High-level overview of the project
 ├── LICENSE                    # (Optional) Add a license for your code
@@ -57,3 +58,4 @@ advanced_graph_rag/
     ├── thesis/                    # Drafts, diagrams, or LaTeX files for your thesis
     ├── system_design.md           # System architecture documentation
     └── references/                # Reference papers, PDFs, or other resources
+```
