@@ -1,14 +1,53 @@
-# config.py
-
 import os
 import logging
 from pathlib import Path
+
 from dotenv import load_dotenv
 
 
-logging.basicConfig(
-    level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s - %(message)s"
-)
+class Logger:
+    @staticmethod
+    def get_logger(
+        name: str = "GraphRagLogger", log_file: str = None, level: int = logging.DEBUG
+    ) -> logging.Logger:
+        """
+        Creates and returns a logger with the specified name and level.
+        If log_file is provided, logs will also be written to the specified file.
+
+        :param name: Name of the logger.
+        :param log_file: Path to the log file.
+        :param level: Logging level.
+        :return: Configured logger.
+        """
+        logger = logging.getLogger(name)
+        logger.setLevel(level)
+
+        # Create console handler
+        ch = logging.StreamHandler()
+        ch.setLevel(level)
+
+        # Create formatter and add it to the handlers
+        formatter = logging.Formatter(
+            "%(asctime)s [%(levelname)s] %(module)s - %(message)s"
+        )
+        ch.setFormatter(formatter)
+
+        # Add the handlers to the logger
+        if not logger.handlers:
+            logger.addHandler(ch)
+
+            # If log_file is specified, add file handler
+            if log_file:
+                # Ensure the log directory exists
+                log_path = Path(log_file).parent.parent
+                log_path.mkdir(parents=True, exist_ok=True)
+
+                fh = logging.FileHandler(log_file)
+                fh.setLevel(level)
+                fh.setFormatter(formatter)
+                logger.addHandler(fh)
+
+        return logger
 
 
 class ConfigEnv:
@@ -78,3 +117,4 @@ class ConfigPath:
 # Create all directories when this file is imported
 ConfigPath.create_directories()
 ConfigEnv._validate_required_vars()
+logger = Logger.get_logger(log_file="logs")
