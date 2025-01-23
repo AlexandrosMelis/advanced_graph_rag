@@ -1,0 +1,92 @@
+PMID- 17595200
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071015
+LR  - 20240511
+IS  - 1468-2044 (Electronic)
+IS  - 0003-9888 (Print)
+IS  - 0003-9888 (Linking)
+VI  - 92
+IP  - 10
+DP  - 2007 Oct
+TI  - Is there an intrauterine influence on obesity? Evidence from parent child 
+      associations in the Avon Longitudinal Study of Parents and Children (ALSPAC).
+PG  - 876-80
+AB  - BACKGROUND: It has been suggested that increasing obesity levels in young women 
+      lead to intrauterine environments that, in turn, stimulate increased obesity 
+      among their offspring, generating an intergenerational acceleration of obesity 
+      levels. If this mechanism is important, the association of maternal body mass 
+      index (BMI) with offspring BMI should be stronger than the association of 
+      paternal with offspring BMI. OBJECTIVE: To compare the relative strengths of 
+      association of maternal and paternal BMI with offspring BMI at age 7.5, taking 
+      into account the possible effect of non-paternity. METHODS: We compared strength 
+      of association for maternal-offspring and paternal-offspring BMI for 4654 
+      complete parent-offspring trios in the Avon Longitudinal Study of Parents and 
+      Children (ALSPAC), using unstandardised and standardised regression analysis. We 
+      carried out a sensitivity analysis to investigate the influence of non-paternity 
+      on these associations. RESULTS: The strength of association between parental BMI 
+      and offspring BMI at age 7.5 was similar for both parents. Taking into account 
+      correlations between maternal and paternal BMI, performing standardised rather 
+      than unstandardised regression and carrying out a sensitivity analysis for 
+      non-paternity emphasised the robustness of the general similarity of the 
+      associations. The associations between high parental BMI (top decile) and 
+      offspring BMI are also similar for both parents. CONCLUSION: Comparison of 
+      mother-offspring and father-offspring associations for BMI suggests that 
+      intergenerational acceleration mechanisms do not make an important contribution 
+      to levels of childhood BMI within the population. Associations at later ages and 
+      for different components of body composition now require study.
+FAU - Davey Smith, George
+AU  - Davey Smith G
+AD  - Department of Social Medicine, University of Bristol, Bristol, UK. 
+      zetkin@bristol.ac.uk
+FAU - Steer, Colin
+AU  - Steer C
+FAU - Leary, Sam
+AU  - Leary S
+FAU - Ness, Andy
+AU  - Ness A
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - G0600705/MRC_/Medical Research Council/United Kingdom
+GR  - G9815508/MRC_/Medical Research Council/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070626
+PL  - England
+TA  - Arch Dis Child
+JT  - Archives of disease in childhood
+JID - 0372434
+SB  - IM
+MH  - Adult
+MH  - *Body Mass Index
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - *Fathers
+MH  - Female
+MH  - Health Surveys
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - *Mothers
+MH  - Obesity/*etiology/genetics
+MH  - Parent-Child Relations
+MH  - Pregnancy
+MH  - United Kingdom/epidemiology
+PMC - PMC2083247
+COIS- Competing interests: None.
+EDAT- 2007/06/28 09:00
+MHDA- 2007/10/16 09:00
+PMCR- 2010/10/01
+CRDT- 2007/06/28 09:00
+PHST- 2007/06/28 09:00 [pubmed]
+PHST- 2007/10/16 09:00 [medline]
+PHST- 2007/06/28 09:00 [entrez]
+PHST- 2010/10/01 00:00 [pmc-release]
+AID - adc.2006.104869 [pii]
+AID - ac104869 [pii]
+AID - 10.1136/adc.2006.104869 [doi]
+PST - ppublish
+SO  - Arch Dis Child. 2007 Oct;92(10):876-80. doi: 10.1136/adc.2006.104869. Epub 2007 
+      Jun 26.

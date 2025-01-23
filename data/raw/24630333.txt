@@ -1,0 +1,118 @@
+PMID- 24630333
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150212
+LR  - 20140602
+IS  - 1879-0267 (Electronic)
+IS  - 0020-1383 (Linking)
+VI  - 45
+IP  - 7
+DP  - 2014 Jul
+TI  - Comparing femoral version after intramedullary nailing performed by 
+      trauma-trained and non-trauma trained surgeons: is there a difference?
+PG  - 1091-4
+LID - S0020-1383(14)00050-3 [pii]
+LID - 10.1016/j.injury.2014.01.024 [doi]
+AB  - INTRODUCTION: As with some procedures, trauma fellowship training and greater 
+      surgeon experience may result in better outcomes following intramedullary nailing 
+      (IMN) of diaphyseal femur fractures. However, surgeons with such training and 
+      experience may not always be available to all patients. The purpose of this study 
+      is to determine whether trauma training affects the post-operative difference in 
+      femoral version (DFV) following IMN. MATERIALS AND METHODS: Between 2000 and 
+      2009, 417 consecutive patients with diaphyseal femur fractures (AO/OTA 32A-C) 
+      were treated via IMN. Inclusion criteria for this study included complete 
+      baseline and demographic documentation as well as pre-operative films for 
+      fracture classification and post-operative CT scanogram (per institutional 
+      protocol) for version and length measurement of both the nailed and uninjured 
+      femurs. Exclusion criteria included bilateral injuries, multiple ipsilateral 
+      lower extremity fractures, previous injury, and previous deformity. Of the 
+      initial 417 subjects, 355 patients met our inclusion criteria. Other data 
+      included in our analysis were age, sex, injury mechanism, open vs. closed 
+      fracture, daytime vs. nighttime surgery, mechanism of injury, and AO and Winquist 
+      classifications. Post-operative femoral version of both lower extremities was 
+      measured on CT scanogram by an orthopaedic trauma fellowship trained surgeon. 
+      Standard univariate and multivariate analyses were performed to determine 
+      statistically significant risk factors for malrotation between the two cohorts. 
+      RESULTS: Overall, 80.3% (288/355) of all fractures were fixed by trauma-trained 
+      surgeons. The mean post-operative DFV was 8.7 degrees  in these patients, compared to 
+      10.7 degrees  in those treated by surgeons of other subspecialties. This difference was 
+      not statistically significant when accounting for other factors in a multivariate 
+      model (p>0.05). The same statistical trend was true when analyzing outcomes of 
+      only the more severe Winquist type III and IV fractures. Additionally, surgeon 
+      experience was not significantly predictive of post-operative version for either 
+      trauma or non-trauma surgeons (p>0.05 for both). CONCLUSIONS: Post-operative 
+      version or percentage of DFV >15 degrees  did not significantly differ following IMN of 
+      diaphyseal femur fractures between surgeons with and without trauma fellowship 
+      training. However, prospective data that removes the inherent bias that the more 
+      complex cases are left for the traumatologists are required before a definitive 
+      comparison is made.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Ayalon, Omri B
+AU  - Ayalon OB
+AD  - Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU Hospital 
+      for Joint Diseases, New York, NY.
+FAU - Patel, Neeraj M
+AU  - Patel NM
+AD  - Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU Hospital 
+      for Joint Diseases, New York, NY.
+FAU - Yoon, Richard S
+AU  - Yoon RS
+AD  - Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU Hospital 
+      for Joint Diseases, New York, NY.
+FAU - Donegan, Derek J
+AU  - Donegan DJ
+AD  - Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, Hospital of 
+      the University of Pennsylvania, Philadelphia, PA.
+FAU - Koerner, John D
+AU  - Koerner JD
+AD  - Division of Spine Surgery, Thomas Jefferson University Medical Center, 
+      Philadelphia, PA.
+FAU - Liporace, Frank A
+AU  - Liporace FA
+AD  - Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU Hospital 
+      for Joint Diseases, New York, NY. Electronic address: liporace33@gmail.com.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20140130
+PL  - Netherlands
+TA  - Injury
+JT  - Injury
+JID - 0226040
+SB  - IM
+MH  - Adult
+MH  - Clinical Competence/*standards
+MH  - Fellowships and Scholarships
+MH  - Female
+MH  - Femoral Fractures/physiopathology/*surgery
+MH  - *Fracture Fixation, Intramedullary/methods/standards
+MH  - Humans
+MH  - Male
+MH  - Orthopedics/*education
+MH  - Postoperative Complications/etiology/physiopathology/surgery
+MH  - Range of Motion, Articular
+MH  - Retrospective Studies
+MH  - Specialties, Surgical/education
+MH  - Surgeons/*education
+MH  - Tomography, X-Ray Computed
+MH  - Traumatology/*education
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Fellowship trained
+OT  - Femoral version
+OT  - Femur fracture
+OT  - Intramedullary nail
+EDAT- 2014/03/19 06:00
+MHDA- 2015/02/13 06:00
+CRDT- 2014/03/18 06:00
+PHST- 2013/06/30 00:00 [received]
+PHST- 2013/11/30 00:00 [revised]
+PHST- 2014/01/21 00:00 [accepted]
+PHST- 2014/03/18 06:00 [entrez]
+PHST- 2014/03/19 06:00 [pubmed]
+PHST- 2015/02/13 06:00 [medline]
+AID - S0020-1383(14)00050-3 [pii]
+AID - 10.1016/j.injury.2014.01.024 [doi]
+PST - ppublish
+SO  - Injury. 2014 Jul;45(7):1091-4. doi: 10.1016/j.injury.2014.01.024. Epub 2014 Jan 
+      30.

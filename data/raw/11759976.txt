@@ -1,0 +1,77 @@
+PMID- 11759976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020221
+LR  - 20041117
+IS  - 0125-2208 (Print)
+IS  - 0125-2208 (Linking)
+VI  - 84
+IP  - 7
+DP  - 2001 Jul
+TI  - Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer 
+      second-look laparotomy?
+PG  - 958-65
+AB  - OBJECTIVE: To determine survival among patients with epithelial ovarian carcinoma 
+      (EOC) who underwent a second-look laparotomy (SLL) and those refusing the 
+      procedure. Also to analyze factor(s) influencing the survival of the patients. 
+      METHOD AND MATERIAL: Medical records were reviewed of patients with advanced EOC 
+      who were clinically free of disease after primary surgery and platinum-based 
+      chemotherapy between January 1, 1992, and December 31, 1998. All of them were 
+      offered SLL. Measurement outcomes include patient survival and disease-free 
+      survival. RESULTS: There were 50 patients with clinically complete remission 
+      after chemotherapy. Sixteen patients underwent SLL, and thirty-four patients 
+      refused the procedure (NSLL). Seven patients (43.8%) were reported to have 
+      positive SLL. After the median follow-up time of 35 months, 12 patients had died, 
+      and 5 patients were lost to follow-up. The median survival time for patients with 
+      SLL was about 60 months. Five-year survival rates of patients in the SLL, and 
+      NSLL groups were 37 per cent (95%CI = 7%-69%), and 88 per cent (95%CI = 65%-96%) 
+      respectively (P<0.001). The median time to relapse was about 25 months for 
+      patients with negative SLL. Five-year disease-free survival rates of patients in 
+      the negative SLL, and NSLL groups were 28 per cent (95%CI = 4%-59%), and 54 per 
+      cent (95%CI = 34%-70%) respectively (P=0.251). By Cox regression analysis, tumor 
+      grade was the only significant prognostic factor influencing patients' survival 
+      (HR = 6, 95%CI of HR = 1.2-34.2). CONCLUSION: The second-look laparotomy doesn't 
+      have a favorable impact on overall and disease-free survival. Tumor grade is the 
+      only independent prognostic variable for survival of the patients.
+FAU - Linasmita, V
+AU  - Linasmita V
+AD  - Department of Obstetrics and Gynecology, Faculty of Medicine, Ramathibodi 
+      Hospital, Mahidol University, Bangkok, Thailand.
+FAU - Wilailak, S
+AU  - Wilailak S
+FAU - Thakkinstian, A
+AU  - Thakkinstian A
+FAU - Srisupundit, S
+AU  - Srisupundit S
+FAU - Tangtrakul, S
+AU  - Tangtrakul S
+FAU - Israngura, N
+AU  - Israngura N
+FAU - Bullangpoti, S
+AU  - Bullangpoti S
+LA  - eng
+PT  - Journal Article
+PL  - Thailand
+TA  - J Med Assoc Thai
+JT  - Journal of the Medical Association of Thailand = Chotmaihet thangphaet
+JID - 7507216
+SB  - IM
+MH  - Chemotherapy, Adjuvant
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Neoplasm Recurrence, Local
+MH  - Ovarian Neoplasms/drug therapy/epidemiology/pathology/*surgery
+MH  - Proportional Hazards Models
+MH  - *Second-Look Surgery
+MH  - Survival Rate
+MH  - Thailand/epidemiology
+EDAT- 2002/01/05 10:00
+MHDA- 2002/02/22 10:01
+CRDT- 2002/01/05 10:00
+PHST- 2002/01/05 10:00 [pubmed]
+PHST- 2002/02/22 10:01 [medline]
+PHST- 2002/01/05 10:00 [entrez]
+PST - ppublish
+SO  - J Med Assoc Thai. 2001 Jul;84(7):958-65.

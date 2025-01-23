@@ -1,0 +1,73 @@
+PMID- 17220021
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070322
+LR  - 20070115
+IS  - 0017-7768 (Print)
+IS  - 0017-7768 (Linking)
+VI  - 145
+IP  - 12
+DP  - 2006 Dec
+TI  - [Is there an increase in the incidence of gbs carrier rates among pregnant women 
+      in northern Israel?].
+PG  - 866-9, 944
+AB  - BACKGROUND: Group B Streptococci (GBS) asymptomatically colonize the vaginal or 
+      rectal areas of about 20% of pregnant women (4-40%). About 50% of infants to 
+      mothers with GBS colonization also become colonized at rectal, umbilical or oral 
+      sites. GBS is a leading bacterial cause of neonatal illness and death. The 
+      present prevalence rate of GBS carriers among parturients in the western Galilee 
+      in Israel is unknown. AIM: A prospective study of the GBS carrier rate according 
+      to origin and gestational age in the western Galilee in Israel. METHODS: A 
+      prospective study including 700 pregnant women. All women were screened for 
+      carriage of GBS by vaginal and rectal cultures. RESULTS: Sixteen percent of the 
+      parturients were found to be GBS colonized. The prevalence of GBS was 13.7% in 
+      Jewish women and 19% in Arab women, P=0.038. The women were also divided into two 
+      groups according to the gestational age one group included 414 women in 24-37 
+      weeks gestation, and the other group included 286 women in term pregnancy. No 
+      difference was found in the rate of GBS carriers between the two gestational age 
+      groups. CONCLUSIONS: In the present study we found a significant increase in the 
+      incidence of GBS colonization in pregnant women in northern Israel. We also found 
+      an increased rate of GBS carriers in Arab women relative to Jewish women.
+FAU - German, Leonid
+AU  - German L
+AD  - Obstetrics and Gynecology Department, Western Galilee Hospital Nahariya, Israel.
+FAU - Solt, Ido
+AU  - Solt I
+FAU - Bornstein, Jacob
+AU  - Bornstein J
+FAU - Ben-Harush, Shani
+AU  - Ben-Harush S
+FAU - Ben-Elishai, Mordechai
+AU  - Ben-Elishai M
+FAU - Weintraub, Zalman
+AU  - Weintraub Z
+LA  - heb
+PT  - English Abstract
+PT  - Journal Article
+PL  - Israel
+TA  - Harefuah
+JT  - Harefuah
+JID - 0034351
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Carrier State/*epidemiology
+MH  - Female
+MH  - Humans
+MH  - Israel/epidemiology
+MH  - Pregnancy
+MH  - Pregnancy Complications, Infectious/*epidemiology
+MH  - Prevalence
+MH  - Prospective Studies
+MH  - Rectum/microbiology
+MH  - Streptococcal Infections/*epidemiology
+MH  - *Streptococcus agalactiae/isolation & purification
+MH  - Vagina/microbiology
+EDAT- 2007/01/16 09:00
+MHDA- 2007/03/23 09:00
+CRDT- 2007/01/16 09:00
+PHST- 2007/01/16 09:00 [pubmed]
+PHST- 2007/03/23 09:00 [medline]
+PHST- 2007/01/16 09:00 [entrez]
+PST - ppublish
+SO  - Harefuah. 2006 Dec;145(12):866-9, 944.

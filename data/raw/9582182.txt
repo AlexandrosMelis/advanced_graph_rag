@@ -1,0 +1,69 @@
+PMID- 9582182
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980702
+LR  - 20191102
+IS  - 0885-9701 (Print)
+IS  - 0885-9701 (Linking)
+VI  - 13
+IP  - 3
+DP  - 1998 Jun
+TI  - Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?
+PG  - 94-101
+AB  - OBJECTIVE: To investigate the relevance of the Symptom Checklist 90-R 
+      Obsessive-Compulsive subscale to cognition in individuals with brain tumor. 
+      DESIGN: A prospective study of patients assessed with a neuropsychological test 
+      battery. SETTING: A university medical center. PATIENTS: Nineteen adults with 
+      biopsy-confirmed diagnoses of malignant brain tumors were assessed prior to 
+      aggressive chemotherapy. MAIN OUTCOME MEASURES: Included in the assessment were 
+      the Mattis Dementia Rating Scale, California Verbal Learning Test, Trail Making 
+      Test B, Symptom Checklist 90-R, Mood Assessment Scale, Beck Anxiety Inventory, 
+      and Chronic Illness Problem Inventory. RESULTS: The SCL 90-R Obsessive-Compulsive 
+      subscale was not related to objective measures of attention, verbal memory, or 
+      age. It was related significantly to symptoms of depression (r = .81, P < .005), 
+      anxiety (r = .66, P < .005), and subjective complaints of memory problems (r = 
+      .75, P < .005). Multivariate analyses indicated that reported symptoms of 
+      depression contributed 66% of the variance in predicting SCL 90-R 
+      Obsessive-Compulsive Scores, whereas symptoms of anxiety contributed an 
+      additional 6% (P < .0001). CONCLUSIONS: Our data suggest that the SCL 90-R is 
+      best viewed as an indicator of unidimensional emotional distress and somatic 
+      effects of structural brain injury.
+FAU - Kaplan, C P
+AU  - Kaplan CP
+AD  - Department of Physical Medicine and Rehabilitation, Medical University of South 
+      Carolina, Charleston, SC 29425, USA.
+FAU - Miner, M E
+AU  - Miner ME
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PL  - United States
+TA  - J Head Trauma Rehabil
+JT  - The Journal of head trauma rehabilitation
+JID - 8702552
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Brain Neoplasms/*complications
+MH  - Cognition Disorders/*diagnosis/etiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - *Neuropsychological Tests
+MH  - Obsessive-Compulsive Disorder/*diagnosis/etiology
+MH  - *Personality Assessment
+MH  - Predictive Value of Tests
+MH  - Prospective Studies
+MH  - Sensitivity and Specificity
+EDAT- 1998/06/12 00:00
+MHDA- 1998/06/12 00:01
+CRDT- 1998/06/12 00:00
+PHST- 1998/06/12 00:00 [pubmed]
+PHST- 1998/06/12 00:01 [medline]
+PHST- 1998/06/12 00:00 [entrez]
+AID - 10.1097/00001199-199806000-00009 [doi]
+PST - ppublish
+SO  - J Head Trauma Rehabil. 1998 Jun;13(3):94-101. doi: 
+      10.1097/00001199-199806000-00009.

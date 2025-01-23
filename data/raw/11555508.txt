@@ -1,0 +1,99 @@
+PMID- 11555508
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011011
+LR  - 20190514
+IS  - 0012-3692 (Print)
+IS  - 0012-3692 (Linking)
+VI  - 120
+IP  - 3
+DP  - 2001 Sep
+TI  - Do inhaled corticosteroids affect perception of dyspnea during 
+      bronchoconstriction in asthma?
+PG  - 770-7
+AB  - BACKGROUND: Some of the disagreements on the perception of dyspnea (PD) during 
+      bronchoconstriction in asthma patients could depend on the interrelationships 
+      among the following: (1) the influence of baseline airflow obstruction on the 
+      patient's ability to detect any further increase in airway resistance; (2) the 
+      effect of eosinophilic inflammation on the airway; (3) bronchial 
+      hyperresponsiveness (BHR); and (4) the effect of inhaled corticosteroids (ICSs). 
+      OBJECTIVE: We hypothesized that if the inflammation of the airway wall influences 
+      to some extent and in some way the PD in asthma patients, ICSs reverse the effect 
+      of airway inflammation on the PD. METHODS: We studied 100 asthma patients who 
+      were divided into the following four groups: patients with obstruction who were 
+      either ICS-naive (group I) or were treated with ICSs (group II); and 
+      nonobstructed patients who were either ICS-naive (group III) or were treated with 
+      ICSs (group IV). PD on the visual analog scale (VAS) was assessed during a 
+      methacholine-induced FEV(1) decrease and specifically was quantified as the VAS 
+      slope and score at an FEV(1) decrease of 5 to 20%. BHR was assessed in terms of 
+      the provocative concentration of methacholine causing a 20% fall in FEV(1) 
+      (PC(20)). Eosinophil counts in induced sputum samples also were performed. 
+      Regression analysis, univariate analysis of variance, and factor analysis were 
+      applied for statistical evaluation. RESULTS: For a 5 to 20% fall in FEV(1) from 
+      the lowest point after saline solution induction, VAS score was lowest in group 
+      II, slightly higher in group I, slightly higher still in group IV, and the 
+      highest in group III. In the patients as a whole, BHR related to PD, but age, 
+      clinical score, duration of the disease, and presence of baseline airway 
+      obstruction did not. In patients with obstruction who were treated with ICSs, 
+      eosinophil counts related to PD negatively. Factor analysis yielded the following 
+      four factors that accounted for 70% of the variance in the data: ICS; eosinophil 
+      counts; FEV(1); and PC(20) loaded on separated factors with PD loading on the 
+      same factors as PC(20). The post hoc analysis carried out dividing the patients 
+      into ICS-treated and ICS-naive, showed that in the former group eosinophil counts 
+      and BHR proved to be factors negatively associated with PD, while in the latter 
+      group eosinophil counts were positively associated with PD. CONCLUSIONS: We have 
+      shown that eosinophilic inflammation of the airway wall may increase PD and that 
+      the association of eosinophil counts with ICSs may result in lessening the PD.
+FAU - Ottanelli, R
+AU  - Ottanelli R
+AD  - Department of Internal Medicine, Section of Immunoallergology and Respiratory 
+      Diseases, University of Florence, Italy.
+FAU - Rosi, E
+AU  - Rosi E
+FAU - Romagnoli, I
+AU  - Romagnoli I
+FAU - Grazzini, M
+AU  - Grazzini M
+FAU - Stendardi, L
+AU  - Stendardi L
+FAU - Duranti, R
+AU  - Duranti R
+FAU - Scano, G
+AU  - Scano G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Chest
+JT  - Chest
+JID - 0231335
+RN  - 0 (Glucocorticoids)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anthropometry
+MH  - Asthma/complications/*physiopathology
+MH  - Bronchial Provocation Tests
+MH  - *Bronchoconstriction
+MH  - Dyspnea/etiology/*prevention & control
+MH  - Eosinophils
+MH  - Factor Analysis, Statistical
+MH  - Female
+MH  - Glucocorticoids/*therapeutic use
+MH  - Humans
+MH  - Leukocyte Count
+MH  - Linear Models
+MH  - Male
+MH  - Middle Aged
+MH  - Vital Capacity
+EDAT- 2001/09/14 10:00
+MHDA- 2001/10/12 10:01
+CRDT- 2001/09/14 10:00
+PHST- 2001/09/14 10:00 [pubmed]
+PHST- 2001/10/12 10:01 [medline]
+PHST- 2001/09/14 10:00 [entrez]
+AID - S0012-3692(15)50155-4 [pii]
+AID - 10.1378/chest.120.3.770 [doi]
+PST - ppublish
+SO  - Chest. 2001 Sep;120(3):770-7. doi: 10.1378/chest.120.3.770.

@@ -1,0 +1,85 @@
+PMID- 11483547
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010920
+LR  - 20190503
+IS  - 0093-0415 (Print)
+IS  - 0093-0415 (Linking)
+VI  - 175
+IP  - 2
+DP  - 2001 Aug
+TI  - Does the aggressive use of polyvalent antivenin for rattlesnake bites result in 
+      serious acute side effects?
+PG  - 88-91
+AB  - OBJECTIVE: To determine the incidence and severity of acute side effects from the 
+      use of polyvalent antivenin in victims of rattlesnake bites. DESIGN: We 
+      retrospectively reviewed the records of all patients who presented with 
+      rattlesnake bites to a university teaching hospital during an 11-year period. 
+      From patient medical records, we extracted demographic data, clinical 
+      measurements, and outcomes during emergency department evaluation and subsequent 
+      hospitalization. Data regarding serum sickness were not collected. OUTCOME 
+      MEASURES: Primary outcome variables were the occurrence of immediate 
+      hypersensitivity reaction to antivenin, the type of reaction, permanent 
+      disability at hospital discharge, and mortality. RESULTS: We identified a total 
+      of 73 patients with rattlesnake bites during the study period. Bite envenomation 
+      was graded as nonenvenomated, 7 patients (10%); mild, 23 patients (32%); 
+      moderate, 32 patients (44%); and severe, 11 patients (15%). We identified 65 
+      patients who received antivenin. Antivenin doses ranged from 1 to 30 vials per 
+      patient (mean, 12.0 +/- 6.0), for a total of 777 vials. In 43 patients (66%), 10 
+      or more vials of antivenin were given. The mean number of vials of antivenin 
+      given to each snakebite grade were as follows: mild, 8.4 (+/-4.0); moderate, 11.8 
+      (+/-5.7); and severe, 18.7 (+/-6.3). No deaths, amputations, or permanent 
+      disability from snakebite occurred in the patients receiving antivenin. Acute 
+      side effects of antivenin-occurring within the first 6 hours after 
+      administration-were seen in 12 patients (18%; 95% confidence interval, 10%-30%). 
+      Acute side effects consisted solely of urticaria in all but 1 patient (2%; 95% 
+      confidence interval, 0%-8%). This patient had a history of previous antivenin 
+      reaction and required a short course of intravenous epinephrine for blood 
+      pressure support. No other complications occurred. CONCLUSION: The administration 
+      of polyvalent Crotalidae antivenin is safe. Acute hypersensitivity, when it 
+      occurs, consists solely in most cases of urticaria. Serious side effects are 
+      uncommon.
+FAU - Offerman, S R
+AU  - Offerman SR
+AD  - Division of Emergency Medicine, Department of Internal Medicine, University of 
+      California-Davis Medical Center, 2315 Stockton Blvd, PSSB 2100, Sacramento, CA 
+      95817, USA. rxsteeps@aol.com
+FAU - Smith, T S
+AU  - Smith TS
+FAU - Derlet, R W
+AU  - Derlet RW
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - West J Med
+JT  - The Western journal of medicine
+JID - 0410504
+RN  - 0 (Antivenins)
+SB  - IM
+CIN - West J Med. 2001 Aug;175(2):91-2. doi: 10.1136/ewjm.175.2.91. PMID: 11483548
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Animals
+MH  - Antivenins/*adverse effects
+MH  - *Crotalus
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Retrospective Studies
+MH  - Snake Bites/*drug therapy
+MH  - Urticaria/chemically induced
+PMC - PMC1071493
+EDAT- 2001/08/03 10:00
+MHDA- 2001/09/21 10:01
+PMCR- 2001/08/01
+CRDT- 2001/08/03 10:00
+PHST- 2001/08/03 10:00 [pubmed]
+PHST- 2001/09/21 10:01 [medline]
+PHST- 2001/08/03 10:00 [entrez]
+PHST- 2001/08/01 00:00 [pmc-release]
+AID - 1750088 [pii]
+AID - 10.1136/ewjm.175.2.88 [doi]
+PST - ppublish
+SO  - West J Med. 2001 Aug;175(2):88-91. doi: 10.1136/ewjm.175.2.88.

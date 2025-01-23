@@ -1,0 +1,90 @@
+PMID- 26113007
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20211203
+IS  - 1472-6831 (Electronic)
+IS  - 1472-6831 (Linking)
+VI  - 15
+DP  - 2015 Jun 26
+TI  - Is arch form influenced by sagittal molar relationship or Bolton tooth-size 
+      discrepancy?
+PG  - 70
+LID - 10.1186/s12903-015-0062-2 [doi]
+LID - 70
+AB  - BACKGROUND: Orthodontic patients show high prevalence of tooth-size discrepancy. 
+      This study investigates the possible association between arch form, clinically 
+      significant tooth-size discrepancy, and sagittal molar relationship. METHODS: 
+      Pretreatment orthodontic casts of 230 Saudi patients were classified into one of 
+      three arch form types (tapered, ovoid, and square) using digitally scanned images 
+      of the mandibular arches. Bolton ratio was calculated, sagittal molar 
+      relationship was defined according to Angle classification, and correlations were 
+      analyzed using ANOVA, chi-square, and t-tests. RESULTS: No single arch form was 
+      significantly more common than the others. Furthermore, no association was 
+      observed between the presence of significant Bolton discrepancy and the sagittal 
+      molar relationship or arch form. Overall Bolton discrepancy is significantly more 
+      prevalent in males. CONCLUSIONS: Arch form in a Saudi patient group is 
+      independent of gender, sagittal molar relationship, and Bolton discrepancy.
+FAU - Aldrees, Abdullah M
+AU  - Aldrees AM
+AD  - Department of Pediatric Dentistry and Orthodontics, College of Dentistry, King 
+      Saud University, P.O. Box 60169-38, Riyadh, 11545, Saudi Arabia. 
+      amaldrees@ksu.edu.sa.
+FAU - Al-Shujaa, Abdulmajeed M
+AU  - Al-Shujaa AM
+AD  - Resident, Department of Dentistry, King Fahad Medical City, Riyadh, Saudi Arabia. 
+      o_ams_o@hotmail.com.
+FAU - Alqahtani, Mohammad A
+AU  - Alqahtani MA
+AD  - Resident, Advanced Education in General Dentistry Program, School of Dental 
+      Medicine, State University of New York at Buffalo, Buffalo, NY, USA. 
+      malqahta@buffalo.edu.
+FAU - Aljhani, Ali S
+AU  - Aljhani AS
+AD  - Division of Orthodontics, College of Dentistry, King Saud bin Abdulaziz 
+      University For Health Sciences, Consultant Orthodontist, National Guard Health 
+      Affairs, Riyadh, Saudi Arabia. aljhani.a@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20150626
+PL  - England
+TA  - BMC Oral Health
+JT  - BMC oral health
+JID - 101088684
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Computer-Aided Design
+MH  - Dental Arch/*pathology
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/methods
+MH  - Male
+MH  - Malocclusion, Angle Class I/pathology
+MH  - Malocclusion, Angle Class II/pathology
+MH  - Malocclusion, Angle Class III/pathology
+MH  - Mandible/*pathology
+MH  - Models, Dental
+MH  - Molar/*pathology
+MH  - Odontometry/*methods
+MH  - Optical Imaging/methods
+MH  - Saudi Arabia
+MH  - Tooth/*pathology
+MH  - Tooth Crown/pathology
+MH  - Young Adult
+PMC - PMC4482311
+EDAT- 2015/06/27 06:00
+MHDA- 2016/12/15 06:00
+PMCR- 2015/06/26
+CRDT- 2015/06/27 06:00
+PHST- 2014/11/01 00:00 [received]
+PHST- 2015/06/17 00:00 [accepted]
+PHST- 2015/06/27 06:00 [entrez]
+PHST- 2015/06/27 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+PHST- 2015/06/26 00:00 [pmc-release]
+AID - 10.1186/s12903-015-0062-2 [pii]
+AID - 62 [pii]
+AID - 10.1186/s12903-015-0062-2 [doi]
+PST - epublish
+SO  - BMC Oral Health. 2015 Jun 26;15:70. doi: 10.1186/s12903-015-0062-2.

@@ -1,0 +1,89 @@
+PMID- 22521460
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120727
+LR  - 20191210
+IS  - 1097-6868 (Electronic)
+IS  - 0002-9378 (Linking)
+VI  - 206
+IP  - 6
+DP  - 2012 Jun
+TI  - Does route of delivery affect maternal and perinatal outcome in women with 
+      eclampsia? A randomized controlled pilot study.
+PG  - 484.e1-7
+LID - 10.1016/j.ajog.2012.04.009 [doi]
+AB  - OBJECTIVE: The route of delivery in eclampsia is controversial. We hypothesized 
+      that adverse maternal and perinatal outcomes may not be improved by early 
+      cesarean delivery. STUDY DESIGN: This was a randomized controlled exploratory 
+      trial carried out in a rural teaching institution. In all, 200 eclampsia cases, 
+      carrying >/=34 weeks, were allocated to either cesarean or vaginal delivery. 
+      Composite maternal and perinatal event rates (death and severe morbidity) were 
+      compared by intention-to-treat principle. RESULTS: Groups were comparable at 
+      baseline with respect to age and key clinical parameters. Maternal event rate was 
+      similar: 10.89% in the cesarean arm vs 7.07% for vaginal delivery (relative risk, 
+      1.54; 95% confidence interval, 0.62-3.81). Although the neonatal event rate was 
+      less in cesarean delivery-9.90% vs 19.19% (relative risk, 0.52; 95% confidence 
+      interval, 0.25-1.05)-the difference was not significant statistically. 
+      CONCLUSION: A policy of early cesarean delivery in eclampsia, carrying >/=34 weeks, 
+      is not associated with better outcomes.
+CI  - Copyright (c) 2012 Mosby, Inc. All rights reserved.
+FAU - Seal, Subrata Lall
+AU  - Seal SL
+AD  - Department of Obstetrics and Gynecology, Bankura Sammilani Medical College, 
+      Bankura, West Bengal, India. sealsubrata@gmail.com
+FAU - Ghosh, Debdutta
+AU  - Ghosh D
+FAU - Kamilya, Gourisankar
+AU  - Kamilya G
+FAU - Mukherji, Joydev
+AU  - Mukherji J
+FAU - Hazra, Avijit
+AU  - Hazra A
+FAU - Garain, Pratima
+AU  - Garain P
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20120406
+PL  - United States
+TA  - Am J Obstet Gynecol
+JT  - American journal of obstetrics and gynecology
+JID - 0370476
+RN  - 0 (Anticonvulsants)
+RN  - 0 (Antihypertensive Agents)
+RN  - 7487-88-9 (Magnesium Sulfate)
+RN  - R5H8897N95 (Labetalol)
+SB  - IM
+MH  - Adult
+MH  - Anticonvulsants/therapeutic use
+MH  - Antihypertensive Agents/therapeutic use
+MH  - Apgar Score
+MH  - *Cesarean Section
+MH  - Critical Care/statistics & numerical data
+MH  - *Eclampsia/drug therapy/mortality
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Intention to Treat Analysis
+MH  - Labetalol/therapeutic use
+MH  - Magnesium Sulfate/therapeutic use
+MH  - Outcome Assessment, Health Care
+MH  - Perinatal Mortality
+MH  - Pilot Projects
+MH  - Pregnancy
+MH  - Pregnancy Outcome
+MH  - Time Factors
+EDAT- 2012/04/24 06:00
+MHDA- 2012/07/28 06:00
+CRDT- 2012/04/24 06:00
+PHST- 2011/06/21 00:00 [received]
+PHST- 2012/03/08 00:00 [revised]
+PHST- 2012/04/03 00:00 [accepted]
+PHST- 2012/04/24 06:00 [entrez]
+PHST- 2012/04/24 06:00 [pubmed]
+PHST- 2012/07/28 06:00 [medline]
+AID - S0002-9378(12)00387-0 [pii]
+AID - 10.1016/j.ajog.2012.04.009 [doi]
+PST - ppublish
+SO  - Am J Obstet Gynecol. 2012 Jun;206(6):484.e1-7. doi: 10.1016/j.ajog.2012.04.009. 
+      Epub 2012 Apr 6.

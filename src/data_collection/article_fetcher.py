@@ -26,7 +26,7 @@ class PubMedArticleFetcher:
             )
 
         pmids_str = ", ".join(pmids)
-        logger.info(f"Fetching articles for PMIDs: {pmids_str}")
+        logger.info(f"Fetching articles for total PMIDs: {len(pmids)}")
 
         try:
             handle = Entrez.efetch(

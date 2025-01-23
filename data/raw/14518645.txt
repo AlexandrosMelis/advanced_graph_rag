@@ -1,0 +1,67 @@
+PMID- 14518645
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031117
+LR  - 20221207
+IS  - 0227-5910 (Print)
+IS  - 0227-5910 (Linking)
+VI  - 24
+IP  - 3
+DP  - 2003
+TI  - Injury and poisoning mortality among young men--are there any common factors 
+      amenable to prevention?
+PG  - 122-7
+AB  - BACKGROUND: Deaths from injury and poisoning (suicide, accidents, undetermined 
+      deaths, and homicide) are the major cause of death among young men aged 15-39 
+      years in England and Wales and have been increasing in recent years. AIM: To 
+      describe common characteristics among young men who die from injury and 
+      poisoning. DESIGN: We employed a retrospective survey methodology to investigate 
+      factors associated with deaths by injury and poisoning among young men aged 15-39 
+      years (n = 268) in Merseyside and Cheshire during 1995. Data were collected from 
+      Coroner's inquest notes and General Practitioner records. MAIN RESULTS: The most 
+      common cause of death was poisoning by alcohol and drugs (29.1%, n = 78). A high 
+      proportion of cases were unemployed (39.4%, n = 106). Cases were also more likely 
+      to be single compared to the general population (74.2% vs 55.5%). 
+      Self-destructive behaviour was evident in 77% of deaths (n = 206). CONCLUSIONS: 
+      Alcohol and drug use are important contributory factors to injury and poisoning 
+      deaths. More research is needed into the effects of unemployment and being single 
+      on the health of young men, and to investigate the motivations behind risk taking 
+      and self-destructive behaviour.
+FAU - Stanistreet, D
+AU  - Stanistreet D
+AD  - Department of Public Health, University of Liverpool, Liverpool, UK. 
+      debbi@liv.ac.uk
+FAU - Jeffrey, V
+AU  - Jeffrey V
+LA  - eng
+PT  - Journal Article
+PL  - Canada
+TA  - Crisis
+JT  - Crisis
+JID - 8218602
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Cause of Death
+MH  - Data Collection
+MH  - England/epidemiology
+MH  - Humans
+MH  - Male
+MH  - Poisoning/*mortality
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Self-Injurious Behavior/psychology
+MH  - Substance-Related Disorders/epidemiology/psychology
+MH  - Suicide/psychology/statistics & numerical data
+MH  - Wales/epidemiology
+MH  - Wounds and Injuries/*mortality
+MH  - *Suicide Prevention
+EDAT- 2003/10/02 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/10/02 05:00
+PHST- 2003/10/02 05:00 [pubmed]
+PHST- 2003/12/03 05:00 [medline]
+PHST- 2003/10/02 05:00 [entrez]
+AID - 10.1027//0227-5910.24.3.122 [doi]
+PST - ppublish
+SO  - Crisis. 2003;24(3):122-7. doi: 10.1027//0227-5910.24.3.122.

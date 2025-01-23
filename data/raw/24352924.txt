@@ -1,0 +1,89 @@
+PMID- 24352924
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140128
+LR  - 20161128
+IS  - 1932-149X (Print)
+IS  - 1932-149X (Linking)
+VI  - 8
+IP  - 2
+DP  - 2013 Spring
+TI  - Is portable ultrasonography accurate in the evaluation of Schanz pin placement 
+      during extremity fracture fixation in austere environments?
+PG  - 91-6
+LID - ajdm.2013.0115 [pii]
+LID - 10.5055/ajdm.2013.0115 [doi]
+AB  - OBJECTIVE: The purpose of this study was to investigate the efficacy of 
+      ultrasonography to confirm Schanz pin placement in a cadaveric model, and the 
+      interobserver repeatability of the ultrasound methodology. DESIGN: This 
+      investigation is a repeated measures cadaveric study with multiple examiners. 
+      PARTICIPANTS: Cadaveric preparation and observations were done by an orthopaedic 
+      traumatologist and resident, and two general surgery traumatologists. 
+      INTERVENTIONS: A total of 16 Schanz pins were equally placed in bilateral femora 
+      and tibiae. Four examiners took measurements of pin protrusion beyond the distal 
+      cortices using first ultrasonography and then by direct measurement after gross 
+      dissection. MAIN OUTCOME MEASURE(S): Distal Schanz pin protrusion length 
+      measurements from both ultrasonography and direct measurement post dissection. 
+      RESULTS: Schanz pin protrusion measurements are underestimated by ultrasonography 
+      (p < 0.01) by an average of 10 percent over the range of 5 to 18 mm, and they 
+      display a proportional bias that increases the under reporting as the magnitude 
+      of pin protrusion increases. Ultrasound data demonstrate good linear correlation 
+      and closely represent actual protrusion values in the 5 to 12 mm range. 
+      Interobserver repeatability analysis demonstrated that all examiners were not 
+      statistically different in their measurements despite minimal familiarity with 
+      the ultrasound methodology (p > 0.8). CONCLUSIONS: Despite the statistical 
+      imparity of pin protrusion measurement via ultrasound compared to that of gross 
+      dissection, a consideration of the clinical relevance of ultrasound measurement 
+      bias during an austere operating theatre leads to the conclusion that 
+      ultrasonography is an adequate methodology for Schanz pin protrusion measurement.
+FAU - Dahl, Brian P
+AU  - Dahl BP
+AD  - Department of Surgery, Division of Orthopaedics and Rehabilitation, Southern 
+      Illinois University School of Medicine, Springfield, Illinois.
+FAU - Pemberton, Aaron J
+AU  - Pemberton AJ
+AD  - Department of Surgery, Division of Orthopaedics and Rehabilitation, Southern 
+      Illinois University School of Medicine, Springfield, Illinois.
+FAU - Beck, Ryan T
+AU  - Beck RT
+AD  - Department of Surgery, Division of Orthopaedics and Rehabilitation, Southern 
+      Illinois University School of Medicine, Springfield, Illinois.
+FAU - Cetindag, Bulent
+AU  - Cetindag B
+AD  - Department of Surgery, Division of General Surgery, Southern Illinois University 
+      School of Medicine, Springfield, Illinois.
+FAU - Wohltmann, Christopher D
+AU  - Wohltmann CD
+AD  - Department of Surgery, Division of General Surgery, Southern Illinois University 
+      School of Medicine, Springfield, Illinois.
+FAU - McAndrew, Mark
+AU  - McAndrew M
+AD  - Department of Surgery, Division of Orthopaedics and Rehabilitation, Southern 
+      Illinois University School of Medicine, Springfield, Illinois.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Disaster Med
+JT  - American journal of disaster medicine
+JID - 101291100
+SB  - IM
+MH  - *Bone Nails
+MH  - Cadaver
+MH  - External Fixators
+MH  - Femoral Fractures/*diagnostic imaging/surgery
+MH  - *Fracture Fixation
+MH  - Humans
+MH  - *Point-of-Care Systems
+MH  - Reproducibility of Results
+MH  - Tibial Fractures/*diagnostic imaging/surgery
+MH  - Ultrasonography/*instrumentation
+EDAT- 2013/12/20 06:00
+MHDA- 2014/01/29 06:00
+CRDT- 2013/12/20 06:00
+PHST- 2013/12/20 06:00 [entrez]
+PHST- 2013/12/20 06:00 [pubmed]
+PHST- 2014/01/29 06:00 [medline]
+AID - ajdm.2013.0115 [pii]
+AID - 10.5055/ajdm.2013.0115 [doi]
+PST - ppublish
+SO  - Am J Disaster Med. 2013 Spring;8(2):91-6. doi: 10.5055/ajdm.2013.0115.

@@ -1,0 +1,75 @@
+PMID- 15141797
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20041012
+LR  - 20190917
+IS  - 0265-0215 (Print)
+IS  - 0265-0215 (Linking)
+VI  - 21
+IP  - 5
+DP  - 2004 May
+TI  - Can we rely on arterial line sampling in performing activated plasma 
+      thromboplastin time after cardiac surgery?
+PG  - 384-8
+AB  - BACKGROUND AND OBJECTIVE: Arterial catheters are routinely used to sample blood 
+      for clotting studies in most cardiothoracic intensive care units. The clotting 
+      profile in surgical bleeding after cardiac surgery influences further management. 
+      Aspiration and discard of a certain amount of blood from the line, prior to 
+      sampling, are assumed to clear heparin contamination. We have investigated this 
+      assumption through analysis of the clotting profile by simultaneous arterial line 
+      and peripheral venous samples. METHODS: The morning following cardiac surgery, 
+      simultaneous arterial line and peripheral venous blood samples were taken for 
+      activated plasma thromboplastin time (APTT) ratio and international normalized 
+      ratio (INR) in 49 randomly selected patients. Also, a thromboelastogram analysis 
+      (TEG) (n = 7) was made. A survey of 22 UK cardiothoracic intensive care units was 
+      carried out to determine the practice for the withdrawal of blood for clotting 
+      studies. RESULTS: The median arterial APTT ratio value was 1.32 +/- 0.52 as 
+      compared to the median peripheral APTT ratio value which was 1.1 +/- 0.24 (P < 
+      0.001). INR values were statistically similar by both routes. Heparin 
+      contamination was confirmed by TEG which revealed that the R-value for arterial 
+      catheter blood samples without heparinase in the cup was higher (406.00 +/- 64.44 
+      s) compared with the value for arterial samples with heparinase in the cup 
+      (318.28 +/- 47.26s, P < 0.05). The survey of 22 UK cardiothoracic intensive care 
+      units showed that heparinized arterial lines were by far the commonest ports used 
+      for blood withdrawal for the measurement of APTT ratio results. CONCLUSIONS: 
+      Samples withdrawn from heparinized arterial lines cannot be relied upon for APTT 
+      ratio results.
+FAU - Alzetani, A
+AU  - Alzetani A
+AD  - University Hospitals Coventry and Warwickshire NHS Trust, Department of 
+      Cardiothoracic Surgery, Coventry, UK.
+FAU - Vohra, H A
+AU  - Vohra HA
+FAU - Patel, R L
+AU  - Patel RL
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Eur J Anaesthesiol
+JT  - European journal of anaesthesiology
+JID - 8411711
+RN  - 9005-49-6 (Heparin)
+SB  - IM
+MH  - Blood Coagulation Tests/methods/*statistics & numerical data
+MH  - Blood Specimen Collection/*instrumentation/*methods
+MH  - *Cardiac Surgical Procedures
+MH  - Catheterization, Peripheral/statistics & numerical data
+MH  - Catheters, Indwelling/statistics & numerical data
+MH  - Data Collection
+MH  - Heparin/blood
+MH  - Humans
+MH  - Intensive Care Units
+MH  - International Normalized Ratio/statistics & numerical data
+MH  - Partial Thromboplastin Time/methods
+MH  - Thrombelastography
+MH  - United Kingdom
+EDAT- 2004/05/15 05:00
+MHDA- 2004/10/13 09:00
+CRDT- 2004/05/15 05:00
+PHST- 2004/05/15 05:00 [pubmed]
+PHST- 2004/10/13 09:00 [medline]
+PHST- 2004/05/15 05:00 [entrez]
+AID - 10.1017/s026502150400506x [doi]
+PST - ppublish
+SO  - Eur J Anaesthesiol. 2004 May;21(5):384-8. doi: 10.1017/s026502150400506x.

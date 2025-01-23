@@ -1,0 +1,102 @@
+PMID- 20602784
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101014
+LR  - 20221207
+IS  - 1476-072X (Electronic)
+IS  - 1476-072X (Linking)
+VI  - 9
+DP  - 2010 Jul 5
+TI  - Identification of racial disparities in breast cancer mortality: does scale 
+      matter?
+PG  - 35
+LID - 10.1186/1476-072X-9-35 [doi]
+AB  - BACKGROUND: This paper investigates the impact of geographic scale (census tract, 
+      zip code, and county) on the detection of disparities in breast cancer mortality 
+      among three ethnic groups in Texas (period 1995-2005). Racial disparities were 
+      quantified using both relative (RR) and absolute (RD) statistics that account for 
+      the population size and correct for unreliable rates typically observed for 
+      minority groups and smaller geographic units. Results were then correlated with 
+      socio-economic status measured by the percentage of habitants living below the 
+      poverty level. RESULTS: African-American and Hispanic women generally experience 
+      higher mortality than White non-Hispanics, and these differences are especially 
+      significant in the southeast metropolitan areas and southwest border of Texas. 
+      The proportion and location of significant racial disparities however changed 
+      depending on the type of statistic (RR versus RD) and the geographic level. The 
+      largest proportion of significant results was observed for the RD statistic and 
+      census tract data. Geographic regions with significant racial disparities for 
+      African-Americans and Hispanics frequently had a poverty rate above 10.00%. 
+      CONCLUSIONS: This study investigates both relative and absolute racial 
+      disparities in breast cancer mortality between White non-Hispanic and 
+      African-American/Hispanic women at the census tract, zip code and county levels. 
+      Analysis at the census tract level generally led to a larger proportion of 
+      geographical units experiencing significantly higher mortality rates for minority 
+      groups, although results varied depending on the use of the relative versus 
+      absolute statistics. Additional research is needed before general conclusions can 
+      be formulated regarding the choice of optimal geographic regions for the 
+      detection of racial disparities.
+FAU - Tian, Nancy
+AU  - Tian N
+AD  - Texas Center for Geographic Information Science, Department of Geography, Texas 
+      State University-San Marcos, San Marcos, Texas 78666, USA. jt1277@txstate.edu
+FAU - Goovaerts, Pierre
+AU  - Goovaerts P
+FAU - Zhan, F Benjamin
+AU  - Zhan FB
+FAU - Wilson, Jeff G
+AU  - Wilson JG
+LA  - eng
+GR  - R44 CA132347-02/CA/NCI NIH HHS/United States
+GR  - R43-CA135814-01/CA/NCI NIH HHS/United States
+GR  - R44 CA132347/CA/NCI NIH HHS/United States
+GR  - R43 CA135814-01/CA/NCI NIH HHS/United States
+GR  - R43 CA135814/CA/NCI NIH HHS/United States
+GR  - R44-CA132347-02/CA/NCI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20100705
+PL  - England
+TA  - Int J Health Geogr
+JT  - International journal of health geographics
+JID - 101152198
+SB  - IM
+MH  - Adult
+MH  - Black or African American/statistics & numerical data
+MH  - Age Distribution
+MH  - Aged
+MH  - Breast Neoplasms/*ethnology/*mortality
+MH  - *Cause of Death
+MH  - Censuses
+MH  - Confidence Intervals
+MH  - Cross-Sectional Studies
+MH  - Databases, Factual
+MH  - Female
+MH  - Health Knowledge, Attitudes, Practice
+MH  - *Health Status Disparities
+MH  - Hispanic or Latino/statistics & numerical data
+MH  - Humans
+MH  - Incidence
+MH  - Logistic Models
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - Risk Assessment
+MH  - Socioeconomic Factors
+MH  - Survival Analysis
+MH  - Texas
+MH  - White People/statistics & numerical data
+PMC - PMC2910022
+EDAT- 2010/07/07 06:00
+MHDA- 2010/10/15 06:00
+PMCR- 2010/07/05
+CRDT- 2010/07/07 06:00
+PHST- 2010/04/13 00:00 [received]
+PHST- 2010/07/05 00:00 [accepted]
+PHST- 2010/07/07 06:00 [entrez]
+PHST- 2010/07/07 06:00 [pubmed]
+PHST- 2010/10/15 06:00 [medline]
+PHST- 2010/07/05 00:00 [pmc-release]
+AID - 1476-072X-9-35 [pii]
+AID - 10.1186/1476-072X-9-35 [doi]
+PST - epublish
+SO  - Int J Health Geogr. 2010 Jul 5;9:35. doi: 10.1186/1476-072X-9-35.

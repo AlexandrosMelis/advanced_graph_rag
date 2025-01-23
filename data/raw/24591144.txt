@@ -1,0 +1,83 @@
+PMID- 24591144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141020
+LR  - 20140826
+IS  - 1531-4995 (Electronic)
+IS  - 0023-852X (Linking)
+VI  - 124
+IP  - 9
+DP  - 2014 Sep
+TI  - Are the elderly with oropharyngeal carcinoma undertreated?
+PG  - 2057-63
+LID - 10.1002/lary.24660 [doi]
+AB  - OBJECTIVES/HYPOTHESIS: To determine if elderly patients with oropharyngeal 
+      squamous cell carcinoma (OPSCC) are receiving less treatment and to evaluate the 
+      benefit of aggressive therapy in this population. STUDY DESIGN: Retrospective 
+      analysis of a large population database. METHODS: Patients in the Surveillance, 
+      Epidemiology, and End Results database with OPSCC diagnosed from 2004 to 2009 
+      were included. The patients were categorized into age groups 45 to 54, 55 to 64, 
+      65 to 74, 75 to 84, and 85 years and older, then further categorized by treatment 
+      status. Kaplan-Meier analysis of disease-specific survival (DSS) for late-stage 
+      (III and IV) OPSCC was performed for all age and treatment categories, followed 
+      by a multivariate cox regression of treatment status, tumor site, race, stage, 
+      and sex per age group. RESULTS: A total of 14,909 patients with OPSCC were 
+      identified. In our demographic data, we observed a significant increase in the 
+      number of patients who did not receive treatment (surgery, radiation, or combined 
+      therapy) after age 55. Kaplan-Meier analysis showed that age groups 65 to 74 and 
+      75 to 84 had substantial benefits in DSS with surgery, radiation, or combined 
+      therapy. Multivariable analysis did not demonstrate any statistically significant 
+      difference in the hazard ratios for combined treatment among age groups 45 to 54, 
+      55 to 64, 65 to 74, and 75 to 84. CONCLUSIONS: Proportionally fewer elderly 
+      patients with OPSCC are being treated than younger individuals. These patients 
+      can have significant benefits from aggressive treatments despite their older age 
+      as shown by our survival analysis. We recommend the use of objective measures to 
+      assess patient fitness to reduce the potential for undertreatment in the elderly 
+      population.
+CI  - (c) 2014 The American Laryngological, Rhinological and Otological Society, Inc.
+FAU - Camilon, P Ryan
+AU  - Camilon PR
+AD  - Department of Otolaryngology-Head and Neck Surgery, Medical University of South 
+      Carolina, Charleston, South Carolina, U.S.A.
+FAU - Stokes, William A
+AU  - Stokes WA
+FAU - Nguyen, Shaun A
+AU  - Nguyen SA
+FAU - Lentsch, Eric J
+AU  - Lentsch EJ
+LA  - eng
+PT  - Journal Article
+DEP - 20140507
+PL  - United States
+TA  - Laryngoscope
+JT  - The Laryngoscope
+JID - 8607378
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Squamous Cell/*therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Oropharyngeal Neoplasms/*therapy
+MH  - Retrospective Studies
+MH  - Vulnerable Populations/*statistics & numerical data
+OTO - NOTNLM
+OT  - Oropharyngeal cancer
+OT  - elderly
+OT  - survival analysis
+OT  - undertreatment
+EDAT- 2014/03/05 06:00
+MHDA- 2014/10/21 06:00
+CRDT- 2014/03/05 06:00
+PHST- 2013/09/12 00:00 [received]
+PHST- 2014/02/21 00:00 [revised]
+PHST- 2014/02/27 00:00 [accepted]
+PHST- 2014/03/05 06:00 [entrez]
+PHST- 2014/03/05 06:00 [pubmed]
+PHST- 2014/10/21 06:00 [medline]
+AID - 10.1002/lary.24660 [doi]
+PST - ppublish
+SO  - Laryngoscope. 2014 Sep;124(9):2057-63. doi: 10.1002/lary.24660. Epub 2014 May 7.

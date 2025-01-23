@@ -1,0 +1,83 @@
+PMID- 18269157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080515
+LR  - 20190111
+IS  - 1081-597X (Print)
+IS  - 1081-597X (Linking)
+VI  - 24
+IP  - 1
+DP  - 2008 Jan
+TI  - Biomechanical and wound healing characteristics of corneas after excimer laser 
+      keratorefractive surgery: is there a difference between advanced surface ablation 
+      and sub-Bowman's keratomileusis?
+PG  - S90-6
+LID - 10.3928/1081597X-20080101-16 [doi]
+AB  - PURPOSE: To describe the biomechanical and wound healing characteristics of 
+      corneas after excimer laser keratorefractive surgery. METHODS: Histologic, 
+      ultrastructural, and cohesive tensile strength evaluations were performed on 25 
+      normal human corneal specimens, 206 uncomplicated LASIK specimens, 17 
+      uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 uncomplicated 
+      photorefractive keratectomy (PRK) specimens, 2 uncomplicated advanced surface 
+      ablation (ASA) specimens, 5 keratoconus specimens, 12 postoperative LASIK ectasia 
+      specimens, and 1 postoperative PRK ectasia specimen and compared to previously 
+      published studies. RESULTS: Histologic and ultrastructural studies of normal 
+      corneas showed significant differences in the direction of collagen fibrils 
+      and/or the degree of lamellar interweaving in Bowman's layer, the anterior third 
+      of the corneal stroma, the posterior two-thirds of the corneal stroma, and 
+      Descemet's membrane. Cohesive tensile strength testing directly supported these 
+      morphologic findings as the stronger, more rigid regions of the cornea were 
+      located anteriorly and peripherally. This suggests that PRK and ASA, and 
+      secondarily SBK, should be biomechanically safer than conventional LASIK with 
+      regard to risk for causing keratectasia after surgery. Because adult human 
+      corneal stromal wounds heal slowly and incompletely, all excimer laser 
+      keratorefractive surgical techniques still have some distinct disadvantages due 
+      to inadequate reparative wound healing. Despite reducing some of the risk for 
+      corneal haze compared to conventional PRK, ASA cases still can develop corneal 
+      haze or breakthrough haze from the hypercellular fibrotic stromal scarring. In 
+      contrast, similar to conventional LASIK, SBK still has the short- and long-term 
+      potential for interface wound complications from the hypocellular primitive 
+      stromal scar. CONCLUSIONS: Ophthalmic pathology and basic science research show 
+      that SBK and ASA are improvements in excimer laser keratorefractive surgery 
+      compared to conventional LASIK or PRK, particularly with regard to maintaining 
+      corneal biomechanics and perhaps moderately reducing the risk of corneal haze. 
+      However, most of the disadvantages caused by wound healing issues remain.
+FAU - Dawson, Daniel G
+AU  - Dawson DG
+AD  - Department of Ophthalmology, Emory University, Atlanta, GA, USA.
+FAU - Grossniklaus, Hans E
+AU  - Grossniklaus HE
+FAU - McCarey, Bernard E
+AU  - McCarey BE
+FAU - Edelhauser, Henry F
+AU  - Edelhauser HF
+LA  - eng
+GR  - EY-00933/EY/NEI NIH HHS/United States
+GR  - T32-EY07092/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Refract Surg
+JT  - Journal of refractive surgery (Thorofare, N.J. : 1995)
+JID - 9505927
+SB  - IM
+MH  - Biomechanical Phenomena
+MH  - Bowman Membrane/*surgery
+MH  - Compressive Strength/physiology
+MH  - Cornea/*physiology/ultrastructure
+MH  - *Corneal Surgery, Laser
+MH  - Humans
+MH  - Keratoconus/pathology
+MH  - *Lasers, Excimer
+MH  - Tensile Strength/physiology
+MH  - Wound Healing/*physiology
+EDAT- 2008/02/14 09:00
+MHDA- 2008/05/16 09:00
+CRDT- 2008/02/14 09:00
+PHST- 2008/02/14 09:00 [pubmed]
+PHST- 2008/05/16 09:00 [medline]
+PHST- 2008/02/14 09:00 [entrez]
+AID - 10.3928/1081597X-20080101-16 [doi]
+PST - ppublish
+SO  - J Refract Surg. 2008 Jan;24(1):S90-6. doi: 10.3928/1081597X-20080101-16.

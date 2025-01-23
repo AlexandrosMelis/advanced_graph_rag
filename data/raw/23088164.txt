@@ -1,0 +1,72 @@
+PMID- 23088164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130529
+LR  - 20220415
+IS  - 1708-8186 (Electronic)
+IS  - 1499-2027 (Linking)
+VI  - 52
+IP  - 1
+DP  - 2013 Jan
+TI  - Does cognitive function predict frequency compressed speech recognition in 
+      listeners with normal hearing and normal cognition?
+PG  - 14-22
+LID - 10.3109/14992027.2012.721013 [doi]
+AB  - OBJECTIVE: The aim was to investigate the relationship between cognitive ability 
+      and frequency compressed speech recognition in listeners with normal hearing and 
+      normal cognition. DESIGN: Speech-in-noise recognition was measured using 
+      Institute of Electrical and Electronic Engineers sentences presented over 
+      earphones at 65 dB SPL and a range of signal-to-noise ratios. There were three 
+      conditions: unprocessed, and at frequency compression ratios of 2:1 and 3:1 
+      (cut-off frequency, 1.6 kHz). Working memory and cognitive ability were measured 
+      using the reading span test and the trail making test, respectively. STUDY 
+      SAMPLE: Participants were 15 young normally-hearing adults with normal cognition. 
+      RESULTS: There was a statistically significant reduction in mean speech 
+      recognition from around 80% when unprocessed to 40% for 2:1 compression and 30% 
+      for 3:1 compression. There was a statistically significant relationship between 
+      speech recognition and cognition for the unprocessed condition but not for the 
+      frequency-compressed conditions. CONCLUSIONS: The relationship between cognitive 
+      functioning and recognition of frequency compressed speech-in-noise was not 
+      statistically significant. The findings may have been different if the 
+      participants had been provided with training and/or time to 'acclimatize' to the 
+      frequency-compressed conditions.
+FAU - Ellis, Rachel J
+AU  - Ellis RJ
+AD  - School of Psychological Sciences, University of Manchester, UK. 
+      Rachel.Ellis@liu.se
+FAU - Munro, Kevin J
+AU  - Munro KJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121023
+PL  - England
+TA  - Int J Audiol
+JT  - International journal of audiology
+JID - 101140017
+SB  - IM
+MH  - Acoustic Stimulation
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Audiometry, Speech
+MH  - *Cognition
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Memory
+MH  - Noise/adverse effects
+MH  - Perceptual Masking
+MH  - *Recognition, Psychology
+MH  - Signal Detection, Psychological
+MH  - *Speech Perception
+MH  - Trail Making Test
+EDAT- 2012/10/24 06:00
+MHDA- 2013/05/31 06:00
+CRDT- 2012/10/24 06:00
+PHST- 2012/10/24 06:00 [entrez]
+PHST- 2012/10/24 06:00 [pubmed]
+PHST- 2013/05/31 06:00 [medline]
+AID - 10.3109/14992027.2012.721013 [doi]
+PST - ppublish
+SO  - Int J Audiol. 2013 Jan;52(1):14-22. doi: 10.3109/14992027.2012.721013. Epub 2012 
+      Oct 23.

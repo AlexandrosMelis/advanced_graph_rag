@@ -1,0 +1,94 @@
+PMID- 17940352
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071108
+LR  - 20191210
+IS  - 1423-0399 (Electronic)
+IS  - 0042-1138 (Linking)
+VI  - 79
+IP  - 3
+DP  - 2007
+TI  - Does HER2 immunoreactivity provide prognostic information in locally advanced 
+      urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?
+PG  - 210-6
+AB  - INTRODUCTION: To evaluate the impact of HER2 immunoreactivity on clinical outcome 
+      in locally advanced urothelial carcinoma patients who received surgery alone, or 
+      methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant 
+      chemotherapy. MATERIALS AND METHODS: We studied 114 formalin-fixed 
+      paraffin-embedded specimens obtained from locally advanced urothelial carcinoma 
+      patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 
+      immunoreactivity using immunohistochemical staining and explored the influence of 
+      pathological parameters and HER2 immunoreactivity on progression-free survival 
+      (PFS) and disease-specific overall survival (OS) using univariate and 
+      multivariate Cox's analyses. RESULTS: Urothelial carcinoma of the bladder had a 
+      significantly higher frequency of HER2 immunoreactivity than that of the upper 
+      urinary tract (60.7 vs. 20.7%, p < 0.0001). Overall, nodal status was a strong 
+      and independent prognostic indicator for clinical outcome. The HER2 
+      immunoreactivity was significantly associated with PFS (p = 0.02) and 
+      disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for 
+      patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic 
+      factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate 
+      analysis, but not multivariate analysis, and not for patients receiving watchful 
+      waiting. CONCLUSIONS: HER2 immunoreactivity might have a limited prognostic value 
+      for advanced urothelial carcinoma patients with adjuvant M-VEC.
+CI  - Copyright 2007 S. Karger AG, Basel.
+FAU - Tsai, Yuh-Shyan
+AU  - Tsai YS
+AD  - Institute of Clinical Medicine, Department of Urology, College of Medicine, 
+      National Cheng Kung University, Tainan, Taiwan.
+FAU - Tzai, Tzong-Shin
+AU  - Tzai TS
+FAU - Chow, Nan-Hua
+AU  - Chow NH
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Switzerland
+TA  - Urol Int
+JT  - Urologia internationalis
+JID - 0417373
+RN  - 3Z8479ZZ5X (Epirubicin)
+RN  - 5V9KLZ54CY (Vinblastine)
+RN  - EC 2.7.10.1 (ERBB2 protein, human)
+RN  - EC 2.7.10.1 (Receptor, ErbB-2)
+RN  - Q20Q21Q62J (Cisplatin)
+RN  - YL5FZ2Y5U1 (Methotrexate)
+RN  - M-VEC protocol
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+MH  - Carcinoma/chemistry/*drug therapy/pathology/surgery
+MH  - Chemotherapy, Adjuvant
+MH  - Cisplatin/administration & dosage
+MH  - Disease-Free Survival
+MH  - Epirubicin/administration & dosage
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - *Immunohistochemistry
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Methotrexate/administration & dosage
+MH  - Middle Aged
+MH  - Proportional Hazards Models
+MH  - Receptor, ErbB-2/*analysis
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Urinary Bladder Neoplasms/chemistry/*drug therapy/pathology/surgery
+MH  - Urothelium/*chemistry/pathology
+MH  - Vinblastine/administration & dosage
+EDAT- 2007/10/18 09:00
+MHDA- 2007/11/09 09:00
+CRDT- 2007/10/18 09:00
+PHST- 2006/05/22 00:00 [received]
+PHST- 2006/09/26 00:00 [accepted]
+PHST- 2007/10/18 09:00 [pubmed]
+PHST- 2007/11/09 09:00 [medline]
+PHST- 2007/10/18 09:00 [entrez]
+AID - 000107952 [pii]
+AID - 10.1159/000107952 [doi]
+PST - ppublish
+SO  - Urol Int. 2007;79(3):210-6. doi: 10.1159/000107952.

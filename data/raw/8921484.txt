@@ -1,0 +1,64 @@
+PMID- 8921484
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970207
+LR  - 20241205
+IS  - 0300-5771 (Print)
+IS  - 0300-5771 (Linking)
+VI  - 25
+IP  - 5
+DP  - 1996 Oct
+TI  - Does gestational age misclassification explain the difference in birthweights for 
+      Australian aborigines and whites?
+PG  - 980-8
+AB  - BACKGROUND: After 34 weeks gestation, summary measures of location for 
+      birthweight (e.g means and centiles) increase more slowly for Australian 
+      Aborigines than for whites. A similar pattern has been observed for blacks in the 
+      US. This study tests whether the reported pattern is due to differential 
+      misclassification of gestational age. METHODS: Simulation was used to measure the 
+      potential effect of differential misclassification of gestational age. Reported 
+      gestational age data were obtained from Queensland Perinatal Data Collection 
+      (QPDC). Estimates of the true distributions of gestational age were obtained by 
+      assuming various (plausible) types of misclassification and applying these to the 
+      reported distributions. Previous studies and data from the QPDC were used to help 
+      specify the birthweight distributions used in the simulations. RESULTS: At full 
+      term, the parameters of the birthweight distributions were robust to gestational 
+      age misclassification. At preterm, the 10th centiles were robust to 
+      misclassification. In contrast, the 90th centiles were sensitive to even minor 
+      misclassification. Extreme types of misclassification were required to remove the 
+      divergence in median birthweights for Aborigines and whites. CONCLUSIONS: 
+      Gestational age misclassification is an unlikely explanation for the reported 
+      divergence in average birth-weights for Aborigines and whites. The results might 
+      help with the interpretation of other between-population comparisons.
+FAU - Coory, M
+AU  - Coory M
+AD  - Centre for Clinical Epidemiology and Biostatistics, Faculty of Medicine and 
+      Health Science, University of Newcastle, Royal Newcastle Hospital, Newcastle, New 
+      South Wales, Australia.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Int J Epidemiol
+JT  - International journal of epidemiology
+JID - 7802871
+SB  - IM
+MH  - Adult
+MH  - Australia/epidemiology
+MH  - *Birth Weight
+MH  - Classification/*methods
+MH  - Computer Simulation
+MH  - Female
+MH  - *Gestational Age
+MH  - Humans
+MH  - Male
+MH  - Pregnancy
+MH  - *White People
+EDAT- 1996/10/01 00:00
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PHST- 1996/10/01 00:00 [pubmed]
+PHST- 1996/10/01 00:01 [medline]
+PHST- 1996/10/01 00:00 [entrez]
+AID - 10.1093/ije/25.5.980 [doi]
+PST - ppublish
+SO  - Int J Epidemiol. 1996 Oct;25(5):980-8. doi: 10.1093/ije/25.5.980.

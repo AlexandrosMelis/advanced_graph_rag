@@ -1,0 +1,75 @@
+PMID- 11146778
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010215
+LR  - 20190704
+IS  - 0004-0010 (Print)
+IS  - 0004-0010 (Linking)
+VI  - 136
+IP  - 1
+DP  - 2001 Jan
+TI  - Risk stratification in emergency surgical patients: is the APACHE II score a 
+      reliable marker of physiological impairment?
+PG  - 55-9
+AB  - HYPOTHESES: The APACHE II (Acute Physiology and Chronic Health Evaluation II) 
+      score used as an intensive care unit (ICU) admission score in emergency surgical 
+      patients is not independent of the effects of treatment and might lead to 
+      considerable bias in the comparability of defined groups of patients and in the 
+      evaluation of treatment policies. Postoperative monitoring with the APACHE II 
+      score is clinically irrelevant. DESIGN: Inception cohort study. SETTING: 
+      Secondary referral center. PATIENTS: Eighty-five consecutive emergency surgical 
+      patients admitted to the surgical ICU in 1999. The APACHE II score was calculated 
+      before surgery; after admission to the ICU; and on postoperative days 3, 7, and 
+      10. MAIN OUTCOME MEASURES: APACHE II scores and predicted and observed mortality 
+      rates. RESULTS: The mean +/- SD APACHE II score of 24.2 +/- 8.3 at admission to 
+      the ICU was approximately 36% greater than the initial APACHE II score of 17.8 
+      +/- 7.7, a difference that was highly statistically significant (P<.001). The 
+      overall mortality of 32% favorably corresponds with the predicted mortality of 
+      34% according to the initial APACHE II score. However, the predicted mortality of 
+      50% according to the APACHE II score at admission to the ICU was significantly 
+      different from the observed mortality rate (P =.02). In 40 long-term patients 
+      (>/=10 days in the ICU), the difference between the APACHE II scores of survivors 
+      and patients who died was statistically significant on day 10 (P =.04). 
+      CONCLUSIONS: For risk stratification in emergency surgical patients, it is 
+      essential to measure the APACHE II score before surgical treatment. Longitudinal 
+      APACHE II scoring reveals continuous improvement of the score in surviving 
+      patients but has no therapeutic relevance in the individual patient.
+FAU - Koperna, T
+AU  - Koperna T
+AD  - Department of Surgery, Hospital Mistelbach, Liechtensteinstrasse 67, A-2130 
+      Mistelbach, Austria.
+FAU - Semmler, D
+AU  - Semmler D
+FAU - Marian, F
+AU  - Marian F
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Arch Surg
+JT  - Archives of surgery (Chicago, Ill. : 1960)
+JID - 9716528
+SB  - IM
+CIN - Arch Surg. 2001 Mar;136(3):353. doi: 10.1001/archsurg.136.3.353. PMID: 11231861
+MH  - *APACHE
+MH  - Aged
+MH  - Cohort Studies
+MH  - *Emergency Treatment/mortality
+MH  - Female
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Male
+MH  - Preoperative Care
+MH  - Risk Assessment
+MH  - Surgical Procedures, Operative/*statistics & numerical data
+MH  - Survival Rate
+MH  - Time Factors
+EDAT- 2001/01/13 11:00
+MHDA- 2001/03/03 10:01
+CRDT- 2001/01/13 11:00
+PHST- 2001/01/13 11:00 [pubmed]
+PHST- 2001/03/03 10:01 [medline]
+PHST- 2001/01/13 11:00 [entrez]
+AID - soa0125 [pii]
+AID - 10.1001/archsurg.136.1.55 [doi]
+PST - ppublish
+SO  - Arch Surg. 2001 Jan;136(1):55-9. doi: 10.1001/archsurg.136.1.55.

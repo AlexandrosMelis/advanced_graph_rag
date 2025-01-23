@@ -1,0 +1,64 @@
+PMID- 12070552
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020830
+LR  - 20080623
+IS  - 0379-5284 (Print)
+IS  - 0379-5284 (Linking)
+VI  - 23
+IP  - 6
+DP  - 2002 Jun
+TI  - Do antibiotics decrease post-tonsillectomy morbidity?
+PG  - 705-7
+AB  - OBJECTIVE: A tonsillectomy audit was carried out and compared with other studies, 
+      to emphasize the role of antibiotics. METHODS: This study was carried out at 
+      North West Armed Forces Hospital, Tabuk, Kingdom of Saudi Arabia, during the year 
+      January 1999 through to December 1999. This is a retrospective study of patients 
+      who had tonsillectomy with or with adenoidectomy, the topics audited included 
+      indication for surgery, grade of surgeon, method of surgery, length of hospital 
+      stay, complications and the use of postoperative antibiotics. RESULTS: A total of 
+      185 patients underwent tonsillectomy with or without adenoidectomy. The patients 
+      age ranged between 2 years to 53 years and the majority were children. In our 
+      audit we found no difference with regard to grade of surgeons, method of 
+      hemostasis in the outcome of surgery. Moreover, postoperative antibiotics had no 
+      role in pain control, postoperative fever, secondary hemorrhage or reduction in 
+      hospital stay. The administration of analgesics on the basis of, as required, had 
+      poor pain control. CONCLUSION: Post tonsillectomy antibiotics did not prove to 
+      have a role in minimizing postoperative morbidity. Moreover, analgesics given on 
+      the basis of as required had a limited value.
+FAU - Al-Kindy, Sami A
+AU  - Al-Kindy SA
+AD  - Department of Ear, Nose and Throat, North West Armed Forces Hospital, Tabuk, 
+      Kingdom of Saudi Arabia. sami_kindy@yahoo.com
+LA  - eng
+PT  - Journal Article
+PL  - Saudi Arabia
+TA  - Saudi Med J
+JT  - Saudi medical journal
+JID - 7909441
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Anti-Bacterial Agents/*therapeutic use
+MH  - Anti-Inflammatory Agents, Non-Steroidal/therapeutic use
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Medical Audit
+MH  - Middle Aged
+MH  - *Postoperative Care
+MH  - Postoperative Complications/*prevention & control
+MH  - Retrospective Studies
+MH  - *Tonsillectomy
+EDAT- 2002/06/19 10:00
+MHDA- 2002/08/31 10:01
+CRDT- 2002/06/19 10:00
+PHST- 2002/06/19 10:00 [pubmed]
+PHST- 2002/08/31 10:01 [medline]
+PHST- 2002/06/19 10:00 [entrez]
+PST - ppublish
+SO  - Saudi Med J. 2002 Jun;23(6):705-7.

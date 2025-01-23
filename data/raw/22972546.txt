@@ -1,0 +1,72 @@
+PMID- 22972546
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130212
+LR  - 20161125
+IS  - 2081-3252 (Electronic)
+IS  - 1641-9251 (Linking)
+VI  - 63
+IP  - 2
+DP  - 2012
+TI  - Do approved doctors and medical referees in the UK agree when assessing a 
+      seafarer's fitness?
+PG  - 71-7
+AB  - INTRODUCTION: The seafaring industry remains a hazardous occupation that requires 
+      sophisticated systems of risk and fitness assessment. This study aims to 
+      investigate the extent of agreement between Approved Doctors (ADs) and Medical 
+      Referees (MRs) when they assess a seafarer's fitness. MATERIAL AND METHODS: 
+      Between 2003 and 2009 a total of 232,878 seafarer medical examinations were 
+      carried out by ADs, of which 465 were considered by the MRs because the seafarer 
+      appealed against the AD's decision. The extent of agreement between ADs and MRs 
+      was studied. RESULTS: Two hundred and sixty-eight (58%) cases seen by the ADs 
+      were classed as category 4 "permanently unfit"; the referees only placed 85 (18%) 
+      of them in this category. On the other hand, 252 (54%) cases seen by the MRs were 
+      classed as category 2 "fit with restrictions", while the ADs had only placed 111 
+      (24%) in this category. The overall agreement between the assessors (AD vs. MR) 
+      was poor (Kappa K = 0.18). DISCUSSION: For cardiovascular diseases and for mental 
+      ill-health, access to additional information by the MR was the commonest reason 
+      for changing the fitness category, but for all other conditions factors such as 
+      the experience and knowledge of the MRs or their different interpretation of the 
+      standards were the most frequent reasons for a change to fitness category or to 
+      restrictions. CONCLUSIONS: This study found that there was poor agreement between 
+      the AD's decision and the subsequent MR's decision regarding the fitness of those 
+      seafarers who decided to appeal against the AD's initial assessment. The reasons 
+      for this are considered.
+FAU - Rustom, Isam
+AU  - Rustom I
+AD  - Health Management Ltd, Meriden, UK. isamrustom@gmail.com
+FAU - Carter, Tim
+AU  - Carter T
+LA  - eng
+PT  - Journal Article
+PL  - Poland
+TA  - Int Marit Health
+JT  - International maritime health
+JID - 100958373
+SB  - IM
+MH  - Adult
+MH  - Cardiovascular Diseases/*diagnosis/epidemiology
+MH  - Evidence-Based Practice
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/*diagnosis/epidemiology
+MH  - Middle Aged
+MH  - Naval Medicine/standards
+MH  - Occupational Medicine/*standards
+MH  - Physical Examination/*standards
+MH  - Physical Fitness
+MH  - Practice Patterns, Physicians'/*statistics & numerical data
+MH  - Referral and Consultation/*statistics & numerical data
+MH  - Reproducibility of Results
+MH  - Risk Assessment/standards
+MH  - Ships
+MH  - United Kingdom
+MH  - Young Adult
+EDAT- 2012/09/14 06:00
+MHDA- 2013/02/13 06:00
+CRDT- 2012/09/14 06:00
+PHST- 2012/09/14 06:00 [entrez]
+PHST- 2012/09/14 06:00 [pubmed]
+PHST- 2013/02/13 06:00 [medline]
+PST - ppublish
+SO  - Int Marit Health. 2012;63(2):71-7.

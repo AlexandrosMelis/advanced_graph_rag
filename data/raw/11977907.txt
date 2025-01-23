@@ -1,0 +1,77 @@
+PMID- 11977907
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020612
+LR  - 20191105
+IS  - 1051-2284 (Print)
+IS  - 1051-2284 (Linking)
+VI  - 12
+IP  - 2
+DP  - 2002 Apr
+TI  - Subclavian steal syndrome: can the blood pressure difference between arms predict 
+      the severity of steal?
+PG  - 131-5
+AB  - BACKGROUND AND PURPOSE: A side-to-side difference in systolic brachial arterial 
+      blood pressure is a common finding in subclavian artery stenosis and is 
+      frequently used as a screening tool for subclavian steal syndrome (SSS). It was 
+      the goal of this retrospective study to investigate the relationship between 
+      different vertebral artery waveform types and the side-to-side difference in 
+      systolic blood pressure in patients with sonographically proven SSS. METHODS: The 
+      records of 1860 patients from the Neuroultrasound Laboratory between January 2000 
+      and December 2000 were screened for the diagnosis of SSS in the final ultrasound 
+      report. In all patients, bilateral brachial arterial blood pressure was measured 
+      in a sitting position prior to the ultrasound examination. Vertebral artery 
+      waveforms were classified as (1) systolic deceleration, (2) alternating flow, and 
+      (3) complete reversal at rest. Blood pressure difference as calculated by 
+      normal-side blood pressure minus lesion-side blood pressure was compared with the 
+      3 Doppler waveform types. RESULTS: SSS was found in 51 of 1860 (2.7%) 
+      ultrasonography studies of 49 patients (17 men, 32 women; mean age 65.3 +/- 10.5 
+      years). Two patients (4%) had bilateral SSS. In 3 patients (6%), SSS was related 
+      to an innominate artery stenosis. Waveform analysis showed a completely reversed 
+      flow in 16 (31%), an alternating flow in 24 (47%), and a systolic deceleration in 
+      11 (22%) cases. Systolic blood pressure difference was significantly higher in 
+      the complete reversal and alternating groups than in the systolic deceleration 
+      group (P < .001). CONCLUSION: Brachial systolic blood pressure difference is 
+      related to the severity of SSS and can be used as a screening tool for SSS. 
+      However, it performed better in severe steal than milder steal phenomena.
+FAU - Tan, Teng-Yeow
+AU  - Tan TY
+AD  - Department of Neurology (I), Chang Gung Memorial Hospital, 123 Ta-Pei Road, 
+      Niao-Sung Hsiang, Kaohsiung Hsien 833, Taiwan. tengyeowtan@yahoo.com
+FAU - Schminke, Ulf
+AU  - Schminke U
+FAU - Lien, Li-Ming
+AU  - Lien LM
+FAU - Tegeler, Charles H
+AU  - Tegeler CH
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Neuroimaging
+JT  - Journal of neuroimaging : official journal of the American Society of 
+      Neuroimaging
+JID - 9102705
+SB  - IM
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Arm/blood supply
+MH  - Blood Flow Velocity/physiology
+MH  - Blood Pressure/*physiology
+MH  - Female
+MH  - Hemodynamics
+MH  - Humans
+MH  - Male
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Subclavian Steal Syndrome/*diagnostic imaging/*physiopathology
+MH  - Ultrasonography, Doppler
+MH  - Vertebral Artery/diagnostic imaging/physiopathology
+EDAT- 2002/04/30 10:00
+MHDA- 2002/06/13 10:01
+CRDT- 2002/04/30 10:00
+PHST- 2002/04/30 10:00 [pubmed]
+PHST- 2002/06/13 10:01 [medline]
+PHST- 2002/04/30 10:00 [entrez]
+AID - 10.1111/j.1552-6569.2002.tb00109.x [doi]
+PST - ppublish
+SO  - J Neuroimaging. 2002 Apr;12(2):131-5. doi: 10.1111/j.1552-6569.2002.tb00109.x.

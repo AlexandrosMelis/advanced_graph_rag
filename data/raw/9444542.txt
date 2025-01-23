@@ -1,0 +1,76 @@
+PMID- 9444542
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980327
+LR  - 20220330
+IS  - 0885-6230 (Print)
+IS  - 0885-6230 (Linking)
+VI  - 12
+IP  - 12
+DP  - 1997 Dec
+TI  - Does hippocampal atrophy on MRI predict cognitive decline? A prospective 
+      follow-up study.
+PG  - 1182-8
+AB  - OBJECTIVES: To investigate whether the presence of hippocampal atrophy (HCA) on 
+      MRI in Alzheimer's disease (AD) leads to a more rapid decline in cognitive 
+      function. To investigate whether cognitively unimpaired controls and depressed 
+      subjects with HCA are at higher risk than those without HCA of developing 
+      dementia. DESIGN: A prospective follow-up of subjects from a previously reported 
+      MRI study. SETTING: Melbourne, Australia. PARTICIPANTS: Five controls with HCA 
+      and five age-matched controls without HCA, seven depressed subjects with HCA and 
+      seven without HCA, and 12 subjects with clinically diagnosed probable AD with HCA 
+      and 12 without HCA were studied. They were followed up at approximately 2 years 
+      with repeat cognitive testing, blind to initial diagnosis and MRI result. 
+      MEASURES: HCA was rated by two radiologists blind to cognitive test score 
+      results. Cognitive assessment was by the Cambridge Cognitive Examination 
+      (CAMCOG). RESULTS: No significant differences in rate of cognitive decline, 
+      mortality or progression to dementia were found between subjects with or without 
+      HCA. CONCLUSIONS: HCA was not found to be a predictor of subsequent cognitive 
+      decline in this series.
+FAU - Swann, A
+AU  - Swann A
+AD  - Brighton Clinic, Newcastle upon Tyne, UK.
+FAU - O'Brien, J
+AU  - O'Brien J
+FAU - Ames, D
+AU  - Ames D
+FAU - Schweitzer, I
+AU  - Schweitzer I
+FAU - Desmond, P
+AU  - Desmond P
+FAU - Tress, B
+AU  - Tress B
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Int J Geriatr Psychiatry
+JT  - International journal of geriatric psychiatry
+JID - 8710629
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alzheimer Disease/complications/*diagnosis/physiopathology
+MH  - Atrophy/pathology
+MH  - Case-Control Studies
+MH  - *Cognition Disorders/pathology/physiopathology
+MH  - Depression/*complications/physiopathology
+MH  - Disease Progression
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Geriatric Assessment
+MH  - Hippocampus/*pathology
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Prospective Studies
+EDAT- 1998/01/28 05:54
+MHDA- 2000/06/20 09:00
+CRDT- 1998/01/28 05:54
+PHST- 1998/01/28 05:54 [pubmed]
+PHST- 2000/06/20 09:00 [medline]
+PHST- 1998/01/28 05:54 [entrez]
+AID - 10.1002/(SICI)1099-1166(199712)12:12<1182::AID-GPS714>3.0.CO;2-M [pii]
+PST - ppublish
+SO  - Int J Geriatr Psychiatry. 1997 Dec;12(12):1182-8.

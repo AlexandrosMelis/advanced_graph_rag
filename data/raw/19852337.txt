@@ -1,0 +1,72 @@
+PMID- 19852337
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091116
+LR  - 20141120
+IS  - 0970-258X (Print)
+IS  - 0970-258X (Linking)
+VI  - 22
+IP  - 2
+DP  - 2009 Mar-Apr
+TI  - Does elective re-siting of intravenous cannulae decrease peripheral 
+      thrombophlebitis? A randomized controlled study.
+PG  - 60-2
+AB  - BACKGROUND: Peripheral venous thrombophlebitis (PVT) is a common complication of 
+      intravenous cannulation, occurring in about 30% of patients. We evaluated the 
+      effect of elective re-siting of intravenous cannulae every 48 hours on the 
+      incidence and severity of PVT in patients receiving intravenous fluids/drugs. 
+      METHODS: We randomized 42 patients who were admitted for major abdominal surgery 
+      to either the control or study group (n = 21 in either group). Informed consent 
+      was obtained from all of them. Cannulae in the control group were removed only if 
+      the site became painful, the cannula got dislodged or there were signs and 
+      symptoms suggestive of PVT, namely pain, erythema, swelling, excessive warmth or 
+      a palpable venous cord. Cannulae in the study group were changed and re-sited 
+      electively every 48 hours. All the patients were examined every 24 hours for 
+      signs and symptoms of PVT at the current and previous sites of infusion. RESULTS: 
+      The incidence of PVT was 100% (21/21) in the control group and only 9.5% (2/21) 
+      in the study group (p < 0.0001). The severity of PVT was also less in the study 
+      group compared with that in the control group. Day-wise correlation of the 
+      incidence of PVT showed that 82.6% of the episodes of PVT occurred on day 3. 
+      CONCLUSION: Elective re-siting of intravenous cannulae every 48 hours results in 
+      a significant reduction in the incidence and severity of PVT. We recommend that 
+      this should be adopted as standard practice in managing all patients who require 
+      prolonged intravenous therapy.
+FAU - Nishanth, S
+AU  - Nishanth S
+AD  - Department of Surgery, Jawaharlal Institute of Postgraduate Medical Education and 
+      Research, Puducherry 605006, India.
+FAU - Sivaram, G
+AU  - Sivaram G
+FAU - Kalayarasan, R
+AU  - Kalayarasan R
+FAU - Kate, Vikram
+AU  - Kate V
+FAU - Ananthakrishnan, N
+AU  - Ananthakrishnan N
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - India
+TA  - Natl Med J India
+JT  - The National medical journal of India
+JID - 8809315
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Catheterization, Peripheral/*methods
+MH  - Elective Surgical Procedures/methods
+MH  - Female
+MH  - Humans
+MH  - Infusions, Intravenous/adverse effects
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Thrombophlebitis/*prevention & control
+EDAT- 2009/10/27 06:00
+MHDA- 2009/11/17 06:00
+CRDT- 2009/10/27 06:00
+PHST- 2009/10/27 06:00 [entrez]
+PHST- 2009/10/27 06:00 [pubmed]
+PHST- 2009/11/17 06:00 [medline]
+PST - ppublish
+SO  - Natl Med J India. 2009 Mar-Apr;22(2):60-2.

@@ -1,0 +1,72 @@
+PMID- 27405146
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160915
+LR  - 20160713
+IS  - 0210-5020 (Print)
+IS  - 0210-5020 (Linking)
+VI  - 39
+IP  - 5
+DP  - 2016 May
+TI  - [PREVALENCE OF THE STREPTOCOCUS AGALACTIAE IN THE PREGNANT WOMAN FROM THE 
+      AUTONOMIC CITY OF MELILLA: IS CULTURE A DETERMINANT FACTOR?].
+PG  - 40-4
+AB  - BACKGROUND: The neonatal infection by Streptococcus group B is one of the main 
+      causes of neonatal morbi-mortality rate. For this reason a screening is made to 
+      each pregnant woman in order to detect its presence, and if it was the case, to 
+      apply an antibiotic treatment during labour. The aim of this study was to know 
+      the prevalence of this Streptococcus in the pregnant women from Melilla, as well 
+      as the differences according to culture and age. METHOD: A descriptive 
+      cross-sectional study located in the Hospital Comarcal from Melilla. RESULTS: The 
+      sample is taken from 280 women: 194 are from Muslim culture (69.3%), 68 are from 
+      Christian culture (24.3%) and 18 women from unknown cultures (6.4%). Also it is 
+      known that 78 of them are 25 years old or less (27.85%), 158 are between 26 and 
+      34 years old (56.42%) and 44 are 35 years old or more (15.71%). CONCLUSIONS: The 
+      prevalence of vagino-rectal colonization by Streptococcus group B in the pregnant 
+      women from Melilla is within the national estimated figures, however it is 
+      different if they are from Muslim or Christian culture, being higher in the 
+      Muslim population. On one hand both prevalences are within the national 
+      statistics, and on the other hand it is observed that there is not any difference 
+      according to age.
+FAU - Garrido Lopez, Maria
+AU  - Garrido Lopez M
+FAU - Luque Leon, Melissa
+AU  - Luque Leon M
+FAU - Mayoral Cesar, Victoria
+AU  - Mayoral Cesar V
+FAU - Casado Fernandez, Leonor Eva
+AU  - Casado Fernandez LE
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+TT  - Prevalencia del Streptococcus agalactiae en la mujer embarazada en la ciudad 
+      autonoma de Melilla. ES LA CULTURA UN FACTOR DETERMINANTE?
+PL  - Spain
+TA  - Rev Enferm
+JT  - Revista de enfermeria (Barcelona, Spain)
+JID - 8309920
+MH  - Adult
+MH  - Christianity
+MH  - Cross-Sectional Studies
+MH  - Cultural Characteristics
+MH  - Female
+MH  - Humans
+MH  - Islam
+MH  - Pregnancy
+MH  - Pregnancy Complications, Infectious/*epidemiology
+MH  - Prevalence
+MH  - Rectum/microbiology
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Streptococcal Infections/*epidemiology
+MH  - *Streptococcus agalactiae/isolation & purification
+MH  - Vagina/microbiology
+MH  - Young Adult
+EDAT- 2016/07/14 06:00
+MHDA- 2016/09/16 06:00
+CRDT- 2016/07/14 06:00
+PHST- 2016/07/14 06:00 [entrez]
+PHST- 2016/07/14 06:00 [pubmed]
+PHST- 2016/09/16 06:00 [medline]
+PST - ppublish
+SO  - Rev Enferm. 2016 May;39(5):40-4.

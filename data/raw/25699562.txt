@@ -1,0 +1,98 @@
+PMID- 25699562
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160202
+LR  - 20240610
+IS  - 1097-9891 (Electronic)
+IS  - 0095-2990 (Print)
+IS  - 0095-2990 (Linking)
+VI  - 41
+IP  - 3
+DP  - 2015 May
+TI  - Does the Transmissible Liability Index (TLI) assessed in late childhood predict 
+      suicidal symptoms at young adulthood?
+PG  - 264-8
+LID - 10.3109/00952990.2015.1011744 [doi]
+AB  - OBJECTIVE: Our previous work demonstrated that the Transmissible Liability Index 
+      (TLI), an instrument designed as an index of liability for substance use disorder 
+      (SUD), is associated with risk of substance use disorder. This longitudinal study 
+      assessed whether TLI measured in 10-12-year-olds (late childhood) predicts 
+      suicidal behavior from age 12-14 (preadolescence) to age 25 (young adulthood). We 
+      hypothesized that TLI would predict number and severity of suicide attempts. 
+      METHODS: Subjects were sons of men who had lifetime history of SUD (n = 250), 
+      called the High Average Risk (HAR) group, and sons of men with no lifetime 
+      history of a SUD (n = 250), called the Low Average Risk (LAR) group. The TLI was 
+      delineated at baseline (age 10-12), and age-specific versions were administered 
+      at 12-14, 16, 19, 22, and 25 years of age. RESULTS: TLI was significantly 
+      associated with number and severity of lifetime suicide attempts. CONCLUSIONS: 
+      These findings confirm the hypothesis that TLI assessed at late childhood is a 
+      predictor of frequency and severity of suicidal behavior from preadolescence to 
+      young adulthood.
+FAU - Cornelius, Jack R
+AU  - Cornelius JR
+AD  - Center for Education and Drug Abuse Research (CEDAR), University of Pittsburgh , 
+      Pittsburgh, PA , USA.
+FAU - Kirisci, Levent
+AU  - Kirisci L
+FAU - Reynolds, Maureen
+AU  - Reynolds M
+FAU - Vanyukov, Michael
+AU  - Vanyukov M
+FAU - Tarter, Ralph
+AU  - Tarter R
+LA  - eng
+GR  - UL1 TR000005/TR/NCATS NIH HHS/United States
+GR  - K24 AA15320/AA/NIAAA NIH HHS/United States
+GR  - K05 DA031248/DA/NIDA NIH HHS/United States
+GR  - R01 AA015173/AA/NIAAA NIH HHS/United States
+GR  - R21 AA022123/AA/NIAAA NIH HHS/United States
+GR  - K02 AA000291/AA/NIAAA NIH HHS/United States
+GR  - R01 DA019142/DA/NIDA NIH HHS/United States
+GR  - R01 AA14357/AA/NIAAA NIH HHS/United States
+GR  - K02 AA018195/AA/NIAAA NIH HHS/United States
+GR  - R21 AA022863/AA/NIAAA NIH HHS/United States
+GR  - P50 DA005605/DA/NIDA NIH HHS/United States
+GR  - R01 AA013370/AA/NIAAA NIH HHS/United States
+GR  - R01 DA14635/DA/NIDA NIH HHS/United States
+GR  - R01 AA013397/AA/NIAAA NIH HHS/United States
+GR  - R01 AA13397/AA/NIAAA NIH HHS/United States
+GR  - K24 AA015320/AA/NIAAA NIH HHS/United States
+GR  - K02 DA017822/DA/NIDA NIH HHS/United States
+GR  - R01 DA014635/DA/NIDA NIH HHS/United States
+GR  - R01 AA014357/AA/NIAAA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150220
+PL  - England
+TA  - Am J Drug Alcohol Abuse
+JT  - The American journal of drug and alcohol abuse
+JID - 7502510
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Risk Factors
+MH  - *Suicidal Ideation
+MH  - Suicide, Attempted/*psychology
+MH  - Young Adult
+PMC - PMC4435565
+MID - NIHMS690829
+OTO - NOTNLM
+OT  - Transmissible Liability Index (TLI)
+OT  - suicide
+OT  - young adults
+EDAT- 2015/02/24 06:00
+MHDA- 2016/02/03 06:00
+PMCR- 2015/05/18
+CRDT- 2015/02/21 06:00
+PHST- 2015/02/21 06:00 [entrez]
+PHST- 2015/02/24 06:00 [pubmed]
+PHST- 2016/02/03 06:00 [medline]
+PHST- 2015/05/18 00:00 [pmc-release]
+AID - 10.3109/00952990.2015.1011744 [doi]
+PST - ppublish
+SO  - Am J Drug Alcohol Abuse. 2015 May;41(3):264-8. doi: 
+      10.3109/00952990.2015.1011744. Epub 2015 Feb 20.

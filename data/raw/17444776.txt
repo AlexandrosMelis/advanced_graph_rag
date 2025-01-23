@@ -1,0 +1,58 @@
+PMID- 17444776
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070619
+LR  - 20220316
+IS  - 0892-7790 (Print)
+IS  - 0892-7790 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2007 Mar
+TI  - Is the holmium:YAG laser the best intracorporeal lithotripter for the ureter? A 
+      3-year retrospective study.
+PG  - 305-9
+AB  - PURPOSE: To study the efficiency and safety of holmium:YAG laser lithotripsy for 
+      ureteral stones. PATIENTS AND METHODS: A series of 188 patients with 208 ureteral 
+      stones were treated with semirigid ureteroscopy and holmium:YAG laser lithotripsy 
+      from January 2003 to December 2005. Of the stones, 116 were lower ureteral, 37 
+      middle ureteral, and 55 upper ureteral. RESULTS: The success rate was 92.7% at 
+      the time of ureteroscopy and 96.7% at 3 months. The failures were secondary to 
+      retropulsion of the stones (3.3%). There were no perforations and one stricture. 
+      Stenting was done in 90% of patients. CONCLUSIONS: The Holmium:YAG laser is an 
+      ideal intracorporeal lithotripter for ureteral calculi, with a high success rate 
+      and low morbidity.
+FAU - Gupta, Pawan Kumar
+AU  - Gupta PK
+AD  - R.P. Stone Clinic (P) Ltd., Panipat, India. rpstone@sify.com
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Endourol
+JT  - Journal of endourology
+JID - 8807503
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Humans
+MH  - *Lithotripsy, Laser
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Stents
+MH  - Treatment Outcome
+MH  - Ureteral Calculi/*surgery
+MH  - Ureteroscopy
+EDAT- 2007/04/21 09:00
+MHDA- 2007/06/20 09:00
+CRDT- 2007/04/21 09:00
+PHST- 2007/04/21 09:00 [pubmed]
+PHST- 2007/06/20 09:00 [medline]
+PHST- 2007/04/21 09:00 [entrez]
+AID - 10.1089/end.2006.0247 [doi]
+PST - ppublish
+SO  - J Endourol. 2007 Mar;21(3):305-9. doi: 10.1089/end.2006.0247.

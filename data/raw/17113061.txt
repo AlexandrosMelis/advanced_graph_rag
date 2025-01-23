@@ -1,0 +1,79 @@
+PMID- 17113061
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070306
+LR  - 20181113
+IS  - 0009-8981 (Print)
+IS  - 0009-8981 (Linking)
+VI  - 377
+IP  - 1-2
+DP  - 2007 Feb
+TI  - Do mutations causing low HDL-C promote increased carotid intima-media thickness?
+PG  - 273-5
+AB  - BACKGROUND: Although observational data support an inverse relationship between 
+      high-density lipoprotein (HDL) cholesterol and coronary heart disease (CHD), 
+      genetic HDL deficiency states often do not correlate with premature CHD. METHODS: 
+      Carotid intima-media thickness (cIMT) measurements were obtained in cases 
+      comprising 10 different mutations in LCAT, ABCA1 and APOA1 to further evaluate 
+      the relationship between low HDL resulting from genetic variation and early 
+      atherosclerosis. RESULTS: In a 1:2 case-control study of sex and age-related 
+      (+/-5 y) subjects (n=114), cIMT was nearly identical between cases (0.66+/-0.17 
+      cm) and controls (0.65+/-0.18 cm) despite significantly lower HDL cholesterol 
+      (0.67 vs. 1.58 mmol/l) and apolipoprotein A-I levels (96.7 vs. 151.4 mg/dl) 
+      (P<0.05) CONCLUSIONS: Genetic variants identified in the present study may be 
+      insufficient to promote early carotid atherosclerosis.
+FAU - Miller, Michael
+AU  - Miller M
+AD  - University of Maryland Hospital and Veterans Affairs Medical Center, Baltimore, 
+      MD 21201, United States. mmiller@medicine.umaryland.edu
+FAU - Rhyne, Jeffrey
+AU  - Rhyne J
+FAU - Hong, Seung Ho
+AU  - Hong SH
+FAU - Friel, Gina
+AU  - Friel G
+FAU - Dolinar, Christina
+AU  - Dolinar C
+FAU - Riley, Ward
+AU  - Riley W
+LA  - eng
+GR  - R01 HL061369/HL/NHLBI NIH HHS/United States
+GR  - HL-61369/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20061007
+PL  - Netherlands
+TA  - Clin Chim Acta
+JT  - Clinica chimica acta; international journal of clinical chemistry
+JID - 1302422
+RN  - 0 (Cholesterol, HDL)
+RN  - 0 (Contrast Media)
+SB  - IM
+MH  - Cholesterol, HDL/*blood
+MH  - Contrast Media
+MH  - Coronary Disease/*blood/epidemiology/*genetics/pathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mutation/genetics
+MH  - Risk Factors
+PMC - PMC1828111
+MID - NIHMS16144
+EDAT- 2006/11/23 09:00
+MHDA- 2007/03/07 09:00
+PMCR- 2008/02/01
+CRDT- 2006/11/23 09:00
+PHST- 2006/07/21 00:00 [received]
+PHST- 2006/09/22 00:00 [revised]
+PHST- 2006/10/02 00:00 [accepted]
+PHST- 2006/11/23 09:00 [pubmed]
+PHST- 2007/03/07 09:00 [medline]
+PHST- 2006/11/23 09:00 [entrez]
+PHST- 2008/02/01 00:00 [pmc-release]
+AID - S0009-8981(06)00685-1 [pii]
+AID - 10.1016/j.cca.2006.10.001 [doi]
+PST - ppublish
+SO  - Clin Chim Acta. 2007 Feb;377(1-2):273-5. doi: 10.1016/j.cca.2006.10.001. Epub 
+      2006 Oct 7.

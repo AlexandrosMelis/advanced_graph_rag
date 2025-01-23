@@ -1,0 +1,99 @@
+PMID- 21550158
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111017
+LR  - 20220408
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 69
+IP  - 9
+DP  - 2011 Sep
+TI  - Can autologous platelet-rich plasma gel enhance healing after surgical extraction 
+      of mandibular third molars?
+PG  - 2305-10
+LID - 10.1016/j.joms.2011.02.014 [doi]
+AB  - PURPOSE: This investigation assesses the effect of platelet-rich plasma (PRP) gel 
+      on postoperative pain, swelling, and trismus as well as healing and bone 
+      regeneration potential on mandibular third molar extraction sockets. PATIENTS AND 
+      METHODS: A prospective randomized comparative clinical study was undertaken over 
+      a 2-year period. Patients requiring surgical extraction of a single impacted 
+      third molar and who fell within the inclusion criteria and indicated willingness 
+      to return for recall visits were recruited. The predictor variable was 
+      application of PRP gel to the socket of the third molar in the test group, 
+      whereas the control group had no PRP. The outcome variables were pain, swelling, 
+      and maximum mouth opening, which were measured using a 10-point visual analog 
+      scale, tape, and millimeter caliper, respectively. Socket healing was assessed 
+      radiographically by allocating scores for lamina dura, overall density, and 
+      trabecular pattern. Quantitative data were presented as mean. Mann-Whitney test 
+      was used to compare means between groups for continuous variables, whereas 
+      Fischer exact test was used for categorical variables. Statistical significance 
+      was inferred at P < .05. RESULTS: Sixty patients aged 19 to 35 years (mean: 24.7 
+      +/- 3.6 years) were divided into both test and control groups of 30 patients each. 
+      The mean postoperative pain score (visual analog scale) was lower for the PRP 
+      group at all time points and this was statistically significant (P < .05). 
+      Although the figures for swelling and interincisal mouth opening were lower in 
+      the test group, this difference was not statistically significant. Similarly, the 
+      scores for lamina dura, trabecular pattern, and bone density were better among 
+      patients in the PRP group. This difference was also not statistically 
+      significant. CONCLUSION: The PRP group recorded reduced pain, swelling, and 
+      trismus as well as enhanced and faster bone healing compared with those in the 
+      control. Hence the study showed that topical application of PRP gel has a 
+      beneficial effect in enhancing socket healing after third molar surgery.
+CI  - Copyright (c) 2011 American Association of Oral and Maxillofacial Surgeons. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Ogundipe, Olufemi K
+AU  - Ogundipe OK
+AD  - Dental Services Department, Federal Medical Centre, OWO, Nigeria. 
+      olufemikola@yahoo.co.uk
+FAU - Ugboko, Vincent I
+AU  - Ugboko VI
+FAU - Owotade, Folusho J
+AU  - Owotade FJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20110507
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American 
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+RN  - 0 (Gels)
+SB  - IM
+MH  - Adult
+MH  - *Bone Regeneration
+MH  - Chi-Square Distribution
+MH  - Female
+MH  - Gels
+MH  - Humans
+MH  - Male
+MH  - Mandible
+MH  - Molar, Third/*surgery
+MH  - Pain Measurement
+MH  - Pain, Postoperative
+MH  - *Platelet-Rich Plasma
+MH  - Prospective Studies
+MH  - Radiography
+MH  - Range of Motion, Articular
+MH  - Single-Blind Method
+MH  - Statistics, Nonparametric
+MH  - *Tooth Extraction/methods
+MH  - Tooth Socket/diagnostic imaging/*physiology
+MH  - Tooth, Impacted/surgery
+MH  - Wound Healing
+MH  - Young Adult
+EDAT- 2011/05/10 06:00
+MHDA- 2011/10/18 06:00
+CRDT- 2011/05/10 06:00
+PHST- 2010/06/23 00:00 [received]
+PHST- 2010/12/20 00:00 [revised]
+PHST- 2011/02/01 00:00 [accepted]
+PHST- 2011/05/10 06:00 [entrez]
+PHST- 2011/05/10 06:00 [pubmed]
+PHST- 2011/10/18 06:00 [medline]
+AID - S0278-2391(11)00205-9 [pii]
+AID - 10.1016/j.joms.2011.02.014 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2011 Sep;69(9):2305-10. doi: 10.1016/j.joms.2011.02.014. 
+      Epub 2011 May 7.

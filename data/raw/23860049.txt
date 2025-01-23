@@ -1,0 +1,84 @@
+PMID- 23860049
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140318
+LR  - 20140429
+IS  - 0974-5998 (Electronic)
+IS  - 0974-5998 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2013 Apr-Jun
+TI  - Do we need imaging to diagnose appendicitis in children?
+PG  - 68-73
+LID - 10.4103/0189-6725.115024 [doi]
+AB  - BACKGROUND: To evaluate the role of clinical assessment with selective use of 
+      imaging studies in the management of suspected acute appendicitis in children. 
+      PATIENTS AND METHODS: Medical records of children referred to Emergency Room in 
+      2010 for suspected appendicitis were retrospectively reviewed. Diagnostic 
+      investigations divided by age and sex were related to pathological findings. 
+      Negative appendectomy and complication rates were calculated. RESULTS: 923 
+      children needed surgical assessment : In 75.7% of them surgical indication was 
+      excluded and 24.3% were admitted to surgical ward for observation. Appendectomy 
+      was eventually performed in 137 patients (61.9%), 82.4% of them without any 
+      preoperative imaging while 17.6% underwent selective studies, mainly abdominal 
+      ultrasonography (14.6%). Imaging was requested twice as frequently in not 
+      operated admitted children (39.3%) than in the operated ones (17.5%, P < 0.001). 
+      Overall complicated appendicitis rate (peritonitis and abscess) resulted 26.4% 
+      and negative appendectomy rate 8.8%. Females older than 10 years presented 
+      histologically not-confirmed appendicitis in 22.2% of cases, while the younger 
+      ones presented more frequently complicated appendicitis (29.3%). CONCLUSIONS: 
+      Clinical assessment is the key to diagnose appendicitis. Nevertheless, in girls 
+      older than 10 years, selected use of imaging should be implemented to avoid 
+      unnecessary appendectomies. Imaging of choice in equivocal cases should be 
+      ultrasonography.
+FAU - Di Cesare, Antonio
+AU  - Di Cesare A
+AD  - Department of Pediatric Surgery, Fondazione IRCCS Ca 'Granda-Ospedale Maggiore 
+      Policlinico, Milano, Italy.
+FAU - Parolini, Filippo
+AU  - Parolini F
+FAU - Morandi, Anna
+AU  - Morandi A
+FAU - Leva, Ernesto
+AU  - Leva E
+FAU - Torricelli, Maurizio
+AU  - Torricelli M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - India
+TA  - Afr J Paediatr Surg
+JT  - African journal of paediatric surgery : AJPS
+JID - 101255062
+SB  - IM
+CIN - Afr J Paediatr Surg. 2013 Oct-Dec;10(4):393. doi: 10.4103/0189-6725.125459. PMID: 
+      24469498
+CIN - Afr J Paediatr Surg. 2014 Jan-Mar;11(1):93. doi: 10.4103/0189-6725.129255. PMID: 
+      24647308
+MH  - Acute Disease
+MH  - Adolescent
+MH  - Appendectomy
+MH  - Appendicitis/*diagnosis/surgery
+MH  - Child
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Diagnostic Errors
+MH  - *Diagnostic Imaging
+MH  - *Early Diagnosis
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+MH  - Retrospective Studies
+EDAT- 2013/07/19 06:00
+MHDA- 2014/03/19 06:00
+CRDT- 2013/07/18 06:00
+PHST- 2013/07/18 06:00 [entrez]
+PHST- 2013/07/19 06:00 [pubmed]
+PHST- 2014/03/19 06:00 [medline]
+AID - AfrJPaediatrSurg_2013_10_2_68_115024 [pii]
+AID - 10.4103/0189-6725.115024 [doi]
+PST - ppublish
+SO  - Afr J Paediatr Surg. 2013 Apr-Jun;10(2):68-73. doi: 10.4103/0189-6725.115024.

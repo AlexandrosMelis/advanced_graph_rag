@@ -1,0 +1,128 @@
+PMID- 27338535
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170621
+LR  - 20191210
+IS  - 1095-8673 (Electronic)
+IS  - 0022-4804 (Linking)
+VI  - 203
+IP  - 1
+DP  - 2016 Jun 1
+TI  - Do risk calculators accurately predict surgical site occurrences?
+PG  - 56-63
+LID - S0022-4804(16)00134-7 [pii]
+LID - 10.1016/j.jss.2016.03.040 [doi]
+AB  - INTRODUCTION: Current risk assessment models for surgical site occurrence (SSO) 
+      and surgical site infection (SSI) after open ventral hernia repair (VHR) have 
+      limited external validation. Our aim was to determine (1) whether existing models 
+      stratify patients into groups by risk and (2) which model best predicts the rate 
+      of SSO and SSI. METHODS: Patients who underwent open VHR and were followed for at 
+      least 1 mo were included. Using two data sets-a retrospective multicenter 
+      database (Ventral Hernia Outcomes Collaborative) and a single-center prospective 
+      database (Prospective)-each patient was assigned a predicted risk with each of 
+      the following models: Ventral Hernia Risk Score (VHRS), Ventral Hernia Working 
+      Group (VHWG), Centers for Disease Control and Prevention Wound Class, and Hernia 
+      Wound Risk Assessment Tool (HW-RAT). Patients in the Prospective database were 
+      also assigned a predicted risk from the American College of Surgeons National 
+      Surgical Quality Improvement Program (ACS-NSQIP). Areas under the receiver 
+      operating characteristic curve (area under the curve [AUC]) were compared to 
+      assess the predictive accuracy of the models for SSO and SSI. Pearson's 
+      chi-square was used to determine which models were able to risk-stratify patients 
+      into groups with significantly differing rates of actual SSO and SSI. RESULTS: 
+      The Ventral Hernia Outcomes Collaborative database (n = 795) had an overall SSO 
+      and SSI rate of 23% and 17%, respectively. The AUCs were low for SSO (0.56, 0.54, 
+      0.52, and 0.60) and SSI (0.55, 0.53, 0.50, and 0.58). The VHRS (P = 0.01) and 
+      HW-RAT (P < 0.01) significantly stratified patients into tiers for SSO, whereas 
+      the VHWG (P < 0.05) and HW-RAT (P < 0.05) stratified for SSI. In the Prospective 
+      database (n = 88), 14% and 8% developed an SSO and SSI, respectively. The AUCs 
+      were low for SSO (0.63, 0.54, 0.50, 0.57, and 0.69) and modest for SSI (0.81, 
+      0.64, 0.55, 0.62, and 0.73). The ACS-NSQIP (P < 0.01) stratified for SSO, whereas 
+      the VHRS (P < 0.01) and ACS-NSQIP (P < 0.05) stratified for SSI. In both 
+      databases, VHRS, VHWG, and Centers for Disease Control and Prevention 
+      overestimated risk of SSO and SSI, whereas HW-RAT and ACS-NSQIP underestimated 
+      risk for all groups. CONCLUSIONS: All five existing predictive models have 
+      limited ability to risk-stratify patients and accurately assess risk of SSO. 
+      However, both the VHRS and ACS-NSQIP demonstrate modest success in identifying 
+      patients at risk for SSI. Continued model refinement is needed to improve the two 
+      highest performing models (VHRS and ACS-NSQIP) along with investigation to 
+      determine whether modifications to perioperative management based on risk 
+      stratification can improve outcomes.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+CN  - Ventral Hernia Outcome Collaborative
+FAU - Mitchell, Thomas O
+AU  - Mitchell TO
+AD  - Department of Surgery, University of Texas Health Science Center at Houston, 
+      Houston, Texas.
+FAU - Holihan, Julie L
+AU  - Holihan JL
+AD  - Department of Surgery, University of Texas Health Science Center at Houston, 
+      Houston, Texas. Electronic address: Julie.L.Holihan@uth.tmc.edu.
+FAU - Askenasy, Erik P
+AU  - Askenasy EP
+AD  - Department of Surgery, Baylor College of Medicine, Houston, Texas.
+FAU - Greenberg, Jacob A
+AU  - Greenberg JA
+AD  - Department of Surgery, University of Wisconsin, Madison, Wisconsin.
+FAU - Keith, Jerrod N
+AU  - Keith JN
+AD  - Department of Surgery, University of Iowa, Iowa City, Iowa.
+FAU - Martindale, Robert G
+AU  - Martindale RG
+AD  - Department of Surgery, Oregon Health and Science University, Portland, Oregon.
+FAU - Roth, John Scott
+AU  - Roth JS
+AD  - Department of Surgery, University of Kentucky, Lexington, Kentucky.
+FAU - Liang, Mike K
+AU  - Liang MK
+AD  - Department of Surgery, University of Texas Health Science Center at Houston, 
+      Houston, Texas.
+LA  - eng
+GR  - UL1 TR000371/TR/NCATS NIH HHS/United States
+GR  - KL2 TR000370/TR/NCATS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Validation Study
+DEP - 20160326
+PL  - United States
+TA  - J Surg Res
+JT  - The Journal of surgical research
+JID - 0376340
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Databases, Factual
+MH  - *Decision Support Techniques
+MH  - Female
+MH  - Follow-Up Studies
+MH  - *Herniorrhaphy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Surgical Wound Infection/*diagnosis/etiology
+OTO - NOTNLM
+OT  - NSQIP
+OT  - Risk calculator
+OT  - Surgical risk
+OT  - Surgical site infection
+OT  - Surgical site occurrence
+OT  - Ventral hernia
+EDAT- 2016/06/25 06:00
+MHDA- 2017/06/22 06:00
+CRDT- 2016/06/25 06:00
+PHST- 2015/11/17 00:00 [received]
+PHST- 2016/03/10 00:00 [revised]
+PHST- 2016/03/18 00:00 [accepted]
+PHST- 2016/06/25 06:00 [entrez]
+PHST- 2016/06/25 06:00 [pubmed]
+PHST- 2017/06/22 06:00 [medline]
+AID - S0022-4804(16)00134-7 [pii]
+AID - 10.1016/j.jss.2016.03.040 [doi]
+PST - ppublish
+SO  - J Surg Res. 2016 Jun 1;203(1):56-63. doi: 10.1016/j.jss.2016.03.040. Epub 2016 
+      Mar 26.

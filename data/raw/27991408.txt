@@ -1,0 +1,99 @@
+PMID- 27991408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170620
+LR  - 20170620
+IS  - 0392-856X (Print)
+IS  - 0392-856X (Linking)
+VI  - 34
+IP  - 6
+DP  - 2016 Nov-Dec
+TI  - Do dermatomyositis and polymyositis affect similar thigh muscles? A comparative 
+      MRI-based study.
+PG  - 1098-1100
+AB  - OBJECTIVES: Dermatomyositis (DM) and polymyositis (PM) commonly cause weakness of 
+      the thigh muscles. However, it is debated whether DM and PM affect similar thigh 
+      muscles. Muscle oedema on fat-suppressed MRI sequences is thought to represent 
+      active inflammation. In this study, we aimed to assess which thigh muscle groups 
+      are preferentially inflamed in DM and PM, respectively, using short-tau 
+      inversion-recovery MRI sequences. METHODS: We analysed 71 patients from 2 
+      Rheumatology centres, 31 with DM and 40 with PM diagnosed according to the Bohan 
+      and Peter criteria. MRI oedema (1=present, 0=absent) was assessed bilaterally on 
+      fat-suppressed sequences in 17 pelvic floor and thigh muscles. An MRI oedema 
+      score (range 0-17) was calculated by adding the separate scores bilaterally and 
+      dividing them by two. Inter-rater variability was assessed by intraclass 
+      correlation coefficient. Fisher's exact test was used to compare binomial data. 
+      RESULTS: Age and gender ratio were similar in patients with DM and PM. Disease 
+      duration (months, mean+/-SD) was shorter (20+/-31) in DM than in PM (53+/-69) (p=0.02). 
+      The intraclass correlation coefficient between the radiologists involved was 
+      0.78. Muscle oedema was more common in DM than in PM except in the posterior 
+      thigh muscles. In particular, 68% of patients with DM had involvement of at least 
+      one anterior thigh muscle versus 38% of patients with PM (p=0.02). CONCLUSIONS: 
+      Compared with PM, DM affects more thigh muscles, except those of the posterior 
+      compartment, which are equally involved in both disorders. These findings may be 
+      useful to target physiotherapy at the more frequently affected muscles.
+FAU - Pipitone, Nicolo
+AU  - Pipitone N
+AD  - Department of Rheumatology, Department of Internal Medicine, Azienda Ospedaliera 
+      ASMN, IRCSS, Reggio Emilia, Italy. pipitone.nicolo@asmn.re.it.
+FAU - Notarnicola, Antonella
+AU  - Notarnicola A
+AD  - Department of Rheumatology, University of Bari, Italy.
+FAU - Levrini, Gabriele
+AU  - Levrini G
+AD  - Department of Radiology, Department of Internal Medicine, Azienda Ospedaliera 
+      ASMN, IRCSS, Reggio Emilia, Italy.
+FAU - Spaggiari, Lucia
+AU  - Spaggiari L
+AD  - Department of Radiology, Department of Internal Medicine, Azienda Ospedaliera 
+      ASMN, IRCSS, Reggio Emilia, Italy.
+FAU - Scardapane, Arnaldo
+AU  - Scardapane A
+AD  - Department of Radiology, University of Bari, Italy.
+FAU - Iannone, Florenzo
+AU  - Iannone F
+AD  - Department of Rheumatology, University of Bari, Italy.
+FAU - Lapadula, Giovanni
+AU  - Lapadula G
+AD  - Department of Rheumatology, University of Bari, Italy.
+FAU - Pattacini, Pierpaolo
+AU  - Pattacini P
+AD  - Department of Radiology, Department of Internal Medicine, Azienda Ospedaliera 
+      ASMN, IRCSS, Reggio Emilia, Italy.
+FAU - Zuccoli, Giulio
+AU  - Zuccoli G
+AD  - Department of Rheumatology, Children's Hospital of Pittsburgh, USA.
+FAU - Salvarani, Carlo
+AU  - Salvarani C
+AD  - Department of Rheumatology, Department of Internal Medicine, Azienda Ospedaliera 
+      ASMN, IRCSS, Reggio Emilia, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20161027
+PL  - Italy
+TA  - Clin Exp Rheumatol
+JT  - Clinical and experimental rheumatology
+JID - 8308521
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Dermatomyositis/*diagnostic imaging
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle, Skeletal/*diagnostic imaging
+MH  - Polymyositis/*diagnostic imaging
+MH  - Thigh/*diagnostic imaging
+EDAT- 2016/12/20 06:00
+MHDA- 2017/06/21 06:00
+CRDT- 2016/12/20 06:00
+PHST- 2015/09/14 00:00 [received]
+PHST- 2016/01/18 00:00 [accepted]
+PHST- 2016/12/20 06:00 [entrez]
+PHST- 2016/12/20 06:00 [pubmed]
+PHST- 2017/06/21 06:00 [medline]
+AID - 9963 [pii]
+PST - ppublish
+SO  - Clin Exp Rheumatol. 2016 Nov-Dec;34(6):1098-1100. Epub 2016 Oct 27.

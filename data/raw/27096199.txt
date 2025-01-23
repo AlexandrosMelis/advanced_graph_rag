@@ -1,0 +1,177 @@
+PMID- 27096199
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160822
+LR  - 20210109
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2016
+TI  - Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in 
+      Children?
+PG  - e0152481
+LID - 10.1371/journal.pone.0152481 [doi]
+LID - e0152481
+AB  - BACKGROUND: Multiple viruses are often detected in children with respiratory 
+      infection but the significance of co-infection in pathogenesis, severity and 
+      outcome is unclear. OBJECTIVES: To correlate the presence of viral co-infection 
+      with clinical phenotype in children admitted with acute respiratory infections 
+      (ARI). METHODS: We collected detailed clinical information on severity for 
+      children admitted with ARI as part of a Spanish prospective multicenter study 
+      (GENDRES network) between 2011-2013. A nested polymerase chain reaction (PCR) 
+      approach was used to detect respiratory viruses in respiratory secretions. 
+      Findings were compared to an independent cohort collected in the UK. RESULTS: 204 
+      children were recruited in the main cohort and 97 in the replication cohort. The 
+      number of detected viruses did not correlate with any markers of severity. 
+      However, bacterial superinfection was associated with increased severity (OR: 
+      4.356; P-value = 0.005), PICU admission (OR: 3.342; P-value = 0.006), higher 
+      clinical score (1.988; P-value = 0.002) respiratory support requirement (OR: 
+      7.484; P-value < 0.001) and longer hospital length of stay (OR: 1.468; P-value < 
+      0.001). In addition, pneumococcal vaccination was found to be a protective factor 
+      in terms of degree of respiratory distress (OR: 2.917; P-value = 0.035), PICU 
+      admission (OR: 0.301; P-value = 0.011), lower clinical score (-1.499; P-value = 
+      0.021) respiratory support requirement (OR: 0.324; P-value = 0.016) and oxygen 
+      necessity (OR: 0.328; P-value = 0.001). All these findings were replicated in the 
+      UK cohort. CONCLUSION: The presence of more than one virus in hospitalized 
+      children with ARI is very frequent but it does not seem to have a major clinical 
+      impact in terms of severity. However bacterial superinfection increases the 
+      severity of the disease course. On the contrary, pneumococcal vaccination plays a 
+      protective role.
+FAU - Cebey-Lopez, Miriam
+AU  - Cebey-Lopez M
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+FAU - Herberg, Jethro
+AU  - Herberg J
+AD  - Section of Paediatrics, Division of Infectious Disease, Imperial College of 
+      London, South Kensington Campus, London, United Kingdom.
+FAU - Pardo-Seco, Jacobo
+AU  - Pardo-Seco J
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+AD  - Unidade de Xenetica, Departamento de Anatomia Patoloxica e Ciencias Forenses, and 
+      Instituto de Ciencias Forenses, Grupo de Medicina Xenomica (GMX), Facultade de 
+      Medicina, Universidade de Santiago de Compostela, Galicia, Spain.
+FAU - Gomez-Carballa, Alberto
+AU  - Gomez-Carballa A
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+AD  - Unidade de Xenetica, Departamento de Anatomia Patoloxica e Ciencias Forenses, and 
+      Instituto de Ciencias Forenses, Grupo de Medicina Xenomica (GMX), Facultade de 
+      Medicina, Universidade de Santiago de Compostela, Galicia, Spain.
+FAU - Martinon-Torres, Nazareth
+AU  - Martinon-Torres N
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+FAU - Salas, Antonio
+AU  - Salas A
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Unidade de Xenetica, Departamento de Anatomia Patoloxica e Ciencias Forenses, and 
+      Instituto de Ciencias Forenses, Grupo de Medicina Xenomica (GMX), Facultade de 
+      Medicina, Universidade de Santiago de Compostela, Galicia, Spain.
+FAU - Martinon-Sanchez, Jose Maria
+AU  - Martinon-Sanchez JM
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+FAU - Justicia, Antonio
+AU  - Justicia A
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+FAU - Rivero-Calle, Irene
+AU  - Rivero-Calle I
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+FAU - Sumner, Edward
+AU  - Sumner E
+AD  - Micropathology Ltd., University of Warwick Science Park, Coventry, United 
+      Kingdom.
+FAU - Fink, Colin
+AU  - Fink C
+AD  - Micropathology Ltd., University of Warwick Science Park, Coventry, United 
+      Kingdom.
+FAU - Martinon-Torres, Federico
+AU  - Martinon-Torres F
+AD  - Grupo de Investigacion en Genetica, Vacunas, Infecciones y Pediatria, Hospital 
+      Clinico Universitario and Universidade de Santiago de Compostela (USC), Galicia, 
+      Spain.
+AD  - Translational Pediatrics and Infectious Diseases section, Department of 
+      Pediatrics, Hospital Clinico Universitario de Santiago, Santiago de Compostela, 
+      Galicia, Spain.
+CN  - GENDRES network
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160420
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Pneumococcal Vaccines)
+SB  - IM
+MH  - Acute Disease
+MH  - Adult
+MH  - Child, Preschool
+MH  - Coinfection/prevention & control/therapy/*virology
+MH  - Female
+MH  - Hospitalization
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+MH  - Middle Aged
+MH  - Phenotype
+MH  - Pneumococcal Vaccines
+MH  - Respiratory Tract Infections/prevention & control/therapy/*virology
+PMC - PMC4838299
+COIS- Competing Interests: The authors have the following interests. Edward Sumner and 
+      Colin Fink are employed by Micropathology Ltd. There are no patents, products in 
+      development or marketed products to declare. This does not alter the authors' 
+      adherence to all the PLOS ONE policies on sharing data and materials, as detailed 
+      online in the guide for authors.
+EDAT- 2016/04/21 06:00
+MHDA- 2016/08/23 06:00
+PMCR- 2016/04/20
+CRDT- 2016/04/21 06:00
+PHST- 2015/10/06 00:00 [received]
+PHST- 2016/03/15 00:00 [accepted]
+PHST- 2016/04/21 06:00 [entrez]
+PHST- 2016/04/21 06:00 [pubmed]
+PHST- 2016/08/23 06:00 [medline]
+PHST- 2016/04/20 00:00 [pmc-release]
+AID - PONE-D-15-43766 [pii]
+AID - 10.1371/journal.pone.0152481 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Apr 20;11(4):e0152481. doi: 10.1371/journal.pone.0152481. 
+      eCollection 2016.

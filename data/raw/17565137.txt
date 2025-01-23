@@ -1,0 +1,79 @@
+PMID- 17565137
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071228
+LR  - 20240322
+IS  - 1468-3318 (Electronic)
+IS  - 0964-4563 (Print)
+IS  - 0964-4563 (Linking)
+VI  - 16
+IP  - 3
+DP  - 2007 Jun
+TI  - Out of the smokescreen II: will an advertisement targeting the tobacco industry 
+      affect young people's perception of smoking in movies and their intention to 
+      smoke?
+PG  - 177-81
+AB  - OBJECTIVE: To evaluate the effect of an antismoking advertisement on young 
+      people's perceptions of smoking in movies and their intention to smoke. 
+      SUBJECTS/SETTING: 3091 cinema patrons aged 12-24 years in three Australian 
+      states; 18.6% of the sample (n = 575) were current smokers. DESIGN/INTERVENTION: 
+      Quasi-experimental study of patrons, surveyed after having viewed a movie. The 
+      control group was surveyed in week 1, and the intervention group in weeks 2 and 
+      3. Before seeing the movie in weeks 2 and 3, a 30 s antismoking advertisement was 
+      shown, shot in the style of a movie trailer that warned patrons not to be sucked 
+      in by the smoking in the movie they were about to see. OUTCOMES: Attitude of 
+      current smokers and non-smokers to smoking in the movies; intention of current 
+      smokers and non-smokers to smoke in 12 months. RESULTS: Among non-smokers, 47.8% 
+      of the intervention subjects thought that the smoking in the viewed movie was not 
+      OK compared with 43.8% of the control subjects (p = 0.04). However, there was no 
+      significant difference among smokers in the intervention (16.5%) and control 
+      (14.5%) groups (p = 0.4). A higher percentage of smokers in the intervention 
+      group indicated that they were likely to be smoking in 12 months time (38.6%) 
+      than smokers in the control group (25.6%; p<0.001). For non-smokers, there was no 
+      significant difference in smoking intentions between groups, with 1.2% of 
+      intervention subjects and 1.6% of controls saying that they would probably be 
+      smoking in 12 months time (p = 0.54). CONCLUSIONS: This real-world study suggests 
+      that placing an antismoking advertisement before movies containing smoking scenes 
+      can help to immunise non-smokers against the influences of film stars' smoking. 
+      Caution must be exercised in the type of advertisement screened as some types of 
+      advertising may reinforce smokers' intentions to smoke.
+FAU - Edwards, Christine
+AU  - Edwards C
+AD  - Central Coast Health Promotion Unit, Northern Sydney Central Coast Health, PO Box 
+      361, Gosford, NSW 2250, Australia. cedwards@nsccahs.health.nsw.gov.au
+FAU - Oakes, Wendy
+AU  - Oakes W
+FAU - Bull, Diane
+AU  - Bull D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Tob Control
+JT  - Tobacco control
+JID - 9209612
+SB  - IM
+MH  - Adolescent
+MH  - *Advertising
+MH  - *Attitude to Health
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - *Motion Pictures
+MH  - Smoking/adverse effects/*psychology
+MH  - Smoking Prevention
+PMC - PMC2598498
+COIS- Competing interests: None declared.
+EDAT- 2007/06/15 09:00
+MHDA- 2007/12/29 09:00
+PMCR- 2010/01/01
+CRDT- 2007/06/15 09:00
+PHST- 2007/06/15 09:00 [pubmed]
+PHST- 2007/12/29 09:00 [medline]
+PHST- 2007/06/15 09:00 [entrez]
+PHST- 2010/01/01 00:00 [pmc-release]
+AID - 16/3/177 [pii]
+AID - tc17194 [pii]
+AID - 10.1136/tc.2006.017194 [doi]
+PST - ppublish
+SO  - Tob Control. 2007 Jun;16(3):177-81. doi: 10.1136/tc.2006.017194.

@@ -1,0 +1,101 @@
+PMID- 16713745
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060912
+LR  - 20181201
+IS  - 1542-3565 (Print)
+IS  - 1542-3565 (Linking)
+VI  - 4
+IP  - 6
+DP  - 2006 Jun
+TI  - Do cytokine concentrations in pancreatic juice predict the presence of pancreatic 
+      diseases?
+PG  - 782-9
+AB  - BACKGROUND & AIMS: Cytokine concentration in pancreatic juice of patients with 
+      pancreatic disease is unknown. Secretin stimulation allows endoscopic collection 
+      of pancreatic juice secreted into the duodenum. We aimed to evaluate the cytokine 
+      concentrations in pancreatic juice of patients with abdominal pain to 
+      discriminate presence from absence of pancreatic disease. METHODS: From January 
+      2003-December 2004, consecutive patients with abdominal pain compatible with 
+      pancreatic origin were enrolled. Patients underwent upper endoscopy. Intravenous 
+      secretin (0.2 mug/kg) was given immediately before scope intubation. Pancreatic 
+      juice collected from the duodenum was immediately snap-frozen in liquid nitrogen 
+      until assays were performed. Pancreatic juice levels of interleukin-8, 
+      interleukin-6, intercellular adhesion molecule 1, and transforming growth 
+      factor-beta 1 were measured by modified enzyme-linked immunosorbent assays. The 
+      final diagnosis was made by the primary gastroenterologist on the basis of 
+      medical history; laboratory, endoscopic, and imaging studies; and clinical 
+      follow-up. Fisher exact test and Kruskal-Wallis rank sum test were used for 
+      statistical analysis. RESULTS: Of 130 patients screened, 118 met the inclusion 
+      criteria. Multivariate analysis revealed that only interleukin-8 was able to 
+      discriminate between normal pancreas and chronic pancreatitis (P = .011), 
+      pancreatic cancer (P = .044), and the presence of pancreatic diseases (P = .007). 
+      Individual cytokine concentrations were not significantly different in chronic 
+      pancreatitis compared with pancreatic cancer. CONCLUSIONS: Cytokine levels can be 
+      measured in pancreatic juice obtained from the duodenum without direct 
+      cannulation of the pancreatic duct. Interleukin-8 concentration in pancreatic 
+      juice can be used to discriminate between normal pancreas and patients with 
+      pancreatic disease. This is a relatively simple and noninvasive method to aid in 
+      the diagnosis of pancreatic diseases.
+FAU - Noh, Kyung W
+AU  - Noh KW
+AD  - Division of Gastroenterology and Hepatology, Mayo Clinic, Jacksonville, Florida, 
+      USA.
+FAU - Pungpapong, Surakit
+AU  - Pungpapong S
+FAU - Wallace, Michael B
+AU  - Wallace MB
+FAU - Woodward, Timothy A
+AU  - Woodward TA
+FAU - Raimondo, Massimo
+AU  - Raimondo M
+LA  - eng
+PT  - Journal Article
+DEP - 20060519
+PL  - United States
+TA  - Clin Gastroenterol Hepatol
+JT  - Clinical gastroenterology and hepatology : the official clinical practice journal 
+      of the American Gastroenterological Association
+JID - 101160775
+RN  - 0 (Biomarkers)
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Interleukin-8)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 126547-89-5 (Intercellular Adhesion Molecule-1)
+RN  - 1393-25-5 (Secretin)
+RN  - EC 3.1.1.3 (Lipase)
+SB  - IM
+MH  - Abdominal Pain/etiology
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Biomarkers/analysis
+MH  - Cytokines/*analysis
+MH  - Diagnosis, Differential
+MH  - Endoscopy, Gastrointestinal
+MH  - Female
+MH  - Humans
+MH  - Intercellular Adhesion Molecule-1/analysis
+MH  - Interleukin-6/analysis
+MH  - Interleukin-8/analysis
+MH  - Lipase/analysis
+MH  - Male
+MH  - Middle Aged
+MH  - Pancreatic Diseases/*diagnosis
+MH  - Pancreatic Juice/*chemistry/metabolism
+MH  - Pancreatic Neoplasms/diagnosis
+MH  - Pancreatitis, Chronic/diagnosis
+MH  - Secretin/pharmacology
+MH  - Transforming Growth Factor beta/analysis
+EDAT- 2006/05/23 09:00
+MHDA- 2006/09/13 09:00
+CRDT- 2006/05/23 09:00
+PHST- 2006/05/23 09:00 [pubmed]
+PHST- 2006/09/13 09:00 [medline]
+PHST- 2006/05/23 09:00 [entrez]
+AID - S1542-3565(06)00329-6 [pii]
+AID - 10.1016/j.cgh.2006.03.026 [doi]
+PST - ppublish
+SO  - Clin Gastroenterol Hepatol. 2006 Jun;4(6):782-9. doi: 10.1016/j.cgh.2006.03.026. 
+      Epub 2006 May 19.

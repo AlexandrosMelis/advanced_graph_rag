@@ -1,0 +1,94 @@
+PMID- 16403186
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060302
+LR  - 20071114
+IS  - 1398-5647 (Print)
+IS  - 1398-5647 (Linking)
+VI  - 7
+IP  - 6
+DP  - 2005 Dec
+TI  - Are the arginine vasopressin V1a receptor microsatellites related to 
+      hypersexuality in children with a prepubertal and early adolescent bipolar 
+      disorder phenotype?
+PG  - 610-6
+AB  - OBJECTIVE: To examine family-based transmission of the number of 5' flanking 
+      arginine vasopressin V1a receptor (AVPR1A) microsatellites, which include 
+      [(GATA)(14)] and complex [(CT)(4)-TT-(CT)(8)-(GT)(24)] repeats, in probands with 
+      a prepubertal and early adolescent bipolar disorder phenotype (PEA-BP). 
+      Preferential transmission of the number of AVPR1A microsatellite repeats to 
+      hypersexual and uninhibited people-seeking probands was hypothesized, based on 
+      reports from preclinical work in the literature. METHODS: Probands were 83 
+      participants in an ongoing controlled study of PEA-BP. The PEA-BP phenotype was 
+      defined by DSM-IV mania with at least one of the cardinal symptoms of mania 
+      (elation and/or grandiosity) to avoid diagnosing mania only by symptoms that 
+      overlapped with those for attention-deficit hyperactivity disorder (ADHD). 
+      Comprehensive assessment of the probands included separate Washington University 
+      in St. Louis Kiddie Schedule for Affective Disorders and Schizophrenia 
+      (WASH-U-KSADS) interviews of parents about their children and of children about 
+      themselves. Hypersexuality and uninhibited people-seeking were assessed from the 
+      corresponding WASH-U-KSADS items. Microsatellite genotyping of the AVPR1A repeats 
+      was conducted using fluorescently labeled primers and detected by laser-induced 
+      fluorescence. Alleles were determined with the assistance of semi-automated 
+      allele-calling software. There were 32 complete, biological trios (28 informative 
+      families) for the GATA repeat and 34 complete, biological trios (30 informative 
+      families) for the complex repeat. Data were analyzed using case-control and 
+      family-based association methods. RESULTS: Preferential transmission of AVPR1A 
+      GATA or complex repeats was not significant for hypersexuality or uninhibited 
+      people-seeking, using the transmission disequilibrium test. Similarly, 
+      case-control analyses found no significant associations between hypersexuality or 
+      uninhibited people-seeking and the number of AVPR1A GATA or complex repeats. For 
+      p < 0.05, there was about 80% power to detect odds ratios of 5.0 and 4.0 (in the 
+      family-based analyses) and 3.5 and 2.6 (in the case-control analyses), for allele 
+      frequencies of 0.1 and 0.5, respectively. CONCLUSION: Preferential transmission 
+      of AVPR1A to hypersexual or uninhibited people-seeking probands was not 
+      supported.
+FAU - Geller, Barbara
+AU  - Geller B
+AD  - Washington University School of Medicine, St. Louis, MO 63110, USA. 
+      gellerb@medicine.wustl.edu
+FAU - Tillman, Rebecca
+AU  - Tillman R
+FAU - Badner, Judith A
+AU  - Badner JA
+FAU - Cook, Edwin H Jr
+AU  - Cook EH Jr
+LA  - eng
+GR  - K02 MH-01389/MH/NIMH NIH HHS/United States
+GR  - R01 MH-53063/MH/NIMH NIH HHS/United States
+GR  - R01 MH-57451/MH/NIMH NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - Denmark
+TA  - Bipolar Disord
+JT  - Bipolar disorders
+JID - 100883596
+RN  - 0 (Receptors, Vasopressin)
+RN  - 0 (vasotocin receptor)
+SB  - IM
+MH  - Adolescent
+MH  - Alleles
+MH  - Bipolar Disorder/complications/*genetics
+MH  - Case-Control Studies
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Linkage Disequilibrium
+MH  - Male
+MH  - Microsatellite Repeats/*genetics
+MH  - *Phenotype
+MH  - Psychiatric Status Rating Scales
+MH  - Receptors, Vasopressin/*genetics
+MH  - Sexual Dysfunctions, Psychological/etiology/*genetics
+EDAT- 2006/01/13 09:00
+MHDA- 2006/03/03 09:00
+CRDT- 2006/01/13 09:00
+PHST- 2006/01/13 09:00 [pubmed]
+PHST- 2006/03/03 09:00 [medline]
+PHST- 2006/01/13 09:00 [entrez]
+AID - BDI259 [pii]
+AID - 10.1111/j.1399-5618.2005.00259.x [doi]
+PST - ppublish
+SO  - Bipolar Disord. 2005 Dec;7(6):610-6. doi: 10.1111/j.1399-5618.2005.00259.x.

@@ -1,0 +1,68 @@
+PMID- 15137012
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040818
+LR  - 20241105
+IS  - 1531-5037 (Electronic)
+IS  - 0022-3468 (Linking)
+VI  - 39
+IP  - 5
+DP  - 2004 May
+TI  - Ovarian torsion in children: is oophorectomy necessary?
+PG  - 750-3
+AB  - BACKGROUND: Most pediatric surgeons perform oophorectomy in girls presenting with 
+      ovarian torsion in which the ovary appears necrotic. However, the adult 
+      gynecology literature suggests that many ovaries can be treated by detorsion 
+      alone. METHODS: All children with ovarian torsion on the gynecology and general 
+      surgery services between 1988 and 2002 were reviewed. RESULTS: There were 36 
+      torsions in 34 children. Seventeen underwent detorsion with or without ovarian 
+      cystectomy, and 19 had oophorectomy (mean age 10 years in both groups). Torsion 
+      was suspected preoperatively in 94% of the detorsion cases and in 47% of the 
+      oophorectomy patients. Median time from presentation to surgery was significantly 
+      lower in the detorsion than the oophorectomy group (median 14 v 27 hours; P 
+      =.04). Postoperative complications and length of stay were similar between the 2 
+      groups. Despite the ovary being judged intraoperatively as moderately to severely 
+      ischemic in 53% of the detorsion cases, follow-up sonogram or ovarian biopsy 
+      available in 14 of the 17 cases showed normal ovary with follicular development 
+      in each case. CONCLUSIONS: Simple detorsion was not accompanied by an increase in 
+      morbidity, and all patients studied had functioning ovarian tissue on follow-up 
+      despite the surgeon's assessment of the degree of ovarian ischemia. Detorsion is 
+      the procedure of choice for most cases of ovarian torsion in children.
+FAU - Aziz, Dalal
+AU  - Aziz D
+AD  - Division of Pediatric General Surgery, Hospital for Sick Children and University 
+      of Toronto, Toronto, Ontario, Canada.
+FAU - Davis, Victoria
+AU  - Davis V
+FAU - Allen, Lisa
+AU  - Allen L
+FAU - Langer, Jacob C
+AU  - Langer JC
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr Surg
+JT  - Journal of pediatric surgery
+JID - 0052631
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - Fallopian Tubes/surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Ovarian Diseases/*therapy
+MH  - *Ovariectomy
+MH  - Torsion Abnormality/therapy
+MH  - Treatment Outcome
+EDAT- 2004/05/12 05:00
+MHDA- 2004/08/19 05:00
+CRDT- 2004/05/12 05:00
+PHST- 2004/05/12 05:00 [pubmed]
+PHST- 2004/08/19 05:00 [medline]
+PHST- 2004/05/12 05:00 [entrez]
+AID - S0022346804000521 [pii]
+AID - 10.1016/j.jpedsurg.2004.01.034 [doi]
+PST - ppublish
+SO  - J Pediatr Surg. 2004 May;39(5):750-3. doi: 10.1016/j.jpedsurg.2004.01.034.

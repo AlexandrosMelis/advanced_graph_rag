@@ -1,0 +1,97 @@
+PMID- 26449554
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170328
+LR  - 20181113
+IS  - 1522-1709 (Electronic)
+IS  - 1520-9512 (Linking)
+VI  - 20
+IP  - 2
+DP  - 2016 May
+TI  - Does either obesity or OSA severity influence the response of autotitrating CPAP 
+      machines in very obese subjects?
+PG  - 647-52
+LID - 10.1007/s11325-015-1267-y [doi]
+AB  - PURPOSE: The pressures delivered by autotitrating continuous positive airways 
+      pressure (CPAP) devices not only treat obstructive sleep apnoea (OSA) effectively 
+      but also give potentially interesting physiological information about the forces 
+      impinging on the pharynx. In earlier work from this unit, we used correlations 
+      between autoCPAP pressure and both OSA severity and obesity, to construct an 
+      algorithm to estimate the fixed CPAP pressure a patient required for subsequent 
+      clinical use. We wished to discover if these relationships could be reliably 
+      extended to a much more obese group. METHODS: We performed a prospective cohort 
+      study in an obese population. Measurements of obesity were made, OSA severity was 
+      recorded, and the 95th centile autoCPAP pressure was recorded during 1 week of 
+      autoCPAP. Spearman's rank correlation was performed between measurements of 
+      obesity and autoCPAP pressure, and between OSA severity and autoCPAP pressure. 
+      RESULTS: Fifty-four obese individuals (median body mass index (BMI) 
+      43.0 kg/m(2)), 52 % of whom had OSA (apnoea-hypopnoea index (AHI) >/= 15), had a 
+      median 95th centile autoCPAP pressure of 11.8 cmH2O. We found no significant 
+      correlation between autoCPAP pressure and neck circumference, waist circumference 
+      or BMI. There was a moderate correlation between autoCPAP pressure and OSA 
+      severity (AHI r = 0.34, p = 0.02; oxygen desaturation index (ODI) r = 0.48, 
+      p < 0.001). CONCLUSIONS: In this population, neither BMI nor neck circumference 
+      nor waist circumference is predictive of autoCPAP pressure. Therefore, the 
+      previously derived algorithm does not adequately predict the fixed CPAP pressure 
+      for subsequent clinical use in these obese individuals. In addition, some 
+      subjects without OSA generated high autoCPAP pressures, and thus, the correlation 
+      between OSA severity and autoCPAP pressure was only moderate.
+FAU - Turnbull, Chris D
+AU  - Turnbull CD
+AUID- ORCID: 0000-0001-8942-5424
+AD  - Oxford Centre for Respiratory Medicine and NIHR Oxford Biomedical Research 
+      Centre, Churchill Hospital, Oxford University Hospitals NHS Trust, Oxford, OX3 
+      7LJ, UK. christopher.turnbull@ouh.nhs.uk.
+FAU - Manuel, Ari R
+AU  - Manuel AR
+AD  - Oxford Centre for Respiratory Medicine and NIHR Oxford Biomedical Research 
+      Centre, Churchill Hospital, Oxford University Hospitals NHS Trust, Oxford, OX3 
+      7LJ, UK.
+FAU - Stradling, John R
+AU  - Stradling JR
+AD  - Oxford Centre for Respiratory Medicine and NIHR Oxford Biomedical Research 
+      Centre, Churchill Hospital, Oxford University Hospitals NHS Trust, Oxford, OX3 
+      7LJ, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20151008
+PL  - Germany
+TA  - Sleep Breath
+JT  - Sleep & breathing = Schlaf & Atmung
+JID - 9804161
+SB  - IM
+MH  - Adult
+MH  - Body Mass Index
+MH  - Cohort Studies
+MH  - Continuous Positive Airway Pressure/*instrumentation
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Obesity, Morbid/*complications/*physiopathology
+MH  - Pharynx/physiopathology
+MH  - Polysomnography
+MH  - Prospective Studies
+MH  - Sleep Apnea, Obstructive/*physiopathology/*therapy
+MH  - Statistics as Topic
+MH  - Therapy, Computer-Assisted/*instrumentation
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Autotitrating CPAP
+OT  - Obesity
+OT  - Obstructive sleep apnoea
+OT  - Respiratory physiology
+EDAT- 2015/10/10 06:00
+MHDA- 2017/03/30 06:00
+CRDT- 2015/10/10 06:00
+PHST- 2015/06/11 00:00 [received]
+PHST- 2015/09/21 00:00 [accepted]
+PHST- 2015/08/12 00:00 [revised]
+PHST- 2015/10/10 06:00 [entrez]
+PHST- 2015/10/10 06:00 [pubmed]
+PHST- 2017/03/30 06:00 [medline]
+AID - 10.1007/s11325-015-1267-y [pii]
+AID - 10.1007/s11325-015-1267-y [doi]
+PST - ppublish
+SO  - Sleep Breath. 2016 May;20(2):647-52. doi: 10.1007/s11325-015-1267-y. Epub 2015 
+      Oct 8.

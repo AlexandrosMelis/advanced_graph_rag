@@ -1,0 +1,88 @@
+PMID- 18719011
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080902
+LR  - 20211020
+IS  - 1756-1833 (Electronic)
+IS  - 0959-8138 (Print)
+IS  - 0959-8138 (Linking)
+VI  - 337
+DP  - 2008 Aug 21
+TI  - Do overweight children necessarily make overweight adults? Repeated cross 
+      sectional annual nationwide survey of Japanese girls and women over nearly six 
+      decades.
+PG  - a802
+LID - 337/aug21_1/a802 [pii]
+LID - 10.1136/bmj.a802 [doi]
+LID - a802
+AB  - OBJECTIVE: To compare growth curves of body mass index from children to 
+      adolescents, and then to young adults, in Japanese girls and women in birth 
+      cohorts born from 1930 to 1999. DESIGN: Retrospective repeated cross sectional 
+      annual nationwide surveys (national nutrition survey, Japan) carried out from 
+      1948 to 2005. SETTING: Japan. PARTICIPANTS: 76,635 females from 1 to 25 years of 
+      age. MAIN OUTCOME MEASURE: Body mass index. RESULTS: Generally, body mass index 
+      decreased in preschool children (2-5 years), increased in children (6-12 years) 
+      and adolescents (13-18 years), and slightly decreased in young adults (19-25 
+      years) in these Japanese females. However, the curves differed among birth 
+      cohorts. More recent cohorts were more overweight as children but thinner as 
+      young women. The increments in body mass index in early childhood were larger in 
+      more recent cohorts than in older cohorts. However, the increments in body mass 
+      index in adolescents were smaller and the decrease in body mass index in young 
+      adults started earlier, with lower peak values in more recent cohorts than in 
+      older cohorts. The decrements in body mass index in young adults were similar in 
+      all birth cohorts. CONCLUSIONS: An overweight birth cohort in childhood does not 
+      necessarily continue to be overweight in young adulthood. Not only secular trends 
+      in body mass index at fixed ages but also growth curves for wide age ranges by 
+      birth cohorts should be considered to study obesity and thinness. Growth curves 
+      by birth cohorts were produced by a repeated cross sectional annual survey over 
+      nearly six decades.
+FAU - Funatogawa, Ikuko
+AU  - Funatogawa I
+AD  - Department of Hygiene and Public Health, Teikyo University School of Medicine, 
+      Tokyo 173-8605, Japan. ifunatogawa-tky@umin.ac.jp
+FAU - Funatogawa, Takashi
+AU  - Funatogawa T
+FAU - Yano, Eiji
+AU  - Yano E
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080821
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+SB  - IM
+CIN - BMJ. 2008 Aug 21;337:a669. doi: 10.1136/bmj.a669. PMID: 18719009
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Body Mass Index
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Growth/*physiology
+MH  - Humans
+MH  - Infant
+MH  - Japan/epidemiology
+MH  - Middle Aged
+MH  - Overweight/*epidemiology/physiopathology
+MH  - Prevalence
+MH  - Thinness/epidemiology/physiopathology
+PMC - PMC2518696
+COIS- Competing interests: None declared.
+EDAT- 2008/08/23 09:00
+MHDA- 2008/09/03 09:00
+PMCR- 2008/08/21
+CRDT- 2008/08/23 09:00
+PHST- 2008/08/23 09:00 [pubmed]
+PHST- 2008/09/03 09:00 [medline]
+PHST- 2008/08/23 09:00 [entrez]
+PHST- 2008/08/21 00:00 [pmc-release]
+AID - 337/aug21_1/a802 [pii]
+AID - funi545483 [pii]
+AID - 10.1136/bmj.a802 [doi]
+PST - epublish
+SO  - BMJ. 2008 Aug 21;337:a802. doi: 10.1136/bmj.a802.

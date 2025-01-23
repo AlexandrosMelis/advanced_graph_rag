@@ -1,0 +1,85 @@
+PMID- 7664228
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19951012
+LR  - 20181113
+IS  - 0820-3946 (Print)
+IS  - 1488-2329 (Electronic)
+IS  - 0820-3946 (Linking)
+VI  - 153
+IP  - 6
+DP  - 1995 Sep 15
+TI  - Discharging patients earlier from Winnipeg hospitals: does it adversely affect 
+      quality of care?
+PG  - 745-51
+AB  - OBJECTIVE: To determine whether decreasing lengths of stay over time for selected 
+      diagnostic categories were associated with increased hospital readmission rates 
+      and mean number of physician visits after discharge. DESIGN: Retrospective 
+      descriptive study. SETTING: The seven large (125 beds or more) acute care 
+      hospitals in Winnipeg. PATIENTS: Manitoba residents admitted to any one of the 
+      seven hospitals because acute myocardial infarction (AMI), bronchitis or asthma, 
+      transurethral prostatectomy (TURP) and uterine or adnexal procedures for 
+      nonmalignant disease during the fiscal years 1989-90 to 1992-93. Patients from 
+      out of province, those who died in hospital, those with excessively long stays 
+      (more than 60 days) and those who were transferred to or from another institution 
+      were excluded. OUTCOME MEASURES: Length of hospital stay, and rate of readmission 
+      within 30 days after discharge for all four categories and mean number of 
+      physician visits within 30 days after discharge for two categories (AMI and 
+      bronchitis or asthma. RESULTS: The length of stay decreased significantly over 
+      the 4 years for all of the four categories, the smallest change being observed 
+      for patients with AMI (11.1%) and the largest for those with bronchitis or asthma 
+      (22.0%). The readmission rates for AMI, bronchitis or asthma, and TURP showed no 
+      consistent change over the 4 years. The readmission rate for uterine or adnexal 
+      procedures increased significantly between the first and second year (chi 2 = 
+      4.28, p = 0.04) but then remained constant over the next 3 years. The mean number 
+      of physician visits increased slightly for AMI in the first year (1.92 to 2.01) 
+      and then remained virtually the same. It decreased slightly for bronchitis or 
+      asthma over the 4 years. There was no significant correlation between length of 
+      stay and readmission rates for individual hospitals in 1992-93 in any of the four 
+      categories. Also, no correlation was observed between length of stay and mean 
+      number of physician visits for individual hospitals in 1992-93 in the categories 
+      AMI and bronchitis or asthma. CONCLUSIONS: Improving hospital efficiency by 
+      shortening length of stay does not appear to result in increased rates of 
+      readmission or numbers of physician visits within 30 days after discharge from 
+      hospital. Research is needed to identify optimal lengths of stay and expected 
+      readmission rates.
+FAU - Harrison, M L
+AU  - Harrison ML
+AD  - Department of Community Health Sciences, Faculty of Medicine, University of 
+      Manitoba, Winnipeg.
+FAU - Graff, L A
+AU  - Graff LA
+FAU - Roos, N P
+AU  - Roos NP
+FAU - Brownell, M D
+AU  - Brownell MD
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Canada
+TA  - CMAJ
+JT  - CMAJ : Canadian Medical Association journal = journal de l'Association medicale 
+      canadienne
+JID - 9711805
+SB  - IM
+CIN - CMAJ. 1996 Feb 1;154(3):299-300. PMID: 8564892
+MH  - Diagnosis-Related Groups
+MH  - Humans
+MH  - Length of Stay/*trends
+MH  - Manitoba
+MH  - Office Visits/statistics & numerical data/*trends
+MH  - Patient Readmission/statistics & numerical data/*trends
+MH  - Quality of Health Care/trends
+MH  - Retrospective Studies
+PMC - PMC1487263
+EDAT- 1995/09/15 00:00
+MHDA- 1995/09/15 00:01
+PMCR- 1995/09/15
+CRDT- 1995/09/15 00:00
+PHST- 1995/09/15 00:00 [pubmed]
+PHST- 1995/09/15 00:01 [medline]
+PHST- 1995/09/15 00:00 [entrez]
+PHST- 1995/09/15 00:00 [pmc-release]
+PST - ppublish
+SO  - CMAJ. 1995 Sep 15;153(6):745-51.

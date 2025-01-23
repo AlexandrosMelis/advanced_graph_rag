@@ -1,0 +1,91 @@
+PMID- 24996865
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160602
+LR  - 20211021
+IS  - 1433-7347 (Electronic)
+IS  - 0942-2056 (Linking)
+VI  - 23
+IP  - 11
+DP  - 2015 Nov
+TI  - Assessing joint line positions by means of the contralateral knee: a new approach 
+      for planning knee revision surgery?
+PG  - 3244-50
+LID - 10.1007/s00167-014-3157-4 [doi]
+AB  - PURPOSE: Reconstructing the natural joint line in knee revision surgery improves 
+      clinical and functional outcome but may be challenging when both cartilage and 
+      bone were removed during previous operations. Assessing joint lines (JLs) by 
+      means of bony landmarks is inadvisable because of large variations in human 
+      anatomy. Because of the inherent symmetry of the human body, we hypothesised that 
+      JLs may be directly assessed by measuring the distances from the bony landmarks 
+      to the JL of the contralateral knee by means of radiographic images. METHODS: 
+      Using scaled weight-bearing radiographs in anteroposterior view of both knees, 
+      two independent observers measured the distances from the fibular head, the 
+      medial and lateral epicondyle, and the adductor tubercle to the JL. A two-sided p 
+      value of </=0.05 was considered statistically significant. RESULTS: Two hundred 
+      knees of 100 patients (50 men and 50 women) were examined. For the fibular head, 
+      the mean difference between the treated and the control knee was 0.0 mm with 
+      narrow confidence limits ranging from -1.1 to 1.1. CONCLUSION: As a new 
+      assessment method, we have suggested to assess the JL by means of radiographs of 
+      the contralateral knee. The most precise parameter was found to be the distance 
+      between the fibular head and the JL. The level of arthritis, age, gender, 
+      visibility of the landmarks, and misalignment did not influence measurement 
+      accuracy. This parameter is the first tibia-related landmark for assessing the 
+      JL, which advantageously corresponds to the tibia-first technique in revision 
+      surgery. LEVEL OF EVIDENCE: Diagnostic Study, Level II.
+FAU - Maderbacher, Gunther
+AU  - Maderbacher G
+AD  - Department of Orthopaedic Surgery, University of Regensburg, Regensburg, Germany. 
+      Guenther.Maderbacher@klinik.uni-regensburg.de.
+FAU - Keshmiri, Armin
+AU  - Keshmiri A
+AD  - Department of Orthopaedic Surgery, University of Regensburg, Regensburg, Germany.
+FAU - Zeman, Florian
+AU  - Zeman F
+AD  - Center of Clinical Studies, University of Regensburg, Regensburg, Germany.
+FAU - Grifka, Joachim
+AU  - Grifka J
+AD  - Department of Orthopaedic Surgery, University of Regensburg, Regensburg, Germany.
+FAU - Baier, Clemens
+AU  - Baier C
+AD  - Department of Orthopaedic Surgery, University of Regensburg, Regensburg, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20140705
+PL  - Germany
+TA  - Knee Surg Sports Traumatol Arthrosc
+JT  - Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA
+JID - 9314730
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anatomic Landmarks
+MH  - Arthroplasty, Replacement, Knee/*methods
+MH  - Female
+MH  - Humans
+MH  - Knee Joint/*diagnostic imaging/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - *Preoperative Care
+MH  - Radiography
+MH  - Reoperation
+MH  - Weight-Bearing
+OTO - NOTNLM
+OT  - Contralateral knee
+OT  - Fibular head
+OT  - Joint line
+OT  - Knee revision surgery
+EDAT- 2014/07/06 06:00
+MHDA- 2016/06/03 06:00
+CRDT- 2014/07/06 06:00
+PHST- 2014/03/27 00:00 [received]
+PHST- 2014/06/20 00:00 [accepted]
+PHST- 2014/07/06 06:00 [entrez]
+PHST- 2014/07/06 06:00 [pubmed]
+PHST- 2016/06/03 06:00 [medline]
+AID - 10.1007/s00167-014-3157-4 [pii]
+AID - 10.1007/s00167-014-3157-4 [doi]
+PST - ppublish
+SO  - Knee Surg Sports Traumatol Arthrosc. 2015 Nov;23(11):3244-50. doi: 
+      10.1007/s00167-014-3157-4. Epub 2014 Jul 5.

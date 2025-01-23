@@ -1,0 +1,94 @@
+PMID- 21166749
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111020
+LR  - 20220317
+IS  - 1464-410X (Electronic)
+IS  - 1464-4096 (Linking)
+VI  - 108
+IP  - 6
+DP  - 2011 Sep
+TI  - Is patient outcome compromised during the initial experience with robot-assisted 
+      radical cystectomy? Results of 164 consecutive cases.
+PG  - 882-7
+LID - 10.1111/j.1464-410X.2010.09904.x [doi]
+AB  - OBJECTIVE: * Robot-assisted radical cystectomy (RARC) remains controversial in 
+      terms of oncologic outcomes, especially during the initial experience. The 
+      purpose of this study was to evaluate the impact of initial experience of robotic 
+      cystectomy programs on oncologic outcomes and overall survival. PATIENTS AND 
+      METHODS: * Utilizing a prospectively maintained, single institution robotic 
+      cystectomy database, we identified 164 consecutive patients who underwent RARC 
+      since November 2005. * After stratification by age group, gender, pathologic T 
+      stage, lymph node status, surgical margin status, and sequential case number; we 
+      used chi-squared analyses to correlate sequential case number to operative time, 
+      surgical blood loss, lymph node yield, and surgical margin status. * We also 
+      addressed the relationship between complications and sequential case number. We 
+      then utilized Cox proportional hazard modeling and Kaplan-Meier survival analyses 
+      to correlate variables to overall mortality. RESULTS: * Sequential case number 
+      was not significantly associated with increased incidence of complications, 
+      surgical blood loss, or positive surgical margins (P= 0.780, P= 0.548, P= 0.545). 
+      Case number was, however, significantly associated with shorter operative time 
+      and mean number of lymph nodes retrieved (P < 0.001, P < 0.001). * Sequential 
+      case number was not significantly associated with survival; however, tumour 
+      stage, the presence of lymph node metastases, and positive surgical margins were 
+      significantly associated with death. * Although being the largest of its kind, 
+      this was a small study with short follow-up when compared to open cystectomy 
+      series. CONCLUSION: * Initial experience with RARC did not affect the incidence 
+      of positive surgical margins, operative/postoperative complications, or overall 
+      survival in a single-institution series.
+CI  - (c) 2010 THE AUTHORS. BJU INTERNATIONAL (c) 2010 BJU INTERNATIONAL.
+FAU - Hayn, Matthew H
+AU  - Hayn MH
+AD  - Dept of Urology, Roswell Park Cancer Institute, Buffalo, New York, USA.
+FAU - Hellenthal, Nicholas J
+AU  - Hellenthal NJ
+FAU - Seixas-Mikelus, Stefanie A
+AU  - Seixas-Mikelus SA
+FAU - Mansour, Ahmed M
+AU  - Mansour AM
+FAU - Stegemann, Andrew
+AU  - Stegemann A
+FAU - Hussain, Abid
+AU  - Hussain A
+FAU - Guru, Khurshid A
+AU  - Guru KA
+LA  - eng
+PT  - Journal Article
+DEP - 20101216
+PL  - England
+TA  - BJU Int
+JT  - BJU international
+JID - 100886721
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Blood Loss, Surgical/statistics & numerical data
+MH  - Chemotherapy, Adjuvant/mortality/statistics & numerical data
+MH  - Clinical Competence/*standards
+MH  - Cystectomy/mortality/*standards
+MH  - Female
+MH  - Humans
+MH  - Learning Curve
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Middle Aged
+MH  - Postoperative Complications/etiology/mortality
+MH  - Prospective Studies
+MH  - Risk Factors
+MH  - Robotics/*standards
+MH  - Survival Analysis
+MH  - Treatment Outcome
+MH  - Urinary Bladder Neoplasms/mortality/*surgery
+MH  - Urology/*standards/statistics & numerical data
+EDAT- 2010/12/21 06:00
+MHDA- 2011/10/21 06:00
+CRDT- 2010/12/21 06:00
+PHST- 2010/12/21 06:00 [entrez]
+PHST- 2010/12/21 06:00 [pubmed]
+PHST- 2011/10/21 06:00 [medline]
+AID - 10.1111/j.1464-410X.2010.09904.x [doi]
+PST - ppublish
+SO  - BJU Int. 2011 Sep;108(6):882-7. doi: 10.1111/j.1464-410X.2010.09904.x. Epub 2010 
+      Dec 16.

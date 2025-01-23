@@ -1,0 +1,110 @@
+PMID- 10456814
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990930
+LR  - 20190814
+IS  - 0001-5172 (Print)
+IS  - 0001-5172 (Linking)
+VI  - 43
+IP  - 7
+DP  - 1999 Aug
+TI  - Does desflurane alter left ventricular function when used to control surgical 
+      stimulation during aortic surgery?
+PG  - 737-43
+AB  - BACKGROUND: Although desflurane is commonly used to control surgically induced 
+      hypertension, its effects on left ventricular (LV) function have not been 
+      investigated in this clinical situation. The purpose of the present study was to 
+      evaluate the LV function response to desflurane, when used to control 
+      intraoperative hypertension. METHODS: In 50 patients, scheduled for vascular 
+      surgery, anesthesia was induced with sufentanil 0.5 microg/kg, midazolam 0.3 
+      mg/kg and atracurium 0.5 mg/kg. After tracheal intubation, anesthesia was 
+      maintained with increments of drugs with controlled ventilation (N2O/O2=60/40%) 
+      until the start of surgery. A 5 Mhz transesophageal echocardiography (TEE) probe 
+      was inserted after intubation. Pulmonary artery catheter and TEE measurements 
+      were obtained after induction (to)(control value), at surgical incision (t1) if 
+      it was associated with an increase in systolic arterial pressure (SAP) greater 
+      than 140 mmHg (hypertension) and after control of hemodynamic parameters by 
+      administration of desflurane (return of systolic arterial pressure to within 20% 
+      of the control value) (t2) in a fresh gas flow of 31/ min. RESULTS: Sixteen 
+      patients developed hypertension at surgical incision. SAP was controlled by 
+      desflurane in all 16 patients. Afterload assessed by systemic vascular resistance 
+      index (SVRI), end-systolic wall-stress (ESWS) and left-ventricular stroke work 
+      index (LVSWI) increased with incision until the hypertension returned to 
+      post-induction values with mean end-tidal concentration of 5.1+/-0.7% desflurane. 
+      No change in heart rate, cardiac index, mean pulmonary arterial pressure, stroke 
+      volume, end-diastolic and end-systolic cross-sectional areas, fractional area 
+      change and left ventricular circumferential fiber shortening was noted when 
+      desflurane was added to restore blood pressure. CONCLUSION: This study 
+      demonstrates that in patients at risk for cardiac morbidity undergoing vascular 
+      surgery, desflurane is effective to control intraoperative hypertension without 
+      fear of major cardiac depressant effect.
+FAU - Eyraud, D
+AU  - Eyraud D
+AD  - Department of Anesthesiology and Intensive Care, Hopital de la Pitie-Salpetriere, 
+      Paris VI University, France.
+FAU - Benmalek, F
+AU  - Benmalek F
+FAU - Teugels, K
+AU  - Teugels K
+FAU - Bertrand, M
+AU  - Bertrand M
+FAU - Mouren, S
+AU  - Mouren S
+FAU - Coriat, P
+AU  - Coriat P
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Acta Anaesthesiol Scand
+JT  - Acta anaesthesiologica Scandinavica
+JID - 0370270
+RN  - 0 (Anesthetics, Inhalation)
+RN  - 0 (Anesthetics, Intravenous)
+RN  - 0 (Neuromuscular Nondepolarizing Agents)
+RN  - 2GQ1IRY63P (Atracurium)
+RN  - AFE2YW0IIZ (Sufentanil)
+RN  - CRS35BZ94Q (Desflurane)
+RN  - CYS9AKD70P (Isoflurane)
+RN  - K50XQU1029 (Nitrous Oxide)
+RN  - R60L0SM5BC (Midazolam)
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Anesthetics, Inhalation/*administration & dosage
+MH  - Anesthetics, Intravenous/administration & dosage
+MH  - Aorta/*surgery
+MH  - Atracurium/administration & dosage
+MH  - Blood Pressure/physiology
+MH  - Cardiac Output/drug effects
+MH  - Catheterization, Swan-Ganz
+MH  - Desflurane
+MH  - Diastole
+MH  - Echocardiography, Transesophageal
+MH  - Female
+MH  - Heart Rate/drug effects
+MH  - Heart Ventricles/drug effects
+MH  - Humans
+MH  - Hypertension/*prevention & control
+MH  - Intraoperative Complications/*prevention & control
+MH  - Intubation, Intratracheal
+MH  - Isoflurane/administration & dosage/*analogs & derivatives
+MH  - Male
+MH  - Midazolam/administration & dosage
+MH  - Middle Aged
+MH  - Neuromuscular Nondepolarizing Agents/administration & dosage
+MH  - Nitrous Oxide/administration & dosage
+MH  - Oxygen/administration & dosage
+MH  - Stroke Volume/drug effects
+MH  - Sufentanil/administration & dosage
+MH  - Systole
+MH  - Vascular Resistance/drug effects
+MH  - Ventricular Function, Left/*drug effects
+EDAT- 1999/08/24 00:00
+MHDA- 1999/08/24 00:01
+CRDT- 1999/08/24 00:00
+PHST- 1999/08/24 00:00 [pubmed]
+PHST- 1999/08/24 00:01 [medline]
+PHST- 1999/08/24 00:00 [entrez]
+AID - 10.1034/j.1399-6576.1999.430709.x [doi]
+PST - ppublish
+SO  - Acta Anaesthesiol Scand. 1999 Aug;43(7):737-43. doi: 
+      10.1034/j.1399-6576.1999.430709.x.

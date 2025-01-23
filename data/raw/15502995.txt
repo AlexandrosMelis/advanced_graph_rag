@@ -1,0 +1,81 @@
+PMID- 15502995
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050401
+LR  - 20181113
+IS  - 0031-6970 (Print)
+IS  - 0031-6970 (Linking)
+VI  - 60
+IP  - 9
+DP  - 2004 Nov
+TI  - Does the early adopter of drugs exist? A population-based study of general 
+      practitioners' prescribing of new drugs.
+PG  - 667-72
+AB  - OBJECTIVE: To analyse associations between indicators for adoption of new drugs 
+      and to test the hypothesis that physicians' early adoption of new drugs is a 
+      personal trait independent of drug groups. METHODS: In a population-based cohort 
+      study using register data, we analysed the prescribing of new drugs by Danish 
+      general practitioners. Angiotensin-II antagonists, triptans, selective 
+      cyclo-oxygenase-2 antagonists and esomeprazol were used in the assessment. As 
+      indicators of new drug uptake, we used adoption time, cumulative incidence, 
+      preference proportion, incidence rate and prescription cost and volume. For each 
+      measure, we ranked the general practices. Ranks were pair-wise plotted, and 
+      Pearson's correlation coefficient ( r) was calculated. Next, we analysed the 
+      correlation between ranks across different drug classes. RESULTS: For all 
+      indicators, the general practitioners' adoption of one group of drugs was poorly 
+      associated with adoption of others ( r</=0.49), indicating that early adoption of 
+      one type of drugs is not associated with early adoption of another. For all drug 
+      groups, adoption time adjusted for practice size was only weakly associated with 
+      other indicators ( r: -0.56 to -0.27). Indicators, based on cost and volume of 
+      drugs, were highly correlated ( r: 0.96-0.99), and the others correlated 
+      reasonably well ( r: 0.51-0.91). CONCLUSIONS: Within drug groups, indicators of 
+      drug adoption, except for adoption time, correlate reasonably well. However, the 
+      theory that physicians' early adoption of new drugs is a personal trait 
+      independent of the type of drug could not be confirmed. The notion of the 
+      early-drug-adopting general practitioner may be mistaken.
+FAU - Dybdahl, Torben
+AU  - Dybdahl T
+AD  - Research Unit of General Practice, Institute of Public Health, University of 
+      Southern Denmark, Winslowparken 19, 3rd, 5000, Odense C, Denmark. 
+      tdybdahl@health.sdu.dk
+FAU - Andersen, Morten
+AU  - Andersen M
+FAU - Sondergaard, Jens
+AU  - Sondergaard J
+FAU - Kragstrup, Jakob
+AU  - Kragstrup J
+FAU - Kristiansen, Ivar Sonbo
+AU  - Kristiansen IS
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20041021
+PL  - Germany
+TA  - Eur J Clin Pharmacol
+JT  - European journal of clinical pharmacology
+JID - 1256165
+SB  - IM
+EIN - Eur J Clin Pharmacol. 2005 Mar;61(1):75
+MH  - Cohort Studies
+MH  - Databases, Factual/*statistics & numerical data
+MH  - Decision Making
+MH  - Denmark
+MH  - *Drug Therapy
+MH  - Drug Utilization/economics/statistics & numerical data
+MH  - Family Practice/*statistics & numerical data
+MH  - Humans
+MH  - Physicians, Family/*statistics & numerical data
+MH  - Practice Patterns, Physicians'/*statistics & numerical data
+MH  - Time Factors
+EDAT- 2004/10/27 09:00
+MHDA- 2005/04/02 09:00
+CRDT- 2004/10/27 09:00
+PHST- 2004/02/27 00:00 [received]
+PHST- 2004/06/08 00:00 [accepted]
+PHST- 2004/10/27 09:00 [pubmed]
+PHST- 2005/04/02 09:00 [medline]
+PHST- 2004/10/27 09:00 [entrez]
+AID - 10.1007/s00228-004-0797-1 [doi]
+PST - ppublish
+SO  - Eur J Clin Pharmacol. 2004 Nov;60(9):667-72. doi: 10.1007/s00228-004-0797-1. Epub 
+      2004 Oct 21.

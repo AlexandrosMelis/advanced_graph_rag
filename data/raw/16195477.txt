@@ -1,0 +1,91 @@
+PMID- 16195477
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060120
+LR  - 20220310
+IS  - 1524-4636 (Electronic)
+IS  - 1079-5642 (Linking)
+VI  - 25
+IP  - 12
+DP  - 2005 Dec
+TI  - Production of chemokines by perivascular adipose tissue: a role in the 
+      pathogenesis of atherosclerosis?
+PG  - 2594-9
+AB  - OBJECTIVE: Obesity is associated with an increased risk for cardiovascular 
+      disease. Although it is known that white adipose tissue (WAT) produces numerous 
+      proinflammatory and proatherogenic cytokines and chemokines, it is unclear 
+      whether adipose-derived chemotactic signals affect the chronic inflammation in 
+      atherosclerosis. METHODS AND RESULTS: Histological examination showed that 
+      perivascular WAT (pWAT) is in close proximity to vascular walls, particularly at 
+      sites that have a tendency to develop atherosclerosis. In rodents, the amount of 
+      pWAT is markedly increased by a high-fat diet. At a functional level, supernatant 
+      from subcutaneous and pWAT strongly induced the chemotaxis of peripheral blood 
+      leukocytes. The migration of granulocytes and monocytes was mostly mediated by 
+      interleukin-8 and monocyte chemoattractant protein-1, respectively, whereas both 
+      chemokines contributed to the migration of activated T cells. Moreover, pWAT 
+      produces these chemokines, as shown by immunohistochemistry and by explant 
+      culture. The accumulation of macrophages and T cells at the interface between 
+      pWAT and the adventitia of human atherosclerotic aortas may reflect this 
+      prochemotactic activity of pWAT. CONCLUSIONS: Human pWAT has chemotactic 
+      properties through the secretion of different chemokines, and we propose that 
+      pWAT might contribute to the progression of obesity-associated atherosclerosis.
+FAU - Henrichot, Elvire
+AU  - Henrichot E
+AD  - Department of Internal Medicine, University Hospital, Faculty of Medicine, 
+      Geneva, Switzerland.
+FAU - Juge-Aubry, Cristiana E
+AU  - Juge-Aubry CE
+FAU - Pernin, Agnes
+AU  - Pernin A
+FAU - Pache, Jean-Claude
+AU  - Pache JC
+FAU - Velebit, Valdimir
+AU  - Velebit V
+FAU - Dayer, Jean-Michel
+AU  - Dayer JM
+FAU - Meda, Paolo
+AU  - Meda P
+FAU - Chizzolini, Carlo
+AU  - Chizzolini C
+FAU - Meier, Christoph A
+AU  - Meier CA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20050929
+PL  - United States
+TA  - Arterioscler Thromb Vasc Biol
+JT  - Arteriosclerosis, thrombosis, and vascular biology
+JID - 9505803
+RN  - 0 (CCL2 protein, human)
+RN  - 0 (Chemokine CCL2)
+RN  - 0 (Dietary Fats)
+RN  - 0 (Interleukin-8)
+SB  - IM
+MH  - Adipose Tissue/cytology/*immunology/*metabolism
+MH  - Animals
+MH  - Aorta/pathology
+MH  - Atherosclerosis/*immunology/metabolism
+MH  - Cells, Cultured
+MH  - Chemokine CCL2/*metabolism
+MH  - Chemotaxis, Leukocyte/immunology
+MH  - Diet, Atherogenic
+MH  - Dietary Fats/pharmacology
+MH  - Granulocytes/cytology
+MH  - Humans
+MH  - Interleukin-8/*metabolism
+MH  - Monocytes/cytology
+MH  - Obesity/immunology/metabolism
+MH  - Rats
+MH  - Rats, Wistar
+EDAT- 2005/10/01 09:00
+MHDA- 2006/01/21 09:00
+CRDT- 2005/10/01 09:00
+PHST- 2005/10/01 09:00 [pubmed]
+PHST- 2006/01/21 09:00 [medline]
+PHST- 2005/10/01 09:00 [entrez]
+AID - 01.ATV.0000188508.40052.35 [pii]
+AID - 10.1161/01.ATV.0000188508.40052.35 [doi]
+PST - ppublish
+SO  - Arterioscler Thromb Vasc Biol. 2005 Dec;25(12):2594-9. doi: 
+      10.1161/01.ATV.0000188508.40052.35. Epub 2005 Sep 29.

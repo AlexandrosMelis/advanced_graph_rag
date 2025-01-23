@@ -1,0 +1,92 @@
+PMID- 25981682
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170623
+LR  - 20170623
+IS  - 1447-0594 (Electronic)
+IS  - 1447-0594 (Linking)
+VI  - 16
+IP  - 5
+DP  - 2016 May
+TI  - Preparing patients at high risk of falls for discharge home after rehabilitation: 
+      Do we meet the guidelines?
+PG  - 570-6
+LID - 10.1111/ggi.12511 [doi]
+AB  - AIM: To determine whether rehabilitation inpatients at high risk of falls receive 
+      adequate falls risk assessment, management and handover on discharge as per 
+      Australian Best Practice Guidelines. METHODS: Medical records of 121 people who 
+      received inpatient rehabilitation were retrospectively screened; records of 50 
+      people discharged home and at high falls risk (fall in last 12 months, fall 
+      preceding/during admission) were audited. Data extracted included falls risk 
+      identification during rehabilitation and in discharge documentation; falls risk 
+      factors assessed; and fall prevention strategies implemented. RESULTS: Discharge 
+      documentation correctly identified falls risk for just nine of the 50 people. 
+      Patients at high falls risk had a median of 8.0 (interquartile range 6-10) of 17 
+      risk factors. There was limited evidence of assessment for osteoporosis (n = 8), 
+      footwear (n = 4) and visual assessment in the previous 2 years (n = 1). Patients 
+      received a median of 6.5 (interquartile range 5-9) out of 16 possible strategies. 
+      Common strategies were mobility (n = 48), strength (n = 44) and Personal Activity 
+      of Daily Living training (n = 43). For 12 risk factors, if the factor was 
+      present, there was evidence of a strategy in more than 80% of records. 
+      CONCLUSIONS: There was little evidence that people at high risk of falls received 
+      systematic falls risk assessment during rehabilitation. When a risk was 
+      identified, generally a strategy was implemented. However, failure to assess some 
+      risk factors might have limited fall prevention strategies offered. Failure to 
+      adequately address risks during hospitalization could contribute to falls 
+      post-discharge. Geriatr Gerontol Int 2016; 16: 570-576.
+CI  - (c) 2015 Japan Geriatrics Society.
+FAU - Said, Catherine M
+AU  - Said CM
+AD  - Physiotherapy Department, Austin Health, Melbourne, Victoria, Australia.
+AD  - Department of Physiotherapy, Melbourne University, Melbourne, Victoria, 
+      Australia.
+FAU - Batchelor, Frances
+AU  - Batchelor F
+AD  - Physiotherapy Department, Austin Health, Melbourne, Victoria, Australia.
+AD  - National Ageing Research Institute (NARI), Melbourne, Victoria, Australia.
+FAU - Shaw, Kathryn
+AU  - Shaw K
+AD  - Physiotherapy Department, Austin Health, Melbourne, Victoria, Australia.
+FAU - Blennerhassett, Jannette
+AU  - Blennerhassett J
+AD  - Physiotherapy Department, Austin Health, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20150515
+PL  - Japan
+TA  - Geriatr Gerontol Int
+JT  - Geriatrics & gerontology international
+JID - 101135738
+SB  - IM
+MH  - Accidental Falls/*prevention & control
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Australia
+MH  - Female
+MH  - *Guideline Adherence
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Patient Discharge
+MH  - *Patient Handoff
+MH  - Practice Guidelines as Topic
+MH  - *Rehabilitation
+MH  - Retrospective Studies
+MH  - Risk Assessment
+OTO - NOTNLM
+OT  - accidental falls
+OT  - clinical audit
+OT  - guideline adherence
+OT  - hospitalization
+OT  - rehabilitation
+EDAT- 2015/05/20 06:00
+MHDA- 2017/06/24 06:00
+CRDT- 2015/05/19 06:00
+PHST- 2015/03/11 00:00 [accepted]
+PHST- 2015/05/19 06:00 [entrez]
+PHST- 2015/05/20 06:00 [pubmed]
+PHST- 2017/06/24 06:00 [medline]
+AID - 10.1111/ggi.12511 [doi]
+PST - ppublish
+SO  - Geriatr Gerontol Int. 2016 May;16(5):570-6. doi: 10.1111/ggi.12511. Epub 2015 May 
+      15.

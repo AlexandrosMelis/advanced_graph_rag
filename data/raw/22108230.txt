@@ -1,0 +1,91 @@
+PMID- 22108230
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120403
+LR  - 20151119
+IS  - 1934-1563 (Electronic)
+IS  - 1934-1482 (Linking)
+VI  - 3
+IP  - 11
+DP  - 2011 Nov
+TI  - Is the fibronectin-aggrecan complex present in cervical disk disease?
+PG  - 1030-4
+LID - 10.1016/j.pmrj.2011.07.003 [doi]
+AB  - OBJECTIVE: To investigate the presence of inflammatory cytokines and the 
+      fibronectin-aggrecan complex (FAC) in persons undergoing surgical treatment for 
+      cervical radiculopathy caused by disk herniation. DESIGN: Single-center, 
+      prospective, consecutive case series. SETTING: A single large academic 
+      institution. PATIENTS: A total of 11 patients with radiculopathic pain and 
+      magnetic resonance imaging findings positive for disk herniation elected to 
+      undergo single-level cervical diskectomy. METHODS OR INTERVENTIONS: Lavage was 
+      performed by needle injection and aspiration upon entering the disk space for 
+      fluoroscopic localization before diskectomy. MAIN OUTCOME MEASUREMENTS: The 
+      lavage fluid was assayed for pH and the FAC, as well as for the cytokines 
+      interleukin-6 (IL-6), interferon-gamma, monocyte chemotactic protein (MCP), and 
+      macrophage inhibitory protein-1beta. RESULTS: The subjects were 7 women and 4 men 
+      with a mean age of 50.6 years (SE 9.7; range, 36-70 years). The mean 
+      concentrations (SE; range) in picograms per milliliter were 7.9 (4.4; 0-44) for 
+      IL-6, 25.3 (15.5; 0-159) for interferon-gamma, 16.1 (11.9; 0-121) for MCP, and 6.1 
+      (2.8; 0-29) for macrophage inhibitory protein-1beta. The optical density of the FAC 
+      at 450 nm was 0.151 (0.036; 0.1-0.32), and the pH was 6.68 (0.1; 6.10-7.15). 
+      Statistically significant correlations were found between MCP and FAC (P = .036) 
+      and between FAC and pH (P = .008). CONCLUSIONS: Biochemical analysis of injured 
+      cervical intervertebral disks reveals the presence of inflammatory markers such 
+      as MCP, fragments of structural matrix proteins such as FAC, and a correlation 
+      with pH. Further evaluation of the FAC as a potential diagnostic biomarker or 
+      therapeutic target is warranted in the cervical spine.
+CI  - Copyright (c) 2011 American Academy of Physical Medicine and Rehabilitation. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Gajendran, Varun K
+AU  - Gajendran VK
+AD  - Department of Orthopaedic Surgery, Stanford University, Redwood City, CA, USA. 
+      varun182@stanford.edu
+FAU - Reuter, Merrill W
+AU  - Reuter MW
+FAU - Golish, S Raymond
+AU  - Golish SR
+FAU - Hanna, Lewis S
+AU  - Hanna LS
+FAU - Scuderi, Gaetano J
+AU  - Scuderi GJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - PM R
+JT  - PM & R : the journal of injury, function, and rehabilitation
+JID - 101491319
+RN  - 0 (Aggrecans)
+RN  - 0 (Biomarkers)
+RN  - 0 (Fibronectins)
+RN  - Intervertebral disc disease
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aggrecans/*metabolism
+MH  - Biomarkers/metabolism
+MH  - Cervical Vertebrae/*chemistry/pathology
+MH  - Female
+MH  - Fibronectins/*metabolism
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Intervertebral Disc Degeneration/diagnosis/*metabolism
+MH  - Intervertebral Disc Displacement/diagnosis/*metabolism
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Severity of Illness Index
+EDAT- 2011/11/24 06:00
+MHDA- 2012/04/04 06:00
+CRDT- 2011/11/24 06:00
+PHST- 2011/01/17 00:00 [received]
+PHST- 2011/07/02 00:00 [revised]
+PHST- 2011/07/06 00:00 [accepted]
+PHST- 2011/11/24 06:00 [entrez]
+PHST- 2011/11/24 06:00 [pubmed]
+PHST- 2012/04/04 06:00 [medline]
+AID - S1934-1482(11)00463-1 [pii]
+AID - 10.1016/j.pmrj.2011.07.003 [doi]
+PST - ppublish
+SO  - PM R. 2011 Nov;3(11):1030-4. doi: 10.1016/j.pmrj.2011.07.003.

@@ -1,0 +1,101 @@
+PMID- 11380492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010614
+LR  - 20190813
+IS  - 0300-0664 (Print)
+IS  - 0300-0664 (Linking)
+VI  - 54
+IP  - 5
+DP  - 2001 May
+TI  - Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?
+PG  - 617-26
+AB  - OBJECTIVE: To assess the results of transsphenoidal pituitary surgery in patients 
+      with Cushing's disease over a period of 18 years, and to determine if there are 
+      factors which will predict the outcome. PATIENTS: Sixty-nine sequential patients 
+      treated surgically by a single surgeon in Newcastle upon Tyne between 1980 and 
+      1997 were identified and data from 61 of these have been analysed. DESIGN: 
+      Retrospective analysis of outcome measures. MAIN OUTCOME MEASURES: Patients were 
+      divided into three groups (remission, failure and relapse) depending on the late 
+      outcome of their treatment as determined at the time of analysis, i.e. 88 months 
+      (median) years after surgery. Remission is defined as biochemical reversal of 
+      hypercortisolism with re-emergence of diurnal circadian rhythm, resolution of 
+      clinical features and adequate suppression on low-dose dexamethasone testing. 
+      Failure is defined as the absence of any of these features. Relapse is defined as 
+      the re-emergence of Cushing's disease more than one year after operation. 
+      Clinical features such as weight, sex, hypertension, associated endocrine 
+      disorders and smoking, biochemical studies including preoperative and 
+      postoperative serum cortisol, urine free cortisol, serum ACTH, radiological, 
+      histological and surgical findings were assessed in relation to these three 
+      groups to determine whether any factors could reliably predict failure or relapse 
+      after treatment. RESULTS: Of the 61 patients included in this study, 48 (78.7%) 
+      achieved initial remission and 13 (21.3%) failed treatment. Seven patients 
+      suffered subsequent relapse (range 22-158 months) in their condition after 
+      apparent remission, leaving a final group of 41 patients (67.2%) in the remission 
+      group. Tumour was identified at surgery in 52 patients, of whom 38 achieved 
+      remission. In comparison, only 3 of 9 patients in whom no tumour was identified 
+      achieved remission. This difference was significant (P = 0.048). When both 
+      radiological and histological findings were positive, the likelihood of achieving 
+      remission was significantly higher than if both modalities were negative (P = 
+      0.038). There were significant differences between remission and failure groups 
+      when 2- and 6-week postoperative serum cortisol levels (P = 0.002 and 0.001, 
+      respectively) and 6-week postoperative urine free cortisol levels (P = 0.026) 
+      were compared. This allowed identification of patients who failed surgical 
+      treatment in the early postoperative period. Complications of surgery included 
+      transitory DI in 13, transitory CSF leak in 8 and transitory nasal discharge and 
+      cacosmia in 3. Twelve of 41 patients required some form of hormonal replacement 
+      therapy despite achieving long-term remission. Thirteen patients underwent a 
+      second operation, of whom 5 achieved remission. CONCLUSIONS: Transsphenoidal 
+      pituitary surgery is a safe method of treatment in patients with Cushing's 
+      disease. Operative findings, radiological and histological findings, together 
+      with early postoperative serum cortisol and urine free cortisol estimates may 
+      identify failures in treatment. Alternative treatment might then be required for 
+      these patients. Because of the risk of late relapse, patients require life-long 
+      follow-up.
+FAU - Chee, G H
+AU  - Chee GH
+AD  - Department of Otolaryngology, Freeman Hospital, Newcastle upon Tyne, UK. 
+      entv3@nus.edu.sg
+FAU - Mathias, D B
+AU  - Mathias DB
+FAU - James, R A
+AU  - James RA
+FAU - Kendall-Taylor, P
+AU  - Kendall-Taylor P
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Clin Endocrinol (Oxf)
+JT  - Clinical endocrinology
+JID - 0346653
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Child
+MH  - Cushing Syndrome/diagnosis/etiology/*surgery
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/blood/urine
+MH  - Male
+MH  - Middle Aged
+MH  - Pituitary Gland/*surgery
+MH  - Pituitary Neoplasms/complications/surgery
+MH  - Postoperative Complications
+MH  - Recurrence
+MH  - Reoperation
+MH  - Retrospective Studies
+MH  - Treatment Failure
+MH  - Treatment Outcome
+EDAT- 2001/05/31 10:00
+MHDA- 2001/06/15 10:01
+CRDT- 2001/05/31 10:00
+PHST- 2001/05/31 10:00 [pubmed]
+PHST- 2001/06/15 10:01 [medline]
+PHST- 2001/05/31 10:00 [entrez]
+AID - cen1261 [pii]
+AID - 10.1046/j.1365-2265.2001.01261.x [doi]
+PST - ppublish
+SO  - Clin Endocrinol (Oxf). 2001 May;54(5):617-26. doi: 
+      10.1046/j.1365-2265.2001.01261.x.

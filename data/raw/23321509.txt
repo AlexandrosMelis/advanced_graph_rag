@@ -1,0 +1,94 @@
+PMID- 23321509
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130307
+LR  - 20211021
+IS  - 1532-1827 (Electronic)
+IS  - 0007-0920 (Print)
+IS  - 0007-0920 (Linking)
+VI  - 108
+IP  - 1
+DP  - 2013 Jan 15
+TI  - Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still 
+      matter?
+PG  - 32-8
+LID - 10.1038/bjc.2012.544 [doi]
+AB  - BACKGROUND: To evaluate surgical outcome and survival benefit after quaternary 
+      cytoreduction (QC) in epithelial ovarian cancer (EOC) relapse. METHODS: We 
+      systematically evaluated all consecutive patients undergoing QC in our 
+      institution over a 12-year period (October 2000-January 2012). All relevant 
+      surgical and clinical outcome parameters were systematically assessed. RESULTS: 
+      Forty-nine EOC patients (median age: 57; range: 28-76) underwent QC; in a median 
+      of 16 months (range:2-142) after previous chemotherapy. The majority of the 
+      patients had an initial FIGO stage III (67.3%), peritoneal carcinomatosis (77.6%) 
+      and no ascites (67.3%). At QC, patients presented following tumour pattern: lower 
+      abdomen 85.7%; middle abdomen 79.6% and upper abdomen 42.9%. Median duration of 
+      surgery was 292 min (range: a total macroscopic tumour clearance could be 
+      achieved. Rates of major operative morbidity and 30-day mortality were 28.6% and 
+      2%, respectively.Mean follow-up from QC was 18.41 months (95% confidence interval 
+      (CI):12.64-24.18) and mean overall survival (OS) 23.05 months (95% CI: 
+      15.5-30.6). Mean OS for patients without vs any tumour residuals was 43 months 
+      (95% CI: 26.4-59.5) vs 13.4 months (95% CI: 7.42-19.4); P=0.001. Mean OS for 
+      patients who received postoperative chemotherapy (n=18; 36.7%) vs those who did 
+      not was 40.5 months (95% CI: 27.4-53.6) vs 12.03 months (95% CI: 5.9-18.18); 
+      P<0.001.Multivariate analysis indentified multifocal tumour dissemination to be 
+      of predictive significance for incomplete tumour resection, higher operative 
+      morbidity and lower survival, while systemic chemotherapy subsequent to QC had a 
+      protective significant impact on OS. No prognostic impact had ascites, platinum 
+      resistance, high grading and advanced age. CONCLUSION: Even in this highly 
+      advanced setting of the third EOC relapse, maximal therapeutic effort combining 
+      optimal surgery and chemotherapy appear to significantly prolong survival in a 
+      selected patients 'group'.
+FAU - Fotopoulou, C
+AU  - Fotopoulou C
+AD  - Department of Gynecology, Charite University Medical Center Berlin, 13353 Berlin, 
+      Germany. chfotopoulou@gmail.com
+FAU - Savvatis, K
+AU  - Savvatis K
+FAU - Kosian, P
+AU  - Kosian P
+FAU - Braicu, I E
+AU  - Braicu IE
+FAU - Papanikolaou, G
+AU  - Papanikolaou G
+FAU - Pietzner, K
+AU  - Pietzner K
+FAU - Schmidt, S-C
+AU  - Schmidt SC
+FAU - Sehouli, J
+AU  - Sehouli J
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Br J Cancer
+JT  - British journal of cancer
+JID - 0370635
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Ovarian Epithelial
+MH  - Chemotherapy, Adjuvant
+MH  - Female
+MH  - Humans
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasms, Glandular and Epithelial/drug therapy/mortality/pathology/*surgery
+MH  - Ovarian Neoplasms/drug therapy/mortality/pathology/*surgery
+MH  - Prognosis
+MH  - Recurrence
+MH  - Survival Rate
+MH  - Treatment Outcome
+PMC - PMC3553531
+COIS- The authors declare no conflict of interest.
+EDAT- 2013/01/17 06:00
+MHDA- 2013/03/08 06:00
+PMCR- 2014/01/15
+CRDT- 2013/01/17 06:00
+PHST- 2013/01/17 06:00 [entrez]
+PHST- 2013/01/17 06:00 [pubmed]
+PHST- 2013/03/08 06:00 [medline]
+PHST- 2014/01/15 00:00 [pmc-release]
+AID - bjc2012544 [pii]
+AID - 10.1038/bjc.2012.544 [doi]
+PST - ppublish
+SO  - Br J Cancer. 2013 Jan 15;108(1):32-8. doi: 10.1038/bjc.2012.544.

@@ -1,0 +1,117 @@
+PMID- 24614851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150121
+LR  - 20140505
+IS  - 1476-5624 (Electronic)
+IS  - 1362-4393 (Linking)
+VI  - 52
+IP  - 5
+DP  - 2014 May
+TI  - Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord 
+      involvement associated with the neurological prognosis?
+PG  - 364-7
+LID - 10.1038/sc.2014.23 [doi]
+AB  - OBJECTIVES: The purpose of this study was to clarify the prognostic factors for 
+      cervical spondylotic amyotrophy (CSA). METHODS: The authors retrospectively 
+      reviewed the medical records of 47 consecutive patients with CSA in whom the 
+      presence/absence of the pyramidal tract sign was noted. We analyzed whether the 
+      age, sex, presence of diabetes mellitus, medication (vitamin B12), type of the 
+      most atrophic and impaired muscle, the muscle strength at the presentation, the 
+      presence of the pyramidal tract sign, magnetic resonance imaging (MRI) findings, 
+      including the presence and number of T2 high signal intensity areas (T2 HIA) in 
+      the spinal cord and the conversion to surgery were associated with the recovery 
+      of muscle strength in the patients. In addition, we also investigated whether the 
+      duration of symptoms before surgery and the type of surgery were associated with 
+      the recovery of muscle strength in patients who required conversion to surgical 
+      treatment. RESULTS: The presence of T2 HIA on MRI (P=0.002), the number of T2 HIA 
+      on MRI (P=0.002) and conversion to surgery (P=0.015) were found to be 
+      significantly associated with a poorer recovery at the observational final 
+      follow-up. Further, the presence of the pyramidal tract sign (P=0.043) was 
+      significantly associated with a poor recovery at the final follow-up after 
+      surgery. CONCLUSION: The presence of a high signal intensity change on 
+      T2-weighted MRI and the pyramidal tract sign can be used as prognostic factors 
+      for patients with CSA.
+FAU - Iizuka, Y
+AU  - Iizuka Y
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Iizuka, H
+AU  - Iizuka H
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Mieda, T
+AU  - Mieda T
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Kobayashi, R
+AU  - Kobayashi R
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Tsutsumi, S
+AU  - Tsutsumi S
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Nakajima, T
+AU  - Nakajima T
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Sorimachi, Y
+AU  - Sorimachi Y
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Ara, T
+AU  - Ara T
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Nishinome, M
+AU  - Nishinome M
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Seki, T
+AU  - Seki T
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+FAU - Takagishi, K
+AU  - Takagishi K
+AD  - Department of Orthopaedic Surgery, Gunma University Graduate School of Medicine, 
+      Maebashi, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20140311
+PL  - England
+TA  - Spinal Cord
+JT  - Spinal cord
+JID - 9609749
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Diabetes Mellitus/physiopathology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle Strength
+MH  - Muscle, Skeletal/pathology/physiopathology
+MH  - Nervous System Diseases/*etiology
+MH  - Pyramidal Tracts/pathology
+MH  - Retrospective Studies
+MH  - Spinal Cord Injuries/*complications/*diagnosis
+MH  - Spondylosis/*complications/*diagnosis
+MH  - Statistics, Nonparametric
+EDAT- 2014/03/13 06:00
+MHDA- 2015/01/22 06:00
+CRDT- 2014/03/12 06:00
+PHST- 2013/09/30 00:00 [received]
+PHST- 2014/01/15 00:00 [revised]
+PHST- 2014/02/07 00:00 [accepted]
+PHST- 2014/03/12 06:00 [entrez]
+PHST- 2014/03/13 06:00 [pubmed]
+PHST- 2015/01/22 06:00 [medline]
+AID - sc201423 [pii]
+AID - 10.1038/sc.2014.23 [doi]
+PST - ppublish
+SO  - Spinal Cord. 2014 May;52(5):364-7. doi: 10.1038/sc.2014.23. Epub 2014 Mar 11.

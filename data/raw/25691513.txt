@@ -1,0 +1,128 @@
+PMID- 25691513
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151030
+LR  - 20250104
+IS  - 0022-2917 (Print)
+IS  - 2053-7395 (Electronic)
+IS  - 0022-2917 (Linking)
+VI  - 52
+IP  - 1
+DP  - 2015 Spring
+TI  - Do communication disorders extend to musical messages? An answer from children 
+      with hearing loss or autism spectrum disorders.
+PG  - 78-116
+LID - 10.1093/jmt/thu039 [doi]
+AB  - BACKGROUND: Effective musical communication requires conveyance of the intended 
+      message in a manner perceptible to the receiver. Communication disorders that 
+      impair transmitting or decoding of structural features of music (e.g., pitch, 
+      timbre) and/or symbolic representation may result in atypical musical 
+      communication, which can have a negative impact on music therapy interventions. 
+      OBJECTIVE: This study compared recognition of symbolic representation of emotions 
+      or movements in music by two groups of children with different communicative 
+      characteristics: severe to profound hearing loss (using cochlear implants [CI]) 
+      and autism spectrum disorder (ASD). Their responses were compared to those of 
+      children with typical-development and normal hearing (TD-NH). Accuracy was 
+      examined as a function of communicative status, emotional or movement category, 
+      and individual characteristics. METHODS: Participants listened to recorded 
+      musical excerpts conveying emotions or movements and matched them with labels. 
+      Measures relevant to auditory and/or language function were also gathered. 
+      RESULTS: There was no significant difference between the ASD and TD-NH groups in 
+      identification of musical emotions or movements. However, the CI group was 
+      significantly less accurate than the other two groups in identification of both 
+      emotions and movements. Mixed effects logistic regression revealed different 
+      patterns of accuracy for specific emotions as a function of group. CONCLUSION: 
+      Conveyance of emotions or movements through music may be decoded differently by 
+      persons with different types of communication disorders. Because music is the 
+      primary therapeutic tool in music therapy sessions, clinicians should consider 
+      these differential abilities when selecting music for clinical interventions 
+      focusing on emotions or movement.
+CI  - (c) the American Music Therapy Association 2015. All rights reserved. For 
+      permissions, please e-mail: journals.permissions@oup.com.
+FAU - Whipple, Christina M
+AU  - Whipple CM
+AD  - School of Music, The University of Iowa School of Music, Department of 
+      Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+      Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+      Department of Biostatistics, The University of Iowa Department of Communication 
+      Sciences and Disorders, The DeLTA Center, The University of Iowa.
+FAU - Gfeller, Kate
+AU  - Gfeller K
+AD  - School of Music, The University of Iowa School of Music, Department of 
+      Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+      Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+      Department of Biostatistics, The University of Iowa Department of Communication 
+      Sciences and Disorders, The DeLTA Center, The University of Iowa 
+      kay-gfeller@uiowa.edu.
+FAU - Driscoll, Virginia
+AU  - Driscoll V
+AD  - School of Music, The University of Iowa School of Music, Department of 
+      Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+      Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+      Department of Biostatistics, The University of Iowa Department of Communication 
+      Sciences and Disorders, The DeLTA Center, The University of Iowa.
+FAU - Oleson, Jacob
+AU  - Oleson J
+AD  - School of Music, The University of Iowa School of Music, Department of 
+      Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+      Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+      Department of Biostatistics, The University of Iowa Department of Communication 
+      Sciences and Disorders, The DeLTA Center, The University of Iowa.
+FAU - McGregor, Karla
+AU  - McGregor K
+AD  - School of Music, The University of Iowa School of Music, Department of 
+      Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+      Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+      Department of Biostatistics, The University of Iowa Department of Communication 
+      Sciences and Disorders, The DeLTA Center, The University of Iowa.
+LA  - eng
+GR  - P50 DC000242/DC/NIDCD NIH HHS/United States
+GR  - R01 DC003698/DC/NIDCD NIH HHS/United States
+GR  - R01 DC012082/DC/NIDCD NIH HHS/United States
+GR  - R01 DC012082-10/DC/NIDCD NIH HHS/United States
+GR  - M01 RR000059/RR/NCRR NIH HHS/United States
+GR  - 2 P50 DC00242/DC/NIDCD NIH HHS/United States
+GR  - RR00059/RR/NCRR NIH HHS/United States
+GR  - 2 R01 DC003698-06/DC/NIDCD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150217
+PL  - England
+TA  - J Music Ther
+JT  - Journal of music therapy
+JID - 0014162
+SB  - IM
+MH  - Adolescent
+MH  - Auditory Perception/physiology
+MH  - Child
+MH  - Child Development Disorders, Pervasive/*physiopathology/psychology
+MH  - Cochlear Implantation
+MH  - Communication Disorders/*physiopathology/psychology
+MH  - Deafness/*physiopathology/psychology/rehabilitation
+MH  - *Emotions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Music/*psychology
+PMC - PMC4414659
+MID - NIHMS634573
+OTO - NOTNLM
+OT  - autism
+OT  - cochlear implant
+OT  - emotion
+OT  - movement
+OT  - music recognition
+EDAT- 2015/02/19 06:00
+MHDA- 2015/10/31 06:00
+PMCR- 2015/04/29
+CRDT- 2015/02/19 06:00
+PHST- 2015/02/19 06:00 [entrez]
+PHST- 2015/02/19 06:00 [pubmed]
+PHST- 2015/10/31 06:00 [medline]
+PHST- 2015/04/29 00:00 [pmc-release]
+AID - thu039 [pii]
+AID - 10.1093/jmt/thu039 [doi]
+PST - ppublish
+SO  - J Music Ther. 2015 Spring;52(1):78-116. doi: 10.1093/jmt/thu039. Epub 2015 Feb 
+      17.

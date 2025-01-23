@@ -1,0 +1,88 @@
+PMID- 25987398
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170209
+LR  - 20170209
+IS  - 1897-4279 (Electronic)
+IS  - 0022-9032 (Linking)
+VI  - 73
+IP  - 12
+DP  - 2015
+TI  - The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter 
+      of the aneurysm important?
+PG  - 1327-33
+LID - 10.5603/KP.a2015.0092 [doi]
+AB  - BACKGROUND: The rate of aortic aneurysm rupture correlates with the aneurysm's 
+      diameter, and a higher rate of rupture is observed in patients with larger 
+      aneurysms. According to the literature, contradictory results concerning the 
+      relationship between atmospheric pressure and aneurysm size have been reported. 
+      AIM: In this paper, we assessed the influence of changes in atmospheric pressure 
+      on abdominal aneurysm ruptures in relationship to the aneurysm's size. METHODS: 
+      The records of 223 patients with ruptured abdominal aneurysms were evaluated. All 
+      of the patients had been admitted to the department in the period 1997-2007 from 
+      the Silesia region. The atmospheric pressures on the day of the rupture and on 
+      the days both before the rupture and between the rupture events were compared. 
+      The size of the aneurysm was also considered in the analysis. RESULTS: There were 
+      no statistically significant differences in pressure between the days of rupture 
+      and the remainder of the days within an analysed period. The highest frequency of 
+      the admission of patients with a ruptured aortic aneurysm was observed during 
+      periods of winter and spring, when the highest mean values of atmospheric 
+      pressure were observed; however, this observation was not statistically 
+      confirmed. A statistically non-significant trend towards the higher rupture of 
+      large aneurysms (> 7 cm) was observed in the cases where the pressure increased 
+      between the day before the rupture and the day of the rupture. This trend was 
+      particularly pronounced in patients suffering from hypertension (p = 0.1). 
+      CONCLUSIONS: The results of this study do not support the hypothesis that there 
+      is a direct link between atmospheric pressure values and abdominal aortic 
+      aneurysm ruptures.
+FAU - Urbanek, Tomasz
+AU  - Urbanek T
+AD  - Katedra i Klinika Chirurgii Ogolnej i Naczyn, Slaski Uniwersytet Medyczny, 
+      Katowice. urbanek.tom@interia.pl.
+FAU - Jusko, Maciej
+AU  - Jusko M
+FAU - Niewiem, Alfred
+AU  - Niewiem A
+FAU - Kuczmik, Waclaw
+AU  - Kuczmik W
+FAU - Ziaja, Damian
+AU  - Ziaja D
+FAU - Ziaja, Krzysztof
+AU  - Ziaja K
+LA  - eng
+PT  - Journal Article
+DEP - 20150519
+PL  - Poland
+TA  - Kardiol Pol
+JT  - Kardiologia polska
+JID - 0376352
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Aortic Aneurysm, Abdominal
+MH  - *Aortic Rupture
+MH  - *Atmospheric Pressure
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Poland
+MH  - Retrospective Studies
+MH  - *Seasons
+OTO - NOTNLM
+OT  - abdominal aortic aneurysm
+OT  - aneurysm rupture
+OT  - atmospheric pressure
+EDAT- 2015/05/20 06:00
+MHDA- 2017/02/10 06:00
+CRDT- 2015/05/20 06:00
+PHST- 2015/01/21 00:00 [received]
+PHST- 2015/04/20 00:00 [accepted]
+PHST- 2015/04/01 00:00 [revised]
+PHST- 2015/05/20 06:00 [entrez]
+PHST- 2015/05/20 06:00 [pubmed]
+PHST- 2017/02/10 06:00 [medline]
+AID - VM/OJS/KP/9532 [pii]
+AID - 10.5603/KP.a2015.0092 [doi]
+PST - ppublish
+SO  - Kardiol Pol. 2015;73(12):1327-33. doi: 10.5603/KP.a2015.0092. Epub 2015 May 19.

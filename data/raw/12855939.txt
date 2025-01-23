@@ -1,0 +1,80 @@
+PMID- 12855939
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031008
+LR  - 20140728
+IS  - 0031-0808 (Print)
+IS  - 0031-0808 (Linking)
+VI  - 45
+IP  - 2
+DP  - 2003 Jun
+TI  - Is ankle/arm pressure predictive for cardiovascular mortality in older patients 
+      living in nursing homes?
+PG  - 145-50
+AB  - AIM: To identify whether Ankle/Arm Index (AAI) is a predictive factor for 
+      cardiovascular mortality in institutionalised elderly. DESIGN: longitudinal 
+      descriptive study. SETTING: 2 large nursing homes in Turin, Italy. SUBJECTS: 418 
+      dependent elderly (83 males, 335 females, mean age 83.7+/-8.5 y, range 55-102) 
+      living in the nursing homes. MEASUREMENTS: the prevalence of peripheral arterial 
+      disease (PAD) was evaluated using a Doppler Ultrasound measurement of AAI 
+      (Ankle/Arm blood pressure Index). Death causes according to ICD-9-CM were 
+      ascertained on patient's clinical records. RESULTS: Diagnosis of PAD was made in 
+      122 subjects (29.2%) with AAI <0.90. After a 3 year follow-up 203 patients 
+      (48.6%) died. The presence of PAD was not related to total mortality or to 
+      mortality for ischemic heart disease (IHD), cerebrovascular disease or other 
+      causes. IHD mortality was significantly and independently related to low 
+      haemoglobin values, previous cerebrovascular disease, polypharmacy and poor 
+      mobility conditions. CONCLUSION: The prevalence of PAD is high in nursing home 
+      residents. AAI is not predictive for IHD mortality in this population. In very 
+      frail elderly traditional risk factors and PAD are less important predictors of 
+      death compared to poor functional status, nutritional factors and previous 
+      cardiovascular disease.
+FAU - Zanocchi, M
+AU  - Zanocchi M
+AD  - Geriatric Section, Department of Medical and Surgical Disciplines, University of 
+      Turin, Turin, Italy. mzanocc@tin.it
+FAU - Ponzetto, M
+AU  - Ponzetto M
+FAU - Scarafiotti, C
+AU  - Scarafiotti C
+FAU - Maero, B
+AU  - Maero B
+FAU - Giona, E
+AU  - Giona E
+FAU - Francisetti, F
+AU  - Francisetti F
+FAU - Nicola, E
+AU  - Nicola E
+FAU - Corsinovi, L
+AU  - Corsinovi L
+FAU - Amati, D
+AU  - Amati D
+FAU - Fabris, F
+AU  - Fabris F
+LA  - eng
+PT  - Journal Article
+PL  - Italy
+TA  - Panminerva Med
+JT  - Panminerva medica
+JID - 0421110
+SB  - IM
+MH  - *Aged
+MH  - Aged, 80 and over
+MH  - Ankle/*blood supply
+MH  - Arm/*blood supply
+MH  - *Blood Pressure
+MH  - Cardiovascular Diseases/*mortality
+MH  - Female
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - *Nursing Homes
+MH  - Prognosis
+EDAT- 2003/07/12 05:00
+MHDA- 2003/10/09 05:00
+CRDT- 2003/07/12 05:00
+PHST- 2003/07/12 05:00 [pubmed]
+PHST- 2003/10/09 05:00 [medline]
+PHST- 2003/07/12 05:00 [entrez]
+PST - ppublish
+SO  - Panminerva Med. 2003 Jun;45(2):145-50.

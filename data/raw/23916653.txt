@@ -1,0 +1,89 @@
+PMID- 23916653
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140627
+LR  - 20131111
+IS  - 1873-5126 (Electronic)
+IS  - 1353-8020 (Linking)
+VI  - 19
+IP  - 11
+DP  - 2013 Nov
+TI  - Orthostatic myoclonus: an underrecognized cause of unsteadiness?
+PG  - 1013-7
+LID - S1353-8020(13)00256-3 [pii]
+LID - 10.1016/j.parkreldis.2013.07.004 [doi]
+AB  - BACKGROUND AND PURPOSE: Recently, orthostatic myoclonus (OM) has been suggested 
+      as a cause of gait impairment and unsteadiness in neurodegenerative diseases. The 
+      aim of this study was to investigate the frequency of orthostatic myoclonus, its 
+      clinical characteristics and the underlying associated neurological disorders. 
+      METHODS: A retrospective analysis of clinical data and electromyogram surface 
+      recordings from subjects with unexplained unsteadiness/gait impairment was 
+      performed. Diagnosis of OM was made when a pattern of non-rhythmic bursts was 
+      observed (duration range 20-100 ms; bursts per second </=16). RESULTS: Among 93 
+      subjects studied, OM was the most frequent disorder (n = 16; 17.2%), followed by 
+      orthostatic tremor (13.9%) and low frequency tremors during orthostatism (12.9%). 
+      All patients with OM complained about unsteadiness during orthostatism and/or 
+      during gait. Leg jerking was only observed by visual inspection during 
+      orthostatism in four subjects and two also presented falls. Eleven out of 16 
+      patients (68.7%) with OM had an associated neurodegenerative disease, such as 
+      multiple system atrophy (n = 3) Parkinson's disease (n = 2), Alzheimer's disease 
+      (n = 2), mild cognitive impairment (n = 2) and normal pressure hydrocephalus (n = 
+      2). Although four subjects showed improvement of orthostatic myoclonus with 
+      antimyoclonic treatment, the follow-up was not systematic enough to evaluate 
+      their therapeutic effect on OM. CONCLUSIONS: Orthostatic myoclonus is often 
+      underdiagnosed and can be considered a possible cause of unsteadiness in subjects 
+      with neurodegenerative diseases. Electromyography surface recording is thereby an 
+      aid for investigating unsteadiness of unknown origin.
+CI  - Copyright (c) 2013 Elsevier Ltd. All rights reserved.
+FAU - Gasca-Salas, Carmen
+AU  - Gasca-Salas C
+AD  - Department of Neurology, Clinica Universidad de Navarra, University of Navarra 
+      School of Medicine, Pamplona, Spain; CIBERNED, Centro de Investigacion Biomedica 
+      en Red de Enfermedades Neurodegenerativas, Instituto de Salud Carlos III, Spain.
+FAU - Arcocha, Juan
+AU  - Arcocha J
+FAU - Artieda, Julio
+AU  - Artieda J
+FAU - Pastor, Pau
+AU  - Pastor P
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20130802
+PL  - England
+TA  - Parkinsonism Relat Disord
+JT  - Parkinsonism & related disorders
+JID - 9513583
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Dizziness/*diagnosis/epidemiology/physiopathology
+MH  - Electromyography/methods
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Gait Disorders, Neurologic/*diagnosis/epidemiology/physiopathology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myoclonus/*diagnosis/epidemiology/physiopathology
+MH  - Neurodegenerative Diseases/*diagnosis/epidemiology/physiopathology
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Myoclonus
+OT  - Orthostatism
+OT  - Surface EMG
+OT  - Unsteadiness
+EDAT- 2013/08/07 06:00
+MHDA- 2014/06/28 06:00
+CRDT- 2013/08/07 06:00
+PHST- 2013/01/10 00:00 [received]
+PHST- 2013/04/25 00:00 [revised]
+PHST- 2013/07/04 00:00 [accepted]
+PHST- 2013/08/07 06:00 [entrez]
+PHST- 2013/08/07 06:00 [pubmed]
+PHST- 2014/06/28 06:00 [medline]
+AID - S1353-8020(13)00256-3 [pii]
+AID - 10.1016/j.parkreldis.2013.07.004 [doi]
+PST - ppublish
+SO  - Parkinsonism Relat Disord. 2013 Nov;19(11):1013-7. doi: 
+      10.1016/j.parkreldis.2013.07.004. Epub 2013 Aug 2.

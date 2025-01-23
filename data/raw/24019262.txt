@@ -1,0 +1,82 @@
+PMID- 24019262
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141114
+LR  - 20140305
+IS  - 1532-2149 (Electronic)
+IS  - 1090-3801 (Linking)
+VI  - 18
+IP  - 4
+DP  - 2014 Apr
+TI  - Does high blood pressure reduce the risk of chronic low back pain? The 
+      Nord-Trondelag Health Study.
+PG  - 590-8
+LID - 10.1002/j.1532-2149.2013.00398.x [doi]
+AB  - BACKGROUND: Epidemiological studies have suggested inverse relationships between 
+      blood pressure and prevalence of conditions such as migraine and headache. It is 
+      not yet clear whether similar relationships can be established for back pain in 
+      particular in prospective studies. METHODS: Associations between blood pressure 
+      and chronic low back pain were explored in the cross-sectional HUNT 2 survey of a 
+      Norwegian county in 1995-1997, including 39,872 individuals who never used 
+      antihypertensive medication. A prospective study, comprising 17,209 initially 
+      back pain-free individuals and 5740 individuals reporting low back pain, was 
+      established by re-examinations in the HUNT 3 survey in 2006-2008. Associations 
+      were assessed by logistic regression with respect to systolic, diastolic and 
+      pulse pressure, with adjustment for education, work status, physical activity, 
+      smoking, body mass and lipid levels. RESULTS: In the cross-sectional study, all 
+      three blood pressure measures showed inverse relationships with prevalence of low 
+      back pain in both sexes. In the prospective study of disease-free women, baseline 
+      pulse pressure and systolic pressure were inversely associated with risk of low 
+      back pain [odds ratio (OR) 0.93 per 10 mm Hg increase in pulse pressure, 95% 
+      confidence interval (CI) 0.89-0.98, p = 0.007; OR 0.95 per 10 mm Hg increase in 
+      systolic pressure, 95% CI 0.92-0.99, p = 0.005]. Results among men were 
+      equivocal. No associations were indicated with the occurrence of pain in 
+      individuals with low back pain at baseline. CONCLUSIONS: Results for low back 
+      pain are consistent with the theory of hypertension-associated hypalgesia, 
+      predicting diminished pain sensitivity with increasing blood pressure, possibly 
+      with modified reactions in people suffering from long-lasting pain.
+CI  - (c) 2013 European Pain Federation - EFIC(R)
+FAU - Heuch, I
+AU  - Heuch I
+AD  - Department of Neurology and FORMI, Oslo University Hospital, Norway.
+FAU - Heuch, I
+AU  - Heuch I
+FAU - Hagen, K
+AU  - Hagen K
+FAU - Zwart, J A
+AU  - Zwart JA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130909
+PL  - England
+TA  - Eur J Pain
+JT  - European journal of pain (London, England)
+JID - 9801774
+RN  - 53-73-6 (Angiotensin Amide)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Angiotensin Amide/*physiology
+MH  - Body Mass Index
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Genetic Testing
+MH  - Humans
+MH  - Logistic Models
+MH  - Low Back Pain/*epidemiology/etiology/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Prevalence
+MH  - Risk Factors
+EDAT- 2013/09/11 06:00
+MHDA- 2014/11/15 06:00
+CRDT- 2013/09/11 06:00
+PHST- 2013/08/10 00:00 [accepted]
+PHST- 2013/09/11 06:00 [entrez]
+PHST- 2013/09/11 06:00 [pubmed]
+PHST- 2014/11/15 06:00 [medline]
+AID - 10.1002/j.1532-2149.2013.00398.x [doi]
+PST - ppublish
+SO  - Eur J Pain. 2014 Apr;18(4):590-8. doi: 10.1002/j.1532-2149.2013.00398.x. Epub 
+      2013 Sep 9.

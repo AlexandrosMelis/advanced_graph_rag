@@ -1,0 +1,89 @@
+PMID- 24450673
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140424
+LR  - 20181203
+IS  - 1546-3141 (Electronic)
+IS  - 0361-803X (Linking)
+VI  - 202
+IP  - 2
+DP  - 2014 Feb
+TI  - Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth 
+      the additional cost of radiation and time?
+PG  - 329-35
+LID - 10.2214/AJR.12.10468 [doi]
+AB  - OBJECTIVE: The purpose of this study was to retrospectively assess the potential 
+      benefits of delayed phase imaging series in routine CT scans of the abdomen and 
+      pelvis. MATERIALS AND METHODS: Routine contrast-enhanced abdominopelvic CT scans 
+      of 1000 consecutively examined patients (912 men, 88 women; average age, 60 
+      years; range, 22-94 years) were retrospectively evaluated, and the added benefits 
+      of the delayed phase series through the abdomen were recorded for each 
+      examination. Examinations performed for indications requiring multiphasic imaging 
+      were excluded. Images were reviewed by two fellowship-trained abdominal 
+      radiologists, who were blinded to official CT reports. All examinations were 
+      performed between July 2008 and February 2010 at a single institution. Radiation 
+      doses for both the portal venous and delayed phases, when available, were 
+      analyzed to assess the effect of the delayed phase on overall radiation exposure. 
+      RESULTS: Forty-two patients (4.2%) had findings that were further characterized 
+      or were observed only in the delayed phase. Most were incidental findings that 
+      could have been confirmed at noninvasive follow-up imaging, such as sonography or 
+      unenhanced CT or MRI. The most common findings were liver hemangioma (n = 12), 
+      adrenal adenoma (n = 12), and parapelvic renal cysts (n = 6). The most important 
+      finding was detection of a renal mass in one patient (0.1%). The mass was seen 
+      only on the delayed phase images but was difficult to appreciate in the portal 
+      venous phase. In the other 958 patients (95.8%), delayed imaging was of no 
+      benefit. In addition, use of the delayed phase resulted in a mean 59.5% increase 
+      in effective radiation dose. CONCLUSION: An additional delayed phase through the 
+      abdomen in routine contrast-enhanced CT examinations of the abdomen and pelvis is 
+      of low yield, particularly if reliable follow-up imaging to further elucidate 
+      uncertain findings is available.
+FAU - Chan, Michael G
+AU  - Chan MG
+AD  - 1 All authors: Departments of Radiology, University of California, San Diego, 
+      Medical Center, and San Diego VA Healthcare System, 3350 La Jolla Village Dr, San 
+      Diego, CA 92161.
+FAU - Cassidy, Fiona Hughes
+AU  - Cassidy FH
+FAU - Andre, Michael P
+AU  - Andre MP
+FAU - Chu, Pauline
+AU  - Chu P
+FAU - Aganovic, Lejla
+AU  - Aganovic L
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - AJR Am J Roentgenol
+JT  - AJR. American journal of roentgenology
+JID - 7708173
+RN  - 0 (Contrast Media)
+RN  - 0 (Triiodobenzoic Acids)
+RN  - 4419T9MX03 (Iohexol)
+RN  - HW8W27HTXX (iodixanol)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Contrast Media
+MH  - Female
+MH  - Humans
+MH  - Incidental Findings
+MH  - Iohexol
+MH  - Male
+MH  - Middle Aged
+MH  - Pelvis/*diagnostic imaging
+MH  - *Radiation Dosage
+MH  - Radiography, Abdominal/adverse effects/*statistics & numerical data
+MH  - Retrospective Studies
+MH  - Time Factors
+MH  - Tomography, X-Ray Computed/adverse effects/*statistics & numerical data
+MH  - Triiodobenzoic Acids
+EDAT- 2014/01/24 06:00
+MHDA- 2014/04/25 06:00
+CRDT- 2014/01/24 06:00
+PHST- 2014/01/24 06:00 [entrez]
+PHST- 2014/01/24 06:00 [pubmed]
+PHST- 2014/04/25 06:00 [medline]
+AID - 10.2214/AJR.12.10468 [doi]
+PST - ppublish
+SO  - AJR Am J Roentgenol. 2014 Feb;202(2):329-35. doi: 10.2214/AJR.12.10468.

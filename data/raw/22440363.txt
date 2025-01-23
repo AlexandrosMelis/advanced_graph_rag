@@ -1,0 +1,96 @@
+PMID- 22440363
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120904
+LR  - 20220316
+IS  - 1552-6259 (Electronic)
+IS  - 0003-4975 (Linking)
+VI  - 94
+IP  - 1
+DP  - 2012 Jul
+TI  - Mitral replacement or repair for functional mitral regurgitation in dilated and 
+      ischemic cardiomyopathy: is it really the same?
+PG  - 44-51
+LID - 10.1016/j.athoracsur.2012.01.047 [doi]
+AB  - BACKGROUND: This was a study to compare the results of mitral valve (MV) repair 
+      and MV replacement for the treatment of functional mitral regurgitation (MR) in 
+      advanced dilated and ischemic cardiomyopathy (DCM). METHODS: One-hundred and 
+      thirty-two patients with severe functional MR and systolic dysfunction (mean 
+      ejection fraction 0.32 +/- 0.078) underwent mitral surgery in the same time frame. 
+      The decision to replace rather than repair the MV was taken when 1 or more 
+      echocardiographic predictors of repair failure were identified at the 
+      preoperative echocardiogram. Eighty-five patients (64.4%) received MV repair and 
+      47 patients (35.6%) received MV replacement. Preoperative characteristics were 
+      comparable between the 2 groups. Only ejection fraction was significantly lower 
+      in the MV repair group (0.308 +/- 0.077 vs 0.336 +/- 0.076, p = 0.04). RESULTS: 
+      Hospital mortality was 2.3% for MV repair and 12.5% for MV replacement (p = 
+      0.03). Actuarial survival at 2.5 years was 92 +/- 3.2% for MV repair and 73 +/- 7.9% 
+      for MV replacement (p = 0.02). At a mean follow-up of 2.3 years (median, 1.6 
+      years), in the MV repair group LVEF significantly increased (from 0.308 +/- 0.077 
+      to 0.382 +/- 0.095, p < 0.0001) and LV dimensions significantly decreased (p = 
+      0.0001). On the other hand, in the MV replacement group LVEF did not 
+      significantly change (from 0.336 +/- 0.076 to 0.31 +/- 0.11, p = 0.56) and the 
+      reduction of LV dimensions was not significant. Mitral valve replacement was 
+      identified as the only predictor of hospital (odds ratio, 6; 95% confidence 
+      interval, 1.1 to 31; p = 0.03) and overall mortality (hazard ratio, 3.1; 95% 
+      confidence interval, 1.1 to 8.9; p = 0.02). CONCLUSIONS: In patients with 
+      advanced dilated and ischemic cardiomyopathy and severe functional MR, MV 
+      replacement is associated with higher in-hospital and late mortality compared 
+      with MV repair. Therefore, mitral repair should be preferred whenever possible in 
+      this clinical setting.
+CI  - Copyright (c) 2012 The Society of Thoracic Surgeons. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - De Bonis, Michele
+AU  - De Bonis M
+AD  - Department of Cardiac Surgery, San Raffaele University Hospital, Milan, Italy. 
+      michele.debonis@hsr.it
+FAU - Ferrara, David
+AU  - Ferrara D
+FAU - Taramasso, Maurizio
+AU  - Taramasso M
+FAU - Calabrese, Maria Chiara
+AU  - Calabrese MC
+FAU - Verzini, Alessandro
+AU  - Verzini A
+FAU - Buzzatti, Nicola
+AU  - Buzzatti N
+FAU - Alfieri, Ottavio
+AU  - Alfieri O
+LA  - eng
+PT  - Journal Article
+DEP - 20120320
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+SB  - IM
+CIN - Ann Thorac Surg. 2013 Mar;95(3):1138. doi: 10.1016/j.athoracsur.2012.08.106. 
+      PMID: 23438558
+MH  - Aged
+MH  - Cardiomyopathy, Dilated/*surgery
+MH  - Echocardiography
+MH  - Female
+MH  - *Heart Valve Prosthesis Implantation/mortality
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Mitral Valve/*surgery
+MH  - Mitral Valve Insufficiency/*surgery
+MH  - Myocardial Ischemia/*surgery
+MH  - Retrospective Studies
+MH  - Ventricular Function, Left
+EDAT- 2012/03/24 06:00
+MHDA- 2012/09/05 06:00
+CRDT- 2012/03/24 06:00
+PHST- 2011/11/03 00:00 [received]
+PHST- 2012/01/13 00:00 [revised]
+PHST- 2012/01/16 00:00 [accepted]
+PHST- 2012/03/24 06:00 [entrez]
+PHST- 2012/03/24 06:00 [pubmed]
+PHST- 2012/09/05 06:00 [medline]
+AID - S0003-4975(12)00158-0 [pii]
+AID - 10.1016/j.athoracsur.2012.01.047 [doi]
+PST - ppublish
+SO  - Ann Thorac Surg. 2012 Jul;94(1):44-51. doi: 10.1016/j.athoracsur.2012.01.047. 
+      Epub 2012 Mar 20.

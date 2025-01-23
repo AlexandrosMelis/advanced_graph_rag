@@ -1,0 +1,87 @@
+PMID- 26907557
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170420
+LR  - 20170817
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 74
+IP  - 7
+DP  - 2016 Jul
+TI  - Can a Novel Surgical Approach to the Temporomandibular Joint Improve Access and 
+      Reduce Complications?
+PG  - 1336-42
+LID - S0278-2391(16)00131-2 [pii]
+LID - 10.1016/j.joms.2016.01.039 [doi]
+AB  - PURPOSE: This clinical study investigated whether the vascular-guided multilayer 
+      preauricular approach (VMPA) to the temporomandibular joint (TMJ) could improve 
+      access and decrease complications. PATIENTS AND METHODS: This retrospective 
+      evaluation consisted of a consecutive series of patients who underwent TMJ 
+      surgeries through the VMPA from January through December 2013. Patients with a 
+      history of TMJ surgery were excluded. Clinical data, including operating times, 
+      subjective complaints of incision scars, functional conditions of the 
+      auriculotemporal nerve and facial nerve, and other complications, were recorded 
+      and analyzed. All patients in this study were followed for at least 6 months. 
+      RESULTS: All patients (606 joints) had successful TMJ surgeries through the VMPA. 
+      All incisions healed favorably with an uneventful recovery. No patient developed 
+      permanent weakness of the facial nerve or other severe complications. CONCLUSION: 
+      The VMPA can provide direct access and favorable visibility to the TMJ region and 
+      yield good esthetic and functional results. The VMPA can be considered the 
+      approach of choice for common TMJ surgeries.
+CI  - Copyright (c) 2016 American Association of Oral and Maxillofacial Surgeons. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Qiu, Ya-Ting
+AU  - Qiu YT
+AD  - Surgeon, Department of Oral and Maxillofacial Surgery, Shanghai Ninth People's 
+      Hospital, Shanghai JiaoTong University School of Medicine, Shanghai, China.
+FAU - Yang, Chi
+AU  - Yang C
+AD  - Professor and Director, Department of Oral and Maxillofacial Surgery, Shanghai 
+      Ninth People's Hospital, Shanghai JiaoTong University School of Medicine, 
+      Shanghai, China. Electronic address: yangchi63@hotmail.com.
+FAU - Chen, Min-Jie
+AU  - Chen MJ
+AD  - Surgeon, Department of Oral and Maxillofacial Surgery, Shanghai Ninth People's 
+      Hospital, Shanghai JiaoTong University School of Medicine, Shanghai, China.
+FAU - Qiu, Wei-Liu
+AU  - Qiu WL
+AD  - Former Professor and Director, Department of Oral and Maxillofacial Surgery, 
+      Shanghai Ninth People's Hospital, Shanghai JiaoTong University School of 
+      Medicine, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20160129
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American 
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Oral Surgical Procedures
+MH  - Postoperative Complications/*prevention & control
+MH  - Retrospective Studies
+MH  - Temporomandibular Joint Disorders/*surgery
+MH  - Treatment Outcome
+EDAT- 2016/02/26 06:00
+MHDA- 2017/04/21 06:00
+CRDT- 2016/02/25 06:00
+PHST- 2015/09/30 00:00 [received]
+PHST- 2016/01/12 00:00 [revised]
+PHST- 2016/01/14 00:00 [accepted]
+PHST- 2016/02/25 06:00 [entrez]
+PHST- 2016/02/26 06:00 [pubmed]
+PHST- 2017/04/21 06:00 [medline]
+AID - S0278-2391(16)00131-2 [pii]
+AID - 10.1016/j.joms.2016.01.039 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2016 Jul;74(7):1336-42. doi: 10.1016/j.joms.2016.01.039. 
+      Epub 2016 Jan 29.

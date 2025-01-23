@@ -1,0 +1,87 @@
+PMID- 16971978
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061019
+LR  - 20190608
+IS  - 0828-282X (Print)
+IS  - 1916-7075 (Electronic)
+IS  - 0828-282X (Linking)
+VI  - 22
+IP  - 11
+DP  - 2006 Sep
+TI  - Are complex coronary lesions more frequent in patients with diabetes mellitus?
+PG  - 935-7
+AB  - BACKGROUND: Coronary atherosclerotic burden is excessive in diabetic patients. 
+      Diabetes mellitus (DM) is an independent predictor for both death and myocardial 
+      infarction. It is not known whether the prevalence of complex coronary lesions, 
+      such as bifurcation and ostial lesions, is different in diabetics from 
+      nondiabetics. OBJECTIVE: The aim of present study was to investigate the 
+      prevalence of these lesions in patients with DM. METHODS: One thousand fourteen 
+      consecutive patients (mean age 61.3+/-10.7 years) were investigated. Coronary 
+      angiograms were examined for bifurcation and ostial lesions using a digital 
+      quantitative system. Patients were classified as diabetic (n=281) or nondiabetic 
+      (n=733). RESULTS: Patient mean age, and rates of hypertension and hyperlipidemia 
+      were significantly higher in the diabetic group than in the nondiabetic group 
+      (P<0.0001), although smoking was significantly lower (P=0.001). Reasons for 
+      coronary angiography and treatment were comparable between the two groups. The 
+      prevalence of bifurcation lesions and ostial lesions was significantly greater in 
+      the diabetic group than in the nondiabetic group (9.8% versus 4.3% [P=0.001] and 
+      38.4% versus 29.2% [P=0.003] in the diabetic group versus the nondiabetic group). 
+      The presence of DM and greater age were found to be independent predictors for 
+      bifurcation lesions (OR=2.27 [P=0.004] and OR=1.03 [P=0.01], for DM and age, 
+      respectively) and ostial lesions (OR=1.40 [P=0.027] and OR=1.02 [P=0.001], for DM 
+      and age, respectively) in multivariate analysis. CONCLUSIONS: Complex coronary 
+      lesions such as bifurcation and ostial lesions were significantly more common in 
+      diabetic patients than in nondiabetic patients. Greater age and the presence of 
+      DM were independent predictors for these complex lesions. These results may help 
+      to explain the poor prognosis of coronary artery disease among diabetic patients.
+FAU - Baris, Nezihi
+AU  - Baris N
+AD  - Department of Cardiology, Faculty of Medicine, Dokuz Eylul University, Izmir, 
+      Turkey. nezihi.baris@deu.edu.tr
+FAU - Akdeniz, Bahri
+AU  - Akdeniz B
+FAU - Uyar, Samet
+AU  - Uyar S
+FAU - Ozel, Erdem
+AU  - Ozel E
+FAU - Kirimli, Onder
+AU  - Kirimli O
+FAU - Badak, Ozer
+AU  - Badak O
+FAU - Aslan, Ozgur
+AU  - Aslan O
+FAU - Guneri, Sema
+AU  - Guneri S
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Can J Cardiol
+JT  - The Canadian journal of cardiology
+JID - 8510280
+SB  - IM
+MH  - Coronary Angiography
+MH  - Coronary Artery Disease/complications/diagnostic imaging/*epidemiology
+MH  - *Diabetes Mellitus
+MH  - Female
+MH  - Humans
+MH  - Hyperlipidemias
+MH  - Hypertension
+MH  - Male
+MH  - Middle Aged
+MH  - Prevalence
+MH  - Turkey/epidemiology
+PMC - PMC2570247
+EDAT- 2006/09/15 09:00
+MHDA- 2006/10/20 09:00
+PMCR- 2007/09/01
+CRDT- 2006/09/15 09:00
+PHST- 2006/09/15 09:00 [pubmed]
+PHST- 2006/10/20 09:00 [medline]
+PHST- 2006/09/15 09:00 [entrez]
+PHST- 2007/09/01 00:00 [pmc-release]
+AID - S0828-282X(06)70312-9 [pii]
+AID - cjc220935 [pii]
+AID - 10.1016/s0828-282x(06)70312-9 [doi]
+PST - ppublish
+SO  - Can J Cardiol. 2006 Sep;22(11):935-7. doi: 10.1016/s0828-282x(06)70312-9.

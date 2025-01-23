@@ -1,0 +1,112 @@
+PMID- 22491528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120926
+LR  - 20191210
+IS  - 2044-5423 (Electronic)
+IS  - 2044-5415 (Linking)
+VI  - 21
+IP  - 6
+DP  - 2012 Jun
+TI  - Combining process indicators to evaluate quality of care for surgical patients 
+      with colorectal cancer: are scores consistent with short-term outcome?
+PG  - 481-9
+LID - 10.1136/bmjqs-2011-000439 [doi]
+AB  - OBJECTIVE: To determine if composite measures based on process indicators are 
+      consistent with short-term outcome indicators in surgical colorectal cancer care. 
+      DESIGN: Longitudinal analysis of consistency between composite measures based on 
+      process indicators and outcome indicators for 85 Dutch hospitals. SETTING: The 
+      Dutch Surgical Colorectal Audit database, the Netherlands. PARTICIPANTS: 4732 
+      elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 
+      85 hospitals were included in the analyses. MAIN OUTCOME MEASURES: All available 
+      process indicators were aggregated into five different composite measures. The 
+      association of the different composite measures with risk-adjusted postoperative 
+      mortality and morbidity was analysed at the patient and hospital level. RESULTS: 
+      At the patient level, only one of the composite measures was negatively 
+      associated with morbidity for rectum carcinoma. At the hospital level, a strong 
+      negative association was found between composite measures and hospital mortality 
+      and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates 
+      for colon carcinoma. CONCLUSIONS: For individual patients, a high score on the 
+      composite measures based on process indicators is not associated with better 
+      short-term outcome. However, at the hospital level, a good score on the composite 
+      measures based on process indicators was consistent with more favourable 
+      risk-adjusted short-term outcome rates.
+FAU - Kolfschoten, N E
+AU  - Kolfschoten NE
+AD  - Department of Surgery, Leiden University Medical Center, PO Box 9600, Leiden 2300 
+      RC, The Netherlands.
+FAU - Gooiker, G A
+AU  - Gooiker GA
+FAU - Bastiaannet, E
+AU  - Bastiaannet E
+FAU - van Leersum, N J
+AU  - van Leersum NJ
+FAU - van de Velde, C J H
+AU  - van de Velde CJ
+FAU - Eddes, E H
+AU  - Eddes EH
+FAU - Marang-van de Mheen, P J
+AU  - Marang-van de Mheen PJ
+FAU - Kievit, J
+AU  - Kievit J
+FAU - van der Harst, E
+AU  - van der Harst E
+FAU - Wiggers, T
+AU  - Wiggers T
+FAU - Wouters, M W J M
+AU  - Wouters MW
+FAU - Tollenaar, R A E M
+AU  - Tollenaar RA
+CN  - Dutch Surgical Colorectal Audit group
+LA  - eng
+PT  - Journal Article
+DEP - 20120404
+PL  - England
+TA  - BMJ Qual Saf
+JT  - BMJ quality & safety
+JID - 101546984
+MH  - Colorectal Neoplasms/*surgery
+MH  - Databases, Factual
+MH  - Female
+MH  - Hospitals, Public
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Netherlands
+MH  - *Outcome Assessment, Health Care
+MH  - Quality Assurance, Health Care/*methods
+MH  - *Quality Indicators, Health Care
+MH  - Surgical Procedures, Operative/*standards
+FIR - Bemelman, W A
+IR  - Bemelman WA
+FIR - Busch, O R C
+IR  - Busch OR
+FIR - van Dam, R M
+IR  - van Dam RM
+FIR - Jansen-Landheer, M L E A
+IR  - Jansen-Landheer ML
+FIR - Karsten, Th M
+IR  - Karsten TM
+FIR - van Krieken, J H J M
+IR  - van Krieken JH
+FIR - Kuijpers, W G T
+IR  - Kuijpers WG
+FIR - Lemmens, V E
+IR  - Lemmens VE
+FIR - Manusama, E R
+IR  - Manusama ER
+FIR - Meijerink, J H J
+IR  - Meijerink JH
+FIR - Rutten, H J T
+IR  - Rutten HJ
+EDAT- 2012/04/12 06:00
+MHDA- 2012/09/27 06:00
+CRDT- 2012/04/12 06:00
+PHST- 2012/04/12 06:00 [entrez]
+PHST- 2012/04/12 06:00 [pubmed]
+PHST- 2012/09/27 06:00 [medline]
+AID - bmjqs-2011-000439 [pii]
+AID - 10.1136/bmjqs-2011-000439 [doi]
+PST - ppublish
+SO  - BMJ Qual Saf. 2012 Jun;21(6):481-9. doi: 10.1136/bmjqs-2011-000439. Epub 2012 Apr 
+      4.

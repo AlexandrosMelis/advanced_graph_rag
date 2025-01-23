@@ -1,0 +1,88 @@
+PMID- 8245806
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940103
+LR  - 20100324
+IS  - 0094-3509 (Print)
+IS  - 0094-3509 (Linking)
+VI  - 37
+IP  - 6
+DP  - 1993 Dec
+TI  - Does family practice at residency teaching sites reflect community practice?
+PG  - 555-63
+AB  - BACKGROUND: Family medicine has aspired to train residents and conduct research 
+      in settings that closely resemble community practice. The purpose of this study 
+      was to compare the patient characteristics of the ambulatory teaching centers of 
+      a consortium of seven community-based university-affiliated family practice 
+      residency programs in northeast Ohio with the National Ambulatory Medical Care 
+      Survey (NAMCS) results for family physicians (FPs) and general practitioners 
+      (GPs). METHODS: Ninety-eight faculty and resident physicians at the residency 
+      training site of the Northeastern Ohio Universities College of Medicine collected 
+      data on all ambulatory patient visits (N = 1498) for one randomly chosen week 
+      between July 1, 1991, and June 30, 1992. We compared these data with patient 
+      visits reported in the 1990 NAMCS for FPs and GPs. RESULTS: The residency 
+      training sites saw slightly more children, women, blacks, and Medicare and 
+      Medicaid patients. The most common reason for an office visit in both populations 
+      was an undifferentiated symptom. Fifteen of the top 20 "reason for visit" codes 
+      were identical, as were 14 of the top 20 diagnoses. More preventive and 
+      therapeutic services were offered or performed at our residency training sites 
+      but fewer diagnostic services were performed. There were fewer consultations 
+      requested at our residency training sites but similar hospitalization rates for 
+      patients. The mean duration of visit differed by only 1 minute. CONCLUSIONS: The 
+      residency training sites of the Northeastern Ohio Universities College of 
+      Medicine provide patient care opportunities similar to those found in a national 
+      survey of family and general practitioners.
+FAU - Gilchrist, V
+AU  - Gilchrist V
+AD  - Aultman Hospital, Canton, OH.
+FAU - Miller, R S
+AU  - Miller RS
+FAU - Gillanders, W R
+AU  - Gillanders WR
+FAU - Scheid, D C
+AU  - Scheid DC
+FAU - Logue, E E
+AU  - Logue EE
+FAU - Iverson, D C
+AU  - Iverson DC
+FAU - Oprandi, A M
+AU  - Oprandi AM
+FAU - Weldy, D L
+AU  - Weldy DL
+FAU - Krell, M A
+AU  - Krell MA
+LA  - eng
+GR  - 5D15PE55048/PE/BHP HRSA HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Fam Pract
+JT  - The Journal of family practice
+JID - 7502590
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - *Ambulatory Care/economics/statistics & numerical data
+MH  - Child
+MH  - Child, Preschool
+MH  - *Family Practice/economics/education/statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - *Internship and Residency/economics/statistics & numerical data
+MH  - Male
+MH  - Middle Aged
+MH  - Office Visits/statistics & numerical data
+MH  - Ohio
+MH  - Patients/classification
+MH  - Reimbursement Mechanisms
+MH  - Time Factors
+EDAT- 1993/12/01 00:00
+MHDA- 1993/12/01 00:01
+CRDT- 1993/12/01 00:00
+PHST- 1993/12/01 00:00 [pubmed]
+PHST- 1993/12/01 00:01 [medline]
+PHST- 1993/12/01 00:00 [entrez]
+PST - ppublish
+SO  - J Fam Pract. 1993 Dec;37(6):555-63.

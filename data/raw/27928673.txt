@@ -1,0 +1,86 @@
+PMID- 27928673
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170817
+LR  - 20181202
+IS  - 1432-0711 (Electronic)
+IS  - 0932-0067 (Linking)
+VI  - 295
+IP  - 2
+DP  - 2017 Feb
+TI  - Do ART patients face higher C-section rates during their stage of delivery? A 
+      German monocenter experience.
+PG  - 481-485
+LID - 10.1007/s00404-016-4252-1 [doi]
+AB  - PURPOSE: The mode of delivery depends on multiple parameters. After assisted 
+      reproductive technology (ART), previous studies have shown elevated C-section 
+      rates but few studies differentiated between elective and emergency operations 
+      and different protocols of cryopreservation. Because these studies did not use 
+      multiparity as exclusion criteria which reduces confounding with previous 
+      pregnancies, aim of this study is to compare mode of delivery of different 
+      techniques of ART using data of primiparae only [1, 2]. METHODS: Retrospective 
+      analysis of patient data treated at the university hospital of Luebeck in a 
+      period of 12 years. Patients were divided in different groups according to their 
+      way of conception: spontaneous conception and conception after ART. The group of 
+      ART was further divided into: (a) a group of fresh transferred embryos 
+      (IVF/ICSI), (b) vitrification and (c) slow freezing. Exclusion criteria were 
+      defined as: multiparity, delivery <24. + 0 p.m., incomplete data and treatment 
+      outside university of Luebeck. Main parameter of this study was mode of delivery 
+      which was divided into spontaneous delivery or C-section. C-sections were further 
+      differentiated into elective or emergency C-sections. RESULTS: The group of fresh 
+      transferred embryos and slow freezing showed higher risks for elective and 
+      emergency C-sections (elective C-sections odds ratio 2.0, CI 95% 1.6-2.6, 
+      emergency C-sections odds ratio 1.4, CI 95% 1.1-1.9). Moreover, all groups of ART 
+      show enhanced risk of significant perinatal bleeding. CONCLUSION: Patients after 
+      ART treatment suffer from higher C-section rates during their stage of delivery.
+FAU - Neumann, Kay
+AU  - Neumann K
+AUID- ORCID: 0000-0002-7941-8340
+AD  - Department of Obstetrics and Gynaecology, Schleswig- Holstein University, Campus 
+      Luebeck, Ratzeburger Allee 160, 23538, Luebeck, Germany. Kay.Neumann@uksh.de.
+FAU - Cirkel, Christoph
+AU  - Cirkel C
+AD  - Department of Obstetrics and Gynaecology, Schleswig- Holstein University, Campus 
+      Luebeck, Ratzeburger Allee 160, 23538, Luebeck, Germany.
+FAU - Rody, Achim
+AU  - Rody A
+AD  - Department of Obstetrics and Gynaecology, Schleswig- Holstein University, Campus 
+      Luebeck, Ratzeburger Allee 160, 23538, Luebeck, Germany.
+FAU - Beyer, Daniel A
+AU  - Beyer DA
+AD  - Westpfalz-Klinikum GmbH, Hellmut-Hartert-Str. 1, 67655, Kaiserslautern, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20161207
+PL  - Germany
+TA  - Arch Gynecol Obstet
+JT  - Archives of gynecology and obstetrics
+JID - 8710213
+SB  - IM
+MH  - Adult
+MH  - Cesarean Section/*statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - Reproductive Techniques, Assisted/*adverse effects
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Assisted reproductive technology
+OT  - Cryopreservation
+OT  - Delivery
+OT  - Labour
+OT  - Postnatal outcome
+OT  - Vitrification
+EDAT- 2016/12/09 06:00
+MHDA- 2017/08/18 06:00
+CRDT- 2016/12/09 06:00
+PHST- 2016/08/31 00:00 [received]
+PHST- 2016/11/24 00:00 [accepted]
+PHST- 2016/12/09 06:00 [pubmed]
+PHST- 2017/08/18 06:00 [medline]
+PHST- 2016/12/09 06:00 [entrez]
+AID - 10.1007/s00404-016-4252-1 [pii]
+AID - 10.1007/s00404-016-4252-1 [doi]
+PST - ppublish
+SO  - Arch Gynecol Obstet. 2017 Feb;295(2):481-485. doi: 10.1007/s00404-016-4252-1. 
+      Epub 2016 Dec 7.

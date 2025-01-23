@@ -1,0 +1,105 @@
+PMID- 25488308
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150329
+LR  - 20150112
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 73
+IP  - 2
+DP  - 2015 Feb
+TI  - Can bone thickness and inter-radicular space affect miniscrew placement in 
+      posterior mandibular sites?
+PG  - 333-9
+LID - S0278-2391(14)01326-3 [pii]
+LID - 10.1016/j.joms.2014.08.015 [doi]
+AB  - PURPOSE: The proper angle of miniscrew insertion is important for cortical 
+      anchorage, patient safety, and biomechanical control. The purposes of this study 
+      are to report the alveolar process thickness and inter-radicular space in the 
+      posterior region of the mandible, to assess the impact of different miniscrew 
+      insertion angle protocols, and to identify differences between the genders or 
+      types of malocclusion. MATERIALS AND METHODS: In this retrospective study, 100 
+      individuals were selected for orthodontic treatment at a radiology clinic. 
+      Cone-beam computed tomography data were imported into 3-dimensional software. The 
+      predictor variable was the location in the mandible and insertion angle. The 
+      demographic variables collected included age, gender, and malocclusion (Angle 
+      Classes I and II). The primary outcome variables were bone thickness and 
+      inter-radicular space. The inter-radicular spaces were evaluated 5 mm from the 
+      cement-enamel junction. The bone thicknesses were taken at 45 degrees , 60 degrees , and 90 degrees  in 
+      relation to the alveolar ridge, simulating a miniscrew insertion. These factors 
+      were evaluated for sexual dimorphism and malocclusion (Angle Classes I and II). 
+      Sexual dimorphism and malocclusion were evaluated with t tests. To compare the 
+      inter-radicular space and the thickness of bone between areas, an analysis of 
+      variance for repeated measures was used. RESULTS: The sample was composed of 100 
+      patients with a mean age of 17.4 +/- 6.74 years. There were 61 female and 39 male 
+      patients and 60 Class I and 40 Class II molar relationships. The inter-radicular 
+      space ranged from 2.46 to 3.31 mm, and alveolar bone thickness ranged from 8.01 
+      to 13.77 mm. The thickness tended to decrease with the increase in insertion 
+      angle from 45 degrees  to 90 degrees . No significant differences between the genders or types of 
+      malocclusion were found. CONCLUSIONS: The results of this study suggest that the 
+      safest areas for the placement of miniscrews are between the first and second 
+      premolars and between the first and second molars, regardless of the angle of 
+      insertion.
+CI  - Copyright (c) 2015 American Association of Oral and Maxillofacial Surgeons. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Sabec, Ricardo da Costa
+AU  - Sabec Rda C
+AD  - Former Graduate Student, Department of Orthodontics, University of North Parana 
+      (UNOPAR), Londrina, Brazil.
+FAU - Fernandes, Thais Maria Freire
+AU  - Fernandes TM
+AD  - Professor, Department of Orthodontics, University of North Parana (UNOPAR), 
+      Londrina, Brazil. Electronic address: thaismaria@hotmail.com.
+FAU - de Lima Navarro, Ricardo
+AU  - de Lima Navarro R
+AD  - Postgraduate Researcher, Department of Dentistry, Area of Oral and Maxillofacial 
+      Surgery, State University of Maringa, Maringa, Brazil.
+FAU - Oltramari-Navarro, Paula Vanessa Pedron
+AU  - Oltramari-Navarro PV
+AD  - Professor, Department of Orthodontics, University of North Parana (UNOPAR), 
+      Londrina, Brazil.
+FAU - Conti, Ana Claudia de Castro Ferreira
+AU  - Conti AC
+AD  - Professor, Department of Orthodontics, University of North Parana (UNOPAR), 
+      Londrina, Brazil.
+FAU - de Almeida, Marcio Rodrigues
+AU  - de Almeida MR
+AD  - Professor, Department of Orthodontics, University of North Parana (UNOPAR), 
+      Londrina, Brazil.
+FAU - Poleti, Marcelo Lupion
+AU  - Poleti ML
+AD  - Professor, Department of Orthodontics, University of North Parana (UNOPAR), 
+      Londrina, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20140813
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American 
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Bone Screws
+MH  - Child
+MH  - Cone-Beam Computed Tomography
+MH  - Humans
+MH  - Mandible/*anatomy & histology
+MH  - *Orthodontics
+MH  - Retrospective Studies
+MH  - Young Adult
+EDAT- 2014/12/10 06:00
+MHDA- 2015/03/31 06:00
+CRDT- 2014/12/10 06:00
+PHST- 2014/05/28 00:00 [received]
+PHST- 2014/08/06 00:00 [revised]
+PHST- 2014/08/06 00:00 [accepted]
+PHST- 2014/12/10 06:00 [entrez]
+PHST- 2014/12/10 06:00 [pubmed]
+PHST- 2015/03/31 06:00 [medline]
+AID - S0278-2391(14)01326-3 [pii]
+AID - 10.1016/j.joms.2014.08.015 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2015 Feb;73(2):333-9. doi: 10.1016/j.joms.2014.08.015. 
+      Epub 2014 Aug 13.

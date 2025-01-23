@@ -1,0 +1,87 @@
+PMID- 24359102
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150112
+LR  - 20220408
+IS  - 1365-2133 (Electronic)
+IS  - 0007-0963 (Linking)
+VI  - 170
+IP  - 5
+DP  - 2014 May
+TI  - Two-year follow-up survey of patients with allergic contact dermatitis from an 
+      occupational cohort: is the prognosis dependent on the omnipresence of the 
+      allergen?
+PG  - 1100-5
+LID - 10.1111/bjd.12795 [doi]
+AB  - BACKGROUND: Skin diseases are the most frequently recognized occupational 
+      diseases in Denmark. The prognosis for occupational contact dermatitis is often 
+      poor. OBJECTIVES: To investigate the prognosis, assessed by eczema, job status 
+      and skin-related quality of life, among patients allergic to rubber chemicals and 
+      latex (ubiquitous allergens) and epoxy (nonubiquitous allergen), 2 years after 
+      recognition of occupational allergic contact dermatitis. METHODS: From a cohort 
+      of all patients recognized as having occupational dermatitis by the Danish 
+      National Board of Industrial Injuries in 2010, 199 patients with relevant rubber 
+      allergy (contact allergy to rubber chemicals or contact urticaria from latex) or 
+      epoxy allergy were identified. Follow-up consisted of a questionnaire covering 
+      current severity of eczema, employment, exposure and quality of life. RESULTS: 
+      The response rate was 75%. Clearance of eczema was reported by 11% of patients 
+      and 67% reported improvement. Overall 22% of patients with allergy to a 
+      nonubiquitous allergen had total clearance of eczema compared with 10% of cases 
+      allergic to ubiquitous allergens and 0% of those with contact urticaria 
+      (P = 0.116). Improvement was significantly more frequent in those who had changed 
+      jobs compared with those who had not (P = 0.01). CONCLUSIONS: At follow-up, 
+      patients with contact urticaria had significantly poorer prognosis than those 
+      with contact allergy, and there was a trend towards a poorer prognosis for those 
+      with contact allergy to rubber chemicals than those with allergy to epoxy. A 
+      significant positive association between job change and improvement was found.
+CI  - (c) 2013 British Association of Dermatologists.
+FAU - Clemmensen, K K B
+AU  - Clemmensen KK
+AD  - Department of Dermatology, University of Copenhagen, Bispebjerg Hospital, 2400, 
+      Copenhagen, Denmark.
+FAU - Caroe, T K
+AU  - Caroe TK
+FAU - Thomsen, S F
+AU  - Thomsen SF
+FAU - Ebbehoj, N E
+AU  - Ebbehoj NE
+FAU - Agner, T
+AU  - Agner T
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Br J Dermatol
+JT  - The British journal of dermatology
+JID - 0004041
+RN  - 0 (Allergens)
+SB  - IM
+CIN - Br J Dermatol. 2014 May;170(5):1010-1. doi: 10.1111/bjd.13018. PMID: 24841583
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Allergens/*analysis
+MH  - Denmark/epidemiology
+MH  - Dermatitis, Allergic Contact/*epidemiology
+MH  - Dermatitis, Occupational/*epidemiology
+MH  - Eczema/epidemiology
+MH  - Employment/statistics & numerical data
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Latex Hypersensitivity/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Quality of Life
+MH  - Urticaria/epidemiology
+MH  - Young Adult
+EDAT- 2013/12/24 06:00
+MHDA- 2015/01/13 06:00
+CRDT- 2013/12/24 06:00
+PHST- 2013/12/16 00:00 [accepted]
+PHST- 2013/12/24 06:00 [entrez]
+PHST- 2013/12/24 06:00 [pubmed]
+PHST- 2015/01/13 06:00 [medline]
+AID - 10.1111/bjd.12795 [doi]
+PST - ppublish
+SO  - Br J Dermatol. 2014 May;170(5):1100-5. doi: 10.1111/bjd.12795.

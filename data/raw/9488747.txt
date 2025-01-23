@@ -1,0 +1,66 @@
+PMID- 9488747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980311
+LR  - 20190831
+IS  - 0929-693X (Print)
+IS  - 0929-693X (Linking)
+VI  - 4
+IP  - 11
+DP  - 1997 Nov
+TI  - [Syncope during bathing in infants, a pediatric form of water-induced 
+      urticaria?].
+PG  - 1111-5
+AB  - BACKGROUND: Apparent life-threatening events in infants are a difficult and 
+      frequent problem in pediatric practice. The prognosis is uncertain because of 
+      risk of sudden infant death syndrome. CASE REPORTS: Eight infants aged 2 to 15 
+      months were admitted during a period of 6 years; they suffered from similar 
+      maladies in the bath: on immersion, they became pale, hypotonic, still and 
+      unreactive; recovery took a few seconds after withdrawal from the bath and 
+      stimulation. Two diagnoses were initially considered: seizure or gastroesophageal 
+      reflux but this was doubtful. The hypothesis of an equivalent of aquagenic 
+      urticaria was then considered; as for patients with this disease, each infant's 
+      family contained members suffering from dermographism, maladies or eruption after 
+      exposure to water or sun. All six infants had dermographism. We found an increase 
+      in blood histamine levels after a trial bath in the two infants tested. The 
+      evolution of these "aquagenic maladies" was favourable after a few weeks without 
+      baths. After a 2-7 year follow-up, three out of seven infants continue to suffer 
+      from troubles associated with sun or water. CONCLUSION: "Aquagenic maladies" 
+      could be a pediatric form of the aquagenic urticaria.
+FAU - Mouterde, O
+AU  - Mouterde O
+AD  - Centre de reference regional de recherche et prevention de la mort subite du 
+      nourrisson, hopital Charles-Nicolle, Rouen, France.
+FAU - Mallet, E
+AU  - Mallet E
+FAU - Spriet, J
+AU  - Spriet J
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+TT  - Malaises au bain chez le nourrisson, une forme pediatrique de l'urticaire 
+      aquagenique?
+PL  - France
+TA  - Arch Pediatr
+JT  - Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+JID - 9421356
+RN  - 059QF0KO0R (Water)
+RN  - 820484N8I3 (Histamine)
+SB  - IM
+MH  - *Baths
+MH  - Histamine/blood
+MH  - Humans
+MH  - Infant
+MH  - Syncope/blood/*etiology
+MH  - Urticaria/blood/*etiology
+MH  - Water
+EDAT- 1998/03/07 03:14
+MHDA- 2000/05/05 09:00
+CRDT- 1998/03/07 03:14
+PHST- 1998/03/07 03:14 [pubmed]
+PHST- 2000/05/05 09:00 [medline]
+PHST- 1998/03/07 03:14 [entrez]
+AID - S0929693X97889804 [pii]
+AID - 10.1016/s0929-693x(97)88980-4 [doi]
+PST - ppublish
+SO  - Arch Pediatr. 1997 Nov;4(11):1111-5. doi: 10.1016/s0929-693x(97)88980-4.

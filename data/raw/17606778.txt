@@ -1,0 +1,85 @@
+PMID- 17606778
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070906
+LR  - 20160512
+IS  - 0021-9355 (Print)
+IS  - 0021-9355 (Linking)
+VI  - 89
+IP  - 7
+DP  - 2007 Jul
+TI  - Can vitamin C prevent complex regional pain syndrome in patients with wrist 
+      fractures? A randomized, controlled, multicenter dose-response study.
+PG  - 1424-31
+AB  - BACKGROUND: Complex regional pain syndrome type I is treated symptomatically. A 
+      protective effect of vitamin C (ascorbic acid) has been reported previously. A 
+      dose-response study was designed to evaluate its effect in patients with wrist 
+      fractures. METHODS: In a double-blind, prospective, multicenter trial, 416 
+      patients with 427 wrist fractures were randomly allocated to treatment with 
+      placebo or treatment with 200, 500, or 1500 mg of vitamin C daily for fifty days. 
+      The effect of gender, age, fracture type, and cast-related complaints on the 
+      occurrence of complex regional pain syndrome was analyzed. RESULTS: Three hundred 
+      and seventeen patients with 328 fractures were randomized to receive vitamin C, 
+      and ninety-nine patients with ninety-nine fractures were randomized to receive a 
+      placebo. The prevalence of complex regional pain syndrome was 2.4% (eight of 328) 
+      in the vitamin C group and 10.1% (ten of ninety-nine) in the placebo group 
+      (p=0.002); all of the affected patients were elderly women. Analysis of the 
+      different doses of vitamin C showed that the prevalence of complex regional pain 
+      syndrome was 4.2% (four of ninety-six) in the 200-mg group (relative risk, 0.41; 
+      95% confidence interval, 0.13 to 1.27), 1.8% (two of 114) in the 500-mg group 
+      (relative risk, 0.17; 95% confidence interval, 0.04 to 0.77), and 1.7% (two of 
+      118) in the 1500-mg group (relative risk, 0.17; 95% confidence interval, 0.04 to 
+      0.75). Early cast-related complaints predicted the development of complex 
+      regional pain syndrome (relative risk, 5.35; 95% confidence interval, 2.13 to 
+      13.42). CONCLUSIONS: Vitamin C reduces the prevalence of complex regional pain 
+      syndrome after wrist fractures. A daily dose of 500 mg for fifty days is 
+      recommended.
+FAU - Zollinger, P E
+AU  - Zollinger PE
+AD  - Department of Surgery, Red Cross Hospital, Beverwijk, The Netherlands. 
+      PE.Zollinger@tiscali.nl
+FAU - Tuinebreijer, W E
+AU  - Tuinebreijer WE
+FAU - Breederveld, R S
+AU  - Breederveld RS
+FAU - Kreis, R W
+AU  - Kreis RW
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Bone Joint Surg Am
+JT  - The Journal of bone and joint surgery. American volume
+JID - 0014030
+RN  - 0 (Antioxidants)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - IM
+CIN - J Bone Joint Surg Am. 2008 Feb;90(2):447-8; author reply 448. PMID: 18245615
+CIN - J Fam Pract. 2008 Feb;57(2):86-9. PMID: 18248727
+CIN - Evid Based Med. 2008 Apr;13(2):48. doi: 10.1136/ebm.13.2.48. PMID: 18375701
+MH  - Analysis of Variance
+MH  - Antioxidants/*administration & dosage
+MH  - Ascorbic Acid/*administration & dosage
+MH  - Chi-Square Distribution
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Fractures, Bone/*complications
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Reflex Sympathetic Dystrophy/etiology/*prevention & control
+MH  - Treatment Outcome
+MH  - Wrist Injuries/*complications
+EDAT- 2007/07/04 09:00
+MHDA- 2007/09/07 09:00
+CRDT- 2007/07/04 09:00
+PHST- 2007/07/04 09:00 [pubmed]
+PHST- 2007/09/07 09:00 [medline]
+PHST- 2007/07/04 09:00 [entrez]
+AID - 89/7/1424 [pii]
+AID - 10.2106/JBJS.F.01147 [doi]
+PST - ppublish
+SO  - J Bone Joint Surg Am. 2007 Jul;89(7):1424-31. doi: 10.2106/JBJS.F.01147.

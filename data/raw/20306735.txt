@@ -1,0 +1,69 @@
+PMID- 20306735
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100406
+LR  - 20181201
+IS  - 0189-160X (Print)
+IS  - 0189-160X (Linking)
+VI  - 28
+IP  - 3
+DP  - 2009 May
+TI  - Fulfilling human resources development goal in West Africa: can the training of 
+      ophthalmologist diplomates be improved?
+PG  - 177-81
+AB  - OBJECTIVE: To ascertain the perspectives of Trainee Ophthalmologist Diplomats 
+      (TOD) on the Ophthalmic Diploma Training (ODT) in West Africa with a view to 
+      improving the programme. METHODS: A survey of set 2005 TOD on ODT was carried out 
+      in Ghana, 2006. RESULTS: The trainees included 10 (83.35%) males and two (16.7%) 
+      females whose ages ranged between thirty-two and fifty-one years. The sponsors of 
+      the trainees included Sight Savers International, five (41.7%); Christian Blind 
+      Mission International, three (25.0%); Eye Foundation, Lagos, Nigeria two (16.7%); 
+      Ministry of Defence Nigeria, one (8.3%); and Health Authority Ghana, one (8.3%). 
+      Nine trainees (75.0%) felt the programme was well structured, training allowances 
+      were adequate eight (66.7%) and inadequate four (33.3%). Eleven (91.7%) trainees 
+      would work wherever they were posted; ten (83.3%) trainees had sense of 
+      fulfillment and three (25%) would like to proceed for residency training. All 
+      trainees were at least good in chalazion surgery and treatment of common medical 
+      eye conditions. Majority were at least good in eye surgery like cataract, eleven 
+      (91.7%); trabeculectomy nine (75.0%); pterygium 10 (83.3%); eyelid, eight 
+      (66.7%); destructive 11 (91.6%) and refraction 9 (75.0%). Some trainees' 
+      perceived problems included inadequate sponsorship (33.3%), short duration of the 
+      course four (33.3%) and poor accommodation facility two (16.7%). However, 
+      trainees' suggested increase in training posts, four (33.3); training allowance 
+      three (25.0%); and incentives for trainers/training hospitals two (16.7%). 
+      CONCLUSION: The ODT programme ensures ophthalmic manpower for secondary eye care 
+      level despite challenges. The stakeholders should look into problems facing the 
+      programme in order to improve it.
+FAU - Ayanniyi, A A
+AU  - Ayanniyi AA
+AD  - Department of Ophthalmology, University of Ilorin Teaching Hospital, Ilorin, 
+      Kwara State, Nigeria. ayanniyikabir2003@yahoo.com
+FAU - Taoheed, A A
+AU  - Taoheed AA
+LA  - eng
+PT  - Journal Article
+PL  - Nigeria
+TA  - West Afr J Med
+JT  - West African journal of medicine
+JID - 8301891
+SB  - IM
+MH  - Clinical Competence
+MH  - Education, Medical, Continuing/*methods
+MH  - Female
+MH  - Ghana
+MH  - Health Workforce/*trends
+MH  - Humans
+MH  - Male
+MH  - Medical Staff, Hospital/education
+MH  - Nigeria
+MH  - Ophthalmology/*education
+MH  - Staff Development/*methods/organization & administration
+MH  - Surveys and Questionnaires
+EDAT- 2010/03/24 06:00
+MHDA- 2010/04/07 06:00
+CRDT- 2010/03/24 06:00
+PHST- 2010/03/24 06:00 [entrez]
+PHST- 2010/03/24 06:00 [pubmed]
+PHST- 2010/04/07 06:00 [medline]
+PST - ppublish
+SO  - West Afr J Med. 2009 May;28(3):177-81.

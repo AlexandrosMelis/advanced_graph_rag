@@ -1,0 +1,88 @@
+PMID- 17593459
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071206
+LR  - 20191210
+IS  - 1432-2218 (Electronic)
+IS  - 0930-2794 (Linking)
+VI  - 21
+IP  - 12
+DP  - 2007 Dec
+TI  - Is double-balloon enteroscopy an accurate method to diagnose small-bowel 
+      disorders?
+PG  - 2231-6
+AB  - BACKGROUND AND STUDY AIMS: The aim of this study was to analyze the contribution 
+      of the double-balloon enteroscopy (DBE) for diagnosis of the small bowel 
+      disorders. PATIENTS AND METHODS: Forty-four patients (20 women, 24 men; mean age 
+      53.5 years-old, range 21-89 years) with chronic gastrointestinal bleeding, 
+      diarrhea, polyposis, weight-loss, Roux-en-Y surgery, and other indications 
+      underwent DBE. RESULTS: Twenty patients had occult or obscure gastrointestinal 
+      bleeding. The source of bleeding was identified in 15/20 (75%): multiple 
+      angiodysplasias in four, arterial-venous malformation beyond the ligament of 
+      Treitz in two that could be treated with injection successfully. Other diagnoses 
+      included: duodenal adenocarcinoma, jejunal tuberculosis, erosions and ulcer of 
+      the jejunum. Of 24 patients with other indications, the diagnosis could be 
+      achieved in 18 of them (75%), including: two lymphomas, plasmocytoma, Gardner's 
+      syndrome, Peutz-Jeghers' syndrome, familial adenomatous polyposis, Behcet's 
+      disease, jejunal submucosal lesion, lymphangiectasia due to blastomycosis and 
+      unspecific chronic jejunitis. Of three cases with Roux-en-Y reconstruction, two 
+      underwent DBE in order to perform biopsies of the excluded duodenum. 
+      Additionally, two patients underwent DBE to exclude Crohn's disease and lymphoma 
+      of the small bowel. The mean length of small bowel examination was 240 +/- 50 cm 
+      during a single approach. The diagnostic yield was 75% (33/44 cases) and 
+      therapeutic yield was 63.6%. No major complications were observed, only minor 
+      complication such as sore throat in 4/44 (9.1%). CONCLUSIONS: 1. DBE is a safe 
+      and and accurate method to diagnose small bowel disorders; 2. this method permits 
+      chromoscopy, biopsies and treatment of the lesions.
+FAU - Safatle-Ribeiro, Adriana Vaz
+AU  - Safatle-Ribeiro AV
+AD  - Gastroenterology, University of Sao Paulo, Sao Paulo, SP, Brazil. 
+      adrisafatleribeiro@terra.com.br
+FAU - Kuga, Rogerio
+AU  - Kuga R
+FAU - Ishida, Robson
+AU  - Ishida R
+FAU - Furuya, Carlos
+AU  - Furuya C
+FAU - Ribeiro, Ulysses Jr
+AU  - Ribeiro U Jr
+FAU - Cecconello, Ivan
+AU  - Cecconello I
+FAU - Ishioka, Shinichi
+AU  - Ishioka S
+FAU - Sakai, Paulo
+AU  - Sakai P
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+DEP - 20070626
+PL  - Germany
+TA  - Surg Endosc
+JT  - Surgical endoscopy
+JID - 8806653
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Catheterization
+MH  - Endoscopy, Gastrointestinal/*methods/standards
+MH  - Female
+MH  - Humans
+MH  - Intestinal Diseases/*diagnosis
+MH  - *Intestine, Small
+MH  - Male
+MH  - Middle Aged
+MH  - Time Factors
+EDAT- 2007/06/27 09:00
+MHDA- 2007/12/07 09:00
+CRDT- 2007/06/27 09:00
+PHST- 2007/01/03 00:00 [received]
+PHST- 2007/01/22 00:00 [accepted]
+PHST- 2007/01/03 00:00 [revised]
+PHST- 2007/06/27 09:00 [pubmed]
+PHST- 2007/12/07 09:00 [medline]
+PHST- 2007/06/27 09:00 [entrez]
+AID - 10.1007/s00464-007-9353-2 [doi]
+PST - ppublish
+SO  - Surg Endosc. 2007 Dec;21(12):2231-6. doi: 10.1007/s00464-007-9353-2. Epub 2007 
+      Jun 26.

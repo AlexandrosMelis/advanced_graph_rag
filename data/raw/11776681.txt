@@ -1,0 +1,86 @@
+PMID- 11776681
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020516
+LR  - 20041117
+IS  - 0300-5577 (Print)
+IS  - 0300-5577 (Linking)
+VI  - 29
+IP  - 6
+DP  - 2001
+TI  - Is intrapartum vibroacoustic stimulation an effective predictor of fetal 
+      acidosis?
+PG  - 506-12
+AB  - OBJECTIVE: The hypothesis of this prospective study is that intrapartum 
+      vibroacoustic stimulation (VAS) is an effective predictor of fetal acidosis 
+      during labor. Various clinical conditions, such as term versus preterm gestation, 
+      first stage versus second stage of labor, and fetal heart rate (FHR) variable 
+      decelerations versus late decelerations will be tested. METHODS: During the study 
+      period, 113 patients were studied prospectively in either active phase of first 
+      stage (n = 53) or during the second stage of labor (n = 60). They were selected 
+      from cases exhibiting moderate to severe FHR variable decelerations or late 
+      decelerations. The fetuses of study subjects received a VAS for three seconds and 
+      FHR changes were recorded. Fetal scalp blood pH or umbilical arterial blood pH 
+      was obtained within 15 minutes of VAS. The relationship between FHR responses to 
+      VAS and fetal blood pH in term and preterm gestations, the relationship of two 
+      tests (VAS and fetal blood pH) to type of FHR decelerations, and the 
+      predictability of neonatal morbidity by two tests were analyzed. Where 
+      appropriate, Fisher's exact test (p < 0.05 was considered statistically 
+      different) and the odd ratio with 95% confidence intervals were used for 
+      statistical analyses. RESULTS: Excellent association between acceleration 
+      response to VAS and pH > or = 7.20, and between a negative response to VAS (no 
+      acceleration or decelerations) and pH < 7.20 were found in the first stage of 
+      labor, the second stage of labor, and the combination of both stages together (p 
+      = 0.0001, OR = 10.6 [3.3-34.0]). It was observed that negative VAS responses for 
+      predicting fetal acidosis (pH < 7.20) were comparable between term (> or = 37 
+      weeks) and preterm (< 37 weeks, > or = 34 weeks) fetuses. Since the preterm 
+      fetuses enrolled in the study were limited in number, it is difficult to draw 
+      adequate conclusions. The positive predictive value (PPV) of fetal acidosis was 
+      67% in both groups of FHR variable decelerations and late decelerations, but the 
+      false negative rate of acceleration VAS response for predicting no acidosis was 
+      significantly higher in the group of late decelerations (29% vs 8%, p = 0.034). 
+      Finally, both a negative VAS response and fetal acidosis (pH < 7.20) have equal 
+      predictability for neonatal morbidity. The PPV of NICU admission by a negative 
+      VAS response was two times higher than that of fetal acidosis (PPV = 61% vs 29%, 
+      p = 0.038). CONCLUSION: We found that intrapartum VAS was an effective predictor 
+      of fetal acidosis in cases of FHR variable decelerations, but its predictability 
+      for fetal acidosis in cases of FHR late decelerations was limited. Both VAS and 
+      fetal blood pH are good predictors of neonatal morbidity.
+FAU - Lin, C C
+AU  - Lin CC
+AD  - Department of Obstetrics and Gynecology, University of Chicago, Illinois, USA.
+FAU - Vassallo, B
+AU  - Vassallo B
+FAU - Mittendorf, R
+AU  - Mittendorf R
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - J Perinat Med
+JT  - Journal of perinatal medicine
+JID - 0361031
+SB  - IM
+MH  - Acidosis/*diagnosis
+MH  - *Acoustic Stimulation
+MH  - Blood Specimen Collection
+MH  - Female
+MH  - Fetal Blood
+MH  - Fetal Diseases/*diagnosis
+MH  - Heart Rate, Fetal/*physiology
+MH  - Humans
+MH  - Hydrogen-Ion Concentration
+MH  - *Labor, Obstetric
+MH  - Pregnancy
+MH  - Prospective Studies
+MH  - Scalp/blood supply
+MH  - Sensitivity and Specificity
+MH  - *Vibration
+EDAT- 2002/01/05 10:00
+MHDA- 2002/05/17 10:01
+CRDT- 2002/01/05 10:00
+PHST- 2002/01/05 10:00 [pubmed]
+PHST- 2002/05/17 10:01 [medline]
+PHST- 2002/01/05 10:00 [entrez]
+AID - 10.1515/JPM.2001.070 [doi]
+PST - ppublish
+SO  - J Perinat Med. 2001;29(6):506-12. doi: 10.1515/JPM.2001.070.

@@ -1,0 +1,69 @@
+PMID- 10877371
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000926
+LR  - 20191104
+IS  - 1057-0829 (Print)
+IS  - 1057-0829 (Linking)
+VI  - 9
+IP  - 3
+DP  - 2000 Jun
+TI  - Does head positioning influence anterior chamber depth in pseudoexfoliation 
+      syndrome?
+PG  - 214-8
+AB  - PURPOSE: Phacodonesis can occur in pseudoexfoliation syndrome because of impaired 
+      zonular support. This study investigates whether the increased mobility of the 
+      lens influences anterior chamber depth in patients with pseudoexfoliation while 
+      assuming a prone position. METHODS: Central anterior chamber depth was measured 
+      in 39 patients with clinically apparent unilateral pseudoexfoliation and elevated 
+      intraocular pressure. Patients were placed in a face-up position for 5 minutes, 
+      at which time anterior chamber depth and axial length were measured by A scan, 
+      and intraocular pressure was measured by Tonopen (Oculab, La Jolla, CA) in both 
+      eyes. The measurements were repeated on both eyes after 5 minutes in a face-down 
+      position. RESULTS: No significant differences in intraocular pressure or axial 
+      length between the prone and supine positions were found in either eye. Anterior 
+      chamber depth in eyes with pseudoexfoliation decreased from a mean of 3.08 mm in 
+      the supine position to a mean of 2.95 mm in the prone position, whereas mean 
+      anterior chamber depth in the fellow eyes decreased from 3.01 mm to 2.97 mm. The 
+      decrease in anterior chamber depth when facing down in the eyes with 
+      pseudoexfoliation was significantly greater than in the fellow eyes. CONCLUSIONS: 
+      In patients with clinically apparent unilateral pseudoexfoliation, the lens seems 
+      to be more mobile in the affected eye. This results in a shallower anterior 
+      chamber when the head is placed in a prone position. Whether this fact might 
+      potentially lead to transient pupillary block when engaging in activities such as 
+      facing down while reading warrants further study.
+FAU - Lanzl, I M
+AU  - Lanzl IM
+AD  - Augenklinik und -Poliklinik der Technischen Universitat Munchen am Klinikum 
+      rechts der Isar, Germany.
+FAU - Merte, R L
+AU  - Merte RL
+FAU - Graham, A D
+AU  - Graham AD
+LA  - eng
+GR  - EY 03176/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Glaucoma
+JT  - Journal of glaucoma
+JID - 9300903
+SB  - IM
+MH  - Anterior Chamber/diagnostic imaging/*physiopathology
+MH  - Exfoliation Syndrome/*physiopathology
+MH  - Head Movements/*physiology
+MH  - Humans
+MH  - Intraocular Pressure
+MH  - Lens, Crystalline/*physiopathology
+MH  - *Posture
+MH  - Prone Position
+MH  - Ultrasonography
+EDAT- 2000/07/06 11:00
+MHDA- 2000/09/30 11:01
+CRDT- 2000/07/06 11:00
+PHST- 2000/07/06 11:00 [pubmed]
+PHST- 2000/09/30 11:01 [medline]
+PHST- 2000/07/06 11:00 [entrez]
+AID - 10.1097/00061198-200006000-00003 [doi]
+PST - ppublish
+SO  - J Glaucoma. 2000 Jun;9(3):214-8. doi: 10.1097/00061198-200006000-00003.

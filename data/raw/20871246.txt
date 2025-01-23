@@ -1,0 +1,85 @@
+PMID- 20871246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110113
+LR  - 20220331
+IS  - 1531-2291 (Electronic)
+IS  - 0890-5339 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2010 Oct
+TI  - Young-Burgess classification of pelvic ring fractures: does it predict mortality, 
+      transfusion requirements, and non-orthopaedic injuries?
+PG  - 603-9
+LID - 10.1097/BOT.0b013e3181d3cb6b [doi]
+AB  - OBJECTIVES: The objectives of this study were to evaluate the ability of the 
+      Young-Burgess classification system to predict mortality, transfusion 
+      requirements, and nonorthopaedic injuries in patients with pelvic ring fractures 
+      and to determine whether mortality rates after pelvic fractures have changed over 
+      time. DESIGN: Retrospective review. SETTING: Level I trauma center. PATIENTS: One 
+      thousand two hundred forty-eight patients with pelvic fractures during a 7-year 
+      period. INTERVENTION: None. MAIN OUTCOME MEASUREMENTS: Mortality at index 
+      admission, transfusion requirement during first 24 hours, and presence of 
+      nonorthopaedic injuries as a function of Young-Burgess pelvic classification 
+      type. Mortality compared with historic controls. RESULTS: Despite a relatively 
+      large sample size, the ability of the Young-Burgess system to predict mortality 
+      only approached statistical significance (P = 0.07, Kruskal-Wallis). The 
+      Young-Burgess system differentiated transfusion requirements--lateral compression 
+      Type 3 (LC3) and anteroposterior compression Types 2 (APC2) and 3 (APC3) 
+      fractures had higher transfusion requirements than did lateral compression Type 1 
+      (LC1), anteroposterior compression Type 1 (APC1), and vertical shear (VS) (P < 
+      0.05)--but was not as useful at predicting head, chest, or abdomen injuries. 
+      Dividing fractures into stable and unstable types allowed the system to predict 
+      mortality rates, abdomen injury rates, and transfusion requirements. Overall 
+      mortality in the study group was 9.1%, unchanged from original Young-Burgess 
+      studies 15 years previously (P = 0.3). CONCLUSIONS: The Young-Burgess system is 
+      useful for predicting transfusion requirements. For the system to predict 
+      mortality or nonorthopaedic injuries, fractures must be divided into stable 
+      (APC1, LC1) and unstable (APC2, APC3, LC2, LC3, VS, combined mechanism of injury) 
+      types. LC1 injuries are very common and not always benign (overall mortality 
+      rate, 8.2%).
+FAU - Manson, Theodore
+AU  - Manson T
+AD  - R Adams Cowley Shock Trauma Center, Department of Orthopaedic Surgery, University 
+      of Maryland School of Medicine, Baltimore, MD 21201, USA.
+FAU - O'Toole, Robert V
+AU  - O'Toole RV
+FAU - Whitney, Augusta
+AU  - Whitney A
+FAU - Duggan, Brian
+AU  - Duggan B
+FAU - Sciadini, Marcus
+AU  - Sciadini M
+FAU - Nascone, Jason
+AU  - Nascone J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+JID - 8807705
+SB  - IM
+CIN - J Orthop Trauma. 2010 Oct;24(10):609. doi: 10.1097/01.bot.0000389016.21888.f4. 
+      PMID: 20871247
+MH  - Blood Transfusion/*statistics & numerical data
+MH  - Comorbidity
+MH  - Fractures, Compression/*classification/mortality/therapy
+MH  - Humans
+MH  - Maryland/epidemiology
+MH  - Pelvic Bones/diagnostic imaging/*injuries
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Survival Rate
+MH  - Tomography, X-Ray Computed
+MH  - Trauma Centers
+MH  - Trauma Severity Indices
+EDAT- 2010/09/28 06:00
+MHDA- 2011/01/14 06:00
+CRDT- 2010/09/28 06:00
+PHST- 2010/09/28 06:00 [entrez]
+PHST- 2010/09/28 06:00 [pubmed]
+PHST- 2011/01/14 06:00 [medline]
+AID - 00005131-201010000-00001 [pii]
+AID - 10.1097/BOT.0b013e3181d3cb6b [doi]
+PST - ppublish
+SO  - J Orthop Trauma. 2010 Oct;24(10):603-9. doi: 10.1097/BOT.0b013e3181d3cb6b.

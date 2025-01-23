@@ -1,0 +1,90 @@
+PMID- 11411430
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011101
+LR  - 20190515
+IS  - 1058-0468 (Print)
+IS  - 1573-7330 (Electronic)
+IS  - 1058-0468 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2001 Mar
+TI  - Antral follicle assessment as a tool for predicting outcome in IVF--is it a 
+      better predictor than age and FSH?
+PG  - 151-5
+AB  - PURPOSE: The purpose of this study is to determine if baseline antral follicle 
+      assessment may serve as additional information in predicting in vitro 
+      fertilization outcome. METHODS: Prospective, descriptive preliminary study of in 
+      vitro fertilization outcome. From July 1998 to July 1999, 224 patients underwent 
+      antral follicle assessment (follicle 2-6 mm in diameter) on baseline of the 
+      planned, stimulated in vitro fertilization cycle. The outcomes were analyzed with 
+      respect to antral follicle assessment (< or = 6 or > 6), basal cycle day 3 
+      follicle stimulated hormone (< or = 10 or > 10 IU/L) and maternal age (< or = 35 
+      or > 35 years). RESULTS: The clinical pregnancy rate was significantly higher in 
+      the group with baseline antral follicle > 6 compared to that in the group with 
+      antral follicle < or = 6 (51% vs. 19%, respectively). Controlling for patient 
+      age, and basal follicle stimulated hormone, the pregnancy rate was significantly 
+      higher in the group with antral follicle > 6 compared to that in the group with 
+      antral follicle < or = 6. The cancellation rate was significantly increased with 
+      advancing maternal age, elevated basal follicle stimulated hormone levels, and 
+      baseline antral follicle < or = 6. The cancellation rate was significantly higher 
+      in the group with antral follicle < or = 6 compared to that in the group with 
+      antral follicle > or = 6 (33% vs. 1%, respectively). CONCLUSIONS: In vitro 
+      fertilization outcome is strongly correlated with both maternal ages, basal 
+      cycle, day 3 follicle, stimulated hormone, and antral follicle assessment. Antral 
+      follicle assessment was a better predictor of in vitro fertilization outcome than 
+      were age or follicle stimulated hormone. Antral follicle assessment may provide a 
+      marker for ovarian age that is distinct from chronological age or hormonal 
+      markers.
+FAU - Nahum, R
+AU  - Nahum R
+AD  - The Vincent IVF Unit, Department of Obstetrics and Gynecology, and Department of 
+      Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, 
+      Massachusetts, USA.
+FAU - Shifren, J L
+AU  - Shifren JL
+FAU - Chang, Y
+AU  - Chang Y
+FAU - Leykin, L
+AU  - Leykin L
+FAU - Isaacson, K
+AU  - Isaacson K
+FAU - Toth, T L
+AU  - Toth TL
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - J Assist Reprod Genet
+JT  - Journal of assisted reproduction and genetics
+JID - 9206495
+RN  - 9002-68-0 (Follicle Stimulating Hormone)
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Female
+MH  - *Fertilization in Vitro
+MH  - Follicle Stimulating Hormone/*blood
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Ovarian Follicle/diagnostic imaging/*physiology
+MH  - Ovulation Induction
+MH  - Pilot Projects
+MH  - Predictive Value of Tests
+MH  - Pregnancy
+MH  - *Pregnancy Outcome
+MH  - Prospective Studies
+MH  - Ultrasonography
+PMC - PMC3455595
+EDAT- 2001/06/20 10:00
+MHDA- 2001/11/03 10:01
+PMCR- 2002/03/01
+CRDT- 2001/06/20 10:00
+PHST- 2001/06/20 10:00 [pubmed]
+PHST- 2001/11/03 10:01 [medline]
+PHST- 2001/06/20 10:00 [entrez]
+PHST- 2002/03/01 00:00 [pmc-release]
+AID - 293755 [pii]
+AID - 10.1023/a:1009424407082 [doi]
+PST - ppublish
+SO  - J Assist Reprod Genet. 2001 Mar;18(3):151-5. doi: 10.1023/a:1009424407082.

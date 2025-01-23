@@ -1,0 +1,77 @@
+PMID- 24446763
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150803
+LR  - 20141113
+IS  - 1476-4954 (Electronic)
+IS  - 1476-4954 (Linking)
+VI  - 27
+IP  - 18
+DP  - 2014 Dec
+TI  - The secular growth acceleration: does it appear during fetal life?
+PG  - 1912-4
+LID - 10.3109/14767058.2014.885943 [doi]
+AB  - OBJECTIVE: To test if secular growth acceleration occurs during fetal life. 
+      METHODS: ANOVA Kruskal-Wallis and Mann-Whitney U-test have been used for the 
+      biometric characteristics comparison of nowadays fetal population with those 
+      three decades ago and to test the hypothesis about the existence of secular 
+      growth acceleration during fetal life. For this purpose, we first calculated mean 
+      values of particular biometric parameters for the whole pregnancy. During the 
+      period 2002-2009 biparietal diameter, fetal length and abdominal circumference 
+      measurements in singleton uncomplicated pregnancies between 22 and 41 gestational 
+      weeks were obtained. Gestational age was estimated according to Naegele's rule 
+      and confirmed with an early ultrasound examination. Pregnancies with fetal 
+      cromosomopathies and malformations were excluded as well as those resulting in 
+      perinatal death. RESULTS: There were no statistically significant differences of 
+      the examined fetal biometric parameters measured by ultrasound between 
+      contemporary fetal population and those from 35 years ago. CONCLUSION: Our 
+      investigation did not undoubtedly prove that significant changes of fetal 
+      biometric parameters occurred in the last three decades. It is possible that 
+      secular growth acceleration does not exist in prenatal period but also the 
+      observed time period could have been short for this phenomenon to manifest.
+FAU - Franciskovic, Vedran
+AU  - Franciskovic V
+AD  - Department of Gynecology and Obstetrics, Perinatology Unit, Clinical Hospital 
+      Center Rijeka , Rijeka , Croatia and.
+FAU - Zaputovic, Sanja
+AU  - Zaputovic S
+FAU - Finderle, Aleks
+AU  - Finderle A
+FAU - Petrovic, Oleg
+AU  - Petrovic O
+LA  - eng
+PT  - Journal Article
+DEP - 20140213
+PL  - England
+TA  - J Matern Fetal Neonatal Med
+JT  - The journal of maternal-fetal & neonatal medicine : the official journal of the 
+      European Association of Perinatal Medicine, the Federation of Asia and Oceania 
+      Perinatal Societies, the International Society of Perinatal Obstetricians
+JID - 101136916
+SB  - IM
+MH  - *Acceleration
+MH  - Birth Weight
+MH  - Female
+MH  - *Fetal Development/physiology
+MH  - Gestational Age
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *Population Growth
+MH  - Pregnancy
+MH  - Reference Values
+MH  - Ultrasonography, Prenatal/methods/standards
+OTO - NOTNLM
+OT  - Fetal biometry
+OT  - fetal growth
+OT  - secular acceleration
+OT  - ultrasound
+EDAT- 2014/01/23 06:00
+MHDA- 2015/08/04 06:00
+CRDT- 2014/01/23 06:00
+PHST- 2014/01/23 06:00 [entrez]
+PHST- 2014/01/23 06:00 [pubmed]
+PHST- 2015/08/04 06:00 [medline]
+AID - 10.3109/14767058.2014.885943 [doi]
+PST - ppublish
+SO  - J Matern Fetal Neonatal Med. 2014 Dec;27(18):1912-4. doi: 
+      10.3109/14767058.2014.885943. Epub 2014 Feb 13.

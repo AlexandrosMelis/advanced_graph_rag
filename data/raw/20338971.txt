@@ -1,0 +1,85 @@
+PMID- 20338971
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120103
+LR  - 20200109
+IS  - 1718-4304 (Electronic)
+IS  - 0896-8608 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2011 Mar-Apr
+TI  - Does peritoneal dialysis affect halitosis in patients with end-stage renal 
+      disease?
+PG  - 168-72
+LID - 10.3747/pdi.2009.00089 [doi]
+AB  - OBJECTIVE: There are various causes of halitosis, one of which is chronic renal 
+      failure. The objective of this study was to investigate halitosis levels in 
+      end-stage renal disease (ESRD) patients before and after peritoneal dialysis (PD) 
+      therapy. METHODS: 42 subjects with ESRD were included in this study. The presence 
+      of halitosis was assessed using an organoleptic measurement and compared with 
+      blood urea nitrogen (BUN) levels and salivary flow rates. Decayed, missing, and 
+      filled teeth (DMFT) index and Community Periodontal Index (CPI) were calculated. 
+      All measurements were done before and after patients had received 3 months of PD 
+      therapy. RESULTS: Mean serum BUN level was found to be lower (46.05 +/- 13.30 vs 
+      91.24 +/- 31.28 mg/dL), salivary flow rate higher (0.34 +/- 0.07 vs 0.26 +/- 0.04 
+      mL/minute), and halitosis level lower (2.39 +/- 0.60 vs 3.90 +/- 0.37) at the end of 
+      3 months of PD therapy than at the beginning of PD therapy. There was no 
+      significant difference in CPI or DMFT index before and after PD therapy (p > 
+      0.05). There was statistically significant positive correlation between the 
+      presence of halitosis and BUN levels (r = 0.702, p = 0.001 before PD; r = 0.45, p 
+      = 0.002 after PD) and a negative correlation between the presence of halitosis 
+      and salivary flow rates (r = -0.69, p = 0.000 before PD; r = -0.37, p = 0.01 
+      after PD). CONCLUSION: High BUN levels and low salivary flow rates were found to 
+      be associated with halitosis. PD may play an important role in decreasing the 
+      level of halitosis in ESRD patients.
+FAU - Keles, Mustafa
+AU  - Keles M
+AD  - Department of Nephrology, Faculty of Medicine, Ataturk University, Erzurum, 
+      Turkey. keles.m@gmail.com
+FAU - Tozoglu, Ummuhan
+AU  - Tozoglu U
+FAU - Uyanik, Abdullah
+AU  - Uyanik A
+FAU - Eltas, Abubekir
+AU  - Eltas A
+FAU - Bayindir, Yusuf Ziya
+AU  - Bayindir YZ
+FAU - Cetinkaya, Ramazan
+AU  - Cetinkaya R
+FAU - Bilge, Osman Murat
+AU  - Bilge OM
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20100325
+PL  - United States
+TA  - Perit Dial Int
+JT  - Peritoneal dialysis international : journal of the International Society for 
+      Peritoneal Dialysis
+JID - 8904033
+SB  - IM
+MH  - Adult
+MH  - Blood Urea Nitrogen
+MH  - Disease Progression
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Halitosis/diagnosis/*etiology/metabolism
+MH  - Humans
+MH  - Kidney Failure, Chronic/*complications/metabolism/therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Peritoneal Dialysis
+MH  - Risk Factors
+MH  - Saliva/*metabolism
+MH  - Young Adult
+EDAT- 2010/03/27 06:00
+MHDA- 2012/01/04 06:00
+CRDT- 2010/03/27 06:00
+PHST- 2010/03/27 06:00 [entrez]
+PHST- 2010/03/27 06:00 [pubmed]
+PHST- 2012/01/04 06:00 [medline]
+AID - pdi.2009.00089 [pii]
+AID - 10.3747/pdi.2009.00089 [doi]
+PST - ppublish
+SO  - Perit Dial Int. 2011 Mar-Apr;31(2):168-72. doi: 10.3747/pdi.2009.00089. Epub 2010 
+      Mar 25.

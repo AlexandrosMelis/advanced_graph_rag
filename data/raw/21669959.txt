@@ -1,0 +1,108 @@
+PMID- 21669959
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140514
+LR  - 20240318
+IS  - 1469-994X (Electronic)
+IS  - 1462-2203 (Print)
+IS  - 1462-2203 (Linking)
+VI  - 13
+IP  - 11
+DP  - 2011 Nov
+TI  - Secondhand smoke risk in infants discharged from an NICU: potential for 
+      significant health disparities?
+PG  - 1015-22
+LID - 10.1093/ntr/ntr116 [doi]
+AB  - INTRODUCTION: Secondhand smoke exposure (SHSe) threatens fragile infants 
+      discharged from a neonatal intensive care unit (NICU). Smoking practices were 
+      examined in families with a high respiratory risk infant (born at very low birth 
+      weight; ventilated > 12 hr) in a Houston, Texas, NICU. Socioeconomic status, 
+      race, and mental health status were hypothesized to be related to SHSe and 
+      household smoking bans. METHODS: Data were collected as part of The Baby's Breath 
+      Project, a hospital-based SHSe intervention trial targeting parents with a 
+      high-risk infant in the NICU who reported a smoker in the household (N = 99). 
+      Measures of sociodemographics, smoking, home and car smoking bans, and depression 
+      were collected. RESULTS: Overall, 26% of all families with a high-risk infant in 
+      the NICU reported a household smoker. Almost half of the families with a smoker 
+      reported an annual income of less than $25,000. 46.2% of families reported having 
+      a total smoking ban in place in both their homes and cars. Only 27.8% families 
+      earning less than $25,000 reported having a total smoking ban in place relative 
+      to almost 60% of families earning more (p < .01). African American and Caucasian 
+      families were less likely to have a smoking ban compared with Hispanics (p < 
+      .05). Mothers who reported no smoking ban were more depressed than those who had 
+      a household smoking ban (p < .02). CONCLUSIONS: The most disadvantaged families 
+      were least likely to have protective health behaviors in place to reduce SHSe 
+      and, consequently, are most at-risk for tobacco exposure and subsequent 
+      tobacco-related health disparities. Innovative SHSe interventions for this 
+      vulnerable population are sorely needed.
+FAU - Stotts, Angela L
+AU  - Stotts AL
+AD  - Family and Community Medicine, University of Texas Medical School at Houston, 
+      6431 Fannin, JJL 324, Houston, TX 77030, USA. angela.l.stotts@uth.tmc.edu
+FAU - Evans, Patricia W
+AU  - Evans PW
+FAU - Green, Charles E
+AU  - Green CE
+FAU - Northrup, Thomas F
+AU  - Northrup TF
+FAU - Dodrill, Carrie L
+AU  - Dodrill CL
+FAU - Fox, Jeffery M
+AU  - Fox JM
+FAU - Tyson, Jon E
+AU  - Tyson JE
+FAU - Hovell, Melbourne F
+AU  - Hovell MF
+LA  - eng
+GR  - R40MC08962/PHS HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20110613
+PL  - England
+TA  - Nicotine Tob Res
+JT  - Nicotine & tobacco research : official journal of the Society for Research on 
+      Nicotine and Tobacco
+JID - 9815751
+RN  - 0 (Tobacco Smoke Pollution)
+SB  - IM
+MH  - Black or African American/statistics & numerical data
+MH  - Air Pollution, Indoor/prevention & control/statistics & numerical data
+MH  - Asian People/statistics & numerical data
+MH  - Caregivers/statistics & numerical data
+MH  - Depression/epidemiology/etiology
+MH  - Environmental Exposure/*adverse effects/prevention & control/statistics & 
+      numerical data
+MH  - Family Characteristics/ethnology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Healthcare Disparities/ethnology/*statistics & numerical data
+MH  - Hispanic or Latino/statistics & numerical data
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Intensive Care Units, Neonatal
+MH  - Male
+MH  - Prevalence
+MH  - Risk
+MH  - Risk Reduction Behavior
+MH  - Smoking/*epidemiology/ethnology
+MH  - Socioeconomic Factors
+MH  - Texas/epidemiology
+MH  - Tobacco Smoke Pollution/*adverse effects/prevention & control/statistics & 
+      numerical data
+MH  - White People/statistics & numerical data
+PMC - PMC3430443
+EDAT- 2011/06/15 06:00
+MHDA- 2014/05/16 06:00
+PMCR- 2012/11/01
+CRDT- 2011/06/15 06:00
+PHST- 2011/06/15 06:00 [entrez]
+PHST- 2011/06/15 06:00 [pubmed]
+PHST- 2014/05/16 06:00 [medline]
+PHST- 2012/11/01 00:00 [pmc-release]
+AID - ntr116 [pii]
+AID - 10.1093/ntr/ntr116 [doi]
+PST - ppublish
+SO  - Nicotine Tob Res. 2011 Nov;13(11):1015-22. doi: 10.1093/ntr/ntr116. Epub 2011 Jun 
+      13.

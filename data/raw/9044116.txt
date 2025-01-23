@@ -1,0 +1,81 @@
+PMID- 9044116
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970502
+LR  - 20220408
+IS  - 0022-3468 (Print)
+IS  - 0022-3468 (Linking)
+VI  - 32
+IP  - 2
+DP  - 1997 Feb
+TI  - Biliary atresia: should all patients undergo a portoenterostomy?
+PG  - 168-72; discussion 172-4
+AB  - PURPOSE: The management of noncorrectable extra hepatic biliary atresia includes 
+      portoenterostomy, although the results of the surgery are variable. This study 
+      was done to develop criteria that could successfully predict the outcome of 
+      surgery based on preoperative data, including percutaneous liver biopsy, allowing 
+      a more selective approach to the care of these babies. METHODS: The charts and 
+      biopsy results of 31 patients who underwent a Kasai procedure for biliary atresia 
+      between 1984 and 1994 were reviewed. Values for preoperative albumin, bilirubin, 
+      age of patient at Kasai, and lowest postoperative bilirubin were recorded. 
+      Surgical success was defined as postoperative bilirubin that returned to normal. 
+      A pathologist blinded to the child's eventual outcome graded the pre-Kasai needle 
+      liver biopsy results according to duct proliferation, ductal plate lesion, bile 
+      in ducts, lobular inflammation, giant cells, syncitial giant cells, focal 
+      necrosis, bridging necrosis, hepatocyte ballooning, bile in zone 1, 2, and 3, 
+      cholangitis, and end-stage cirrhosis. Clinical outcome was then predicted. 
+      RESULTS: Success after portoenterostomy could not reliably be predicted based on 
+      gender, age at Kasai, preoperative bilirubin or albumin levels. Histological 
+      criteria, however, predicted outcome in 27 of 31 patients (P < .01). Fifteen of 
+      17 clinical successes were correctly predicted; as were 12 of 14 clinical 
+      failures (sensitivity, 86%; specificity, 88%). Individually, the presence of 
+      syncitial giant cells, lobular inflammation, focal necrosis, bridging necrosis, 
+      and cholangitis, were each associated with failure of the portoenterostomy (P < 
+      .05). Bile in zone 1 was associated with clinical success of the procedure (P < 
+      .05). CONCLUSIONS: Based on the predictive information available in a liver 
+      biopsy, we conclude that those patients who will not benefit from a Kasai 
+      procedure can be identified preoperatively, and channeled immediately to 
+      transplantation.
+FAU - Azarow, K S
+AU  - Azarow KS
+AD  - Department of Surgery, Hospital for Sick Children, University of Toronto, 
+      Ontario, Canada.
+FAU - Phillips, M J
+AU  - Phillips MJ
+FAU - Sandler, A D
+AU  - Sandler AD
+FAU - Hagerstrand, I
+AU  - Hagerstrand I
+FAU - Superina, R A
+AU  - Superina RA
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr Surg
+JT  - Journal of pediatric surgery
+JID - 0052631
+SB  - IM
+MH  - Biliary Atresia/pathology/*surgery
+MH  - Biopsy, Needle
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Inflammation/pathology
+MH  - Liver/*pathology
+MH  - Male
+MH  - *Portoenterostomy, Hepatic
+MH  - Predictive Value of Tests
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+EDAT- 1997/02/01 00:00
+MHDA- 1997/02/01 00:01
+CRDT- 1997/02/01 00:00
+PHST- 1997/02/01 00:00 [pubmed]
+PHST- 1997/02/01 00:01 [medline]
+PHST- 1997/02/01 00:00 [entrez]
+AID - S0022-3468(97)90173-1 [pii]
+AID - 10.1016/s0022-3468(97)90173-1 [doi]
+PST - ppublish
+SO  - J Pediatr Surg. 1997 Feb;32(2):168-72; discussion 172-4. doi: 
+      10.1016/s0022-3468(97)90173-1.

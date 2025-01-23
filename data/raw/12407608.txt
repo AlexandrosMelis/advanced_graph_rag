@@ -1,0 +1,80 @@
+PMID- 12407608
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030103
+LR  - 20220310
+IS  - 1053-0770 (Print)
+IS  - 1053-0770 (Linking)
+VI  - 16
+IP  - 5
+DP  - 2002 Oct
+TI  - Does ultrasound imaging before puncture facilitate internal jugular vein 
+      cannulation? Prospective randomized comparison with landmark-guided puncture in 
+      ventilated patients.
+PG  - 572-5
+AB  - OBJECTIVE: To investigate whether prepuncture ultrasound evaluation of vascular 
+      anatomy facilitates internal jugular vein cannulation compared with 
+      landmark-guided puncture. DESIGN: Prospective randomized study. SETTING: Single 
+      community hospital. PARTICIPANTS: Adult patients undergoing general anesthesia (n 
+      = 240). INTERVENTIONS: The right internal jugular vein was cannulated using 
+      either anatomic landmarks or prepuncture ultrasound (3.75/7.5 MHz) guidance. In 
+      the landmark group, respiratory jugular venodilation was used as the primary 
+      landmark for locating the vein. Results of cannulation and the incidence of 
+      complications were compared. MEASUREMENTS AND MAIN RESULTS: Patients were 
+      randomly assigned to the ultrasound or landmark group. Respiratory jugular 
+      venodilation was identified in 188 patients (78.3%), in whom results of 
+      cannulation did not differ between the 2 techniques with respect to the venous 
+      access rate (cannulated at the first attempt: 83.5% in the landmark v 85.7% in 
+      the ultrasound group), the success rate (cannulated within 3 attempts: 96.9% v 
+      95.6%), and the incidence of arterial puncture (1.0% v 3.3%). In the remaining 52 
+      respiratory jugular venodilation-unidentified patients, the access rate (30.4% v 
+      86.2%, p < 0.001) and the success rate (78.3 v 100%, p < 0.05) were significantly 
+      better in the ultrasound group, and no arterial puncture was recorded in the 
+      ultrasound group, whereas the incidence was 13.0% in the landmark group. The 
+      results were similar regardless of the ultrasound frequency used. CONCLUSION: 
+      Prepuncture ultrasound evaluation did not improve the result of right internal 
+      jugular vein cannulation compared with the respiratory jugular 
+      venodilation-guided approach. When the landmark was not observed, however, the 
+      prepuncture ultrasound guidance was helpful in facilitating the cannulation.
+CI  - Copyright 2002, Elsevier Science (USA). All rights reserved.
+FAU - Hayashi, Hideaki
+AU  - Hayashi H
+AD  - Department of Anesthesia, Labor and Welfare Organization, Kansai Rosai Hospital, 
+      Hyogo, Japan. hide884@mbox.kyoto-inet.or.jp
+FAU - Amano, Masaru
+AU  - Amano M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Cardiothorac Vasc Anesth
+JT  - Journal of cardiothoracic and vascular anesthesia
+JID - 9110208
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Catheterization, Central Venous/adverse effects/*methods
+MH  - Female
+MH  - Humans
+MH  - Jugular Veins/*diagnostic imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Punctures
+MH  - Ultrasonography
+MH  - Vasodilation
+MH  - Ventilators, Mechanical
+EDAT- 2002/10/31 04:00
+MHDA- 2003/01/07 04:00
+CRDT- 2002/10/31 04:00
+PHST- 2002/10/31 04:00 [pubmed]
+PHST- 2003/01/07 04:00 [medline]
+PHST- 2002/10/31 04:00 [entrez]
+AID - S1053077002000629 [pii]
+AID - 10.1053/jcan.2002.126950 [doi]
+PST - ppublish
+SO  - J Cardiothorac Vasc Anesth. 2002 Oct;16(5):572-5. doi: 10.1053/jcan.2002.126950.

@@ -1,0 +1,95 @@
+PMID- 19142546
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090825
+LR  - 20220629
+IS  - 1980-5322 (Electronic)
+IS  - 1807-5932 (Print)
+IS  - 1807-5932 (Linking)
+VI  - 64
+IP  - 1
+DP  - 2009
+TI  - Does quantitative left ventricular regional wall motion change after fibrous 
+      tissue resection in endomyocardial fibrosis?
+PG  - 17-22
+AB  - OBJECTIVES: We compared left ventricular regional wall motion, the global left 
+      ventricular ejection fraction, and the New York Heart Association functional 
+      class pre- and postoperatively. INTRODUCTION: Endomyocardial fibrosis is 
+      characterized by fibrous tissue deposition in the endomyocardium of the apex 
+      and/or inflow tract of one or both ventricles. Although left ventricular global 
+      systolic function is preserved, patients exhibit wall motion abnormalities in the 
+      apical and inferoapical regions. Fibrous tissue resection in New York Heart 
+      Association FC III and IV endomyocardial fibrosis patients has been shown to 
+      decrease morbidity and mortality. METHODS: We prospectively studied 30 patients 
+      (20 female, 30+/-10 years) before and 5+/-8 months after surgery. The left 
+      ventricular ejection fraction was determined using the area-length method. 
+      Regional left ventricular motion was measured by the centerline method. Five left 
+      ventricular segments were analyzed pre- and postoperatively. Abnormality was 
+      expressed in units of standard deviation from the mean motion in a normal 
+      reference population. RESULTS: Left ventricular wall motion in the five regions 
+      did not differ between pre- and postoperative measurements. Additionally, the 
+      left ventricular ejection fraction did not change after surgery (0.45+/-0.13% x 
+      0.43+/-0.12% pre- and postoperatively, respectively). The New York Heart 
+      Association functional class improved to class I in 40% and class II in 43% of 
+      patients postoperatively (p<0.05). CONCLUSIONS: Although endomyocardial fibrosis 
+      patients have improved clinical symptoms after surgery, the global left 
+      ventricular ejection fraction and regional wall motion in these patients do not 
+      change. This finding suggests that other explanations, such as improvements in 
+      diastolic function, may be operational.
+FAU - Salemi, Vera Maria Cury
+AU  - Salemi VM
+AD  - Cardiomyopathy Unit, Heart Institute (InCor), Hospital das Clinicas, Faculdade de 
+      Medicina, Universidade de Sao Paulo, SP, Brazil. verasalemi@uol.com.br
+FAU - Fernandes, Fabio
+AU  - Fernandes F
+FAU - Sirvente, Raquel
+AU  - Sirvente R
+FAU - Nastari, Luciano
+AU  - Nastari L
+FAU - Rosa, Leonardo Vieira
+AU  - Rosa LV
+FAU - Ferreira, Cristiano A
+AU  - Ferreira CA
+FAU - Pena, Jose Luiz Barros
+AU  - Pena JL
+FAU - Picard, Michael H
+AU  - Picard MH
+FAU - Mady, Charles
+AU  - Mady C
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Clinics (Sao Paulo)
+JT  - Clinics (Sao Paulo, Brazil)
+JID - 101244734
+SB  - IM
+MH  - Adult
+MH  - Diastole/physiology
+MH  - Endomyocardial Fibrosis/complications/*physiopathology/surgery
+MH  - Female
+MH  - Heart Ventricles/physiopathology
+MH  - Humans
+MH  - Male
+MH  - Postoperative Complications/*physiopathology
+MH  - Prospective Studies
+MH  - Severity of Illness Index
+MH  - Statistics, Nonparametric
+MH  - Stroke Volume/physiology
+MH  - Ventricular Dysfunction, Left/etiology/*physiopathology
+PMC - PMC2671969
+EDAT- 2009/01/15 09:00
+MHDA- 2009/08/26 09:00
+PMCR- 2009/01/01
+CRDT- 2009/01/15 09:00
+PHST- 2008/07/03 00:00 [received]
+PHST- 2008/09/15 00:00 [accepted]
+PHST- 2009/01/15 09:00 [entrez]
+PHST- 2009/01/15 09:00 [pubmed]
+PHST- 2009/08/26 09:00 [medline]
+PHST- 2009/01/01 00:00 [pmc-release]
+AID - S1807-5932(22)02700-4 [pii]
+AID - cln64_1p0017 [pii]
+AID - 10.1590/s1807-59322009000100004 [doi]
+PST - ppublish
+SO  - Clinics (Sao Paulo). 2009;64(1):17-22. doi: 10.1590/s1807-59322009000100004.

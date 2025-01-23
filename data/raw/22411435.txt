@@ -1,0 +1,133 @@
+PMID- 22411435
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120815
+LR  - 20220310
+IS  - 1099-1557 (Electronic)
+IS  - 1053-8569 (Print)
+IS  - 1053-8569 (Linking)
+VI  - 21
+IP  - 5
+DP  - 2012 May
+TI  - Comparative safety of infliximab and etanercept on the risk of serious 
+      infections: does the association vary by patient characteristics?
+PG  - 524-34
+LID - 10.1002/pds.3238 [doi]
+AB  - PURPOSE: Infliximab, a chimeric monoclonal anti-TNFalpha antibody, has been found to 
+      increase the risk of serious infections compared with the TNF receptor fusion 
+      protein etanercept in some studies. It is unclear whether the risk varies by 
+      patient characteristics. We conducted a study to address this question. METHODS: 
+      We identified members of Kaiser Permanente Northern California who initiated 
+      infliximab (n = 793) or etanercept (n = 2692) in 1997-2007. Using a Cox model, we 
+      estimated the propensity-score-adjusted hazard ratio (HR) and 95% confidence 
+      interval (CI) of serious infections requiring hospitalization or opportunistic 
+      infections comparing infliximab initiators to etanercept initiators. We tested 
+      whether the adjusted HR differed by age, sex, race/ethnicity, body mass index, 
+      and smoking status. RESULTS: The crude incidence rate of serious infections per 
+      100 person-years was 5.4 (95%CI: 3.8, 7.5) in patients <65 years and 16.0 (95%CI: 
+      10.4, 23.4) in patients >/= 65 years during the first 3 months following treatment 
+      initiation. Compared with etanercept, the adjusted HR during this period was 
+      elevated for infliximab in patients <65 years (HR: 3.01; 95%CI: 1.49, 6.07), but 
+      not in those >/= 65 years (HR 0.94; 95%CI: 0.41, 2.13). Findings did not suggest 
+      that the HR varied by the other patient characteristics examined. CONCLUSIONS: An 
+      increased risk of serious infections associated with infliximab relative to 
+      etanercept did not appear to be modified by patients' sex, race/ethnicity, body 
+      mass index, or smoking status. There was an indication that the increased risk 
+      might be limited to patients <65 years. Additional studies are warranted to 
+      verify or refute this finding.
+CI  - Copyright (c) 2012 John Wiley & Sons, Ltd.
+FAU - Toh, Sengwee
+AU  - Toh S
+AD  - Department of Population Medicine, Harvard Medical School and Harvard Pilgrim 
+      Health Care Institute, Boston, MA 02215, USA. darrentoh@post.harvard.edu
+FAU - Li, Lingling
+AU  - Li L
+FAU - Harrold, Leslie R
+AU  - Harrold LR
+FAU - Bayliss, Elizabeth A
+AU  - Bayliss EA
+FAU - Curtis, Jeffrey R
+AU  - Curtis JR
+FAU - Liu, Liyan
+AU  - Liu L
+FAU - Chen, Lang
+AU  - Chen L
+FAU - Grijalva, Carlos G
+AU  - Grijalva CG
+FAU - Herrinton, Lisa J
+AU  - Herrinton LJ
+LA  - eng
+GR  - P60 AR056116/AR/NIAMS NIH HHS/United States
+GR  - P60 AR056116-05/AR/NIAMS NIH HHS/United States
+GR  - K23 AR053351-05/AR/NIAMS NIH HHS/United States
+GR  - K23 AR053351/AR/NIAMS NIH HHS/United States
+GR  - U18 HS016955/HS/AHRQ HHS/United States
+GR  - AR053351/AR/NIAMS NIH HHS/United States
+GR  - K23 AR053856/AR/NIAMS NIH HHS/United States
+GR  - AR053856/AR/NIAMS NIH HHS/United States
+GR  - K23 AR053856-05/AR/NIAMS NIH HHS/United States
+GR  - P60AR056116/AR/NIAMS NIH HHS/United States
+GR  - 1U18HS016955/HS/AHRQ HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20120313
+PL  - England
+TA  - Pharmacoepidemiol Drug Saf
+JT  - Pharmacoepidemiology and drug safety
+JID - 9208369
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Immunologic Factors)
+RN  - 0 (Receptors, Tumor Necrosis Factor)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - B72HH48FLU (Infliximab)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Antibodies, Monoclonal/*adverse effects/therapeutic use
+MH  - Antirheumatic Agents/adverse effects/therapeutic use
+MH  - Autoimmune Diseases/*drug therapy
+MH  - California/epidemiology
+MH  - Cohort Studies
+MH  - Databases, Factual
+MH  - Etanercept
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hospitalization/statistics & numerical data
+MH  - Humans
+MH  - Immunoglobulin G/*adverse effects/therapeutic use
+MH  - Immunologic Factors/adverse effects/therapeutic use
+MH  - Infections/*epidemiology/etiology
+MH  - Infliximab
+MH  - Male
+MH  - Middle Aged
+MH  - Proportional Hazards Models
+MH  - Receptors, Tumor Necrosis Factor/therapeutic use
+MH  - Risk
+MH  - Time Factors
+MH  - Tumor Necrosis Factor-alpha/antagonists & inhibitors
+MH  - Young Adult
+PMC - PMC3330193
+MID - NIHMS365725
+COIS- Conflict of interest: None
+EDAT- 2012/03/14 06:00
+MHDA- 2012/08/16 06:00
+PMCR- 2013/05/01
+CRDT- 2012/03/14 06:00
+PHST- 2011/10/16 00:00 [received]
+PHST- 2012/01/06 00:00 [revised]
+PHST- 2012/01/28 00:00 [accepted]
+PHST- 2012/03/14 06:00 [entrez]
+PHST- 2012/03/14 06:00 [pubmed]
+PHST- 2012/08/16 06:00 [medline]
+PHST- 2013/05/01 00:00 [pmc-release]
+AID - 10.1002/pds.3238 [doi]
+PST - ppublish
+SO  - Pharmacoepidemiol Drug Saf. 2012 May;21(5):524-34. doi: 10.1002/pds.3238. Epub 
+      2012 Mar 13.

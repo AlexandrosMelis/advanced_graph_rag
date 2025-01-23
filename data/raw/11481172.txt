@@ -1,0 +1,61 @@
+PMID- 11481172
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010830
+LR  - 20071114
+IS  - 0002-953X (Print)
+IS  - 0002-953X (Linking)
+VI  - 158
+IP  - 8
+DP  - 2001 Aug
+TI  - Does the manic/mixed episode distinction in bipolar disorder patients run true 
+      over time?
+PG  - 1324-6
+AB  - OBJECTIVE: The authors sought to determine whether the manic/mixed episode 
+      distinction in patients with bipolar disorder runs true over time. METHOD: Over 
+      an 11-year period, the observed distribution of manic and mixed episodes 
+      (N=1,224) for patients with three or more entries in the management information 
+      system of a community mental health center (N=241) was compared to the expected 
+      distribution determined by averaging 1,000 randomly generated simulations. 
+      RESULTS: Episodes were consistent (all manic or all mixed) in significantly more 
+      patients than would be expected by chance. CONCLUSIONS: These data suggest a 
+      pattern of diagnostic stability over time for manic and mixed episodes in 
+      patients with bipolar disorder. Careful prospective studies of this issue are 
+      needed.
+FAU - Woods, S W
+AU  - Woods SW
+AD  - Department of Psychiatry, Treatment Research Program, Connecticut Mental Health 
+      Center, Yale University School of Medicine, 34 Park St., New Haven, CT 06519, 
+      USA. scott.woods@yale.edu
+FAU - Money, R
+AU  - Money R
+FAU - Baker, C B
+AU  - Baker CB
+LA  - eng
+GR  - MH-54446/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Am J Psychiatry
+JT  - The American journal of psychiatry
+JID - 0370512
+SB  - IM
+MH  - Bipolar Disorder/*diagnosis/psychology
+MH  - Community Mental Health Centers
+MH  - Computer Simulation
+MH  - Depressive Disorder/diagnosis/psychology
+MH  - Humans
+MH  - Management Information Systems/statistics & numerical data
+MH  - Probability
+MH  - Random Allocation
+MH  - Retrospective Studies
+MH  - Statistical Distributions
+EDAT- 2001/08/02 10:00
+MHDA- 2001/08/31 10:01
+CRDT- 2001/08/02 10:00
+PHST- 2001/08/02 10:00 [pubmed]
+PHST- 2001/08/31 10:01 [medline]
+PHST- 2001/08/02 10:00 [entrez]
+AID - 10.1176/appi.ajp.158.8.1324 [doi]
+PST - ppublish
+SO  - Am J Psychiatry. 2001 Aug;158(8):1324-6. doi: 10.1176/appi.ajp.158.8.1324.

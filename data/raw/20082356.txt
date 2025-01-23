@@ -1,0 +1,67 @@
+PMID- 20082356
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100325
+LR  - 20100226
+IS  - 1096-9098 (Electronic)
+IS  - 0022-4790 (Linking)
+VI  - 101
+IP  - 3
+DP  - 2010 Mar 1
+TI  - Should direct mesocolon invasion be included in T4 for the staging of gastric 
+      cancer?
+PG  - 205-8
+LID - 10.1002/jso.21476 [doi]
+AB  - BACKGROUND AND OBJECTIVES: One of the sites most frequently invaded by gastric 
+      cancer is the mesocolon; however, the UICC does not mention this anatomical site 
+      as an adjacent structure involved in gastric cancer. The purpose of this study 
+      was to characterize and classify mesocolon invasion from gastric cancer. METHODS: 
+      We examined 806 patients who underwent surgery for advanced gastric carcinoma 
+      from 1992 to 2007 at the Department of Surgery, Gangnam Severance Hospital, 
+      Korea. Among these, patients who showed macroscopically direct invasion into the 
+      mesocolon were compared to other patients with advanced gastric cancer. RESULTS: 
+      The curability, number and extent of nodal metastasis, and the survival of the 
+      mesocolon invasion group were significantly worse than these factors in the T3 
+      group. However, the survival of the mesocolon invasion group after curative 
+      resection was much better than that of patients who had incurable factors. 
+      CONCLUSIONS: Mesocolon invasion should be included in T4 for the staging of 
+      gastric cancer.
+CI  - (c) 2010 Wiley-Liss, Inc.
+FAU - Park, Jung Hoon
+AU  - Park JH
+AD  - Department of Surgery, Gangnam Severance Hospital, Yonsei University College of 
+      Medicine, Seoul, Korea.
+FAU - Hyung, Woo Jin
+AU  - Hyung WJ
+FAU - Choi, Seung Ho
+AU  - Choi SH
+FAU - Noh, Sung Hoon
+AU  - Noh SH
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Surg Oncol
+JT  - Journal of surgical oncology
+JID - 0222643
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Mesocolon/*pathology
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Staging
+MH  - Stomach Neoplasms/mortality/*pathology
+MH  - Survival Rate
+EDAT- 2010/01/19 06:00
+MHDA- 2010/03/26 06:00
+CRDT- 2010/01/19 06:00
+PHST- 2010/01/19 06:00 [entrez]
+PHST- 2010/01/19 06:00 [pubmed]
+PHST- 2010/03/26 06:00 [medline]
+AID - 10.1002/jso.21476 [doi]
+PST - ppublish
+SO  - J Surg Oncol. 2010 Mar 1;101(3):205-8. doi: 10.1002/jso.21476.

@@ -1,0 +1,80 @@
+PMID- 22617083
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121003
+LR  - 20120523
+IS  - 1538-1145 (Electronic)
+IS  - 1527-4160 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2012 May
+TI  - Does age moderate the effect of personality disorder on coping style in 
+      psychiatric inpatients?
+PG  - 187-98
+LID - 10.1097/01.pra.0000415075.20873.0d [doi]
+AB  - OBJECTIVE: To examine age-related differences in the relationship between 
+      personality and coping strategies in an Australian population of psychiatric 
+      inpatients. METHOD: Consenting eligible adults (N=238) from 18-100 years of age 
+      consecutively admitted to inpatient psychiatry units were assessed using the SCID 
+      I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief 
+      Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale 
+      (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 
+      Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, 
+      and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and 
+      non-English speaking patients were excluded). RESULTS: Older adults reported less 
+      symptomatology than younger patients and younger patients described more 
+      personality dysfunction than older patients. As assessed by the COPE, older 
+      adults reported lower levels of dysfunctional coping strategies than younger 
+      adults. Personality traits, social supports, gender, and age predicted coping 
+      strategies, while Axis I diagnosis, education, personality disorder, and symptom 
+      severity were not significant predictors of coping strategies. CONCLUSION: This 
+      study found that influences on coping were multifactorial and moderated by age. 
+      These factors have implications for interventions designed to enhance coping 
+      strategies.
+FAU - Stevenson, Janine
+AU  - Stevenson J
+AD  - Sydney Medical School-Western and Westmead Hospital, Wentworthville, NSW 2145, 
+      Australia. janine.stevenson@sydney.edu.au
+FAU - Brodaty, Henry
+AU  - Brodaty H
+FAU - Boyce, Philip
+AU  - Boyce P
+FAU - Byth, Karen
+AU  - Byth K
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Psychiatr Pract
+JT  - Journal of psychiatric practice
+JID - 100901141
+SB  - IM
+MH  - *Adaptation, Psychological
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*psychology
+MH  - Australia
+MH  - Female
+MH  - Hospitals, Psychiatric
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Personality Disorders/*psychology
+MH  - Prospective Studies
+MH  - Regression Analysis
+MH  - Sex Factors
+MH  - Social Support
+EDAT- 2012/05/24 06:00
+MHDA- 2012/10/04 06:00
+CRDT- 2012/05/24 06:00
+PHST- 2012/05/24 06:00 [entrez]
+PHST- 2012/05/24 06:00 [pubmed]
+PHST- 2012/10/04 06:00 [medline]
+AID - 00131746-201205000-00005 [pii]
+AID - 10.1097/01.pra.0000415075.20873.0d [doi]
+PST - ppublish
+SO  - J Psychiatr Pract. 2012 May;18(3):187-98. doi: 
+      10.1097/01.pra.0000415075.20873.0d.

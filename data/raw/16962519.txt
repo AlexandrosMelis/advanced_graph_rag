@@ -1,0 +1,78 @@
+PMID- 16962519
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070130
+LR  - 20220419
+IS  - 1553-4650 (Print)
+IS  - 1553-4650 (Linking)
+VI  - 13
+IP  - 5
+DP  - 2006 Sep-Oct
+TI  - Volume change of uterine myomas during pregnancy: do myomas really grow?
+PG  - 386-90
+AB  - STUDY OBJECTIVE: To estimate changes in uterine myoma volume during pregnancy. 
+      DESIGN: Review of departmental electronic perinatal database and medical records. 
+      Canadian Task Force Classification II-3. SETTING: Obstetrical ultrasound unit in 
+      an academic tertiary care center. PATIENTS: One hundred-seven patients diagnosed 
+      with uterine myomas during pregnancy and who had two or more obstetrical 
+      ultrasounds in different periods of pregnancy. INTERVENTIONS: We analyzed the 
+      change in volume of uterine myomas between the first half of pregnancy (up until 
+      19 weeks), third quarter (20-30 weeks), and last quarter (31 weeks to term). The 
+      volume of largest uterine myoma was calculated using the formula Volume 
+      (mm3)=Pi/6x(length mm)x(width mm)x(height mm). MEASUREMENTS AND MAIN RESULTS: The 
+      mean age of the population was 31+/-6 years. Between the first and the second 
+      study periods, the percentage of uterine myomas that decreased in size was 55.1% 
+      (95% CI: 43-66), with a mean decrease in volume of 35%+/-4%; while the percentage 
+      of uterine myomas that enlarged was 44.9% (95% CI: 34-56), with a mean increase 
+      in volume of 69%+/-11%. Between the second and the third study periods, 75% (95% 
+      CI: 56-87) became smaller, with a mean decrease in volume of 30%+/-3%; while 25% 
+      (95% CI: 13-43) enlarged, with a mean increase in volume of 102%+/-62%. 
+      CONCLUSION: Contrary to common belief, we found that uterine myomas commonly 
+      decrease in volume over the course of pregnancy.
+FAU - Hammoud, Ahmad O
+AU  - Hammoud AO
+AD  - Department of Obstetrics and Gynecology, University of Utah, Salt Lake City, Utah 
+      84132, USA. ahmad.hammoud@hsc.utah.edu
+FAU - Asaad, Radwan
+AU  - Asaad R
+FAU - Berman, Jay
+AU  - Berman J
+FAU - Treadwell, Marjorie C
+AU  - Treadwell MC
+FAU - Blackwell, Sean
+AU  - Blackwell S
+FAU - Diamond, Michael P
+AU  - Diamond MP
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Minim Invasive Gynecol
+JT  - Journal of minimally invasive gynecology
+JID - 101235322
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Leiomyoma/diagnostic imaging/*pathology
+MH  - Longitudinal Studies
+MH  - Pregnancy
+MH  - Pregnancy Complications, Neoplastic/diagnostic imaging/*pathology
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - *Tumor Burden
+MH  - Ultrasonography, Prenatal
+MH  - Uterine Neoplasms/diagnostic imaging/*pathology
+EDAT- 2006/09/12 09:00
+MHDA- 2007/01/31 09:00
+CRDT- 2006/09/12 09:00
+PHST- 2005/12/19 00:00 [received]
+PHST- 2006/03/27 00:00 [revised]
+PHST- 2006/04/13 00:00 [accepted]
+PHST- 2006/09/12 09:00 [pubmed]
+PHST- 2007/01/31 09:00 [medline]
+PHST- 2006/09/12 09:00 [entrez]
+AID - S1553-4650(06)00176-2 [pii]
+AID - 10.1016/j.jmig.2006.04.003 [doi]
+PST - ppublish
+SO  - J Minim Invasive Gynecol. 2006 Sep-Oct;13(5):386-90. doi: 
+      10.1016/j.jmig.2006.04.003.

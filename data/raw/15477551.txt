@@ -1,0 +1,81 @@
+PMID- 15477551
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050608
+LR  - 20190514
+IS  - 1526-632X (Electronic)
+IS  - 0028-3878 (Linking)
+VI  - 63
+IP  - 7
+DP  - 2004 Oct 12
+TI  - Chronic progressive cervical myelopathy with HTLV-I infection: Variant form of 
+      HAM/TSP?
+PG  - 1276-80
+AB  - OBJECTIVE: To investigate the role of human T-lymphotrophic virus type I (HTLV-I) 
+      infection in four patients who developed slowly progressive myelopathy with 
+      abnormal MRI lesions in the cervical cord levels. METHODS: Clinical and 
+      neuroradiologic examinations were performed, and the odds that an HTLV-I-infected 
+      individual of specified genotype, age, and provirus load had HTLV-I-associated 
+      myelopathy (HAM)/tropical spastic paraparesis (TSP) were calculated. RESULTS: 
+      Anti-HTLV-I antibodies were positive in both the serum and the CSF in all of the 
+      patients. Biopsied sample from spinal cord lesions showed inflammatory changes in 
+      Patient 1. Patient 2 had a demyelinating type of sensorimotor polyneuropathy. Two 
+      of the three patients examined showed high risk of developing HAM/TSP in 
+      virologic and immunologic aspects. CONCLUSION: These four cases may belong to a 
+      variant form of HAM/TSP, predominantly involving the cervical cord levels.
+FAU - Umehara, F
+AU  - Umehara F
+AD  - Department of Neurology, Graduate School of Kagoshima University, Sakuragaoka 
+      8-35-1, Kagoshima 8900075, Japan. umehara@m2.kufm.kagoshima-u.ac.jp
+FAU - Nagatomo, S
+AU  - Nagatomo S
+FAU - Yoshishige, K
+AU  - Yoshishige K
+FAU - Saito, M
+AU  - Saito M
+FAU - Furukawa, Y
+AU  - Furukawa Y
+FAU - Usuku, K
+AU  - Usuku K
+FAU - Osame, M
+AU  - Osame M
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Contrast Media)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Aged
+MH  - Case-Control Studies
+MH  - Chronic Disease
+MH  - Contrast Media
+MH  - Disease Progression
+MH  - Female
+MH  - Gadolinium DTPA
+MH  - Genotype
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Japan
+MH  - Magnetic Resonance Imaging/methods
+MH  - Male
+MH  - Middle Aged
+MH  - Neck
+MH  - Paraparesis, Tropical Spastic/cerebrospinal 
+      fluid/*classification/complications/*pathology/physiopathology
+MH  - Polyneuropathies/complications
+MH  - Probability
+MH  - Spinal Cord/*pathology
+EDAT- 2004/10/13 09:00
+MHDA- 2005/06/09 09:00
+CRDT- 2004/10/13 09:00
+PHST- 2004/10/13 09:00 [pubmed]
+PHST- 2005/06/09 09:00 [medline]
+PHST- 2004/10/13 09:00 [entrez]
+AID - 63/7/1276 [pii]
+AID - 10.1212/01.wnl.0000140496.03342.bc [doi]
+PST - ppublish
+SO  - Neurology. 2004 Oct 12;63(7):1276-80. doi: 10.1212/01.wnl.0000140496.03342.bc.

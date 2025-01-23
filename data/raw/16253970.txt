@@ -1,0 +1,77 @@
+PMID- 16253970
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060509
+LR  - 20060220
+IS  - 0268-1161 (Print)
+IS  - 0268-1161 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2006 Mar
+TI  - Is controlled ovarian stimulation in intrauterine insemination an acceptable 
+      therapy in couples with unexplained non-conception in the perspective of multiple 
+      pregnancies?
+PG  - 701-4
+AB  - BACKGROUND: Controlled ovarian stimulation (COS) with intrauterine insemination 
+      (IUI) is a common treatment in couples with unexplained non-conception. Induction 
+      of multifollicular growth is considered to improve pregnancy outcome, but it 
+      contains an increased risk of multiple pregnancies and ovarian hyperstimulation 
+      syndrome. In this study the impact of the number of follicles (>14 mm) on the 
+      ongoing pregnancy rate (PR) and multiple PR was evaluated in the first four 
+      treatment cycles. METHODS: A retrospective cohort study was performed in all 
+      couples with unexplained non-conception undergoing COS-IUI in the Academic 
+      Hospital of Maastricht. The main outcome measure was ongoing PR. Secondary 
+      outcomes were ongoing multiple PR, number of follicles of >or=14 mm, and order of 
+      treatment cycle. RESULTS: Three hundred couples were included. No significant 
+      difference was found in ongoing PR between women with one, two, three or four 
+      follicles respectively (P=0.54), but in women with two or more follicles 12/73 
+      pregnancies were multiples. Ongoing PR was highest in the first treatment cycle 
+      and declined significantly with increasing cycle order (P=0.006), while multiple 
+      PR did not change. CONCLUSIONS: In COS-IUI for unexplained non-conception, 
+      induction of more than one follicle did not improve the ongoing PR, but increased 
+      the risk of multiple pregnancies. Multiple PR remained high in the first four 
+      cycles with multifollicular stimulation. Therefore, in order to reduce the number 
+      of multiple pregnancies, in all IUI cycles for unexplained non-conception 
+      monofollicular growth should be aimed at.
+FAU - van Rumste, M M E
+AU  - van Rumste MM
+AD  - Research Institute Growth and Development (GROW) and Department of Obstetrics and 
+      Gynaecology, Academic Hospital Maastricht, P.O.Box 5800, 6202 AZ Maastricht, The 
+      Netherlands. m.vanrumste@mmc.nl
+FAU - den Hartog, J E
+AU  - den Hartog JE
+FAU - Dumoulin, J C M
+AU  - Dumoulin JC
+FAU - Evers, J L H
+AU  - Evers JL
+FAU - Land, J A
+AU  - Land JA
+LA  - eng
+PT  - Journal Article
+DEP - 20051027
+PL  - England
+TA  - Hum Reprod
+JT  - Human reproduction (Oxford, England)
+JID - 8701199
+SB  - IM
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Insemination, Artificial/*methods
+MH  - Netherlands
+MH  - Ovulation Induction/*methods
+MH  - Patient Satisfaction
+MH  - Pregnancy
+MH  - Pregnancy Outcome
+MH  - Pregnancy, Multiple/statistics & numerical data
+MH  - Retrospective Studies
+EDAT- 2005/10/29 09:00
+MHDA- 2006/05/10 09:00
+CRDT- 2005/10/29 09:00
+PHST- 2005/10/29 09:00 [pubmed]
+PHST- 2006/05/10 09:00 [medline]
+PHST- 2005/10/29 09:00 [entrez]
+AID - dei365 [pii]
+AID - 10.1093/humrep/dei365 [doi]
+PST - ppublish
+SO  - Hum Reprod. 2006 Mar;21(3):701-4. doi: 10.1093/humrep/dei365. Epub 2005 Oct 27.

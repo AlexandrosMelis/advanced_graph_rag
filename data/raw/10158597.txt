@@ -1,0 +1,81 @@
+PMID- 10158597
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19960815
+LR  - 20241219
+IS  - 0963-8172 (Print)
+IS  - 0963-8172 (Linking)
+VI  - 5
+IP  - 2
+DP  - 1996 Jun
+TI  - Does a dedicated discharge coordinator improve the quality of hospital discharge?
+PG  - 89-96
+AB  - OBJECTIVE: To evaluate the effectiveness of the role of a discharge coordinator 
+      whose sole responsibility was to plan and coordinate the discharge of patients 
+      from medical wards. DESIGN: An intervention study in which the quality of 
+      discharge planning was assessed before and after the introduction of a discharge 
+      coordinator. Patients were interviewed on the ward before discharge and seven to 
+      10 days after being discharged home. SETTING: The three medical wards at the 
+      Homerton Hospital in Hackney, East London. PATIENTS: 600 randomly sampled adult 
+      patients admitted to the medical wards of the study hospital, who were resident 
+      in the district (but not in institutions), were under the care of physicians 
+      (excluding psychiatry), and were discharged home from one of the medical wards. 
+      The sampling was conducted in three study phases, over 18 months. INTERVENTIONS: 
+      Phase I comprised base line data collection; in phase II data were collected 
+      after the introduction of the district discharge planning policy and a discharge 
+      form (checklist) for all patients; in phase III data were collected after the 
+      introduction of the discharge coordinator. MAIN MEASURES: The quality and out 
+      come of discharge planning. Readmission rates, duration of stay, appropriateness 
+      of days of care, patients' health and satisfaction, problems after discharge, and 
+      receipt of services. RESULTS: The discharge coordinator resulted in an improved 
+      discharge planning process, and there was a reduction in problems experienced by 
+      patients after discharge, and in perceived need for medical and healthcare 
+      services. There was no evidence that the discharge coordinator resulted in a more 
+      timely or effective provision of community services after discharge, or that the 
+      appropriateness or efficiency of bed use was improved. CONCLUSIONS: The 
+      introduction of a discharge coordinator improved the quality of discharge 
+      planning, but at additional cost.
+FAU - Houghton, A
+AU  - Houghton A
+AD  - Research Unit, Royal College of Physicians, London, UK.
+FAU - Bowling, A
+AU  - Bowling A
+FAU - Clarke, K D
+AU  - Clarke KD
+FAU - Hopkins, A P
+AU  - Hopkins AP
+FAU - Jones, I
+AU  - Jones I
+LA  - eng
+GR  - Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Qual Health Care
+JT  - Quality in health care : QHC
+JID - 9209948
+MH  - Activities of Daily Living
+MH  - Health Status Indicators
+MH  - Humans
+MH  - Length of Stay
+MH  - London
+MH  - Patient Discharge/*standards
+MH  - Patient Readmission
+MH  - Patient Satisfaction/*statistics & numerical data
+MH  - Program Evaluation
+MH  - Quality Assurance, Health Care/*organization & administration/statistics & 
+      numerical data
+MH  - Social Work/*organization & administration
+MH  - State Medicine/organization & administration/standards
+PMC - PMC1055371
+EDAT- 1996/05/07 00:00
+MHDA- 1996/05/07 00:01
+PMCR- 1996/06/01
+CRDT- 1996/05/07 00:00
+PHST- 1996/05/07 00:00 [pubmed]
+PHST- 1996/05/07 00:01 [medline]
+PHST- 1996/05/07 00:00 [entrez]
+PHST- 1996/06/01 00:00 [pmc-release]
+AID - 10.1136/qshc.5.2.89 [doi]
+PST - ppublish
+SO  - Qual Health Care. 1996 Jun;5(2):89-96. doi: 10.1136/qshc.5.2.89.

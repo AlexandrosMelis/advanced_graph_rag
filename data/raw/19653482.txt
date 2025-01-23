@@ -1,0 +1,70 @@
+PMID- 19653482
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090915
+LR  - 20170214
+IS  - 0018-7208 (Print)
+IS  - 0018-7208 (Linking)
+VI  - 51
+IP  - 2
+DP  - 2009 Apr
+TI  - Do familiar teammates request and accept more backup? Transactive memory in air 
+      traffic control.
+PG  - 181-92
+AB  - OBJECTIVE: The present study investigated factors that explain when and why 
+      different groups of teammates are more likely to request and accept backup from 
+      one another when needed in an environment characterized by extreme time pressure 
+      and severe consequences of error: commercial air traffic control (ATC). 
+      BACKGROUND: Transactive memory theory states that teammates develop consensus 
+      regarding the distribution of their relative expertise as well as confidence in 
+      that expertise over time and that this facilitates coordination processes. The 
+      present study investigated whether this theory could help to explain between-team 
+      differences in requesting and accepting backup when needed. METHOD: The present 
+      study used cross-sectional data collected from 51 commercial ATC teams. 
+      Hypotheses were tested using multiple regression analysis. RESULTS: Teammates 
+      with greater experience working together requested and accepted backup from one 
+      another more than those with lesser experience working together. Teammate 
+      knowledge consensus and perceived team efficacy appear to have mediated this 
+      relationship. CONCLUSION: Transactive memory theory extends to high-stress 
+      environments in which members' expertise is highly overlapping. Teammates' shared 
+      mental models about one another increase the likelihood that they will request 
+      and accept backup. APPLICATION: Teammate familiarity should be considered when 
+      choosing among potential replacement team members. Training strategies that 
+      accelerate the development of teammate knowledge consensus and team efficacy are 
+      warranted.
+FAU - Smith-Jentsch, Kimberly A
+AU  - Smith-Jentsch KA
+AD  - Psychology Department, University of Central Florida, Orlando, Florida 
+      32816-1390, USA. kjentsch@mail.ucf.edu
+FAU - Kraiger, Kurt
+AU  - Kraiger K
+FAU - Cannon-Bowers, Janis A
+AU  - Cannon-Bowers JA
+FAU - Salas, Eduardo
+AU  - Salas E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Hum Factors
+JT  - Human factors
+JID - 0374660
+SB  - IM
+MH  - *Aviation/organization & administration
+MH  - Efficiency, Organizational
+MH  - Humans
+MH  - Institutional Management Teams/organization & administration
+MH  - *Interprofessional Relations
+MH  - Memory
+MH  - *Professional Competence
+MH  - Regression Analysis
+MH  - *Task Performance and Analysis
+EDAT- 2009/08/06 09:00
+MHDA- 2009/09/16 06:00
+CRDT- 2009/08/06 09:00
+PHST- 2009/08/06 09:00 [entrez]
+PHST- 2009/08/06 09:00 [pubmed]
+PHST- 2009/09/16 06:00 [medline]
+AID - 10.1177/0018720809335367 [doi]
+PST - ppublish
+SO  - Hum Factors. 2009 Apr;51(2):181-92. doi: 10.1177/0018720809335367.

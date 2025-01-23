@@ -1,0 +1,96 @@
+PMID- 26485091
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170713
+LR  - 20170713
+IS  - 1360-0567 (Electronic)
+IS  - 0963-8237 (Linking)
+VI  - 25
+IP  - 6
+DP  - 2016 Dec
+TI  - Does the use of atypical antipsychotics as adjunctive therapy in depression 
+      result in cost savings? Comparing healthcare costs and utilization between 
+      second-line treatment options.
+PG  - 486-491
+AB  - BACKGROUND: Several atypical antipsychotics (AAPs) are used as second-line agents 
+      for treatment resistant depression. AAPs can be expensive compared to other 
+      treatment options and can cause several side effects. OBJECTIVES: To estimate 
+      healthcare costs and utilization of AAPs compared to other second-line agents. 
+      METHODS: Observational study using Medicaid claims data (2006-2011). Subjects 
+      were depression-diagnosed adult members with at least two prescriptions of 
+      antidepressant medications followed by a second-line agent. Gamma generalized 
+      linear models (GLM) produced estimates of the difference in mean expenditures 
+      among treatment groups after adjusting for individual baseline characteristics 
+      using propensity scores. Negative binomial models produced estimates of the 
+      difference in number of hospitalizations and emergency department (ED) visits. 
+      RESULTS: A total of 3910 members received second-line treatment. Treatment groups 
+      were AAPs (n = 2211), augmentation agents other than AAPs (n = 1008), and 
+      antidepressant switching (n = 691). AAPs resulted in higher mean adjusted 
+      pharmacy costs and higher mean adjusted total mental health-related costs. Mean 
+      adjusted total healthcare costs and number of inpatient and ED visits were not 
+      different among treatments. CONCLUSION: The results show no evidence that AAPs 
+      used as second-line treatment for depression results in overall cost savings or 
+      lower inpatient and ED visits compared to other treatment strategies.
+FAU - Hassan, Amany K
+AU  - Hassan AK
+AD  - a Department of Pharmaceutical , Social and Administrative Sciences, D'Youville 
+      College - School of Pharmacy , Buffalo , NY , USA.
+FAU - Farmer, Kevin C
+AU  - Farmer KC
+AD  - b Department of Pharmacy: Clinical and Administrative Sciences , College of 
+      Pharmacy, University of Oklahoma , Oklahoma City , OK , USA.
+FAU - Brahm, Nancy C
+AU  - Brahm NC
+AD  - b Department of Pharmacy: Clinical and Administrative Sciences , College of 
+      Pharmacy, University of Oklahoma , Oklahoma City , OK , USA.
+FAU - Keast, Shellie
+AU  - Keast S
+AD  - b Department of Pharmacy: Clinical and Administrative Sciences , College of 
+      Pharmacy, University of Oklahoma , Oklahoma City , OK , USA.
+AD  - c Oklahoma Healthcare Authority , Oklahoma City , OK , USA , and.
+FAU - Nesser, Nancy
+AU  - Nesser N
+AD  - c Oklahoma Healthcare Authority , Oklahoma City , OK , USA , and.
+FAU - Neas, Barbara R
+AU  - Neas BR
+AD  - d Department of Biostatistics & Epidemiology , College of Public Health, 
+      University of Oklahoma , Oklahoma City , OK , USA.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20151020
+PL  - England
+TA  - J Ment Health
+JT  - Journal of mental health (Abingdon, England)
+JID - 9212352
+RN  - 0 (Antipsychotic Agents)
+SB  - IM
+MH  - Adult
+MH  - Antipsychotic Agents/*economics
+MH  - Cost Savings
+MH  - Depressive Disorder/drug therapy/*economics
+MH  - Drug Therapy, Combination/economics
+MH  - Female
+MH  - *Health Expenditures
+MH  - Humans
+MH  - Male
+MH  - Medicaid
+MH  - Middle Aged
+MH  - United States
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Antipsychotics
+OT  - Medicaid
+OT  - health care costs
+OT  - second-line treatment
+OT  - treatment resistant depression
+EDAT- 2015/10/21 06:00
+MHDA- 2017/07/14 06:00
+CRDT- 2015/10/21 06:00
+PHST- 2015/10/21 06:00 [pubmed]
+PHST- 2017/07/14 06:00 [medline]
+PHST- 2015/10/21 06:00 [entrez]
+AID - 10.3109/09638237.2015.1078879 [doi]
+PST - ppublish
+SO  - J Ment Health. 2016 Dec;25(6):486-491. doi: 10.3109/09638237.2015.1078879. Epub 
+      2015 Oct 20.

@@ -1,0 +1,96 @@
+PMID- 22324545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121210
+LR  - 20210816
+IS  - 1473-0766 (Electronic)
+IS  - 0951-3590 (Linking)
+VI  - 28
+IP  - 8
+DP  - 2012 Aug
+TI  - Are polymorphisms in oestrogen receptors genes associated with lipid levels in 
+      response to hormone therapy?
+PG  - 644-8
+LID - 10.3109/09513590.2011.650767 [doi]
+AB  - BACKGROUND: Polymorphisms in the oestrogen receptor 1 (ESR1) and oestrogen 
+      receptor 2 (ESR2) genes are associated with intermediate or endpoint markers of 
+      cardiovascular disease and with the efficacy of postmenopausal hormone therapy 
+      (HT). Contradictory findings have been described in the past and the role of 
+      these genetics variants remains unclear. METHODS: A cross-sectional study was 
+      carried out with 266 postmenopausal women, of whom 115 received oral HT (HT+) and 
+      151 did not receive any HT (HT-). We analysed three single-nucleotide 
+      polymorphisms (SNPs) in ESR1 (rs1801132, rs7757956 and rs2813544) and two in ESR2 
+      (rs3020450 and rs7154455) and derived haplotypes with three additional 
+      polymorphisms that had been previously investigated by our group (ESR1 rs2234693 
+      and ESR2 rs1256049 and rs4986938). RESULTS: The ESR1 rs2813544 polymorphism was 
+      associated with low-density lipoprotein cholesterol (LDL-C) in HT+ postmenopausal 
+      women (p = 0.044; pC = 0.388), while one ESR2 gene haplotype was associated with 
+      total cholesterol (T-chol) (p = 0.015; pC = 0.090) and LDL-C in HT+ 
+      postmenopausal women (p = 0.021; pC = 0.126). CONCLUSION: Our findings suggest 
+      that, in HT+ postmenopausal women, the rs2813544 polymorphism may influence LDL-C 
+      levels and, as previously described, ESR2 rs1256049 is associated with T-chol and 
+      LDL-C. No previous study has investigated the association of this SNP set with 
+      lipoprotein levels in women while taking into account the hormonal status of the 
+      patients.
+FAU - Smiderle, Lisiane
+AU  - Smiderle L
+AD  - Programa de Pos-Graduacao em Ciencias da Saude, Universidade Federal de Ciencias 
+      da Saude de Porto Alegre - UFCSPA, Porto Alegre, RS, Brazil.
+FAU - Mattevi, Vanessa Sune
+AU  - Mattevi VS
+FAU - Giovenardi, Marcia
+AU  - Giovenardi M
+FAU - Wender, Maria Celeste Osorio
+AU  - Wender MC
+FAU - Hutz, Mara Helena
+AU  - Hutz MH
+FAU - Almeida, Silvana
+AU  - Almeida S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120210
+PL  - England
+TA  - Gynecol Endocrinol
+JT  - Gynecological endocrinology : the official journal of the International Society 
+      of Gynecological Endocrinology
+JID - 8807913
+RN  - 0 (Biomarkers, Pharmacological)
+RN  - 0 (Cholesterol, LDL)
+RN  - 0 (ESR1 protein, human)
+RN  - 0 (Estrogen Receptor alpha)
+RN  - 0 (Estrogen Receptor beta)
+RN  - 0 (Estrogens)
+RN  - 97C5T2UQ7J (Cholesterol)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Biomarkers, Pharmacological/blood
+MH  - Brazil/epidemiology
+MH  - Cardiovascular Diseases/epidemiology
+MH  - Cholesterol/blood
+MH  - Cholesterol, LDL/blood
+MH  - Cross-Sectional Studies
+MH  - Estrogen Receptor alpha/*genetics/metabolism
+MH  - Estrogen Receptor beta/*genetics/metabolism
+MH  - Estrogen Replacement Therapy/*adverse effects
+MH  - Estrogens/adverse effects
+MH  - Female
+MH  - Genetic Association Studies
+MH  - Humans
+MH  - Hyperlipidemias/*chemically induced/genetics/metabolism
+MH  - Middle Aged
+MH  - *Polymorphism, Single Nucleotide
+MH  - Postmenopause
+MH  - Reproducibility of Results
+MH  - Risk Factors
+EDAT- 2012/02/14 06:00
+MHDA- 2012/12/12 06:00
+CRDT- 2012/02/14 06:00
+PHST- 2012/02/14 06:00 [entrez]
+PHST- 2012/02/14 06:00 [pubmed]
+PHST- 2012/12/12 06:00 [medline]
+AID - 10.3109/09513590.2011.650767 [doi]
+PST - ppublish
+SO  - Gynecol Endocrinol. 2012 Aug;28(8):644-8. doi: 10.3109/09513590.2011.650767. Epub 
+      2012 Feb 10.

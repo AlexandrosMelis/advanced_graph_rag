@@ -1,0 +1,93 @@
+PMID- 14978612
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040421
+LR  - 20161124
+IS  - 0012-3706 (Print)
+IS  - 0012-3706 (Linking)
+VI  - 47
+IP  - 4
+DP  - 2004 Apr
+TI  - Does positron emission tomography change management in primary rectal cancer? A 
+      prospective assessment.
+PG  - 451-8
+AB  - PURPOSE: The influence of positron emission tomography in the management of 
+      recurrent rectal cancer is well established but its role in primary rectal cancer 
+      remains uncertain. This study therefore prospectively assesses the impact of 
+      position emission tomography scanning on the management of primary rectal cancer. 
+      METHODS: Forty-six patients with advanced primary rectal cancer referred for 
+      consideration of adjuvant preoperative therapy underwent position emission 
+      tomography scanning. The referring physicians prospectively recorded each 
+      patient's stage following conventional imaging and the proposed treatment plan 
+      prior to position emission tomography scanning. This was then compared with 
+      subsequent stage and actual management implemented, and the appropriateness of 
+      position emission tomography-induced changes was noted by subsequent clinical 
+      follow-up. RESULTS: The surgical management of 36 of 46 patients (78 percent) was 
+      unchanged as a result of position emission tomography, even though position 
+      emission tomography upstaged disease in 3 of 36 cases (8 percent) and downstaged 
+      disease in 5 of 36 cases (14 percent). In 8 of 46 cases (17 percent), management 
+      was altered because of the position emission tomography scan findings, including 
+      6 cases (13 percent) in which surgery was cancelled and 2 other cases (4 percent) 
+      in which the radiotherapy field was changed. Where available, follow-up confirmed 
+      the appropriateness of position emission tomography-induced management change in 
+      each case. Two patients had a change in therapy independent of the position 
+      emission tomography scan due to clinical circumstances. Overall tumor stage was 
+      changed following position emission tomography in 18 of 46 patients (39 percent). 
+      CONCLUSION: Position emission tomography scanning appears to accurately change 
+      the stage or appropriately alter the therapy of almost a third of patients with 
+      advanced primary rectal cancer. In view of this, we suggest that position 
+      emission tomography scanning be considered part of standard workup for such 
+      patients, particularly if neoadjuvant chemoradiation is being considered as part 
+      of primary management.
+FAU - Heriot, Alexander G
+AU  - Heriot AG
+AD  - Department of Surgery, St. Vincent's Hospital, Melbourne, Australia.
+FAU - Hicks, Rodney J
+AU  - Hicks RJ
+FAU - Drummond, Elizabeth G P
+AU  - Drummond EG
+FAU - Keck, Jamie
+AU  - Keck J
+FAU - Mackay, John
+AU  - Mackay J
+FAU - Chen, Frank
+AU  - Chen F
+FAU - Kalff, Victor
+AU  - Kalff V
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+DEP - 20040225
+PL  - United States
+TA  - Dis Colon Rectum
+JT  - Diseases of the colon and rectum
+JID - 0372764
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma/*diagnostic imaging/radiotherapy/*surgery
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/*diagnostic imaging/radiotherapy/*surgery
+MH  - Neoplasm Staging/*methods
+MH  - *Patient Care Planning
+MH  - Predictive Value of Tests
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Radiotherapy, Adjuvant
+MH  - Rectal Neoplasms/*diagnostic imaging/radiotherapy/*surgery
+MH  - Sensitivity and Specificity
+MH  - *Tomography, Emission-Computed
+EDAT- 2004/02/24 05:00
+MHDA- 2004/04/22 05:00
+CRDT- 2004/02/24 05:00
+PHST- 2004/02/24 05:00 [pubmed]
+PHST- 2004/04/22 05:00 [medline]
+PHST- 2004/02/24 05:00 [entrez]
+AID - 10.1007/s10350-003-0089-3 [doi]
+PST - ppublish
+SO  - Dis Colon Rectum. 2004 Apr;47(4):451-8. doi: 10.1007/s10350-003-0089-3. Epub 2004 
+      Feb 25.

@@ -1,0 +1,93 @@
+PMID- 24481006
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150115
+LR  - 20161125
+IS  - 1421-976X (Electronic)
+IS  - 0008-6568 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2014
+TI  - Should cavitation in proximal surfaces be reported in cone beam computed 
+      tomography examination?
+PG  - 208-13
+LID - 10.1159/000354838 [doi]
+AB  - AIM: A clinical study was done to assess the clinical diagnostic accuracy of cone 
+      beam computed tomography (CBCT) in detecting proximal cavitated carious lesions 
+      in order to determine whether cavitation should be reported when a CBCT 
+      examination is available. MATERIALS AND METHODS: 79 adjacent proximal surfaces 
+      without restorations in permanent teeth were examined. Patients suspected to have 
+      carious lesions after a visual clinical and a bitewing examination participated 
+      in a CBCT examination (Kodak 9000 3D, 5 x 3.7 cm field of view, voxel size 0.07 
+      mm). Ethical approval and informed consent were obtained according to the 
+      Helsinki Declaration. Radiographic assessment recording lesions with or without 
+      cavitation was performed by two observers in bitewings and CBCT sections. 
+      Orthodontic separators were placed interdentally between two lesion-suspected 
+      surfaces. The separator was removed after 3 days and the surfaces recorded as 
+      cavitated (yes/no), i.e. validated clinically. Differences between the two 
+      radiographic modalities (sensitivity, specificity and overall accuracy) were 
+      estimated by analyzing the binary data in a generalized linear model. RESULTS: 
+      For both observers, sensitivity was significantly higher for CBCT than for 
+      bitewings (average difference 33%, p < 0.001) while specificity was not 
+      significantly different between the methods (p = 0.19). The overall accuracy was 
+      also significantly higher for CBCT (p < 0.001). CONCLUSION: CBCT was more 
+      accurate in detecting cavitation in proximal surfaces than bitewing radiographs; 
+      therefore a CBCT examination performed for other clinical applications should 
+      also be assessed for proximal surface cavities in teeth without restorations, and 
+      when detected, this pathology must be part of the dentist's report.
+FAU - Sansare, K
+AU  - Sansare K
+AD  - Oral Medicine and Radiology, Nair Hospital Dental College, Mumbai, India.
+FAU - Singh, D
+AU  - Singh D
+FAU - Sontakke, S
+AU  - Sontakke S
+FAU - Karjodkar, F
+AU  - Karjodkar F
+FAU - Saxena, V
+AU  - Saxena V
+FAU - Frydenberg, M
+AU  - Frydenberg M
+FAU - Wenzel, A
+AU  - Wenzel A
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20140129
+PL  - Switzerland
+TA  - Caries Res
+JT  - Caries research
+JID - 0103374
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Bicuspid/diagnostic imaging/pathology
+MH  - Cone-Beam Computed Tomography/*standards
+MH  - Dental Caries/diagnosis/*diagnostic imaging
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/standards
+MH  - Linear Models
+MH  - Male
+MH  - Middle Aged
+MH  - Molar/diagnostic imaging/pathology
+MH  - Observer Variation
+MH  - Physical Examination
+MH  - Radiography, Bitewing/methods
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Tooth Crown/*diagnostic imaging/pathology
+MH  - Tooth Discoloration/diagnosis
+MH  - Young Adult
+EDAT- 2014/02/01 06:00
+MHDA- 2015/01/16 06:00
+CRDT- 2014/02/01 06:00
+PHST- 2013/03/12 00:00 [received]
+PHST- 2013/08/02 00:00 [accepted]
+PHST- 2014/02/01 06:00 [entrez]
+PHST- 2014/02/01 06:00 [pubmed]
+PHST- 2015/01/16 06:00 [medline]
+AID - 000354838 [pii]
+AID - 10.1159/000354838 [doi]
+PST - ppublish
+SO  - Caries Res. 2014;48(3):208-13. doi: 10.1159/000354838. Epub 2014 Jan 29.

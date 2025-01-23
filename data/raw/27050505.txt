@@ -1,0 +1,100 @@
+PMID- 27050505
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170403
+LR  - 20170403
+IS  - 1525-6049 (Electronic)
+IS  - 0886-022X (Linking)
+VI  - 38
+IP  - 5
+DP  - 2016 Jun
+TI  - Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic 
+      kidney disease among hypertensive patients?
+PG  - 765-9
+LID - 10.3109/0886022X.2016.1160247 [doi]
+AB  - BACKGROUND: Hypertension is one of the important contributing factors linked with 
+      both causation and development of kidney disease. It is a multifactorial, 
+      polygenic, and complex disorder due to interaction of several risk genes with 
+      environmental factors. The present study was aimed to explore genetic 
+      polymorphism in ACE-1 gene as a risk factor for CKD among hypertensive patients. 
+      METHODS: Three hundred patients were enrolled in the study. Ninety were 
+      hypertensive patients with CKD taken as cases, whereas 210 hypertensive patients 
+      without CKD were taken as controls. Demographic data including age, sex, Body 
+      mass index (BMI), and other risk factors were also recorded. DNA was extracted 
+      from blood by salting out method. Genotyping of ACE gene was done by PCR 
+      technique. All the statistical analysis was done by using Epi Info and SPSS 
+      version 16 software (SPSS Inc., Chicago, IL). RESULTS: Mean age was higher in the 
+      control group (p < 0.05). Variables among two groups were compared out of which 
+      age, BMI, hemoglobin (Hb) was found to be statistically significant whereas other 
+      variables like systolic blood pressure, triglyceride and low-density lipoprotein 
+      were not. Blood urea and serum creatinine levels were statistically significant 
+      in the two genotypes (p < 0.05). Total and HDL cholesterol were statistically 
+      significant for DD genotype of ACE gene (OR = 1.42, 95% CI = 0.72-2.81). 
+      Similarly, the risk for CKD among hypertensive patients was also associated with 
+      D allele of ACE gene (OR = 1.25, 95% CI = 0.86-1.79). CONCLUSION: It is concluded 
+      that ACE-DD genotype may be a risk factor for the causation and development of 
+      chronic kidney failure among hypertensive patients.
+FAU - Sarkar, Taposh
+AU  - Sarkar T
+AD  - a Department of Medicine , Maulana Azad Medical College , New Delhi , India ;
+FAU - Singh, Narinder Pal
+AU  - Singh NP
+AD  - a Department of Medicine , Maulana Azad Medical College , New Delhi , India ;
+AD  - b Max Super Specialty Hospital , Vaishali , Ghaziabad , Uttar Pradesh , India ;
+FAU - Kar, Premashish
+AU  - Kar P
+AD  - a Department of Medicine , Maulana Azad Medical College , New Delhi , India ;
+FAU - Husain, Syed Akhtar
+AU  - Husain SA
+AD  - c Department of Biotechnology , Jamia Milia Islamia University , New Delhi , 
+      India ;
+FAU - Kapoor, Seema
+AU  - Kapoor S
+AD  - d Department of Pediatrics, Genetics Research Lab , Maulana Azad Medical College 
+      , New Delhi , India ;
+FAU - Pollipalli, Sunil Kumar
+AU  - Pollipalli SK
+AD  - e Genetic Research Lab , Maulana Azad Medical College , New Delhi , India.
+FAU - Kumar, Anish
+AU  - Kumar A
+AD  - b Max Super Specialty Hospital , Vaishali , Ghaziabad , Uttar Pradesh , India ;
+FAU - Garg, Neena
+AU  - Garg N
+AD  - b Max Super Specialty Hospital , Vaishali , Ghaziabad , Uttar Pradesh , India ;
+LA  - eng
+PT  - Journal Article
+DEP - 20160406
+PL  - England
+TA  - Ren Fail
+JT  - Renal failure
+JID - 8701128
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Gene-Environment Interaction
+MH  - Genetic Predisposition to Disease
+MH  - Humans
+MH  - Hypertension/*complications
+MH  - Kidney Function Tests/methods
+MH  - Male
+MH  - Middle Aged
+MH  - Peptidyl-Dipeptidase A/*genetics
+MH  - Polymorphism, Genetic
+MH  - *Renal Insufficiency, Chronic/diagnosis/etiology/genetics
+OTO - NOTNLM
+OT  - Angiotensin-converting enzyme (ACE)
+OT  - chronic kidney disease
+OT  - genetic polymorphism
+OT  - hypertension
+OT  - polymerase chain reaction
+EDAT- 2016/04/07 06:00
+MHDA- 2017/04/04 06:00
+CRDT- 2016/04/07 06:00
+PHST- 2016/04/07 06:00 [entrez]
+PHST- 2016/04/07 06:00 [pubmed]
+PHST- 2017/04/04 06:00 [medline]
+AID - 10.3109/0886022X.2016.1160247 [doi]
+PST - ppublish
+SO  - Ren Fail. 2016 Jun;38(5):765-9. doi: 10.3109/0886022X.2016.1160247. Epub 2016 Apr 
+      6.

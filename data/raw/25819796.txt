@@ -1,0 +1,112 @@
+PMID- 25819796
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151127
+LR  - 20181202
+IS  - 1525-5069 (Electronic)
+IS  - 1525-5050 (Linking)
+VI  - 45
+DP  - 2015 Apr
+TI  - Literacy after cerebral hemispherectomy: Can the isolated right hemisphere read?
+PG  - 248-53
+LID - S1525-5050(15)00014-1 [pii]
+LID - 10.1016/j.yebeh.2015.01.007 [doi]
+AB  - OBJECTIVES: Cerebral hemispherectomy, a surgical procedure undergone to control 
+      intractable seizures, is becoming a standard procedure with more cases identified 
+      and treated early in life [33]. While the effect of the dominant hemisphere 
+      resection on spoken language has been extensively researched, little is known 
+      about reading abilities in individuals after left-sided resection. 
+      Left-lateralized phonological abilities are the key components of reading, i.e., 
+      grapheme-phoneme conversion skills [1]. These skills are critical for the 
+      acquisition of word-specific orthographic knowledge and have been shown to 
+      predict reading levels in average readers as well as in readers with mild 
+      cognitive disability [26]. Furthermore, impaired phonological processing has been 
+      implicated as the cognitive basis in struggling readers. Here, we explored the 
+      reading skills in participants who have undergone left cerebral hemispherectomy. 
+      METHODS: Seven individuals who have undergone left cerebral hemispherectomy to 
+      control intractable seizures associated with perinatal infarct have been 
+      recruited for this study. We examined if components of phonological processing 
+      that are shown to reliably separate average readers from struggling readers, 
+      i.e., phonological awareness, verbal memory, speed of retrieval, and size of 
+      vocabulary, show the same relationship to reading levels when they are mediated 
+      by the right hemisphere [2]. RESULTS: We found that about 60% of our group 
+      developed both word reading and paragraph reading in the average range. 
+      Phonological processing measured by both phonological awareness and nonword 
+      reading was unexpectedly spared in the majority of participants. Phonological 
+      awareness levels strongly correlated with word reading. Verbal memory, a 
+      component of phonological processing skills, together with receptive vocabulary 
+      size, positively correlated with reading levels similar to those reported in 
+      average readers. Receptive vocabulary, a bilateral function, was preserved to a 
+      certain degree similar to that of strongly left-lateralized phonological skills 
+      [3]. Later seizure onset was associated with better reading levels. CONCLUSIONS: 
+      When cerebral hemispherectomy is performed to control seizures associated with 
+      very early (in utero) insult, it has been found that the remaining right 
+      hemisphere is still able to support reading and phonological processing skills 
+      that are normally mediated by the left hemisphere. Our results also suggest the 
+      existence of variability in individuals after hemispherectomy, even within groups 
+      having the same etiology and similar timing of insult.
+CI  - Published by Elsevier Inc.
+FAU - de Bode, Stella
+AU  - de Bode S
+AD  - Brain Recovery Project, Los Angeles, CA, USA. Electronic address: 
+      sdebode@brainrecoveryproject.org.
+FAU - Chanturidze, Marine
+AU  - Chanturidze M
+AD  - Department of Linguistics, University of Utrecht, The Netherlands.
+FAU - Mathern, Gary W
+AU  - Mathern GW
+AD  - Department of Neurosurgery, University of California, Los Angeles, CA, USA; 
+      Department of Psychiatry & Biobehavioral Sciences, University of California, Los 
+      Angeles, CA, USA; The Intellectual and Developmental Disabilities Research 
+      Centre, University of California, Los Angeles, CA, USA; The Brain Research 
+      Institute, University of California, Los Angeles, CA, USA; Mattel Children's 
+      Hospital, University of California, Los Angeles, CA, USA; David Geffen School of 
+      Medicine, University of California, Los Angeles, CA, USA.
+FAU - Dubinsky, Stanley
+AU  - Dubinsky S
+AD  - Linguistics Program, University of South Carolina, SC, USA.
+LA  - eng
+GR  - R01 NS38992/NS/NINDS NIH HHS/United States
+GR  - R21 HD050707/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150325
+PL  - United States
+TA  - Epilepsy Behav
+JT  - Epilepsy & behavior : E&B
+JID - 100892858
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Cohort Studies
+MH  - Drug Resistant Epilepsy/diagnosis/physiopathology/*surgery
+MH  - Female
+MH  - Functional Laterality/*physiology
+MH  - *Hemispherectomy/trends
+MH  - Humans
+MH  - *Literacy/trends
+MH  - Male
+MH  - Postoperative Period
+MH  - *Reading
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Cerebral hemispherectomy
+OT  - Memory
+OT  - Phonological processing
+OT  - Reading
+OT  - Seizure onset
+OT  - Vocabulary
+EDAT- 2015/03/31 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2015/03/31 06:00
+PHST- 2014/08/28 00:00 [received]
+PHST- 2015/01/06 00:00 [revised]
+PHST- 2015/01/07 00:00 [accepted]
+PHST- 2015/03/31 06:00 [entrez]
+PHST- 2015/03/31 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+AID - S1525-5050(15)00014-1 [pii]
+AID - 10.1016/j.yebeh.2015.01.007 [doi]
+PST - ppublish
+SO  - Epilepsy Behav. 2015 Apr;45:248-53. doi: 10.1016/j.yebeh.2015.01.007. Epub 2015 
+      Mar 25.

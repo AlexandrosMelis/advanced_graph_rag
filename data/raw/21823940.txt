@@ -1,0 +1,91 @@
+PMID- 21823940
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111201
+LR  - 20181201
+IS  - 1538-957X (Electronic)
+IS  - 1538-9588 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2011 Aug
+TI  - Department of Transportation vs self-reported data on motor vehicle collisions 
+      and driving convictions for stroke survivors: do they agree?
+PG  - 327-32
+LID - 10.1080/15389588.2011.581716 [doi]
+AB  - OBJECTIVE: Research on stroke survivors' driving safety has typically used either 
+      self-reports or government records, but the extent to which the 2 may differ is 
+      not known. We compared government records and self-reports of motor vehicle 
+      collisions and driving convictions in a sample of stroke survivors. METHODS: The 
+      56 participants were originally recruited for a prospective study on driving and 
+      community re-integration post-stroke; the study population consisted of 
+      moderately impaired stroke survivors without severe communication disorders who 
+      had been referred for a driving assessment. The driving records of the 56 
+      participants for the 5 years before study entry and the 1-year study period were 
+      acquired with written consent from the Ministry of Transportation of Ontario 
+      (MTO), Canada. Self-reports of collisions and convictions were acquired via a 
+      semistructured interview and then compared with the MTO records. RESULTS: 
+      Forty-three participants completed the study. For 7 (13.5%) the MTO records did 
+      not match the self-reports regarding collision involvement, and for 9 (17.3%) the 
+      MTO records did not match self-reports regarding driving convictions. The kappa 
+      coefficient for the correlation between MTO records and self-reports was 0.52 for 
+      collisions and 0.47 for convictions (both in the moderate range of agreement). 
+      When both sources of data were consulted, up to 56 percent more accidents and up 
+      to 46 percent more convictions were identified in the study population in the 5 
+      years before study entry compared to when either source was used alone. 
+      CONCLUSION: In our population of stroke survivors, self-reports of motor vehicle 
+      collisions and driving convictions differed from government records. In future 
+      studies, the use of both government and self-reported data would ensure a more 
+      accurate picture of driving safety post-stroke.
+FAU - Finestone, Hillel M
+AU  - Finestone HM
+AD  - Elisabeth Bruyere Hospital, Bruyere Continuing Care, Ottawa, Ontario, Canada. 
+      hfinestone@bruyere.org
+FAU - Guo, Meiqi
+AU  - Guo M
+FAU - O'Hara, Paddi
+AU  - O'Hara P
+FAU - Greene-Finestone, Linda
+AU  - Greene-Finestone L
+FAU - Marshall, Shawn C
+AU  - Marshall SC
+FAU - Hunt, Lynn
+AU  - Hunt L
+FAU - Jessup, Anita
+AU  - Jessup A
+FAU - Biggs, Jennifer
+AU  - Biggs J
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Traffic Inj Prev
+JT  - Traffic injury prevention
+JID - 101144385
+SB  - IM
+MH  - Accidents, Traffic/*statistics & numerical data
+MH  - Aged
+MH  - Automobile Driving/legislation & jurisprudence/psychology/*statistics & numerical 
+      data
+MH  - Female
+MH  - *Government Agencies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Ontario
+MH  - Prospective Studies
+MH  - *Records
+MH  - Reproducibility of Results
+MH  - Safety
+MH  - *Self Report
+MH  - Stroke/*epidemiology/psychology
+MH  - Survivors/psychology/*statistics & numerical data
+EDAT- 2011/08/10 06:00
+MHDA- 2011/12/13 00:00
+CRDT- 2011/08/10 06:00
+PHST- 2011/08/10 06:00 [entrez]
+PHST- 2011/08/10 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+AID - 10.1080/15389588.2011.581716 [doi]
+PST - ppublish
+SO  - Traffic Inj Prev. 2011 Aug;12(4):327-32. doi: 10.1080/15389588.2011.581716.

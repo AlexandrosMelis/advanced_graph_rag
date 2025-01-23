@@ -1,0 +1,71 @@
+PMID- 24964725
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161101
+LR  - 20220311
+IS  - 1744-6163 (Electronic)
+IS  - 0031-5990 (Linking)
+VI  - 51
+IP  - 3
+DP  - 2015 Jul
+TI  - Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?
+PG  - 171-9
+LID - 10.1111/ppc.12078 [doi]
+AB  - PURPOSE: Utilization of the Recovery Knowledge Inventory (RKI) and Recovery 
+      Attitudes Questionnaire (RAQ) in southeastern Australia raised questions about 
+      the RAQ, including links between attitudes, faith, and culture in supporting the 
+      recovery journey. These questions are particularly important when considered in 
+      the context of people with mental illness who live in secular multicultural 
+      societies. CONCLUSIONS: This paper discusses the cultural appropriateness of the 
+      RAQ in Australian settings, and identifies the need to develop rigorous, 
+      inclusive recovery outcome measures. PRACTICE IMPLICATIONS: It is important to 
+      identify what best motivates people in their recovery journey, and to find a way 
+      to harness these motivating factors to achieve the best possible outcomes.
+CI  - (c) 2014 The Authors. Perspectives in Psychiatric Care Published by Wiley 
+      Periodicals, Inc.
+FAU - Hungerford, Catherine
+AU  - Hungerford C
+AD  - Disciplines of Nursing and Midwifery, Faculty of Health, University of Canberra, 
+      Canberra, Australia.
+FAU - Dowling, Mitchell
+AU  - Dowling M
+AD  - University of Canberra, Canberra, Australia.
+FAU - Doyle, Kerry
+AU  - Doyle K
+AD  - Faculty of Health, University of Canberra, Canberra, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140626
+PL  - United States
+TA  - Perspect Psychiatr Care
+JT  - Perspectives in psychiatric care
+JID - 0401133
+MH  - Australia
+MH  - *Cultural Competency
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Mental Disorders/*nursing
+MH  - Outcome Assessment, Health Care
+MH  - Parish Nursing
+MH  - Psychiatric Nursing/*education
+MH  - Surveys and Questionnaires/*statistics & numerical data
+OTO - NOTNLM
+OT  - Attitude
+OT  - culture
+OT  - faith
+OT  - outcome measure
+OT  - recovery
+EDAT- 2014/06/27 06:00
+MHDA- 2016/11/02 06:00
+CRDT- 2014/06/27 06:00
+PHST- 2014/04/04 00:00 [received]
+PHST- 2014/05/25 00:00 [revised]
+PHST- 2014/05/29 00:00 [accepted]
+PHST- 2014/06/27 06:00 [entrez]
+PHST- 2014/06/27 06:00 [pubmed]
+PHST- 2016/11/02 06:00 [medline]
+AID - 10.1111/ppc.12078 [doi]
+PST - ppublish
+SO  - Perspect Psychiatr Care. 2015 Jul;51(3):171-9. doi: 10.1111/ppc.12078. Epub 2014 
+      Jun 26.

@@ -1,0 +1,108 @@
+PMID- 25443385
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150320
+LR  - 20220311
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 73
+IP  - 1
+DP  - 2015 Jan
+TI  - Are virtual planning and guided surgery for head and neck reconstruction 
+      economically viable?
+PG  - 170-5
+LID - S0278-2391(14)01252-X [pii]
+LID - 10.1016/j.joms.2014.07.038 [doi]
+AB  - PURPOSE: Virtual planning and guided surgery with or without prebent or milled 
+      plates are becoming more and more common for mandibular reconstruction with 
+      fibular free flaps (FFFs). Although this excellent surgical option is being used 
+      more widely, the question of the additional cost of planning and cutting-guide 
+      production has to be discussed. In capped payment systems such additional costs 
+      have to be offset by other savings if there are no special provisions for extra 
+      funding. Our study was designed to determine whether using virtual planning and 
+      guided surgery resulted in time saved during surgery and whether this time gain 
+      resulted in self-funding of such planning through the time saved. MATERIALS AND 
+      METHODS: All consecutive cases of FFF surgery were evaluated during a 2-year 
+      period. Institutional data were used to determine the price of 1 minute of 
+      operative time. The time for fibula molding, plate adaptation, and insetting was 
+      recorded. RESULTS: During the defined period, we performed 20 mandibular 
+      reconstructions using FFFs, 9 with virtual planning and guided surgery and 11 
+      freehand cases. One minute of operative time was calculated to cost US $47.50. 
+      Multiplying this number by the time saved, we found that the additional cost of 
+      virtual planning was reduced from US $5,098 to US $1,231.50 with a prebent plate 
+      and from US $6,980 to US $3,113.50 for a milled plate. CONCLUSIONS: Even in 
+      capped health care systems, virtual planning and guided surgery including prebent 
+      or milled plates are financially viable.
+CI  - Copyright (c) 2015 American Association of Oral and Maxillofacial Surgeons. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Zweifel, Daniel Fritz
+AU  - Zweifel DF
+AD  - Consultant, Maxillofacial Surgery Department, Centre Hospitalier Universitaire 
+      Vaudois, Lausanne, Switzerland. Electronic address: daniel.zweifel@chuv.ch.
+FAU - Simon, Christian
+AU  - Simon C
+AD  - Chief Consultant, Ear-Nose and Throat Department, Centre Hospitalier 
+      Universitaire Vaudois, Lausanne, Switzerland.
+FAU - Hoarau, Remy
+AU  - Hoarau R
+AD  - Consultant, Maxillofacial Surgery Department, Centre Hospitalier Universitaire 
+      Vaudois, Lausanne, Switzerland.
+FAU - Pasche, Philippe
+AU  - Pasche P
+AD  - Consultant, Ear-Nose and Throat Department, Centre Hospitalier Universitaire 
+      Vaudois, Lausanne, Switzerland.
+FAU - Broome, Martin
+AU  - Broome M
+AD  - Chief Consultant, Maxillofacial Surgery Department, Centre Hospitalier 
+      Universitaire Vaudois, Lausanne, Switzerland.
+LA  - eng
+PT  - Journal Article
+DEP - 20140801
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American 
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+SB  - IM
+MH  - Aged
+MH  - Angiography/economics
+MH  - Bone Plates/economics
+MH  - Bone Transplantation/economics
+MH  - Carcinoma, Squamous Cell/economics/surgery
+MH  - Computer Simulation/economics
+MH  - Cost Savings
+MH  - Diagnosis-Related Groups/economics
+MH  - Female
+MH  - Fibula/surgery
+MH  - Free Tissue Flaps/transplantation
+MH  - Health Care Costs
+MH  - Hospital Costs
+MH  - Humans
+MH  - Imaging, Three-Dimensional/economics
+MH  - Male
+MH  - Mandibular Neoplasms/economics/surgery
+MH  - Mandibular Reconstruction/*economics/instrumentation
+MH  - Middle Aged
+MH  - Models, Anatomic
+MH  - Operative Time
+MH  - Patient Care Planning/*economics
+MH  - Prospective Studies
+MH  - Surgery, Computer-Assisted/*economics
+MH  - Switzerland
+MH  - Tomography, X-Ray Computed/economics
+MH  - Transplant Donor Site/surgery
+MH  - *User-Computer Interface
+EDAT- 2014/12/03 06:00
+MHDA- 2015/03/21 06:00
+CRDT- 2014/12/03 06:00
+PHST- 2014/06/09 00:00 [received]
+PHST- 2014/07/24 00:00 [revised]
+PHST- 2014/07/24 00:00 [accepted]
+PHST- 2014/12/03 06:00 [entrez]
+PHST- 2014/12/03 06:00 [pubmed]
+PHST- 2015/03/21 06:00 [medline]
+AID - S0278-2391(14)01252-X [pii]
+AID - 10.1016/j.joms.2014.07.038 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2015 Jan;73(1):170-5. doi: 10.1016/j.joms.2014.07.038. 
+      Epub 2014 Aug 1.

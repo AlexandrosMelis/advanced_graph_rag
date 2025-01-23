@@ -1,0 +1,102 @@
+PMID- 24073931
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140425
+LR  - 20211021
+IS  - 2047-783X (Electronic)
+IS  - 0949-2321 (Print)
+IS  - 0949-2321 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2013 Sep 28
+TI  - Is the covering of the resection margin after distal pancreatectomy advantageous?
+PG  - 33
+LID - 10.1186/2047-783X-18-33 [doi]
+AB  - BACKGROUND: In recent years, many advances in pancreatic surgery have been 
+      achieved. Nevertheless, the rate of pancreatic fistula following pancreatic tail 
+      resection does not differ between various techniques, still reaching up to 30% in 
+      prospective multicentric studies. Taking into account contradictory results 
+      concerning the usefulness of covering resection margins after distal 
+      pancreatectomy, we sought to perform a systematic, retrospective analysis of 
+      patients that underwent distal pancreatectomy at our center. METHODS: We 
+      retrospectively analysed the data of 74 patients that underwent distal 
+      pancreatectomy between 2001 and 2011 at the community hospital in Neuss. 
+      Demographic factors, indications, postoperative complications, surgical or 
+      interventional revisions, and length of hospital stay were registered to compare 
+      the outcome of patients undergoing distal pancreatectomy with coverage of the 
+      resection margins vs. patients undergoing distal pancreatectomy without coverage 
+      of the resection margins. Differences between groups were calculated using 
+      Fisher's exact and Mann-Whitney U test. RESULTS: Main indications for pancreatic 
+      surgery were insulinoma (n=18, 24%), ductal adenocarcinoma (n=9, 12%), 
+      non-single-insulinoma-pancreatogenic-hypoglycemia-syndrome (NSIPHS) (n=8, 11%), 
+      and pancreatic cysts with pancreatitis (n=8, 11%). In 39 of 74 (53%) patients no 
+      postoperative complications were noted. In detail we found that 23/42 (55%) 
+      patients with coverage vs. 16/32 (50%) without coverage of the resection margins 
+      had no postoperative complications. The most common complications were pancreatic 
+      fistulas in eleven patients (15%), and postoperative bleeding in nine patients 
+      (12%). Pancreatic fistulas occurred in patients without coverage of the resection 
+      margins in 7/32 (22%) vs. 4/42 (1011%) with coverage are of the resection 
+      margins, yet without reaching statistical significance. Postoperative bleeding 
+      ensued with equal frequency in both groups (12% with coverage versus 13% without 
+      coverage of the resection margins). The reoperation rate was 8%. The hospital 
+      stay for patients without coverage was 13 days (5-60) vs. 17 days (8-60) for 
+      patients with coverage. CONCLUSIONS: The results show no significant difference 
+      in the fistula rate after covering of the resection margin after distal 
+      pancreatectomy, which contributes to the picture of an unsolved problem.
+FAU - Akca, Aycan
+AU  - Akca A
+AD  - Department of Visceral and Endocrine Surgery, Lukaskrankenhaus Neuss, 
+      Preussenstr, 84, Neuss, 41464, Germany. aakca@lukasneuss.de.
+FAU - Goretzki, Peter E
+AU  - Goretzki PE
+FAU - Wirowski, Denis
+AU  - Wirowski D
+FAU - Renter, Marc A
+AU  - Renter MA
+FAU - Bolke, Edwin
+AU  - Bolke E
+FAU - Matuschek, Christiane
+AU  - Matuschek C
+FAU - Gerber, Peter Arne
+AU  - Gerber PA
+FAU - Lammers, Bernhard J
+AU  - Lammers BJ
+LA  - eng
+PT  - Journal Article
+DEP - 20130928
+PL  - England
+TA  - Eur J Med Res
+JT  - European journal of medical research
+JID - 9517857
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Child
+MH  - Demography
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pancreas/*pathology/*surgery
+MH  - *Pancreatectomy/adverse effects
+MH  - Pancreatic Fistula/etiology
+MH  - Perioperative Care
+MH  - Postoperative Complications/etiology
+MH  - Young Adult
+PMC - PMC3849835
+EDAT- 2013/10/01 06:00
+MHDA- 2014/04/26 06:00
+PMCR- 2013/09/28
+CRDT- 2013/10/01 06:00
+PHST- 2012/11/21 00:00 [received]
+PHST- 2013/08/28 00:00 [accepted]
+PHST- 2013/10/01 06:00 [entrez]
+PHST- 2013/10/01 06:00 [pubmed]
+PHST- 2014/04/26 06:00 [medline]
+PHST- 2013/09/28 00:00 [pmc-release]
+AID - 2047-783X-18-33 [pii]
+AID - 10.1186/2047-783X-18-33 [doi]
+PST - epublish
+SO  - Eur J Med Res. 2013 Sep 28;18(1):33. doi: 10.1186/2047-783X-18-33.

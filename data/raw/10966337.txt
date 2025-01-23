@@ -1,0 +1,87 @@
+PMID- 10966337
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20001229
+LR  - 20191210
+IS  - 0749-5161 (Print)
+IS  - 0749-5161 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2000 Aug
+TI  - A short stay or 23-hour ward in a general and academic children's hospital: are 
+      they effective?
+PG  - 223-9
+AB  - OBJECTIVE: We evaluated the usefulness of a short stay or 23-hour ward in a 
+      pediatric unit of a large teaching hospital, Westmead Hospital, and an academic 
+      Children's hospital, The New Children's Hospital, to determine if they are a 
+      useful addition to the emergency service. METHODS: This is a descriptive 
+      comparison of prospectively collected data on all children admitted to the short 
+      stay ward at Westmead Hospital (WH) during 1994 and the short stay ward at the 
+      New Children's Hospital (NCH) during 1997-98. These hospitals service an 
+      identical demographic area with the latter (NCH) a tertiary referral center. The 
+      following outcome measures were used: length of stay, appropriateness of stay, 
+      rate of admission to an in-hospital bed, and rate of unscheduled visits within 72 
+      hours of discharge. Adverse events were reported and patient follow-up was 
+      attempted at 48 hours after discharge in all cases. RESULTS: The short stay ward 
+      accounted for 10.3% (Westmead Hospital) and 14.7% (New Children's Hospital) of 
+      admissions, with 56% medical in nature, 30% surgical, and the remainder 
+      procedural or psychological. Admission patterns were similar, with asthma, 
+      gastroenteritis, convulsion, pneumonia, and simple surgical conditions accounting 
+      for most short stay ward admissions. The short stay ward increased hospital 
+      efficiency with an average length of stay of 17.5 hours (Westmead Hospital) 
+      compared to 20.5 hours (New Children's Hospital). The users of the short stay 
+      ward were children of young age less than 2 years, with stay greater than 23 
+      hours reported in only 1% of all admissions to the short stay ward. The rate of 
+      patient admission to an in-hospital bed was low, (4% [Westmead Hospital] compared 
+      to 6% [New Children's Hospital]), with the number of unscheduled visits within 72 
+      hours of short stay ward discharge less than 1%. There were no adverse events 
+      reported at either short stay ward, with parental satisfaction high. The short 
+      stay ward was developed through reallocation of resources from within the 
+      hospital to the short stay ward. This resulted in estimated savings of $1/2 
+      million (Westmead Hospital) to $2.3 million (New Children's Hospital) to the 
+      hospital, due to more efficient bed usage. CONCLUSION: This data demonstrates the 
+      robust nature of the short stay ward. At these two very different institutions we 
+      have shown improved bed efficient and patient care in a cost-effective way. We 
+      have also reported on greater parental satisfaction and early return of the child 
+      with their family to the community.
+FAU - Browne, G J
+AU  - Browne GJ
+AD  - The New Children's Hospital, Royal Alexandra Hospital for Children, Westmead NSW, 
+      Australia. garyb@nch.edu.au
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Pediatr Emerg Care
+JT  - Pediatric emergency care
+JID - 8507560
+SB  - IM
+MH  - Academic Medical Centers
+MH  - Acute Disease/therapy
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - Critical Pathways
+MH  - Emergency Service, Hospital/*organization & administration/statistics & numerical 
+      data
+MH  - Follow-Up Studies
+MH  - Hospital Units/*organization & administration
+MH  - Hospitals, General
+MH  - Hospitals, Pediatric
+MH  - Humans
+MH  - Infant
+MH  - *Length of Stay
+MH  - New South Wales
+MH  - Outcome Assessment, Health Care
+MH  - *Pediatrics
+MH  - Prospective Studies
+MH  - Time Factors
+EDAT- 2000/08/31 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/08/31 11:00
+PHST- 2000/08/31 11:00 [pubmed]
+PHST- 2001/02/28 10:01 [medline]
+PHST- 2000/08/31 11:00 [entrez]
+AID - 10.1097/00006565-200008000-00001 [doi]
+PST - ppublish
+SO  - Pediatr Emerg Care. 2000 Aug;16(4):223-9. doi: 10.1097/00006565-200008000-00001.

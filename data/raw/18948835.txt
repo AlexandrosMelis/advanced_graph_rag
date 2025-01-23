@@ -1,0 +1,93 @@
+PMID- 18948835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090428
+LR  - 20181217
+IS  - 1536-4828 (Electronic)
+IS  - 0885-3177 (Linking)
+VI  - 38
+IP  - 2
+DP  - 2009 Mar
+TI  - Does somatostatin confer insulinostatic effects of neuromedin u in the rat 
+      pancreas?
+PG  - 208-12
+LID - 10.1097/MPA.0b013e31818d9095 [doi]
+AB  - OBJECTIVES: Neuromedin U (NmU) is a neuropeptide with anorexigenic activity. Two 
+      receptor subtypes (NmUR1 and NmUR2) confer the effects of NmU on target cells. We 
+      have recently demonstrated that NmU reduces insulin secretion from isolated 
+      pancreatic islets. Aim of our current study is to investigate the role of 
+      somatostatin at mediating the effects of NmU on insulin secretion. METHODS: 
+      Expression of NmU in the pancreas was detected by immunohistochemistry. Insulin 
+      and somatostatin secretion from in situ perfused rat pancreas and isolated 
+      pancreatic islets was measured by radioimmunoassay. The paracrine effects of 
+      somatostatin within pancreatic islets were blocked by cyclosomatostatin, a 
+      somatostatin receptor antagonist. RESULTS: Receptor subtype NmUR1, but not NmUR2, 
+      was expressed in the endocrine pancreas, predominantly in the periphery. 
+      Neuromedin U reduced insulin secretion from in situ perfused rat pancreas and 
+      stimulated somatostatin secretion from isolated pancreatic islets. Neuromedin U 
+      stimulated somatostatin secretion at both physiological and supraphysiological 
+      glucose concentrations. Cyclosomatostatin increased insulin secretion and reduced 
+      NmU-induced inhibition of insulin secretion. CONCLUSIONS: Neuromedin U reduces 
+      insulin and increases somatostatin secretion. Blockade of somatostatin action 
+      abolishes the inhibition of insulin secretion by NmU. The results of the study 
+      suggest that somatostatin mediates the inhibitory action of NmU on insulin 
+      secretion.
+FAU - Kaczmarek, Przemyslaw
+AU  - Kaczmarek P
+AD  - Department of Animal Physiology and Biochemistry, August Cieszkowski University 
+      of Agriculture, Poznan, Poland.
+FAU - Malendowicz, Ludwik K
+AU  - Malendowicz LK
+FAU - Fabis, Marzena
+AU  - Fabis M
+FAU - Ziolkowska, Agnieszka
+AU  - Ziolkowska A
+FAU - Pruszynska-Oszmalek, Ewa
+AU  - Pruszynska-Oszmalek E
+FAU - Sassek, Maciej
+AU  - Sassek M
+FAU - Wojciechowicz, Tatiana
+AU  - Wojciechowicz T
+FAU - Szczepankiewicz, Dawid
+AU  - Szczepankiewicz D
+FAU - Andralojc, Karolina
+AU  - Andralojc K
+FAU - Szkudelski, Tomasz
+AU  - Szkudelski T
+FAU - Strowski, Mathias Z
+AU  - Strowski MZ
+FAU - Nowak, Krzysztof W
+AU  - Nowak KW
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Pancreas
+JT  - Pancreas
+JID - 8608542
+RN  - 0 (Insulin)
+RN  - 0 (Neuropeptides)
+RN  - 0 (Receptors, Neurotransmitter)
+RN  - 0 (neuromedin U receptor)
+RN  - 117505-80-3 (neuromedin U)
+RN  - 51110-01-1 (Somatostatin)
+SB  - IM
+MH  - Animals
+MH  - Insulin/*metabolism
+MH  - Insulin Secretion
+MH  - Neuropeptides/*pharmacology
+MH  - Pancreas/*drug effects/metabolism
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptors, Neurotransmitter/analysis/physiology
+MH  - Somatostatin/*physiology
+EDAT- 2008/10/25 09:00
+MHDA- 2009/04/29 09:00
+CRDT- 2008/10/25 09:00
+PHST- 2008/10/25 09:00 [pubmed]
+PHST- 2009/04/29 09:00 [medline]
+PHST- 2008/10/25 09:00 [entrez]
+AID - 00006676-200903000-00017 [pii]
+AID - 10.1097/MPA.0b013e31818d9095 [doi]
+PST - ppublish
+SO  - Pancreas. 2009 Mar;38(2):208-12. doi: 10.1097/MPA.0b013e31818d9095.

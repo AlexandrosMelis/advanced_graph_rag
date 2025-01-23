@@ -1,0 +1,84 @@
+PMID- 16816043
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061010
+LR  - 20181113
+IS  - 0306-6800 (Print)
+IS  - 1473-4257 (Electronic)
+IS  - 0306-6800 (Linking)
+VI  - 32
+IP  - 7
+DP  - 2006 Jul
+TI  - Do French lay people and health professionals find it acceptable to breach 
+      confidentiality to protect a patient's wife from a sexually transmitted disease?
+PG  - 414-9
+AB  - OBJECTIVE: To determine under what conditions lay people and health professionals 
+      find it acceptable for a physician to breach confidentiality to protect the wife 
+      of a patient with a sexually transmitted disease (STD). METHODS: In a study in 
+      France, breaching confidentiality in 48 scenarios were accepted by 144 lay 
+      people, 10 psychologists and 7 physicians. The scenarios were all possible 
+      combinations of five factors: severity of the disease (severe, lethal); time 
+      taken to discuss this with (little time, much time); intent to inform the spouse 
+      about the disease (none, one of these days, immediately); intent to adopt 
+      protective behaviours (no intent, intent); and decision to consult an expert in 
+      STDs (yes, no), 2 x 2 x 3 x 2 x 2. The importance and interactions of each factor 
+      were determined, at the group level, by performing analyses of variance and 
+      constructing graphs. RESULTS: The concept of breaching confidentiality to protect 
+      a wife from her husband's STD was favoured much more by lay people and 
+      psychologists than by physicians (mean ratings 11.76, 9.28 and 2.90, 
+      respectively, on a scale of 0-22). The patient's stated intentions to protect his 
+      wife and to inform her of the disease had the greatest impact on acceptability. A 
+      cluster analysis showed groups of lay participants who found breaching 
+      confidentiality "always acceptable" (n = 14), "depending on the many 
+      circumstances" (n = 87), requiring "consultation with an expert" (n = 30) and 
+      "never acceptable (n = 13)". CONCLUSIONS: Most people in France are influenced by 
+      situational factors when deciding if a physician should breach confidentiality to 
+      protect the spouse of a patient infected with STD.
+FAU - Guedj, M
+AU  - Guedj M
+AD  - Latham Med-Ped, 724 Watervliet-Shaker Road, Latham, NY 12110, USA.
+FAU - Sastre, M T Munoz
+AU  - Sastre MT
+FAU - Mullet, E
+AU  - Mullet E
+FAU - Sorum, P C
+AU  - Sorum PC
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Med Ethics
+JT  - Journal of medical ethics
+JID - 7513619
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Attitude of Health Personnel
+MH  - *Attitude to Health
+MH  - Cluster Analysis
+MH  - *Confidentiality
+MH  - Female
+MH  - France
+MH  - Humans
+MH  - Intention
+MH  - Interpersonal Relations
+MH  - Male
+MH  - Middle Aged
+MH  - Severity of Illness Index
+MH  - Sexual Behavior
+MH  - Sexually Transmitted Diseases/*psychology/transmission
+MH  - *Spouses
+MH  - Time Factors
+PMC - PMC2564491
+EDAT- 2006/07/04 09:00
+MHDA- 2006/10/13 09:00
+PMCR- 2009/07/01
+CRDT- 2006/07/04 09:00
+PHST- 2006/07/04 09:00 [pubmed]
+PHST- 2006/10/13 09:00 [medline]
+PHST- 2006/07/04 09:00 [entrez]
+PHST- 2009/07/01 00:00 [pmc-release]
+AID - 32/7/414 [pii]
+AID - me12195 [pii]
+AID - 10.1136/jme.2005.012195 [doi]
+PST - ppublish
+SO  - J Med Ethics. 2006 Jul;32(7):414-9. doi: 10.1136/jme.2005.012195.

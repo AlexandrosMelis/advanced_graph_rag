@@ -1,0 +1,98 @@
+PMID- 23899611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140919
+LR  - 20181202
+IS  - 1421-9921 (Electronic)
+IS  - 0014-312X (Linking)
+VI  - 51
+IP  - 1-2
+DP  - 2013
+TI  - Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does 
+      edaravone offer protection?
+PG  - 21-32
+LID - 10.1159/000353403 [doi]
+AB  - AIM: The aim of this study was to investigate whether prophylactic treatment with 
+      edaravone prevents ischemia/reperfusion (I/R)-induced ovarian damage during 
+      pneumoperitoneum in an experimental rat model. METHODS: Twenty-eight female 
+      Sprague Dawley rats were allocated randomly to 4 groups. The sham group (group 1) 
+      was only subjected to catheter insertion, not to pneumoperitoneum. Group 2 
+      received a 1 mg/kg dose of 0.9% sodium chloride by the intraperitoneal route for 
+      10 min before pneumoperitoneum. Groups 3 and 4 received 6 and 12 mg/kg edaravone, 
+      respectively, by the intraperitoneal route for 10 min before pneumoperitoneum. 
+      After 60 min of pneumoperitoneum, the gas was deflated. Immediately after the 
+      reperfusion period, both ovaries were excised for histological scoring, caspase-3 
+      immunohistochemistry and biochemical evaluation including glutathione (GSH) and 
+      malondialdehyde (MDA) levels. Also, total antioxidant capacity (TAC) was measured 
+      in plasma samples to evaluate the antioxidant effect of edaravone. RESULTS: 
+      Ovarian sections in the saline group revealed higher scores for follicular 
+      degeneration and edema (p < 0.0001) when compared with the sham group. 
+      Administration of different doses of edaravone in rats significantly prevented 
+      degenerative changes in the ovary (p < 0.0001). Caspase-3 expression was only 
+      detected in the ovarian surface epithelium in all groups, and there was a 
+      significant difference between the treatment groups and the saline group (p < 
+      0.0001). Treatment of rats with edaravone reduced caspase-3 expression in a 
+      dose-dependent manner. Moreover, biochemical measurements of oxidative stress 
+      markers (MDA, GSH and TAC) revealed that prophylactic edaravone treatment 
+      attenuated oxidative stress induced by I/R injury. CONCLUSION: These results 
+      indicate that prophylactic treatment with edaravone prevents I/R-induced ovarian 
+      damage during pneumoperitoneum in an experimental rat model.
+CI  - (c) 2013 S. Karger AG, Basel.
+FAU - Ergenoglu, Mete
+AU  - Ergenoglu M
+AD  - Department of Obstetrics and Gynecology, Ege University School of Medicine, 
+      Izmir, Turkey.
+FAU - Erbas, Oytun
+AU  - Erbas O
+FAU - Akdemir, Ali
+AU  - Akdemir A
+FAU - Yeniel, Ahmet Ozgur
+AU  - Yeniel AO
+FAU - Yildirim, Nuri
+AU  - Yildirim N
+FAU - Oltulu, Fatih
+AU  - Oltulu F
+FAU - Aktug, Huseyin
+AU  - Aktug H
+FAU - Taskiran, Dilek
+AU  - Taskiran D
+LA  - eng
+PT  - Journal Article
+DEP - 20130726
+PL  - Switzerland
+TA  - Eur Surg Res
+JT  - European surgical research. Europaische chirurgische Forschung. Recherches 
+      chirurgicales europeennes
+JID - 0174752
+RN  - 0 (Free Radical Scavengers)
+RN  - 4Y8F71G49Q (Malondialdehyde)
+RN  - EC 3.4.22.- (Caspase 3)
+RN  - GAN16C9B8O (Glutathione)
+RN  - S798V6YJRP (Edaravone)
+RN  - T3CHA1B51H (Antipyrine)
+SB  - IM
+MH  - Animals
+MH  - Antipyrine/*analogs & derivatives/therapeutic use
+MH  - Caspase 3/analysis
+MH  - Edaravone
+MH  - Female
+MH  - Free Radical Scavengers/*therapeutic use
+MH  - Glutathione/analysis
+MH  - Immunohistochemistry
+MH  - Malondialdehyde/analysis
+MH  - Ovary/*blood supply/pathology
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Reperfusion Injury/metabolism/pathology/*prevention & control
+EDAT- 2013/08/01 06:00
+MHDA- 2014/09/23 06:00
+CRDT- 2013/08/01 06:00
+PHST- 2013/02/07 00:00 [received]
+PHST- 2013/06/02 00:00 [accepted]
+PHST- 2013/08/01 06:00 [entrez]
+PHST- 2013/08/01 06:00 [pubmed]
+PHST- 2014/09/23 06:00 [medline]
+AID - 000353403 [pii]
+AID - 10.1159/000353403 [doi]
+PST - ppublish
+SO  - Eur Surg Res. 2013;51(1-2):21-32. doi: 10.1159/000353403. Epub 2013 Jul 26.

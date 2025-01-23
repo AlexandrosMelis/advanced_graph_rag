@@ -1,0 +1,95 @@
+PMID- 22706226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121108
+LR  - 20181030
+IS  - 1525-1438 (Electronic)
+IS  - 1048-891X (Linking)
+VI  - 22
+IP  - 6
+DP  - 2012 Jul
+TI  - Could different follow-up modalities play a role in the diagnosis of asymptomatic 
+      endometrial cancer relapses?: an Italian multicentric retrospective analysis.
+PG  - 1013-9
+LID - 10.1097/IGC.0b013e31825ad3ee [doi]
+AB  - OBJECTIVE: To determine current practice and to assess the value of routine 
+      follow-up procedures for endometrial cancer surveillance. To discuss whether such 
+      procedures are feasible and effective to identify asymptomatic recurrences and 
+      describe the pattern of relapse detected by procedures. METHODS: The records of 
+      282 consecutive women with recurrent endometrial cancer treated from 1986 to 2005 
+      were retrospectively collected in 8 Italian institutions. Primary disease, 
+      clinical history, and recurrence features and data were analyzed. RESULTS: 
+      Thirty-five (12.4%) of 282 patients had recurrence in vaginal vault, 51 patients 
+      (18.0%) had recurrence in central pelvis, 14 patients (4.9%) had recurrence in 
+      pelvic wall, and 39 patients (13.8%) had recurrence in lymph nodes. One-hundred 
+      twenty-eight patients (45.3%) showed a distant relapse, whereas 15 patients 
+      (5.3%) developed both distant relapse and local relapse. The site of relapse 
+      influenced survival because the patients with vaginal vault recurrences lived 
+      significantly longer than the patients with recurrences in other sites. Eighty 
+      (28.4%) of the 282 patients became symptomatic and anticipated the scheduled 
+      visit, 37 (13.1 %) of the patients reported their symptoms during the follow-up 
+      meeting, and 165 (58.5 %) of the patients were asymptomatic and the diagnostic 
+      path was introduced by a planned visit or examination. Among the asymptomatic 
+      patients, the first procedure that led to further examinations was clinical visit 
+      alone for 60 (36.4%) of 165 patients, imaging for 103 patients (62.4%), and 
+      cytologic examination for 2 patients (1.2%). Symptoms at recurrence can predict 
+      survival: patients with an asymptomatic recurrence had a median survival time 
+      from relapse of 35 months versus 13 months if they had a symptomatic repetition 
+      (P = 0.0001). CONCLUSIONS: Follow-up after endometrial cancer treatment varies in 
+      Italy. In this retrospective study, women with asymptomatic recurrence have shown 
+      a better clinical outcome compared with those with symptomatic relapse. The 
+      optimal approach is actually unknown, and guidelines comparing follow-up 
+      protocols have not been established. Prospective cost-effectiveness studies are 
+      needed.
+FAU - Carrara, Luisa
+AU  - Carrara L
+AD  - Department of Gynecology and Obstetrics, University of Brescia, Brescia, Italy. 
+      luisa.carrara@gmail.com
+FAU - Gadducci, Angiolo
+AU  - Gadducci A
+FAU - Landoni, Fabio
+AU  - Landoni F
+FAU - Maggino, Tiziano
+AU  - Maggino T
+FAU - Scambia, Giovanni
+AU  - Scambia G
+FAU - Galletto, Luciano
+AU  - Galletto L
+FAU - Lissoni, Andrea Alberto
+AU  - Lissoni AA
+FAU - Fuso, Luca
+AU  - Fuso L
+FAU - Zola, Paolo
+AU  - Zola P
+FAU - Sartori, Enrico
+AU  - Sartori E
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - England
+TA  - Int J Gynecol Cancer
+JT  - International journal of gynecological cancer : official journal of the 
+      International Gynecological Cancer Society
+JID - 9111626
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma/*diagnosis/epidemiology
+MH  - Endometrial Neoplasms/*diagnosis/epidemiology
+MH  - Female
+MH  - Humans
+MH  - Italy/epidemiology
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/*diagnosis/epidemiology
+MH  - Retrospective Studies
+EDAT- 2012/06/19 06:00
+MHDA- 2012/11/09 06:00
+CRDT- 2012/06/19 06:00
+PHST- 2012/06/19 06:00 [entrez]
+PHST- 2012/06/19 06:00 [pubmed]
+PHST- 2012/11/09 06:00 [medline]
+AID - 10.1097/IGC.0b013e31825ad3ee [doi]
+PST - ppublish
+SO  - Int J Gynecol Cancer. 2012 Jul;22(6):1013-9. doi: 10.1097/IGC.0b013e31825ad3ee.

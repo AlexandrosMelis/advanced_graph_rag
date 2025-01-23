@@ -1,0 +1,62 @@
+PMID- 10135926
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19941010
+LR  - 20061115
+IS  - 1067-991X (Print)
+IS  - 1067-991X (Linking)
+VI  - 13
+IP  - 8
+DP  - 1994 Aug
+TI  - Is oral endotracheal intubation efficacy impaired in the helicopter environment?
+PG  - 319-21
+AB  - INTRODUCTION: Patients transported by helicopter often require advanced airway 
+      management. The purpose of this study was to determine whether or not the 
+      in-flight environment of air medical transport in a BO-105 helicopter impairs the 
+      ability of flight nurses to perform oral endotracheal intubation. SETTING: The 
+      study was conducted in an MBB BO-105 helicopter. METHODS: Flight nurses performed 
+      three manikin intubations in each of the two study environments: on an emergency 
+      department stretcher and in-flight in the BO-105 helicopter. RESULTS: The mean 
+      time required for in-flight intubation (25.9 +/- 10.9 seconds) was significantly 
+      longer than the corresponding time (13.2 +/- 2.8 seconds) required for intubation 
+      in the control setting (ANOVA, F = 38.7, p < .001). All intubations performed in 
+      the control setting were placed correctly in the trachea; there were two (6.7%) 
+      esophageal intubations in the in-flight setting. The difference in appropriate 
+      endotracheal intubation between the two settings was not significant (chi 2 = 
+      0.3; p > 0.05). CONCLUSION: Oral endotracheal intubation in the in-flight setting 
+      of the BO-105 helicopter takes approximately twice as long as intubation in a 
+      ground setting. The results support pre-flight intubation of patients who appear 
+      likely to require urgent intubation during air medical transport in the BO-105 
+      helicopter.
+FAU - Stone, C K
+AU  - Stone CK
+AD  - University of Kentucky Medical Center, Lexington 40536.
+FAU - Thomas, S H
+AU  - Thomas SH
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Air Med J
+JT  - Air medical journal
+JID - 9312325
+MH  - Air Ambulances/*standards
+MH  - Analysis of Variance
+MH  - Data Collection
+MH  - Emergency Nursing/standards
+MH  - Humans
+MH  - Intubation, Intratracheal/*standards/statistics & numerical data
+MH  - North Carolina
+MH  - Time and Motion Studies
+MH  - Transportation of Patients/*standards/statistics & numerical data
+MH  - *Treatment Outcome
+EDAT- 1994/07/07 00:00
+MHDA- 1994/07/07 00:01
+CRDT- 1994/07/07 00:00
+PHST- 1994/07/07 00:00 [pubmed]
+PHST- 1994/07/07 00:01 [medline]
+PHST- 1994/07/07 00:00 [entrez]
+AID - S1067-991X(05)80337-2 [pii]
+AID - 10.1016/S1067-991X(05)80337-2 [doi]
+PST - ppublish
+SO  - Air Med J. 1994 Aug;13(8):319-21. doi: 10.1016/S1067-991X(05)80337-2.

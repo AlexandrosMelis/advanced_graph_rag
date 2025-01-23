@@ -1,0 +1,173 @@
+PMID- 24139705
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141112
+LR  - 20221207
+IS  - 1878-1780 (Electronic)
+IS  - 1262-3636 (Linking)
+VI  - 40
+IP  - 1
+DP  - 2014 Feb
+TI  - Telemedicine and type 1 diabetes: is technology per se sufficient to improve 
+      glycaemic control?
+PG  - 61-66
+LID - S1262-3636(13)00159-6 [pii]
+LID - 10.1016/j.diabet.2013.09.001 [doi]
+AB  - AIM: In the TELEDIAB-1 study, the Diabeo system (a smartphone coupled to a 
+      website) improved HbA1c by 0.9% vs controls in patients with chronic, poorly 
+      controlled type 1 diabetes. The system provided two main functions: automated 
+      advice on the insulin doses required; and remote monitoring by teleconsultation. 
+      The question is: how much did each function contribute to the improvement in 
+      HbA1c? METHODS: Each patient received a smartphone with an insulin dose advisor 
+      (IDA) and with (G3 group) or without (G2 group) the 
+      telemonitoring/teleconsultation function. Patients were classified as "high 
+      users" if the proportion of "informed" meals using the IDA exceeded 67% (median) 
+      and as "low users" if not. Also analyzed was the respective impact of the IDA 
+      function and teleconsultations on the final HbA1c levels. RESULTS: Among the high 
+      users, the proportion of informed meals remained stable from baseline to the end 
+      of the study 6months later (from 78.1+/-21.5% to 73.8+/-25.1%; P=0.107), but 
+      decreased in the low users (from 36.6+/-29.4% to 26.7+/-28.4%; P=0.005). As expected, 
+      HbA1c improved in high users from 8.7% [range: 8.3-9.2%] to 8.2% [range: 
+      7.8-8.7%] in patients with (n=26) vs without (n=30) the benefit of 
+      telemonitoring/teleconsultation (-0.49+/-0.60% vs -0.52+/-0.73%, respectively; 
+      P=0.879). However, although HbA1c also improved in low users from 9.0% [8.5-10.1] 
+      to 8.5% [7.9-9.6], those receiving support via teleconsultation tended to show 
+      greater improvement than the others (-0.93+/-0.97 vs -0.46+/-1.05, respectively; 
+      P=0.084). CONCLUSION: The Diabeo system improved glycaemic control in both high 
+      and low users who avidly used the IDA function, while the greatest improvement 
+      was seen in the low users who had the motivational support of teleconsultations.
+CI  - Copyright (c) 2013 Elsevier Masson SAS. All rights reserved.
+FAU - Franc, S
+AU  - Franc S
+AD  - Department of Diabetes, Sud-Francilien Hospital, Corbeil-Essonnes, France; Centre 
+      d'Etudes et de Recherches pour l'Intensification du Traitement du Diabete 
+      (CERITD), Corbeil-Essonnes, France. Electronic address: 
+      sylvia.franc@ch-sud-francilien.fr.
+FAU - Borot, S
+AU  - Borot S
+AD  - Department of Endocrinology-Metabolism and Diabetology-Nutrition, Jean-Minjoz 
+      Hospital, Besancon, France.
+FAU - Ronsin, O
+AU  - Ronsin O
+AD  - Department of Diabetes, Sainte-Marguerite University Hospital, Marseille, France.
+FAU - Quesada, J-L
+AU  - Quesada JL
+AD  - Department of Biostatistics, CIC-Inserm, University Hospital, Grenoble, France.
+FAU - Dardari, D
+AU  - Dardari D
+AD  - Centre d'Etudes et de Recherches pour l'Intensification du Traitement du Diabete 
+      (CERITD), Corbeil-Essonnes, France.
+FAU - Fagour, C
+AU  - Fagour C
+AD  - Department of Endocrinology, University Hospital Pessac, Pessac, France.
+FAU - Renard, E
+AU  - Renard E
+AD  - Department of Endocrinology, University Hospital, Montpellier, France.
+FAU - Leguerrier, A-M
+AU  - Leguerrier AM
+AD  - Department of Endocrinology, University Hospital, Rennes, France.
+FAU - Vigeral, C
+AU  - Vigeral C
+AD  - Department of Diabetes, Hotel-Dieu University Hospital, Paris, France.
+FAU - Moreau, F
+AU  - Moreau F
+AD  - Department of Endocrinology, University Hospital, Strasbourg, France.
+FAU - Winiszewski, P
+AU  - Winiszewski P
+AD  - Department of Endocrinology, Belfort Hospital, Belfort, France.
+FAU - Vambergue, A
+AU  - Vambergue A
+AD  - Clinique Marc Linquette, Department of Endocrinology and Diabetology, Lille, 
+      France.
+FAU - Mosnier-Pudar, H
+AU  - Mosnier-Pudar H
+AD  - Department of Diabetes, Cochin Hospital, Paris, France.
+FAU - Kessler, L
+AU  - Kessler L
+AD  - Department of Endocrinology, University Hospital, Strasbourg, France.
+FAU - Reffet, S
+AU  - Reffet S
+AD  - Department of Endocrinology, Edouard-Herriot Hospital, Lyon, France.
+FAU - Guerci, B
+AU  - Guerci B
+AD  - Diabetology, Nutrition, Metabolic disorders, Brabois Hospital and Center of 
+      Clinical Investigation ILCV, University Hospital, Nancy, France.
+FAU - Millot, L
+AU  - Millot L
+AD  - Department of Endocrinology, Bellevue Hospital, Saint-Etienne, France.
+FAU - Halimi, S
+AU  - Halimi S
+AD  - Department of Endocrinology, Diabetology, Nutrition University Hospital, 
+      Grenoble, France; University J Fourier 1, Grenoble, France.
+FAU - Thivolet, C
+AU  - Thivolet C
+AD  - Department of Endocrinology, Edouard-Herriot Hospital, Lyon, France.
+FAU - Benhamou, P-Y
+AU  - Benhamou PY
+AD  - Department of Endocrinology, Diabetology, Nutrition University Hospital, 
+      Grenoble, France.
+FAU - Penfornis, A
+AU  - Penfornis A
+AD  - Department of Endocrinology-Metabolism and Diabetology-Nutrition, Jean-Minjoz 
+      Hospital, Besancon, France.
+FAU - Charpentier, G
+AU  - Charpentier G
+AD  - Department of Diabetes, Sud-Francilien Hospital, Corbeil-Essonnes, France; Centre 
+      d'Etudes et de Recherches pour l'Intensification du Traitement du Diabete 
+      (CERITD), Corbeil-Essonnes, France.
+FAU - Hanaire, H
+AU  - Hanaire H
+AD  - Department of Diabetes, Rangueil University Hospital, Toulouse, France.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131016
+PL  - France
+TA  - Diabetes Metab
+JT  - Diabetes & metabolism
+JID - 9607599
+RN  - 0 (Blood Glucose)
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin)
+RN  - 0 (hemoglobin A1c protein, human)
+SB  - IM
+EIN - Diabetes Metab. 2014 Jun;40(3):235
+MH  - Adult
+MH  - Blood Glucose/*metabolism
+MH  - *Cell Phone
+MH  - Diabetes Mellitus, Type 1/*drug therapy
+MH  - Female
+MH  - Glycated Hemoglobin/metabolism
+MH  - Humans
+MH  - Hypoglycemic Agents/*administration & dosage
+MH  - Insulin/*administration & dosage
+MH  - Insulin Infusion Systems
+MH  - Internet
+MH  - Male
+MH  - Patient Compliance
+MH  - Reminder Systems/*instrumentation
+MH  - *Remote Consultation
+MH  - Self Care
+MH  - Software
+MH  - Telemedicine
+OTO - NOTNLM
+OT  - Decision support software
+OT  - Telemedicine
+OT  - Telemonitoring
+OT  - Type 1 diabetes
+EDAT- 2013/10/22 06:00
+MHDA- 2014/11/13 06:00
+CRDT- 2013/10/22 06:00
+PHST- 2013/05/26 00:00 [received]
+PHST- 2013/08/15 00:00 [revised]
+PHST- 2013/09/02 00:00 [accepted]
+PHST- 2013/10/22 06:00 [entrez]
+PHST- 2013/10/22 06:00 [pubmed]
+PHST- 2014/11/13 06:00 [medline]
+AID - S1262-3636(13)00159-6 [pii]
+AID - 10.1016/j.diabet.2013.09.001 [doi]
+PST - ppublish
+SO  - Diabetes Metab. 2014 Feb;40(1):61-66. doi: 10.1016/j.diabet.2013.09.001. Epub 
+      2013 Oct 16.

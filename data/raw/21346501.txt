@@ -1,0 +1,74 @@
+PMID- 21346501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110628
+LR  - 20110331
+IS  - 1938-808X (Electronic)
+IS  - 1040-2446 (Linking)
+VI  - 86
+IP  - 4
+DP  - 2011 Apr
+TI  - Can students' scores on preclerkship clinical performance examinations predict 
+      that they will fail a senior clinical performance examination?
+PG  - 516-20
+LID - 10.1097/ACM.0b013e31820de435 [doi]
+AB  - PURPOSE: This study was designed to determine whether preclerkship performance 
+      examinations could accurately identify medical students at risk for failing a 
+      senior clinical performance examination (CPE). METHOD: This study used a 
+      retrospective case-control, multiyear design, with contingency table analyses, to 
+      examine the performance of 412 students in the classes of 2005 to 2010 at a 
+      midwestern medical school. During their second year, these students took four 
+      CPEs that each used three standardized patient (SP) cases, for a total of 12 
+      cases. The authors correlated each student's average year 2 case score with the 
+      student's average case score on a senior (year 4) CPE. Contingency table analysis 
+      was carried out using performance on the year 2 CPEs and passing/failing the 
+      senior CPE. Similar analyses using each student's United States Medical Licensing 
+      Examination (USMLE) Step 1 scores were also performed. Sensitivity, specificity, 
+      odds ratio, and relative risk were calculated for two year 2 performance 
+      standards. RESULTS: Students' low performances relative to their class on the 
+      year 2 CPEs were a strong predictor that they would fail the senior CPE. Their 
+      USMLE Step 1 scores also correlated with their performance on the senior CPE, 
+      although the predictive values for these scores were considerably weaker. 
+      CONCLUSIONS: Under the conditions of this study, preclerkship (year 2) CPEs 
+      strongly predicted medical students at risk for failing a senior CPE. This 
+      finding opens the opportunity for remediation of deficits prior to or during 
+      clerkships.
+CI  - (c) by the Association of American Medical Colleges.
+FAU - Klamen, Debra L
+AU  - Klamen DL
+AD  - Southern Illinois University School of Medicine, Springfield, Illinois 62794, 
+      USA. dklamen@siumed.edu
+FAU - Borgia, Peter T
+AU  - Borgia PT
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Acad Med
+JT  - Academic medicine : journal of the Association of American Medical Colleges
+JID - 8904605
+SB  - IM
+MH  - Case-Control Studies
+MH  - Chi-Square Distribution
+MH  - *Clinical Clerkship
+MH  - Clinical Competence
+MH  - Education, Medical, Undergraduate/*standards
+MH  - *Educational Measurement
+MH  - *Educational Status
+MH  - Humans
+MH  - Illinois
+MH  - Licensure
+MH  - Patient Simulation
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Sensitivity and Specificity
+MH  - United States
+EDAT- 2011/02/25 06:00
+MHDA- 2011/06/29 06:00
+CRDT- 2011/02/25 06:00
+PHST- 2011/02/25 06:00 [entrez]
+PHST- 2011/02/25 06:00 [pubmed]
+PHST- 2011/06/29 06:00 [medline]
+AID - 10.1097/ACM.0b013e31820de435 [doi]
+PST - ppublish
+SO  - Acad Med. 2011 Apr;86(4):516-20. doi: 10.1097/ACM.0b013e31820de435.

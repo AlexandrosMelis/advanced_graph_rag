@@ -1,0 +1,99 @@
+PMID- 19444061
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090925
+LR  - 20161125
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 34
+IP  - 11
+DP  - 2009 May 15
+TI  - Does ossification of the posterior longitudinal ligament affect the neurological 
+      outcome after traumatic cervical cord injury?
+PG  - 1148-52
+LID - 10.1097/BRS.0b013e31819e3215 [doi]
+AB  - STUDY DESIGN: Retrospective outcome measurement study. OBJECTIVES: The purpose of 
+      this study is to assess whether ossification of the posterior longitudinal 
+      ligament (OPLL) affects neurologic outcomes in patients with acute cervical 
+      spinal cord injury (SCI). SUMMARY OF BACKGROUND DATA: There have so far been few 
+      reports examining the relationship between OPLL and SCI and there is controversy 
+      regarding the deteriorating effects of OPLL-induced canal stenosis on neurologic 
+      outcomes. METHODS: To obtain a relatively uniform background, patients 
+      nonsurgically treated for an acute C3-C4 level SCI without any fractures or 
+      dislocations of the spinal column were selected, resulting in 129 patients. There 
+      were 110 men and 19 women (mean age was 61.1 years), having various neurologic 
+      conditions on admission (American Spinal Injury Association [ASIA] impairment 
+      scale A, 43; B, 16; C, 58; D, 12). The follow-up period was the duration of their 
+      hospital stay and ranged from 50 to 603 days (mean, 233 days). The presence of 
+      OPLL, the cause of injury, the degree of canal stenosis (both static and 
+      dynamic), and the neurologic outcomes in motor function, including improvement 
+      rate, were assessed. RESULTS: Of the 129 patients investigated in this study, 
+      OPLL was identified at the site of the injury in 13 patients (10.1%). In this 
+      OPLL+ group, the static and dynamic canal diameters at C3 and C4 were 
+      significantly smaller than those of the remaining 116 patients (OPLL- group). 
+      However, no significant difference was observed between the 2 groups in terms of 
+      ASIA motor score both at the time of administration and discharge, and the mean 
+      improvement rate in ASIA motor score was 55.5 +/- 9.0% in OPLL+ group, while it 
+      was 43.1 +/- 2.8% in the OPLL-group. Furthermore, no significant correlation was 
+      observed between the static/dynamic canal diameters and neurologic outcome in all 
+      129 patients. CONCLUSION: No evidence was found for OPLL to have any effect on 
+      the initial neurologic status or recovery in motor function after traumatic 
+      cervical cord injury, suggesting that the neurologic outcome is not significantly 
+      dependent on canal space.
+FAU - Okada, Seiji
+AU  - Okada S
+AD  - SSP Stem Cell Unit, and Department of Orthopaedic Surgery, Graduate School of 
+      Medical Sciences, Kyushu University, Fukuoka, Japan.
+FAU - Maeda, Takeshi
+AU  - Maeda T
+FAU - Ohkawa, Yasuyuki
+AU  - Ohkawa Y
+FAU - Harimaya, Katsumi
+AU  - Harimaya K
+FAU - Saiwai, Hirokazu
+AU  - Saiwai H
+FAU - Kumamaru, Hiromi
+AU  - Kumamaru H
+FAU - Matsumoto, Yoshihiro
+AU  - Matsumoto Y
+FAU - Doi, Toshio
+AU  - Doi T
+FAU - Ueta, Takayoshi
+AU  - Ueta T
+FAU - Shiba, Keiichiro
+AU  - Shiba K
+FAU - Iwamoto, Yukihide
+AU  - Iwamoto Y
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cervical Vertebrae/diagnostic imaging/*physiopathology
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Ossification of Posterior Longitudinal Ligament/*physiopathology
+MH  - *Range of Motion, Articular
+MH  - Retrospective Studies
+MH  - Spinal Cord Injuries/*physiopathology
+MH  - Tomography, X-Ray Computed
+EDAT- 2009/05/16 09:00
+MHDA- 2009/09/26 06:00
+CRDT- 2009/05/16 09:00
+PHST- 2009/05/16 09:00 [entrez]
+PHST- 2009/05/16 09:00 [pubmed]
+PHST- 2009/09/26 06:00 [medline]
+AID - 00007632-200905150-00006 [pii]
+AID - 10.1097/BRS.0b013e31819e3215 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2009 May 15;34(11):1148-52. doi: 
+      10.1097/BRS.0b013e31819e3215.

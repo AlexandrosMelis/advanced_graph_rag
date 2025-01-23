@@ -1,0 +1,97 @@
+PMID- 25218577
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160726
+LR  - 20211021
+IS  - 1433-7347 (Electronic)
+IS  - 0942-2056 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2016 Jan
+TI  - Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial 
+      tuberosity a reliable predictor of the PCL footprint location?
+PG  - 58-63
+LID - 10.1007/s00167-014-3309-6 [doi]
+AB  - PURPOSE: Reconstruction of the joint line is crucial in total knee arthroplasty 
+      (TKA). A routine height of tibial cut to maintain the natural joint line may 
+      compromise the preservation of the PCL. Since the PCL footprint is not accessible 
+      prior to tibial osteotomy, it seems beneficial to identify a reliable 
+      extraarticular anatomic landmark for predicting the PCL footprint and being 
+      visible within standard TKA approach. The fibula head predicts reliably the 
+      location of PCL footprint; however, it is not accessible during TKA. The aim of 
+      this study now was to analyze whether the tibial tuberosity can serve as a 
+      reliable referencing landmark to estimate the PCL footprint height prior to 
+      tibial cut. METHODS: The first consecutive case series included 216 CR TKA. 
+      Standing postoperative lateral view radiographs were utilized to measure the 
+      vertical distance between tibial tuberosity and tibial osteotomy plane. In the 
+      second case series, 223 knee MRIs were consecutively analyzed to measure the 
+      vertical distance between tibial tuberosity and PCL footprint. The probability of 
+      partial or total PCL removal was calculated for different vertical distances 
+      between tibial tuberosity and tibial cutting surface. RESULTS: The vertical 
+      distance between the tibial tuberosity and tibial cut averaged 24.7 +/- 4 mm. The 
+      average vertical distance from tibial tuberosity to proximal and to distal PCL 
+      footprint was found to be 22 +/- 4.4 and 16 +/- 4.4 mm, respectively. Five knees were 
+      considered at 50% risk of an entire PCL removal after CR TKA. CONCLUSIONS: 
+      Current surgical techniques of tibial preparation may result in partial or total 
+      PCL damage. Tibial tuberosity is a useful anatomical landmark to locate the PCL 
+      footprint and to predict the probability of its detachment pre-, intra-, and 
+      postoperatively. This knowledge might be useful to predict and avoid instability, 
+      consecutive pain, and dissatisfaction after TKA related to PCL insufficiency. 
+      LEVEL OF EVIDENCE: III.
+FAU - Jawhar, A
+AU  - Jawhar A
+AD  - Orthopaedic and Trauma Surgery Center, University Medical Center Mannheim of 
+      University Heidelberg, Theodor-Kutzer-Ufer 1-3, 68167, Mannheim, Germany. 
+      ahmed.jawhar@umm.de.
+FAU - Kadavkolan, A S
+AU  - Kadavkolan AS
+AD  - Department of Orthopaedics, Hiranandani Orthopaedic Medical Education, Mumbai, 
+      India.
+FAU - Wasnik, S
+AU  - Wasnik S
+AD  - Department of Orthopaedics, Hiranandani Orthopaedic Medical Education, Mumbai, 
+      India.
+FAU - Scharf, H P
+AU  - Scharf HP
+AD  - Orthopaedic and Trauma Surgery Center, University Medical Center Mannheim of 
+      University Heidelberg, Theodor-Kutzer-Ufer 1-3, 68167, Mannheim, Germany.
+FAU - Roehl, H
+AU  - Roehl H
+AD  - Orthopaedic and Trauma Surgery Center, University Medical Center Mannheim of 
+      University Heidelberg, Theodor-Kutzer-Ufer 1-3, 68167, Mannheim, Germany. 
+      henning.roehl@umm.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20140914
+PL  - Germany
+TA  - Knee Surg Sports Traumatol Arthrosc
+JT  - Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA
+JID - 9314730
+SB  - IM
+MH  - Arthroplasty, Replacement, Knee/*methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteotomy/*methods
+MH  - Posterior Cruciate Ligament/*surgery
+MH  - Radiography
+MH  - Tibia/diagnostic imaging/*surgery
+OTO - NOTNLM
+OT  - Cruciate-retaining total knee arthroplasty
+OT  - Posterior cruciate ligament
+OT  - Tibial cut
+OT  - Tibial tuberosity
+EDAT- 2014/09/15 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2014/09/15 06:00
+PHST- 2014/06/17 00:00 [received]
+PHST- 2014/09/03 00:00 [accepted]
+PHST- 2014/09/15 06:00 [entrez]
+PHST- 2014/09/15 06:00 [pubmed]
+PHST- 2016/07/28 06:00 [medline]
+AID - 10.1007/s00167-014-3309-6 [pii]
+AID - 10.1007/s00167-014-3309-6 [doi]
+PST - ppublish
+SO  - Knee Surg Sports Traumatol Arthrosc. 2016 Jan;24(1):58-63. doi: 
+      10.1007/s00167-014-3309-6. Epub 2014 Sep 14.

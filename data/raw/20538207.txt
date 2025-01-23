@@ -1,0 +1,87 @@
+PMID- 20538207
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101029
+LR  - 20100611
+IS  - 1166-7087 (Print)
+IS  - 1166-7087 (Linking)
+VI  - 20
+IP  - 6
+DP  - 2010 Jun
+TI  - [Should temperature be monitorized during kidney allograft preservation?].
+PG  - 430-4
+LID - 10.1016/j.purol.2009.11.004 [doi]
+AB  - GOAL: It is generally considered that kidney grafts should be preserved at 4 
+      degrees C during cold storage. However, actual temperature conditions are not 
+      known. We decided to study the temperature levels during preservation with the 
+      Biotainer storage can and Vitalpack transport pack. MATERIAL: Temperature was 
+      monitored using the Thermobouton probe during preservation of pig kidneys, in the 
+      same conditions used with human grafts. The probe recorded the temperature level 
+      every 10 minutes during four days. We compared the results found with the new 
+      storage can with results obtained in the same conditions with the storage can 
+      formerly used by our team. We also studied the best position of the probe for 
+      temperature monitoring and the influence of the amount of ice within the 
+      transport pack on the temperature level. We then monitored the temperature during 
+      the conservation of actual human kidney grafts harvested at our institution from 
+      August 2007 to May 2008. RESULTS: The temperature levels were the same regardless 
+      of the position of the probe within the transport pack. The lowest temperature 
+      was maintained during 15 hours, and the temperature level stayed below 5 degrees 
+      C for 57 hours with the new storage can. The former storage can maintained the 
+      lowest temperature level for 80 minutes, and temperature reached 5 degrees C 
+      after 10 hours 40 minutes. Temperature levels were similar when 2 or 4 kg of 
+      crushed ice were used. We observed similar results when monitoring the 
+      conservation of human grafts. CONCLUSION: The new storage can affords more stable 
+      temperature levels when compared to the formerly used can. Since temperature is 
+      stable during conservation, continuous monitoring in everyday practice does not 
+      seem warranted.
+CI  - Copyright 2009 Elsevier Masson SAS. All rights reserved.
+FAU - Billault, C
+AU  - Billault C
+AD  - Service d'urologie et de transplantation renale et pancreatique, hopital de La 
+      Pitie-Salpetriere, 47-83, boulevard de l'Hopital, 75651 Paris cedex 13, France. 
+      clairebillault@orange.fr
+FAU - Rolland, E
+AU  - Rolland E
+FAU - Vaessen, C
+AU  - Vaessen C
+FAU - Van Glabeke, E
+AU  - Van Glabeke E
+FAU - Gouezo, R
+AU  - Gouezo R
+FAU - Richard, F
+AU  - Richard F
+FAU - Barrou, B
+AU  - Barrou B
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+TT  - Faut-il monitorer la temperature pendant la phase de preservation en 
+      transplantation renale ?
+DEP - 20091230
+PL  - France
+TA  - Prog Urol
+JT  - Progres en urologie : journal de l'Association francaise d'urologie et de la 
+      Societe francaise d'urologie
+JID - 9307844
+SB  - IM
+MH  - Animals
+MH  - *Body Temperature
+MH  - Cold Temperature
+MH  - Humans
+MH  - *Kidney Transplantation
+MH  - Organ Preservation/*methods
+MH  - Swine
+EDAT- 2010/06/12 06:00
+MHDA- 2010/10/30 06:00
+CRDT- 2010/06/12 06:00
+PHST- 2008/06/25 00:00 [received]
+PHST- 2009/10/28 00:00 [revised]
+PHST- 2009/11/27 00:00 [accepted]
+PHST- 2010/06/12 06:00 [entrez]
+PHST- 2010/06/12 06:00 [pubmed]
+PHST- 2010/10/30 06:00 [medline]
+AID - S1166-7087(09)00470-9 [pii]
+AID - 10.1016/j.purol.2009.11.004 [doi]
+PST - ppublish
+SO  - Prog Urol. 2010 Jun;20(6):430-4. doi: 10.1016/j.purol.2009.11.004. Epub 2009 Dec 
+      30.

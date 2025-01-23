@@ -1,0 +1,123 @@
+PMID- 24666444
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140520
+LR  - 20220321
+IS  - 1488-2310 (Electronic)
+IS  - 0008-428X (Print)
+IS  - 0008-428X (Linking)
+VI  - 57
+IP  - 2
+DP  - 2014 Apr
+TI  - Is there any evidence of a "July effect" in patients undergoing major cancer 
+      surgery?
+PG  - 82-8
+AB  - BACKGROUND: The "July effect" refers to the phenomenon of adverse impacts on 
+      patient care arising from the changeover in medical staff that takes place during 
+      this month at academic medical centres in North America. There has been some 
+      evidence supporting the presence of the July effect, including data from surgical 
+      specialties. Uniformity of care, regardless of time of year, is required for 
+      patients undergoing major cancer surgery. We therefore sought to perform a 
+      population-level assessment for the presence of a July effect in this field. 
+      METHODS: We used the Nationwide Inpatient Sample to abstract data on patients 
+      undergoing 1 of 8 major cancer surgeries at academic medical centres between Jan. 
+      1, 1999, and Dec. 30, 2009. The primary outcomes examined were postoperative 
+      complications and in-hospital mortality. Univariate analyses and subsequently 
+      multivariate analyses, controlling for patient and hospital characteristics, were 
+      performed to identify whether the time of surgery was an independent predictor of 
+      outcome after major cancer surgery. RESULTS: On univariate analysis, the overall 
+      postoperative complication rate, as well as genitourinary and hematologic 
+      complications specifically, was higher in July than the rest of the year. 
+      However, on multivariate analysis, only hematologic complications were 
+      significantly higher in July, with no difference in overall postoperative 
+      complication rate or in-hospital mortality for all 8 surgeries considered 
+      separately or together. CONCLUSION: On the whole, the data confirm an absence of 
+      a July effect in patients undergoing major cancer surgery.
+FAU - Ravi, Praful
+AU  - Ravi P
+AD  - The Center for Outcomes Research and Analytics, Vattikuti Urology Institute, 
+      Detroit, Mich.
+FAU - Trinh, Vincent Q
+AU  - Trinh VQ
+AD  - The Cancer Prognostics and Health Outcomes Unit, University of Montreal Health 
+      Center, University of Montreal, Montreal, Que.
+FAU - Sun, Maxine
+AU  - Sun M
+AD  - The Cancer Prognostics and Health Outcomes Unit, University of Montreal Health 
+      Center, University of Montreal, Montreal, Que.
+FAU - Sammon, Jesse
+AU  - Sammon J
+AD  - The Center for Outcomes Research and Analytics, Vattikuti Urology Institute, 
+      Detroit, Mich.
+FAU - Sukumar, Shyam
+AU  - Sukumar S
+AD  - The Center for Outcomes Research and Analytics, Vattikuti Urology Institute, 
+      Detroit, Mich.
+FAU - Gervais, Mai-Kim
+AU  - Gervais MK
+AD  - The Department of Surgery, Division of General Surgery, University of Montreal, 
+      Montreal, Que.
+FAU - Shariat, Shahrokh F
+AU  - Shariat SF
+AD  - The Department of Urology, Weill Medical College of Cornell University, New York, 
+      NY.
+FAU - Kim, Simon P
+AU  - Kim SP
+AD  - The Department of Urology, Mayo Clinic, Rochester, Minn.
+FAU - Kowalczyk, Keith J
+AU  - Kowalczyk KJ
+AD  - The Department of Urology, Georgetown University Hospital, Washington, DC.
+FAU - Hu, Jim C
+AU  - Hu JC
+AD  - The Department of Urology, David Geffen School of Medicine, University of 
+      California, Los Angeles, Calif.
+FAU - Menon, Mani
+AU  - Menon M
+AD  - The Center for Outcomes Research and Analytics, Vattikuti Urology Institute, 
+      Detroit, Mich.
+FAU - Karakiewicz, Pierre I
+AU  - Karakiewicz PI
+AD  - The Cancer Prognostics and Health Outcomes Unit, University of Montreal Health 
+      Center, University of Montreal, Montreal, Que.
+FAU - Trinh, Quoc-Dien
+AU  - Trinh QD
+AD  - The Center for Outcomes Research and Analytics, Vattikuti Urology Institute, 
+      Detroit, Mich. and the Cancer Prognostics and Health Outcomes Unit, University of 
+      Montreal Health Center, University of Montreal, Montreal, Que.
+LA  - eng
+PT  - Journal Article
+PL  - Canada
+TA  - Can J Surg
+JT  - Canadian journal of surgery. Journal canadien de chirurgie
+JID - 0372715
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - *Hospital Mortality
+MH  - Hospitalization/*statistics & numerical data
+MH  - *Hospitals, Teaching
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasms/mortality/*surgery
+MH  - North America
+MH  - *Periodicity
+MH  - Personnel Staffing and Scheduling
+MH  - *Postoperative Complications
+MH  - Retrospective Studies
+MH  - Risk Factors
+PMC - PMC3968195
+EDAT- 2014/03/29 06:00
+MHDA- 2014/05/21 06:00
+PMCR- 2014/04/01
+CRDT- 2014/03/27 06:00
+PHST- 2014/03/27 06:00 [entrez]
+PHST- 2014/03/29 06:00 [pubmed]
+PHST- 2014/05/21 06:00 [medline]
+PHST- 2014/04/01 00:00 [pmc-release]
+AID - 10.1503/cjs.002713 [pii]
+AID - 0570082 [pii]
+AID - 10.1503/cjs.002713 [doi]
+PST - ppublish
+SO  - Can J Surg. 2014 Apr;57(2):82-8. doi: 10.1503/cjs.002713.

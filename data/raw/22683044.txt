@@ -1,0 +1,74 @@
+PMID- 22683044
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140515
+LR  - 20161021
+IS  - 1578-6749 (Electronic)
+IS  - 0210-5691 (Linking)
+VI  - 37
+IP  - 4
+DP  - 2013 May
+TI  - [Does open access publishing increase the impact of scientific articles? An 
+      empirical study in the field of intensive care medicine].
+PG  - 232-40
+LID - S0210-5691(12)00154-4 [pii]
+LID - 10.1016/j.medin.2012.04.002 [doi]
+AB  - OBJECTIVE: Some studies suggest that open access articles are more often cited 
+      than non-open access articles. However, the relationship between open access and 
+      citations count in a discipline such as intensive care medicine has not been 
+      studied to date. The present article analyzes the effect of open access 
+      publishing of scientific articles in intensive care medicine journals in terms of 
+      citations count. METHODS: We evaluated a total of 161 articles (76% being 
+      non-open access articles) published in Intensive Care Medicine in the year 2008. 
+      Citation data were compared between the two groups up until April 30, 2011. 
+      Potentially confounding variables for citation counts were adjusted for in a 
+      linear multiple regression model. RESULTS: The median number (interquartile 
+      range) of citations of non-open access articles was 8 (4-12) versus 9 (6-18) in 
+      the case of open access articles (p=0.084). In the highest citation range (>8), 
+      the citation count was 13 (10-16) and 18 (13-21) (p=0.008), respectively. The 
+      mean follow-up was 37.5 +/- 3 months in both groups. In the 30-35 months after 
+      publication, the average number (mean +/- standard deviation) of citations per 
+      article per month of non-open access articles was 0.28 +/- 0.6 versus 0.38 +/- 0.7 in 
+      the case of open access articles (p=0.043). Independent factors for citation 
+      advantage were the Hirsch index of the first signing author (beta=0.207; p=0.015) 
+      and open access status (beta=3.618; p=0.006). CONCLUSIONS: Open access publishing 
+      and the Hirsch index of the first signing author increase the impact of 
+      scientific articles. The open access advantage is greater for the more highly 
+      cited articles, and appears in the 30-35 months after publication.
+CI  - Copyright (c) 2012 Elsevier Espana, S.L. and SEMICYUC. All rights reserved.
+FAU - Riera, M
+AU  - Riera M
+AD  - Servicio de Medicina Intensiva, Hospital Universitario Son Espases, Palma de 
+      Mallorca, Espana. rierasagrera@gmail.com
+FAU - Aibar, E
+AU  - Aibar E
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+TT  -  inverted question markFavorece la publicacion en abierto el impacto de los articulos cientificos? Un 
+      estudio empirico en el ambito de la medicina intensiva.
+DEP - 20120607
+PL  - Spain
+TA  - Med Intensiva
+JT  - Medicina intensiva
+JID - 9207689
+SB  - IM
+MH  - *Access to Information
+MH  - *Critical Care
+MH  - *Journal Impact Factor
+MH  - Periodicals as Topic/*statistics & numerical data
+MH  - Publishing/*statistics & numerical data
+EDAT- 2012/06/12 06:00
+MHDA- 2014/05/16 06:00
+CRDT- 2012/06/12 06:00
+PHST- 2012/02/11 00:00 [received]
+PHST- 2012/03/25 00:00 [revised]
+PHST- 2012/04/04 00:00 [accepted]
+PHST- 2012/06/12 06:00 [entrez]
+PHST- 2012/06/12 06:00 [pubmed]
+PHST- 2014/05/16 06:00 [medline]
+AID - S0210-5691(12)00154-4 [pii]
+AID - 10.1016/j.medin.2012.04.002 [doi]
+PST - ppublish
+SO  - Med Intensiva. 2013 May;37(4):232-40. doi: 10.1016/j.medin.2012.04.002. Epub 2012 
+      Jun 7.

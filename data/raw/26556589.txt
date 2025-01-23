@@ -1,0 +1,95 @@
+PMID- 26556589
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160714
+LR  - 20220409
+IS  - 1471-2474 (Electronic)
+IS  - 1471-2474 (Linking)
+VI  - 16
+DP  - 2015 Nov 10
+TI  - Does type 1 diabetes mellitus affect Achilles tendon response to a 10 km run? A 
+      case control study.
+PG  - 345
+LID - 10.1186/s12891-015-0803-z [doi]
+LID - 345
+AB  - BACKGROUND: Achilles tendon structure deteriorates 2-days after maximal loading 
+      in elite athletes. The load-response behaviour of tendons may be altered in type 
+      1 diabetes mellitus (T1DM) as hyperglycaemia accelerates collagen cross-linking. 
+      This study compared Achilles tendon load-response in participants with T1DM and 
+      controls. METHODS: Achilles tendon structure was quantified at day-0, day-2 and 
+      day-4 after a 10 km run. Ultrasound tissue characterisation (UTC) measures tendon 
+      structural integrity by classifying pixels as echo-type I, II, III or IV. 
+      Echo-type I has the most aligned collagen fibrils and IV has the least. RESULTS: 
+      Participants were 7 individuals with T1DM and 10 controls. All regularly ran 
+      distances greater than 5 km and VISA-A scores indicated good tendon function 
+      (T1DM = 94 +/- 11, control = 94 +/- 10). There were no diabetic complications and 
+      HbA1c was 8.7 +/- 2.6 mmol/mol for T1DM and 5.3 +/- 0.4 mmol/mol for control groups. 
+      Baseline tendon structure was similar in T1DM and control groups - UTC echo-types 
+      (I-IV) and anterior-posterior thickness were all p > 0.05. No response to load 
+      was seen in either T1DM or control group over the 4-days post exercise. 
+      CONCLUSION: Active individuals with T1DM do not have a heightened Achilles tendon 
+      response to load, which suggests no increased risk of tendon injury. We cannot 
+      extrapolate these findings to sedentary individuals with T1DM.
+FAU - Wong, Andrea M Y
+AU  - Wong AM
+AD  - Department of Physiotherapy, Monash University, Frankston, 3199, VIC, Australia. 
+      andrea.wong90@gmail.com.
+FAU - Docking, Sean I
+AU  - Docking SI
+AD  - Department of Physiotherapy, Monash University, Frankston, 3199, VIC, Australia. 
+      S.Docking@latrobe.edu.au.
+AD  - Australian Centre for Research into Injury in Sport and its Prevention (ACRISP), 
+      Federation University, Ballarat, Australia. S.Docking@latrobe.edu.au.
+AD  - School of Allied Health, La Trobe University, Melbourne, Australia. 
+      S.Docking@latrobe.edu.au.
+FAU - Cook, Jill L
+AU  - Cook JL
+AD  - Department of Physiotherapy, Monash University, Frankston, 3199, VIC, Australia. 
+      J.Cook@latrobe.edu.au.
+AD  - Australian Centre for Research into Injury in Sport and its Prevention (ACRISP), 
+      Federation University, Ballarat, Australia. J.Cook@latrobe.edu.au.
+AD  - School of Allied Health, La Trobe University, Melbourne, Australia. 
+      J.Cook@latrobe.edu.au.
+FAU - Gaida, James E
+AU  - Gaida JE
+AD  - Department of Physiotherapy, Monash University, Frankston, 3199, VIC, Australia. 
+      Jamie.Gaida@canberra.edu.au.
+AD  - University of Canberra Research Institute for Sport and Exercise (UCRISE), 
+      Canberra, Australia. Jamie.Gaida@canberra.edu.au.
+AD  - Discipline of Physiotherapy, University of Canberra, Canberra, Australia. 
+      Jamie.Gaida@canberra.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151110
+PL  - England
+TA  - BMC Musculoskelet Disord
+JT  - BMC musculoskeletal disorders
+JID - 100968565
+SB  - IM
+MH  - Achilles Tendon/*physiopathology
+MH  - Adult
+MH  - Case-Control Studies
+MH  - Diabetes Mellitus, Type 1/*physiopathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Running/*physiology
+MH  - Weight-Bearing
+PMC - PMC4641391
+EDAT- 2015/11/12 06:00
+MHDA- 2016/07/15 06:00
+PMCR- 2015/11/10
+CRDT- 2015/11/12 06:00
+PHST- 2015/06/01 00:00 [received]
+PHST- 2015/11/03 00:00 [accepted]
+PHST- 2015/11/12 06:00 [entrez]
+PHST- 2015/11/12 06:00 [pubmed]
+PHST- 2016/07/15 06:00 [medline]
+PHST- 2015/11/10 00:00 [pmc-release]
+AID - 10.1186/s12891-015-0803-z [pii]
+AID - 803 [pii]
+AID - 10.1186/s12891-015-0803-z [doi]
+PST - epublish
+SO  - BMC Musculoskelet Disord. 2015 Nov 10;16:345. doi: 10.1186/s12891-015-0803-z.

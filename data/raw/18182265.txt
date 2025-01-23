@@ -1,0 +1,90 @@
+PMID- 18182265
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090707
+LR  - 20090413
+IS  - 1872-7727 (Electronic)
+IS  - 0720-048X (Linking)
+VI  - 70
+IP  - 1
+DP  - 2009 Apr
+TI  - Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful 
+      in the detection of cancer in nonenhanced MR imaging?
+PG  - 122-7
+LID - 10.1016/j.ejrad.2007.11.042 [doi]
+AB  - OBJECTIVE: In this study, the authors discussed the feasibility and value of 
+      diffusion-weighted (DW) MR imaging in the detection of uterine endometrial cancer 
+      in addition to conventional nonenhanced MR images. METHODS AND MATERIALS: DW 
+      images of endometrial cancer in 23 patients were examined by using a 1.5-T MR 
+      scanner. This study investigated whether or not DW images offer additional 
+      incremental value to conventional nonenhanced MR imaging in comparison with 
+      histopathological results. Moreover, the apparent diffusion coefficient (ADC) 
+      values were measured in the regions of interest within the endometrial cancer and 
+      compared with those of normal endometrium and myometrium in 31 volunteers, 
+      leiomyoma in 14 patients and adenomyosis in 10 patients. The Wilcoxon rank sum 
+      test was used, with a p<0.05 considered statistically significant. RESULTS: In 19 
+      of 23 patients, endometrial cancers were detected only on T2-weighted images. In 
+      the remaining 4 patients, of whom two had coexisting leiomyoma, no cancer was 
+      detected on T2-weighted images. This corresponds to an 83% detection sensitivity 
+      for the carcinomas. When DW images and fused DW images/T2-weighted images were 
+      used in addition to the T2-weighted images, cancers were identified in 3 of the 
+      remaining 4 patients in addition to the 19 patients (overall detection 
+      sensitivity of 96%). The mean ADC value of endometrial cancer (n=22) was 
+      (0.97+/-0.19)x10(-3)mm(2)/s, which was significantly lower than those of the 
+      normal endometrium, myometrium, leiomyoma and adenomyosis (p<0.05). CONCLUSION: 
+      DW imaging can be helpful in the detection of uterine endometrial cancer in 
+      nonenhanced MR imaging.
+FAU - Inada, Yuki
+AU  - Inada Y
+AD  - Department of Radiology, Osaka Medical College, 2-7 Daigaku-machi, Takatsuki 
+      City, Osaka 569-8686, Japan. rad068@poh.osaka-med.ac.jp
+FAU - Matsuki, Mitsuru
+AU  - Matsuki M
+FAU - Nakai, Go
+AU  - Nakai G
+FAU - Tatsugami, Fuminari
+AU  - Tatsugami F
+FAU - Tanikake, Masato
+AU  - Tanikake M
+FAU - Narabayashi, Isamu
+AU  - Narabayashi I
+FAU - Yamada, Takashi
+AU  - Yamada T
+FAU - Tsuji, Motomu
+AU  - Tsuji M
+LA  - eng
+PT  - Journal Article
+DEP - 20080107
+PL  - Ireland
+TA  - Eur J Radiol
+JT  - European journal of radiology
+JID - 8106411
+RN  - 0 (Contrast Media)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Contrast Media
+MH  - Diffusion Magnetic Resonance Imaging/*methods
+MH  - Endometrial Neoplasms/*diagnosis
+MH  - Female
+MH  - Humans
+MH  - Image Enhancement/*methods
+MH  - Middle Aged
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Subtraction Technique
+MH  - Whole Body Imaging/*methods
+EDAT- 2008/01/10 09:00
+MHDA- 2009/07/08 09:00
+CRDT- 2008/01/10 09:00
+PHST- 2007/03/28 00:00 [received]
+PHST- 2007/11/28 00:00 [revised]
+PHST- 2007/11/28 00:00 [accepted]
+PHST- 2008/01/10 09:00 [pubmed]
+PHST- 2009/07/08 09:00 [medline]
+PHST- 2008/01/10 09:00 [entrez]
+AID - S0720-048X(07)00601-8 [pii]
+AID - 10.1016/j.ejrad.2007.11.042 [doi]
+PST - ppublish
+SO  - Eur J Radiol. 2009 Apr;70(1):122-7. doi: 10.1016/j.ejrad.2007.11.042. Epub 2008 
+      Jan 7.

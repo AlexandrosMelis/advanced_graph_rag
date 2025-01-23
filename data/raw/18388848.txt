@@ -1,0 +1,86 @@
+PMID- 18388848
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080422
+LR  - 20211203
+IS  - 0025-7079 (Print)
+IS  - 0025-7079 (Linking)
+VI  - 46
+IP  - 3
+DP  - 2008 Mar
+TI  - Does having a regular primary care clinician improve quality of preventive care 
+      for young children?
+PG  - 323-30
+LID - 10.1097/MLR.0b013e318158aefb [doi]
+AB  - OBJECTIVE: This study examines whether having a regular clinician for preventive 
+      care is associated with quality of care for young children, as measured by 
+      interpersonal quality ratings and content of anticipatory guidance. DATA SOURCE: 
+      The National Survey of Early Childhood Health (NSECH), a nationally 
+      representative parent survey of health care quality for 2068 young US children 
+      fielded by the National Center for Health Statistics (NCHS). STUDY DESIGN: 
+      Bivariate and multivariate analyses evaluate associations between having a 
+      regular clinician for well child care and interpersonal quality, the content of 
+      anticipatory guidance, and timely access to care. PRINCIPAL FINDINGS: In 
+      bivariate analysis, parents of children with a regular clinician for preventive 
+      care reported slightly higher interpersonal quality (69 vs. 65 on a 0-100 scale, 
+      P = 0.01). Content of anticipatory guidance received was slightly greater for 
+      children with a regular clinician (82 vs. 80 on a 0-100 scale, P = 0.03). In 
+      bivariate analysis, a regular clinician was associated with interpersonal quality 
+      only among African American and Hispanic children. In multivariate analyses, 
+      controlling for factors that could independently influence self-reports of 
+      experiences with care, interpersonal quality but not anticipatory guidance 
+      content was higher for children with a regular clinician. CONCLUSIONS: Having a 
+      regular primary care clinician is embraced in pediatrics, although team care 
+      among physicians is also widely practiced. For young children, having a regular 
+      clinician is associated with modest gains in interpersonal quality and no 
+      differences in content of anticipatory guidance. The benefit of having a regular 
+      clinician may primarily occur in interpersonal quality for subgroups of young 
+      children.
+FAU - Inkelas, Moira
+AU  - Inkelas M
+AD  - Department of Health Services, UCLA School of Public Health, Center for Healthier 
+      Children, Families, and Communities, Los Angeles, California 90024, USA. 
+      minkelas@ucla.edu
+FAU - Newacheck, Paul W
+AU  - Newacheck PW
+FAU - Olson, Lynn M
+AU  - Olson LM
+FAU - Zuckerman, Barry
+AU  - Zuckerman B
+FAU - Schuster, Mark A
+AU  - Schuster MA
+LA  - eng
+GR  - U48/DP000056/DP/NCCDPHP CDC HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Med Care
+JT  - Medical care
+JID - 0230027
+SB  - IM
+MH  - Child, Preschool
+MH  - Educational Status
+MH  - Female
+MH  - Health Services/statistics & numerical data
+MH  - Health Services Accessibility/organization & administration
+MH  - Health Status
+MH  - Humans
+MH  - Infant
+MH  - Insurance Coverage/statistics & numerical data
+MH  - Insurance, Health
+MH  - Male
+MH  - Primary Health Care/*organization & administration
+MH  - Primary Prevention/*organization & administration
+MH  - Quality of Health Care/*organization & administration
+MH  - Racial Groups/statistics & numerical data
+EDAT- 2008/04/05 09:00
+MHDA- 2008/04/23 09:00
+CRDT- 2008/04/05 09:00
+PHST- 2008/04/05 09:00 [pubmed]
+PHST- 2008/04/23 09:00 [medline]
+PHST- 2008/04/05 09:00 [entrez]
+AID - 00005650-200803000-00013 [pii]
+AID - 10.1097/MLR.0b013e318158aefb [doi]
+PST - ppublish
+SO  - Med Care. 2008 Mar;46(3):323-30. doi: 10.1097/MLR.0b013e318158aefb.

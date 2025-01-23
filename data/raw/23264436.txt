@@ -1,0 +1,111 @@
+PMID- 23264436
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130418
+LR  - 20221207
+IS  - 1941-3084 (Electronic)
+IS  - 1941-3149 (Print)
+IS  - 1941-3084 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2013 Feb
+TI  - Follow-up of patients with new cardiovascular implantable electronic devices: are 
+      experts' recommendations implemented in routine clinical practice?
+PG  - 108-16
+LID - 10.1161/CIRCEP.112.974337 [doi]
+AB  - BACKGROUND: A 2008 expert consensus statement outlined the minimum frequency of 
+      follow-up of patients with cardiovascular implantable electronic devices (CIEDs). 
+      METHODS AND RESULTS: We studied 38 055 Medicare beneficiaries who received a new 
+      CIED between January 1, 2005, and June 30, 2009. The main outcome measure was 
+      variation of follow-up by patient factors and year of device implantation. We 
+      determined the number of patients who were eligible for and attended an in-person 
+      CIED follow-up visit within 2 to 12 weeks, 0 to 16 weeks, and 1 year after 
+      implantation. Among eligible patients, 42.4% had an initial in-person visit 
+      within 2 to 12 weeks. This visit was significantly more common among white 
+      patients than black patients and patients of other races (43.0% versus 36.8% 
+      versus 40.5%; P<0.001). Follow-up within 2 to 12 weeks improved from 40.3% in 
+      2005 to 55.1% in 2009 (P<0.001 for trend). The rate of follow-up within 0 to 16 
+      weeks was 65.1% and improved considerably from 2005 to 2009 (62.3%-79.6%; P<0.001 
+      for trend). Within 1 year, 78.0% of the overall population had at least 1 
+      in-person CIED follow-up visit. CONCLUSIONS: Although most Medicare beneficiaries 
+      who received a new CIED between 2005 and 2009 did not have an initial in-person 
+      CIED follow-up visit within 2 to 12 weeks after device implantation, the rate of 
+      initial follow-up improved appreciably over time. This CIED follow-up visit was 
+      significantly more common in white patients than in patients of other races.
+FAU - Al-Khatib, Sana M
+AU  - Al-Khatib SM
+AD  - Duke Clinical Research Institute, Department of Medicine, Duke University School 
+      of Medicine, Durham, NC 27715, USA. alkha001@mc.duke.edu
+FAU - Mi, Xiaojuan
+AU  - Mi X
+FAU - Wilkoff, Bruce L
+AU  - Wilkoff BL
+FAU - Qualls, Laura G
+AU  - Qualls LG
+FAU - Frazier-Mills, Camille
+AU  - Frazier-Mills C
+FAU - Setoguchi, Soko
+AU  - Setoguchi S
+FAU - Hess, Paul L
+AU  - Hess PL
+FAU - Curtis, Lesley H
+AU  - Curtis LH
+LA  - eng
+GR  - R01 HL093071/HL/NHLBI NIH HHS/United States
+GR  - T32 HL069749/HL/NHLBI NIH HHS/United States
+GR  - R01HL093071/HL/NHLBI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20121223
+PL  - United States
+TA  - Circ Arrhythm Electrophysiol
+JT  - Circulation. Arrhythmia and electrophysiology
+JID - 101474365
+SB  - IM
+MH  - Black or African American
+MH  - Aftercare/*trends
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Cardiac Resynchronization Therapy
+MH  - *Cardiac Resynchronization Therapy Devices
+MH  - Chi-Square Distribution
+MH  - Continuity of Patient Care/*trends
+MH  - *Defibrillators, Implantable
+MH  - Electric Countershock/*instrumentation
+MH  - Equipment Design
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Guideline Adherence/trends
+MH  - Humans
+MH  - Male
+MH  - Medicare
+MH  - Practice Guidelines as Topic
+MH  - Practice Patterns, Physicians'/*trends
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - United States
+MH  - White People
+PMC - PMC3640354
+MID - NIHMS439117
+COIS- Conflict of Interest Disclosures: Dr Wilkoff reported receiving royalties from 
+      Elsevier for editing a book on pacemakers and implantable 
+      cardioverter-defibrillators. Dr Frazier-Mills reported receiving payment for 
+      consulting (< $10,000) from Boston Scientific. Dr Curtis reported receiving 
+      grants from GlaxoSmithKline and Johnson & Johnson. Drs Setoguchi and Curtis have 
+      made available online detailed listings of financial disclosures 
+      (http://www.dcri.duke.edu/research/coi.jsp). No other author reported 
+      disclosures.
+EDAT- 2012/12/25 06:00
+MHDA- 2013/04/20 06:00
+PMCR- 2014/02/01
+CRDT- 2012/12/25 06:00
+PHST- 2012/12/25 06:00 [entrez]
+PHST- 2012/12/25 06:00 [pubmed]
+PHST- 2013/04/20 06:00 [medline]
+PHST- 2014/02/01 00:00 [pmc-release]
+AID - CIRCEP.112.974337 [pii]
+AID - 10.1161/CIRCEP.112.974337 [doi]
+PST - ppublish
+SO  - Circ Arrhythm Electrophysiol. 2013 Feb;6(1):108-16. doi: 
+      10.1161/CIRCEP.112.974337. Epub 2012 Dec 23.

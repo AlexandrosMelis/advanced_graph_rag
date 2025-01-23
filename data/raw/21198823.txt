@@ -1,0 +1,83 @@
+PMID- 21198823
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110519
+LR  - 20161125
+IS  - 1540-8175 (Electronic)
+IS  - 0742-2822 (Linking)
+VI  - 28
+IP  - 2
+DP  - 2011 Feb
+TI  - Can dobutamine stress echocardiography induce cardiac troponin elevation?
+PG  - 219-22
+LID - 10.1111/j.1540-8175.2010.01299.x [doi]
+AB  - BACKGROUND: Elevation of cardiac troponin (cTn) is considered specific for 
+      myocardial damage. Elevated cTn and echocardiogrpahic documentation of wall 
+      motion abnormalities (WMAs) that were recorded after extreme physical effort 
+      raise the question whether dobutamine stress echo (DSE), can also induce 
+      elevation of troponin. METHODS: we prospective enrolled stable patients (age >18 
+      years) referred to DSE. The exam was performed under standardized conditions. 
+      Blood samples for cTnI were obtained at baseline and 18-24 hours after the test. 
+      We aimed to compare between the clinical and echocardiographic features of 
+      patients with elevated cTnI and those without cTnI elevations. RESULTS: 
+      Fifty-seven consecutive patients were included. The average age was 64.4 +/- 10.7, 
+      73% of the patients were males, and nearly half of the patients were known to 
+      have ischemic heart disease. Two of the patients were excluded due to technical 
+      difficulty. No signs of ischemia were recorded in 25 (45.4%). Among the patients 
+      with established ischemia on DSE, 12 (22%) had mild ischemia, 13 (23.6%) had 
+      moderate and 5 (9%) had severe ischemia. Angiography was performed in 13 (26%) of 
+      the patients, of which 7 had PCI and one was referred to bypass surgery. None of 
+      the patients had elevated cTnI 18-24 hours after the DSE. CONCLUSIONS: Our 
+      results indicate that there is no elevation of cTn despite the occurrence of 
+      significant WMAs on DSE. We conclude that cTnI cannot be used as an additional 
+      diagnostic tool during pharmacological stress test performed to evaluate the 
+      presence and severity of ischemia.
+CI  - (c) 2010, Wiley Periodicals, Inc.
+FAU - Blatt, Alex
+AU  - Blatt A
+AD  - The Department of Cardiology The Department of Anesthesiology Clinical 
+      Biochemistry Laboratory, Assaf-Harofeh Medical Center, Zerifin, Sackler School of 
+      Medicine, Tel-Aviv University, Ramat-Aviv, Israel.
+FAU - Moravsky, Gil
+AU  - Moravsky G
+FAU - Pilipodi, Semion
+AU  - Pilipodi S
+FAU - Mor, Anat
+AU  - Mor A
+FAU - Benbeniste, Patricia
+AU  - Benbeniste P
+FAU - Vered, Zvi
+AU  - Vered Z
+FAU - Minha, Sa'ar
+AU  - Minha S
+LA  - eng
+PT  - Journal Article
+DEP - 20101227
+PL  - United States
+TA  - Echocardiography
+JT  - Echocardiography (Mount Kisco, N.Y.)
+JID - 8511187
+RN  - 0 (Troponin T)
+RN  - 0 (Vasodilator Agents)
+RN  - 3S12J47372 (Dobutamine)
+SB  - IM
+MH  - Dobutamine/*administration & dosage
+MH  - Echocardiography/*methods
+MH  - *Exercise Test
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*blood/*diagnostic imaging
+MH  - Troponin T/*blood
+MH  - Vasodilator Agents/administration & dosage
+EDAT- 2011/01/05 06:00
+MHDA- 2011/05/20 06:00
+CRDT- 2011/01/05 06:00
+PHST- 2011/01/05 06:00 [entrez]
+PHST- 2011/01/05 06:00 [pubmed]
+PHST- 2011/05/20 06:00 [medline]
+AID - 10.1111/j.1540-8175.2010.01299.x [doi]
+PST - ppublish
+SO  - Echocardiography. 2011 Feb;28(2):219-22. doi: 10.1111/j.1540-8175.2010.01299.x. 
+      Epub 2010 Dec 27.

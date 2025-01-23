@@ -1,0 +1,89 @@
+PMID- 23414523
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140122
+LR  - 20130704
+IS  - 1530-0277 (Electronic)
+IS  - 0145-6008 (Linking)
+VI  - 37
+IP  - 7
+DP  - 2013 Jul
+TI  - Does binge drinking during early pregnancy increase the risk of psychomotor 
+      deficits?
+PG  - 1204-12
+LID - 10.1111/acer.12072 [doi]
+AB  - BACKGROUND: The potential effects of binge drinking during pregnancy on child 
+      motor function have only been assessed in a few, small studies. We aimed to 
+      examine the effects of binge alcohol consumption during early pregnancy, 
+      including number of binge episodes and timing of binge drinking, on child motor 
+      function at age 5. METHODS: We performed a prospective follow-up study of 678 
+      women and their children sampled from the Danish National Birth Cohort based on 
+      maternal alcohol consumption during pregnancy. At 5 years of age, the children 
+      were tested with the Movement Assessment Battery for Children. Parental 
+      education, maternal IQ, prenatal maternal smoking, the child's age at testing, 
+      sex of child, and tester were considered core confounders, while the full model 
+      also controlled for prenatal maternal average alcohol intake, maternal age and 
+      prepregnancy body mass index, parity, home environment, postnatal parental 
+      smoking, health status, participation in organized sport, and indicators for 
+      hearing and vision impairment. RESULTS: There were no systematic or significant 
+      differences in motor function between children of mothers reporting isolated 
+      episodes of binge drinking and children of mothers with no binge episodes. No 
+      association was observed with respect to the number of binge episodes (maximum of 
+      12) and timing of binge drinking. CONCLUSIONS: In this study, we found no 
+      systematic association between isolated episodes of binge drinking during early 
+      pregnancy and child motor function at age 5.
+CI  - Copyright (c) 2013 by the Research Society on Alcoholism.
+FAU - Kesmodel, Ulrik Schioler
+AU  - Kesmodel US
+AD  - Department of Obstetrics and Gynaecology (USK), Aarhus University Hospital, 
+      Aarhus, Denmark. ukes@soci.au.dk
+FAU - Bay, Bjorn
+AU  - Bay B
+FAU - Wimberley, Theresa
+AU  - Wimberley T
+FAU - Eriksen, Hanne-Lise F
+AU  - Eriksen HL
+FAU - Mortensen, Erik Lykke
+AU  - Mortensen EL
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20130215
+PL  - England
+TA  - Alcohol Clin Exp Res
+JT  - Alcoholism, clinical and experimental research
+JID - 7707242
+SB  - IM
+MH  - Adult
+MH  - Alcohol Drinking/adverse effects/epidemiology/physiopathology
+MH  - Binge Drinking/*epidemiology/physiopathology
+MH  - Child, Preschool
+MH  - Denmark/epidemiology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Pregnancy
+MH  - Pregnancy Trimester, First/*drug effects/physiology
+MH  - Prenatal Exposure Delayed Effects/*epidemiology/physiopathology
+MH  - Prospective Studies
+MH  - Psychomotor Disorders/*epidemiology/physiopathology
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Binge Drinking
+OT  - Low-Moderate Alcohol Consumption
+OT  - Motor Function
+OT  - Prenatal Exposures
+EDAT- 2013/02/19 06:00
+MHDA- 2014/01/23 06:00
+CRDT- 2013/02/19 06:00
+PHST- 2012/03/15 00:00 [received]
+PHST- 2012/11/26 00:00 [accepted]
+PHST- 2013/02/19 06:00 [entrez]
+PHST- 2013/02/19 06:00 [pubmed]
+PHST- 2014/01/23 06:00 [medline]
+AID - 10.1111/acer.12072 [doi]
+PST - ppublish
+SO  - Alcohol Clin Exp Res. 2013 Jul;37(7):1204-12. doi: 10.1111/acer.12072. Epub 2013 
+      Feb 15.

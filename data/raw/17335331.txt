@@ -1,0 +1,76 @@
+PMID- 17335331
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070309
+LR  - 20190902
+IS  - 1555-2101 (Electronic)
+IS  - 0160-6689 (Linking)
+VI  - 68
+IP  - 2
+DP  - 2007 Feb
+TI  - Diagnostic characteristics of child bipolar I disorder: does the "Treatment of 
+      Early Age Mania (team)" sample generalize?
+PG  - 307-14
+AB  - OBJECTIVE: To examine the representativeness of a randomized controlled trial 
+      (RCT) sample versus one obtained by consecutive new case ascertainment, for 
+      subjects with child bipolar I disorder. METHOD: Subjects (N = 247) were 
+      outpatients who participated in either the National Institute of Mental 
+      Health-funded Phenomenology and Course of Pediatric Bipolar Disorders study or 
+      the Treatment of Early Age Mania (TEAM) study. Both studies required that 
+      subjects have current DSM-IV bipolar I disorder (manic or mixed phase) and a 
+      Children's Global Assessment Scale (CGAS) score <or=60. All subjects had elation 
+      and/or grandiosity. Subjects in the Phenomenology study were obtained from 1995 
+      to 1998 by consecutive new case ascertainment from designated pediatric and 
+      psychiatric facilities. Subjects in the TEAM RCT were recruited from media and 
+      community sources between March 2003 and March 2005. Assessment instruments 
+      included the Washington University in St. Louis Kiddie Schedule for Affective 
+      Disorders and Schizophrenia, given separately to parents about their children and 
+      to children about themselves, and the CGAS. Logistic regression was used for 
+      comparisons. RESULTS: The TEAM and Phenomenology groups were similar in age (10.4 
+      [SD = 2.3], 10.9 [SD = 2.3] years, respectively) and other demography. Both had 
+      long current episode duration (4.8 [SD = 2.4], 3.2 [SD = 2.3] years) and low 
+      lifetime use of any mood stabilizer (23.6%, 35.0%). Many mania symptoms and 
+      ultradian rapid cycling, psychosis, and suicidality were significantly more 
+      prevalent in the RCT sample. CONCLUSIONS: Generalization of the RCT sample was 
+      supported, because only 7.8% of Phenomenology subjects did not fit the RCT 
+      criteria. Nevertheless, because the RCT subjects were more severely ill, it is 
+      unclear if treatment findings from the RCT will be applicable to children with 
+      less severe mania. CLINICAL TRIALS REGISTRATION: ClinicalTrials.gov identifier 
+      NCT00057681 (TEAM study).
+FAU - Tillman, Rebecca
+AU  - Tillman R
+AD  - Department of Psychiatry, Washington University in St. Louis, St. Louis, MO 
+      63110, USA.
+FAU - Geller, Barbara
+AU  - Geller B
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00057681
+GR  - R01 MH-53063/MH/NIMH NIH HHS/United States
+GR  - U01 MH-64846/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+SB  - IM
+MH  - Adolescent
+MH  - Bipolar Disorder/*diagnosis/*psychology/therapy
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Matched-Pair Analysis
+MH  - Reference Values
+MH  - Reproducibility of Results
+MH  - Severity of Illness Index
+EDAT- 2007/03/06 09:00
+MHDA- 2007/03/10 09:00
+CRDT- 2007/03/06 09:00
+PHST- 2007/03/06 09:00 [pubmed]
+PHST- 2007/03/10 09:00 [medline]
+PHST- 2007/03/06 09:00 [entrez]
+AID - 10.4088/jcp.v68n0218 [doi]
+PST - ppublish
+SO  - J Clin Psychiatry. 2007 Feb;68(2):307-14. doi: 10.4088/jcp.v68n0218.

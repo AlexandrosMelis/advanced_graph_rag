@@ -1,0 +1,89 @@
+PMID- 20064872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110311
+LR  - 20220408
+IS  - 1462-0332 (Electronic)
+IS  - 1462-0324 (Linking)
+VI  - 49
+IP  - 4
+DP  - 2010 Apr
+TI  - Can the prognosis of polymyalgia rheumatica be predicted at disease onset? 
+      Results from a 5-year prospective study.
+PG  - 716-22
+LID - 10.1093/rheumatology/kep395 [doi]
+AB  - OBJECTIVE: To identify the features of PMR that may predict the duration of 
+      steroid therapy, the occurrence of relapses and the late development of GCA. 
+      METHODS: Prospective cohort study of 176 patients with PMR, followed up for 5 
+      years. Baseline factors associated with the duration of steroids therapy were 
+      identified using Cox regression. Predictors of relapse and the late development 
+      of GCA were identified using binary logistic regression. RESULTS: A total of 176 
+      patients with PMR were included, of whom 124 stopped steroids within 5 years. The 
+      probability of stopping steroids within 5 years was independently reduced by an 
+      elevated plasma viscosity (PV) [hazard ratio (HR) = 0.49; 95% CI 0.29, 0.82 for a 
+      PV > or = 2.00 mPa s compared with a PV < or = 1.80 mPa s; overall P = 0.024] and 
+      by starting treatment at >15 mg prednisolone (HR = 0.63; 95% CI 0.41, 0.97; P = 
+      0.036). Either of these independently reduced the chances of stopping steroids 
+      within a given time interval between 27 and 51%. No significant predictors of 
+      relapse were identified. Predictors of late GCA on univariable analysis were 
+      female sex [odds ratio (OR) = 8.16; 95% CI 1.06, 63.13; P = 0.044], HLA-DRB1*0101 
+      or -*0401 alleles (OR = 4.95; 95% CI 1.05, 23.34; P = 0.043), PV > or = 2.00 mPa 
+      s compared with PV < or = 1.80 mPa s (OR = 10.64; 95% CI 1.28, 88.38; P = 0.029) 
+      and initial prednisolone dose >15 mg (OR = 4.53; 95% CI 1.61, 12.79; P = 0.004). 
+      CONCLUSION: A higher PV in PMR increases the risk of prolonged steroid therapy 
+      and late GCA. Female sex and particular HLA alleles may increase the risk of late 
+      GCA. Starting patients on >15 mg prednisolone is associated with a prolonged 
+      steroid duration.
+FAU - Mackie, Sarah L
+AU  - Mackie SL
+AD  - NIHR-Leeds Musculoskeletal Biomedical Research Unit, Leeds Institute of Molecular 
+      Medicine, University of Leeds, Leeds, UK.
+FAU - Hensor, Elizabeth M A
+AU  - Hensor EM
+FAU - Haugeberg, Glenn
+AU  - Haugeberg G
+FAU - Bhakta, Bipin
+AU  - Bhakta B
+FAU - Pease, Colin T
+AU  - Pease CT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100111
+PL  - England
+TA  - Rheumatology (Oxford)
+JT  - Rheumatology (Oxford, England)
+JID - 100883501
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (HLA Antigens)
+RN  - 0 (Steroids)
+RN  - 9PHQ9Y1OLM (Prednisolone)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents/*therapeutic use
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Giant Cell Arteritis/*drug therapy/genetics/immunology
+MH  - HLA Antigens/genetics
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Polymyalgia Rheumatica/*drug therapy/genetics/immunology
+MH  - Predictive Value of Tests
+MH  - Prednisolone/*therapeutic use
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Regression Analysis
+MH  - Steroids/*therapeutic use
+EDAT- 2010/01/13 06:00
+MHDA- 2011/03/12 06:00
+CRDT- 2010/01/13 06:00
+PHST- 2010/01/13 06:00 [entrez]
+PHST- 2010/01/13 06:00 [pubmed]
+PHST- 2011/03/12 06:00 [medline]
+AID - kep395 [pii]
+AID - 10.1093/rheumatology/kep395 [doi]
+PST - ppublish
+SO  - Rheumatology (Oxford). 2010 Apr;49(4):716-22. doi: 10.1093/rheumatology/kep395. 
+      Epub 2010 Jan 11.

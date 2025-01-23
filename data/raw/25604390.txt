@@ -1,0 +1,93 @@
+PMID- 25604390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150812
+LR  - 20201209
+IS  - 1432-2323 (Electronic)
+IS  - 0364-2313 (Linking)
+VI  - 39
+IP  - 4
+DP  - 2015 Apr
+TI  - Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node 
+      metastasis preoperatively?
+PG  - 1018-25
+LID - 10.1007/s00268-014-2886-3 [doi]
+AB  - BACKGROUND: Dickkopf-3 (DKK3) may act as a tumor suppressor as it is 
+      down-regulated in various types of cancer. This study assessed the DKK3 protein 
+      expression in gastric cancer and its potential value as a prognostic marker. 
+      METHODS: DKK3 expression was evaluated by immunohistochemistry in 158 gastric 
+      cancer samples from patients who underwent gastrectomy from 2002 to 2008. 
+      Clinicopathological parameters and survival data were analyzed. RESULTS: Loss of 
+      DKK3 expression was found in 64 of 158 (40.5%) samples, and it was associated 
+      with advanced T stage (p < 0.001), lymph node metastasis (p < 0.001), UICC TNM 
+      stage (p < 0.001), tumor location (p = 0.029), lymphovascular invasion (p = 
+      0.035), and perineural invasion (p = 0.032). Patients without DKK3 expression in 
+      tumor cells had a significantly worse disease-free and overall survival than 
+      those with DKK3 expression (p < 0.001, and p = 0.001, respectively). TNM stage (p 
+      = 0.028 and p < 0.001, respectively) and residual tumor (p < 0.001 and p = 0.003, 
+      respectively) were independent predictors of disease-free and overall survival. 
+      Based on the preoperative clinical stage assessed by computed tomography (CT), 
+      loss of DKK3 expression was predominantly associated with worse prognosis in 
+      patients with clinically node-negative advanced gastric cancer (AGC). The 
+      combination of DKK3 expression status and CT increased the accuracy of CT staging 
+      for predicting lymph node involvement from 71.5 to 80.0% in AGC patients. 
+      CONCLUSION: Loss of DKK3 protein expression was significantly associated with 
+      poor survival in patients with gastric cancer and was strongly correlated with 
+      the TNM stage. DKK3 might be a potential biomarker of lymph node involvement that 
+      can improve the predictive power of CT.
+FAU - Park, Joong-Min
+AU  - Park JM
+AD  - Department of Surgery, Chung-Ang University College of Medicine, Seoul, Korea, 
+      jmpark@cau.ac.kr.
+FAU - Kim, Mi Kyung
+AU  - Kim MK
+FAU - Chi, Kyong-Choun
+AU  - Chi KC
+FAU - Kim, Jae Hyung
+AU  - Kim JH
+FAU - Lee, Sang-Hoon
+AU  - Lee SH
+FAU - Lee, Eun-Ju
+AU  - Lee EJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - World J Surg
+JT  - World journal of surgery
+JID - 7704052
+RN  - 0 (Adaptor Proteins, Signal Transducing)
+RN  - 0 (Chemokines)
+RN  - 0 (DKK3 protein, human)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+SB  - IM
+MH  - Adaptor Proteins, Signal Transducing
+MH  - Adenocarcinoma/*metabolism/*secondary/surgery
+MH  - Aged
+MH  - Chemokines
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Gastrectomy
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Intercellular Signaling Peptides and Proteins/*metabolism
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Staging
+MH  - Neoplasm, Residual
+MH  - Preoperative Period
+MH  - Retrospective Studies
+MH  - Stomach Neoplasms/*metabolism/*pathology/surgery
+MH  - Survival Rate
+MH  - *Tomography, X-Ray Computed
+EDAT- 2015/01/22 06:00
+MHDA- 2015/08/13 06:00
+CRDT- 2015/01/22 06:00
+PHST- 2015/01/22 06:00 [entrez]
+PHST- 2015/01/22 06:00 [pubmed]
+PHST- 2015/08/13 06:00 [medline]
+AID - 10.1007/s00268-014-2886-3 [doi]
+PST - ppublish
+SO  - World J Surg. 2015 Apr;39(4):1018-25. doi: 10.1007/s00268-014-2886-3.

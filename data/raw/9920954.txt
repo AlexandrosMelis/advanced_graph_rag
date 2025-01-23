@@ -1,0 +1,99 @@
+PMID- 9920954
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990202
+LR  - 20191210
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 340
+IP  - 4
+DP  - 1999 Jan 28
+TI  - Do "America's Best Hospitals" perform better for acute myocardial infarction?
+PG  - 286-92
+AB  - BACKGROUND: "America's Best Hospitals," an influential list published annually by 
+      U.S. News and World Report, assesses the quality of hospitals. It is not known 
+      whether patients admitted to hospitals ranked at the top in cardiology have lower 
+      short-term mortality from acute myocardial infarction than those admitted to 
+      other hospitals or whether differences in mortality are explained by differential 
+      use of recommended therapies. METHODS: Using data from the Cooperative 
+      Cardiovascular Project on 149,177 elderly Medicare beneficiaries with acute 
+      myocardial infarction in 1994 or 1995, we examined the care and outcomes of 
+      patients admitted to three types of hospitals: those ranked high in cardiology 
+      (top-ranked hospitals); hospitals not in the top rank that had on-site facilities 
+      for cardiac catheterization, coronary angioplasty, and bypass surgery (similarly 
+      equipped hospitals); and the remaining hospitals (non-similarly equipped 
+      hospitals). We compared 30-day mortality; the rates of use of aspirin, 
+      beta-blockers, and reperfusion; and the relation of differences in rates of 
+      therapy to short-term mortality. RESULTS: Admission to a top-ranked hospital was 
+      associated with lower adjusted 30-day mortality (odds ratio, 0.87; 95 percent 
+      confidence interval, 0.76 to 1.00; P=0.05 for top-ranked hospitals vs. the 
+      others). Among patients without contraindications to therapy, top-ranked 
+      hospitals had significantly higher rates of use of aspirin (96.2 percent, as 
+      compared with 88.6 percent for similarly equipped hospitals and 83.4 percent for 
+      non-similarly equipped hospitals; P<0.01) and beta-blockers (75.0 percent vs. 
+      61.8 percent and 58.7 percent, P<0.01), but lower rates of reperfusion therapy 
+      (61.0 percent vs. 70.7 percent and 65.6 percent, P=0.03). The survival advantage 
+      associated with admission to top-ranked hospitals was less strong after we 
+      adjusted for factors including the use of aspirin and beta-blockers (odds ratio, 
+      0.94; 95 percent confidence interval, 0.82 to 1.08; P=0.38). CONCLUSIONS: 
+      Admission to a hospital ranked high on the list of "America's Best Hospitals" was 
+      associated with lower 30-day mortality among elderly patients with acute 
+      myocardial infarction. A substantial portion of the survival advantage may be 
+      associated with these hospitals' higher rates of use of aspirin and beta-blocker 
+      therapy.
+FAU - Chen, J
+AU  - Chen J
+AD  - Department of Medicine, Yale University School of Medicine, New Haven, CT 
+      06520-8025, USA.
+FAU - Radford, M J
+AU  - Radford MJ
+FAU - Wang, Y
+AU  - Wang Y
+FAU - Marciniak, T A
+AU  - Marciniak TA
+FAU - Krumholz, H M
+AU  - Krumholz HM
+LA  - eng
+GR  - 500-96-P549/PHS HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - R16CO5Y76E (Aspirin)
+SB  - IM
+CIN - N Engl J Med. 1999 Jan 28;340(4):309-10. doi: 10.1056/NEJM199901283400410. PMID: 
+      9920957
+CIN - N Engl J Med. 1999 Jun 24;340(25):2006-7; author reply 2007. doi: 
+      10.1056/nejm199906243402518. PMID: 10383285
+MH  - Adrenergic beta-Antagonists/therapeutic use
+MH  - Aged
+MH  - Angioplasty, Balloon, Coronary/statistics & numerical data
+MH  - Aspirin/therapeutic use
+MH  - Female
+MH  - Health Care Surveys
+MH  - Hospitals/*standards/statistics & numerical data
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Medicare/economics/statistics & numerical data
+MH  - Multivariate Analysis
+MH  - Myocardial Infarction/classification/mortality/*therapy
+MH  - *Outcome and Process Assessment, Health Care
+MH  - *Quality of Health Care
+MH  - Severity of Illness Index
+MH  - Thrombolytic Therapy/statistics & numerical data
+MH  - United States/epidemiology
+EDAT- 1999/01/28 00:00
+MHDA- 1999/01/28 00:01
+CRDT- 1999/01/28 00:00
+PHST- 1999/01/28 00:00 [pubmed]
+PHST- 1999/01/28 00:01 [medline]
+PHST- 1999/01/28 00:00 [entrez]
+AID - 10.1056/NEJM199901283400407 [doi]
+PST - ppublish
+SO  - N Engl J Med. 1999 Jan 28;340(4):286-92. doi: 10.1056/NEJM199901283400407.

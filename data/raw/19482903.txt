@@ -1,0 +1,86 @@
+PMID- 19482903
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090714
+LR  - 20091111
+IS  - 1538-6724 (Electronic)
+IS  - 0031-9023 (Linking)
+VI  - 89
+IP  - 7
+DP  - 2009 Jul
+TI  - Treadmill testing of children who have spina bifida and are ambulatory: does peak 
+      oxygen uptake reflect maximum oxygen uptake?
+PG  - 679-87
+LID - 10.2522/ptj.20080328 [doi]
+AB  - BACKGROUND: Earlier studies have demonstrated low peak oxygen uptake 
+      ((.)Vo(2)peak) in children with spina bifida. Low peak heart rate and low peak 
+      respiratory exchange ratio in these studies raised questions regarding the true 
+      maximal character of (.)Vo(2)peak values obtained with treadmill testing. 
+      OBJECTIVE: The aim of this study was to determine whether the Vo(2)peak measured 
+      during an incremental treadmill test is a true reflection of the maximum oxygen 
+      uptake ((.)Vo(2)max) in children who have spina bifida and are ambulatory. 
+      DESIGN: A cross-sectional design was used for this study. METHODS: Twenty 
+      children who had spina bifida and were ambulatory participated. The (.)Vo(2)peak 
+      was measured during a graded treadmill exercise test. The validity of 
+      (.)Vo(2)peak measurements was evaluated by use of previously described guidelines 
+      for maximum exercise testing in children who are healthy, as well as differences 
+      between Vo(2)peak and (.)Vo(2) during a supramaximal protocol 
+      ((.)Vo(2)supramaximal). RESULTS: The average values for (.)Vo(2)peak and 
+      normalized (.)Vo(2)peak were, respectively, 1.23 L/min (SD=0.6) and 34.1 
+      mL/kg/min (SD=8.3). Fifteen children met at least 2 of the 3 previously described 
+      criteria; one child failed to meet any criteria. Although there were no 
+      significant differences between (.)Vo(2)peak and Vo(2)supramaximal, 5 children 
+      did show improvement during supramaximal testing. LIMITATIONS: These results 
+      apply to children who have spina bifida and are at least community ambulatory. 
+      CONCLUSIONS: The (.)Vo(2)peak measured during an incremental treadmill test seems 
+      to reflect the true (.)Vo(2)max in children who have spina bifida and are 
+      ambulatory, validating the use of a treadmill test for these children. When 
+      confirmation of maximal effort is needed, the addition of supramaximal testing of 
+      children with disability is an easy and well-tolerated method.
+FAU - de Groot, Janke Frederike
+AU  - de Groot JF
+AD  - Research Group Lifestyle and Health, University of Applied Sciences, Utrecht, the 
+      Netherlands. J.F.deGroot-16@umcutrecht.nl
+FAU - Takken, Tim
+AU  - Takken T
+FAU - de Graaff, Sanna
+AU  - de Graaff S
+FAU - Gooskens, Rob H J M
+AU  - Gooskens RH
+FAU - Helders, Paul J M
+AU  - Helders PJ
+FAU - Vanhees, Luc
+AU  - Vanhees L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090529
+PL  - United States
+TA  - Phys Ther
+JT  - Physical therapy
+JID - 0022623
+SB  - IM
+MH  - Child
+MH  - Cross-Sectional Studies
+MH  - Exercise Test/methods
+MH  - Female
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - Locomotion/physiology
+MH  - Male
+MH  - Mobility Limitation
+MH  - Oxygen Consumption/*physiology
+MH  - Physical Endurance/physiology
+MH  - Pulmonary Ventilation/physiology
+MH  - Spinal Dysraphism/*physiopathology
+MH  - Walking/*physiology
+EDAT- 2009/06/02 09:00
+MHDA- 2009/07/15 09:00
+CRDT- 2009/06/02 09:00
+PHST- 2009/06/02 09:00 [entrez]
+PHST- 2009/06/02 09:00 [pubmed]
+PHST- 2009/07/15 09:00 [medline]
+AID - ptj.20080328 [pii]
+AID - 10.2522/ptj.20080328 [doi]
+PST - ppublish
+SO  - Phys Ther. 2009 Jul;89(7):679-87. doi: 10.2522/ptj.20080328. Epub 2009 May 29.

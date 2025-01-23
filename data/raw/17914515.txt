@@ -1,0 +1,78 @@
+PMID- 17914515
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080227
+LR  - 20080623
+IS  - 0379-5284 (Print)
+IS  - 0379-5284 (Linking)
+VI  - 28
+IP  - 10
+DP  - 2007 Oct
+TI  - Suturing of the nasal septum after septoplasty, is it an effective alternative to 
+      nasal packing?
+PG  - 1534-6
+AB  - OBJECTIVE: To discuss and compare the results of suturing the nasal septum after 
+      septoplasty with the results of nasal packing. METHODS: A prospective study, 
+      which was performed at Prince Hashem Military Hospital in Zarqa, Jordan and 
+      Prince Rashed Military Hospital in Irbid, Jordan between September 2005 and 
+      August 2006 included 169 consecutive patients that underwent septoplasty. The 
+      patients were randomly divided into 2 groups. After completion of surgery, the 
+      nasal septum was sutured in the first group while nasal packing was performed in 
+      the second group. RESULTS: Thirteen patients (15.3%) in the first group and 11 
+      patients (13%) in the second group had minor oozing in the first 24 hours, 4 
+      patients (4.8%) had bleeding after removal of the pack in the second group. Four 
+      patients (4.8%) developed septal hematoma in the second group. Two patients 
+      (2.4%) had septal perforation in the second group. One patient (1.1%) in the 
+      first group, and 5 patients (5.9%) in the second group had postoperative 
+      adhesions. Five patients (5.9%) were found to have remnant deviated nasal septum 
+      in each group. The operating time was 4 minutes longer in the first group. 
+      CONCLUSION: Septal suturing after septoplasty offers the following advantages: 
+      elimination of discomfort for the patients, minimal complications, the outcome is 
+      almost the same as with nasal packing, and finally the hospital stay is less than 
+      with nasal packing. Therefore, suturing of the nasal septum after septoplasty 
+      should be a preferred alternative to nasal packing.
+FAU - Al-Raggad, Daifallah K
+AU  - Al-Raggad DK
+AD  - Department of Otolaryngology, Head and Neck Surgery Prince Hashem Ibn Al Hussein 
+      Hospital, Amman, Jordan. daif41@yahoo.com
+FAU - El-Jundi, Ali M
+AU  - El-Jundi AM
+FAU - Al-Momani, Osama S
+AU  - Al-Momani OS
+FAU - Al-Serhan, Mefleh M
+AU  - Al-Serhan MM
+FAU - Nawasrah, Omar O
+AU  - Nawasrah OO
+FAU - Qhawi, Muafaq A
+AU  - Qhawi MA
+FAU - Husban, Adnan M
+AU  - Husban AM
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Saudi Arabia
+TA  - Saudi Med J
+JT  - Saudi medical journal
+JID - 7909441
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Bandages
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nasal Septum/*abnormalities/*surgery
+MH  - Postoperative Care
+MH  - Prospective Studies
+MH  - *Suture Techniques
+MH  - Treatment Outcome
+EDAT- 2007/10/05 09:00
+MHDA- 2008/02/28 09:00
+CRDT- 2007/10/05 09:00
+PHST- 2007/10/05 09:00 [pubmed]
+PHST- 2008/02/28 09:00 [medline]
+PHST- 2007/10/05 09:00 [entrez]
+AID - 20070135' [pii]
+PST - ppublish
+SO  - Saudi Med J. 2007 Oct;28(10):1534-6.

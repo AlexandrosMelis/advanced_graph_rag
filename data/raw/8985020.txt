@@ -1,0 +1,98 @@
+PMID- 8985020
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970123
+LR  - 20190708
+IS  - 0360-3016 (Print)
+IS  - 0360-3016 (Linking)
+VI  - 36
+IP  - 5
+DP  - 1996 Dec 1
+TI  - Does induction chemotherapy have a role in the management of nasopharyngeal 
+      carcinoma? Results of treatment in the era of computerized tomography.
+PG  - 1005-12
+AB  - PURPOSE: To assess the outcomes of patients with nasopharyngeal carcinoma (NPC) 
+      whose treatment was determined by computerized tomography (CT) and/or magnetic 
+      resonance imaging staging and to analyze the impact of induction chemotherapy and 
+      accelerated fractionated radiotherapy. METHODS AND MATERIALS: The analysis is 
+      based on 122 of 143 previously untreated patients with NPC treated with radiation 
+      therapy at The University of Texas M. D. Anderson Cancer Center between 1983 and 
+      1992. Excluded were 4 patients treated with palliative intent, 4 children, 12 
+      patients not staged with CT, and 1 patient who died of a cerebrovascular accident 
+      prior to completion of treatment. The stage distribution was as follows: AJCC 
+      Stage I-2, Stage II-7, Stage III-12, Stage IV-101; Tl-15, T2-33, T3-22, T4-52; 
+      N0-32, N1-10, N2-47, N3-32, Nx-1. Fifty-nine (48%) patients had squamous cell 
+      carcinoma; 63 (52%) had lymphoepitheliomas, undifferentiated NPC or poorly 
+      differentiated carcinoma, NOS (UNPC). Sixty-seven patients (65 with Stage IV 
+      disease) received induction chemotherapy. Fifty-eight patients (24 of whom had 
+      induction chemotherapy) were treated with the concomitant boost fractionation 
+      schedule. The median follow-up for surviving patients was 57 months. RESULTS: The 
+      overall actuarial 2- and 5-year survival rates were 78 and 68%, respectively. 
+      Forty-nine patients (40%) had disease recurrence. Thirty-three (27%) had local 
+      regional failures; 19 at the primary site only, 8 in the neck and 6 in both. 
+      Local failure occurred in 31% of patients staged T4 compared to 13% of T1-T3 (p = 
+      0.007). Sixteen patients failed at distant sites alone. Among Stage IV patients 
+      the 5-year actuarial rates for patients who did and did not receive induction 
+      chemotherapy were as follows: overall survival: 68 vs. 56% (p = 0.02), freedom 
+      from relapse: 64 vs. 37% (p = 0.01), and local control: 86 vs. 56% (p = 0.009). 
+      The actuarial 5-year distant failure rate in patients with UNPC who were treated 
+      with induction chemotherapy and controlled in the primary and neck was 13%. In 
+      patients who did not receive chemotherapy, the actuarial 5-year local control 
+      rates for patients treated with concomitant boost or conventional fractionation 
+      were 66 and 67%, respectively. CONCLUSIONS: While not providing conclusive 
+      evidence, this single institution experience suggests that neoadjuvant 
+      chemotherapy for Stage IV NPC patients improves both survival and disease 
+      control. Recurrence within the irradiated volume was the most prevalent mode of 
+      failure and future studies will evaluate regimens to enhance local regional 
+      control.
+FAU - Garden, A S
+AU  - Garden AS
+AD  - Department of Radiotherapy, The University of Texas M.D. Anderson Cancer Center, 
+      Houston 77030, USA.
+FAU - Lippman, S M
+AU  - Lippman SM
+FAU - Morrison, W H
+AU  - Morrison WH
+FAU - Glisson, B S
+AU  - Glisson BS
+FAU - Ang, K K
+AU  - Ang KK
+FAU - Geara, F
+AU  - Geara F
+FAU - Hong, W K
+AU  - Hong WK
+FAU - Peters, L J
+AU  - Peters LJ
+LA  - eng
+GR  - CA06294/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Int J Radiat Oncol Biol Phys
+JT  - International journal of radiation oncology, biology, physics
+JID - 7603616
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+MH  - Combined Modality Therapy
+MH  - Humans
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Nasopharyngeal Neoplasms/diagnosis/mortality/*therapy
+MH  - Neoplasm Staging
+MH  - Radiotherapy Dosage
+MH  - Survival Rate
+MH  - Tomography, X-Ray Computed
+EDAT- 1996/12/01 00:00
+MHDA- 1996/12/01 00:01
+CRDT- 1996/12/01 00:00
+PHST- 1996/12/01 00:00 [pubmed]
+PHST- 1996/12/01 00:01 [medline]
+PHST- 1996/12/01 00:00 [entrez]
+AID - S0360301696003859 [pii]
+AID - 10.1016/s0360-3016(96)00385-9 [doi]
+PST - ppublish
+SO  - Int J Radiat Oncol Biol Phys. 1996 Dec 1;36(5):1005-12. doi: 
+      10.1016/s0360-3016(96)00385-9.

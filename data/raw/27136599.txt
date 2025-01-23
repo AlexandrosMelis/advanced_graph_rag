@@ -1,0 +1,91 @@
+PMID- 27136599
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170714
+LR  - 20191210
+IS  - 1463-1318 (Electronic)
+IS  - 1462-8910 (Linking)
+VI  - 18
+IP  - 12
+DP  - 2016 Dec
+TI  - Is it safe to perform rectal anastomosis in gynaecological debulking surgery 
+      without a diverting stoma?
+PG  - 1142-1146
+LID - 10.1111/codi.13364 [doi]
+AB  - AIM: Colorectal resection is frequently performed during cytoreductive surgery 
+      for gynaecological malignancy. The aim of this study was to assess the safety of 
+      colorectal anastomosis, and especially low rectal anastomosis, in the absence of 
+      a protective stoma in patients with gynaecological cancer and peritoneal 
+      metastasis. METHOD: Patient data were retrospectively collected from a database 
+      for gynaecological cancer procedures carried out between January 2013 and July 
+      2015. All patients who underwent a colorectal resection during cytoreduction were 
+      included in the study. The primary outcome was anastomotic leakage in the 
+      presence or absence of a diverting stoma. Secondary outcome parameters were 
+      complications and reoperations. RESULTS: In the period of study, 43 major 
+      colorectal procedures were performed on 37 women. The most common colorectal 
+      procedure was low rectal resection (n = 22; 59%) followed by anterior rectal 
+      resection (n = 7; 19%) and sigmoid resection (n = 4; 11%). Five (14%) patients 
+      underwent Hartmann's procedure. In three (8%) patients, a diverting loop 
+      ileostomy was created. CONCLUSION: Low rectal resection during debulking 
+      procedures for gynaecological cancers with peritoneal carcinomatosis can safely 
+      be performed by an experienced surgeon without a diverting stoma.
+CI  - Colorectal Disease (c) 2016 The Association of Coloproctology of Great Britain and 
+      Ireland.
+FAU - Reinisch, A
+AU  - Reinisch A
+AD  - Department of General and Visceral Surgery, University Hospital Frankfurt, 
+      Frankfurt, Germany.
+FAU - El-Balat, A
+AU  - El-Balat A
+AD  - Department of Gynecology and Gynecological Oncology, University Hospital 
+      Frankfurt, Frankfurt, Germany.
+FAU - Becker, S
+AU  - Becker S
+AD  - Department of Gynecology and Gynecological Oncology, University Hospital 
+      Frankfurt, Frankfurt, Germany.
+FAU - Bechstein, W O
+AU  - Bechstein WO
+AD  - Department of General and Visceral Surgery, University Hospital Frankfurt, 
+      Frankfurt, Germany.
+FAU - Habbe, N
+AU  - Habbe N
+AD  - Department of General and Visceral Surgery, University Hospital Frankfurt, 
+      Frankfurt, Germany.
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PL  - England
+TA  - Colorectal Dis
+JT  - Colorectal disease : the official journal of the Association of Coloproctology of 
+      Great Britain and Ireland
+JID - 100883611
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Anastomosis, Surgical/adverse effects/methods
+MH  - Anastomotic Leak/etiology
+MH  - Cytoreduction Surgical Procedures/adverse effects/*methods
+MH  - Female
+MH  - Genital Neoplasms, Female/*surgery
+MH  - Gynecologic Surgical Procedures/adverse effects/*methods
+MH  - Humans
+MH  - Middle Aged
+MH  - Rectum/*surgery
+MH  - Retrospective Studies
+MH  - *Surgical Stomas
+OTO - NOTNLM
+OT  - Leakage
+OT  - anastomosis
+OT  - colorectal resection
+OT  - gynaecological cancer
+EDAT- 2016/05/03 06:00
+MHDA- 2017/07/15 06:00
+CRDT- 2016/05/03 06:00
+PHST- 2015/12/01 00:00 [received]
+PHST- 2016/02/18 00:00 [accepted]
+PHST- 2016/05/03 06:00 [pubmed]
+PHST- 2017/07/15 06:00 [medline]
+PHST- 2016/05/03 06:00 [entrez]
+AID - 10.1111/codi.13364 [doi]
+PST - ppublish
+SO  - Colorectal Dis. 2016 Dec;18(12):1142-1146. doi: 10.1111/codi.13364.

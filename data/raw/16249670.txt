@@ -1,0 +1,74 @@
+PMID- 16249670
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060125
+LR  - 20220316
+IS  - 0003-3022 (Print)
+IS  - 0003-3022 (Linking)
+VI  - 103
+IP  - 5
+DP  - 2005 Nov
+TI  - Does the investing layer of the deep cervical fascia exist?
+PG  - 962-8
+AB  - BACKGROUND: The placement of the superficial cervical plexus block has been the 
+      subject of controversy. Although the investing cervical fascia has been 
+      considered as an impenetrable barrier, clinically, the placement of the block 
+      deep or superficial to the fascia provides the same effective anesthesia. The 
+      underlying mechanism is unclear. The aim of this study was to investigate the 
+      three-dimensional organization of connective tissues in the anterior region of 
+      the neck. METHODS: Using a combination of dissection, E12 sheet plastination, and 
+      confocal microscopy, fascial structures in the anterior cervical triangle were 
+      examined in 10 adult human cadavers. RESULTS: In the upper cervical region, the 
+      fascia of strap muscles in the middle and the fasciae of the submandibular glands 
+      on both sides formed a dumbbell-like fascia sheet that had free lateral margins 
+      and did not continue with the sternocleidomastoid fascia. In the lower cervical 
+      region, no single connective tissue sheet extended directly between the 
+      sternocleidomastoid muscles. The fascial structure deep to platysma in the 
+      anterior cervical triangle comprised the strap fascia. CONCLUSIONS: This study 
+      provides anatomical evidence to indicate that the so-called investing cervical 
+      fascia does not exist in the anterior triangle of the neck. Taking the previous 
+      reports together, the authors' findings strongly suggest that deep potential 
+      spaces in the neck are directly continuous with the subcutaneous tissue.
+FAU - Nash, Lance
+AU  - Nash L
+AD  - Department of Anatomy and Structural Biology, University of Otago, Dunedin, New 
+      Zealand.
+FAU - Nicholson, Helen D
+AU  - Nicholson HD
+FAU - Zhang, Ming
+AU  - Zhang M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Anesthesiology
+JT  - Anesthesiology
+JID - 1300217
+RN  - 0 (Epoxy Compounds)
+RN  - 9007-34-5 (Collagen)
+SB  - IM
+CIN - Anesthesiology. 2006 Jun;104(6):1344; author reply 1344-5. doi: 
+      10.1097/00000542-200606000-00038. PMID: 16732115
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cervical Plexus/*anatomy & histology
+MH  - Collagen/metabolism
+MH  - Connective Tissue/*anatomy & histology
+MH  - Epoxy Compounds
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Microscopy, Confocal
+MH  - Neck/anatomy & histology
+MH  - Neck Muscles/anatomy & histology
+MH  - Plastic Embedding
+EDAT- 2005/10/27 09:00
+MHDA- 2006/01/26 09:00
+CRDT- 2005/10/27 09:00
+PHST- 2005/10/27 09:00 [pubmed]
+PHST- 2006/01/26 09:00 [medline]
+PHST- 2005/10/27 09:00 [entrez]
+AID - 00000542-200511000-00010 [pii]
+AID - 10.1097/00000542-200511000-00010 [doi]
+PST - ppublish
+SO  - Anesthesiology. 2005 Nov;103(5):962-8. doi: 10.1097/00000542-200511000-00010.

@@ -1,0 +1,114 @@
+PMID- 25985014
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160524
+LR  - 20220318
+IS  - 1874-1754 (Electronic)
+IS  - 0167-5273 (Linking)
+VI  - 192
+DP  - 2015 Aug 1
+TI  - Is ganglionated plexi ablation during Maze IV procedure beneficial for 
+      postoperative long-term stable sinus rhythm?
+PG  - 40-8
+LID - S0167-5273(15)00993-6 [pii]
+LID - 10.1016/j.ijcard.2015.04.259 [doi]
+AB  - BACKGROUND: We investigated the role of surgical ablation targeting the 
+      autonomous nervous system during a Cox-Maze IV procedure in the maintenance of 
+      sinus rhythm at long-term follow-up. METHODS: The patient population consisted of 
+      519 subjects with persistent or long-standing persistent atrial fibrillation (AF) 
+      undergoing radiofrequency Maze IV during open heart surgery between January 2006 
+      and July 2013 at three institutions without (Group 1) or with (Group 2) 
+      ganglionated plexi (GP) ablation. Recurrence of atrial fibrillation 
+      off-antiarrhythmic drugs was the primary outcome. Predictors of AF recurrence 
+      were evaluated by means of competing risk regression. Median follow-up was 36.7 
+      months. RESULTS: The percentage of patients in normal sinus rhythm (NSR) 
+      off-antiarrhythmic drugs did not differ between groups (Group 1-75.5%, Group 
+      2-67.8%, p = 0.08). Duration of AF >/= 38 months (p = 0.01), left atrial diameter >/= 
+      54 mm (0.001), left atrial area >/= 33 cm(2) (p = 0.005), absence of connecting 
+      lesions (p= 0.04), and absence of right atrial ablation (p < 0.001) were 
+      independently associated with high incidence of AF recurrence. In contrast the 
+      absence of GP ablation was not a significant factor (p = 0.12). CONCLUSIONS: GP 
+      ablation did not prove to be beneficial for postoperative stable NSR. A complete 
+      left atrial lesion set and biatrial ablation are advisable for improving rhythm 
+      outcomes. Randomized controlled trials are necessary to confirm our findings.
+CI  - Copyright (c) 2015 Elsevier Ireland Ltd. All rights reserved.
+FAU - Gelsomino, Sandro
+AU  - Gelsomino S
+AD  - University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+      Italy. Electronic address: sandro.gelsomino@maastrichtuniversity.nl.
+FAU - Lozekoot, Pieter
+AU  - Lozekoot P
+AD  - University Hospital Maastricht, The Netherlands.
+FAU - La Meir, Mark
+AU  - La Meir M
+AD  - University Hospital Maastricht, The Netherlands.
+FAU - Lorusso, Roberto
+AU  - Lorusso R
+AD  - University Hospital Maastricht, The Netherlands.
+FAU - Luca, Fabiana
+AU  - Luca F
+AD  - University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+      Italy.
+FAU - Rostagno, Carlo
+AU  - Rostagno C
+AD  - Careggi Hospital, Florence Italy.
+FAU - Renzulli, Attilio
+AU  - Renzulli A
+AD  - University of Magna Graecia, Catanzaro, Italy.
+FAU - Parise, Orlando
+AU  - Parise O
+AD  - University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+      Italy.
+FAU - Matteucci, Francesco
+AU  - Matteucci F
+AD  - University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+      Italy.
+FAU - Gensini, Gian Franco
+AU  - Gensini GF
+AD  - Careggi Hospital, Florence Italy.
+FAU - Crjins, Harry J G M
+AU  - Crjins HJ
+AD  - University Hospital Maastricht, The Netherlands.
+FAU - Maessen, Jos G
+AU  - Maessen JG
+AD  - University Hospital Maastricht, The Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20150501
+PL  - Netherlands
+TA  - Int J Cardiol
+JT  - International journal of cardiology
+JID - 8200291
+SB  - IM
+MH  - Aged
+MH  - Atrial Fibrillation/physiopathology/*surgery
+MH  - Autonomic Denervation/methods
+MH  - Autonomic Nervous System/surgery
+MH  - Catheter Ablation/*methods
+MH  - Female
+MH  - Heart Rate/*physiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pericardium/*innervation
+MH  - Postoperative Period
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Ablation
+OT  - Atrial fibrillation
+OT  - Mitral valve surgery
+EDAT- 2015/05/20 06:00
+MHDA- 2016/05/25 06:00
+CRDT- 2015/05/19 06:00
+PHST- 2015/01/08 00:00 [received]
+PHST- 2015/04/15 00:00 [revised]
+PHST- 2015/04/30 00:00 [accepted]
+PHST- 2015/05/19 06:00 [entrez]
+PHST- 2015/05/20 06:00 [pubmed]
+PHST- 2016/05/25 06:00 [medline]
+AID - S0167-5273(15)00993-6 [pii]
+AID - 10.1016/j.ijcard.2015.04.259 [doi]
+PST - ppublish
+SO  - Int J Cardiol. 2015 Aug 1;192:40-8. doi: 10.1016/j.ijcard.2015.04.259. Epub 2015 
+      May 1.

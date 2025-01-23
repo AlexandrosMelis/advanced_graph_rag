@@ -1,0 +1,210 @@
+PMID- 20674150
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110106
+LR  - 20220311
+IS  - 1873-7560 (Electronic)
+IS  - 0302-2838 (Linking)
+VI  - 58
+IP  - 4
+DP  - 2010 Oct
+TI  - Validation of the 2009 TNM version in a large multi-institutional cohort of 
+      patients treated for renal cell carcinoma: are further improvements needed?
+PG  - 588-95
+LID - 10.1016/j.eururo.2010.07.006 [doi]
+AB  - BACKGROUND: A new edition of the TNM was recently released that includes 
+      modifications for the staging system of kidney cancers. Specifically, T2 cancers 
+      were subclassified into T2a and T2b (< or =10 cm vs >10 cm), tumors with renal 
+      vein involvement or perinephric fat involvement were classified as T3a cancers, 
+      and those with adrenal involvement were classified as T4 cancers. OBJECTIVE: Our 
+      aim was to validate the recently released edition of the TNM staging system for 
+      primary tumor classification in kidney cancer. DESIGN, SETTING, AND PARTICIPANTS: 
+      Our multicenter retrospective study consisted of 5339 patients treated in 16 
+      academic Italian centers. INTERVENTION: Patients underwent either radical or 
+      partial nephrectomy. MEASUREMENTS: Univariable and multivariable Cox regression 
+      models addressed cancer-specific survival (CSS) after surgery. RESULTS AND 
+      LIMITATIONS: In the study, 1897 patients (35.5%) were classified as pT1a, 1453 
+      (27%) as pT1b, 437 (8%) as pT2a, 153 (3%) as pT2b, 1059 (20%) as pT3a, 117 (2%) 
+      as pT3b, 26 (0.5%) as pT3c, and 197 (4%) as pT4. At a median follow-up of 42 mo, 
+      786 (15%) had died of disease. In univariable analysis, patients with pT2b and 
+      pT3a tumors had similar CSS, as did patients with pT3c and pT4 tumors. Moreover, 
+      both pT3a and pT3b stages included patients with heterogeneous outcomes. In 
+      multivariable analysis, the novel classification of the primary tumor was a 
+      powerful independent predictor of CSS (p for trend <0.0001). However, the 
+      substratification of pT1 tumors did not retain an independent predictive role. 
+      The major limitations of the study are retrospective design, lack of central 
+      pathologic review, and the small number of patients included in some substages. 
+      CONCLUSIONS: The recently released seventh edition of the primary tumor staging 
+      system for kidney tumors is a powerful predictor of CSS. However, some of the 
+      substages identified by the classification have overlapping prognoses, and other 
+      substages include patients with heterogeneous outcomes. The few modifications 
+      included in this edition may have not resolved the most critical issues in the 
+      previous version.
+CI  - Copyright 2010 European Association of Urology. Published by Elsevier B.V. All 
+      rights reserved.
+FAU - Novara, Giacomo
+AU  - Novara G
+AD  - University of Padua, Padua, Italy.
+FAU - Ficarra, Vincenzo
+AU  - Ficarra V
+FAU - Antonelli, Alessandro
+AU  - Antonelli A
+FAU - Artibani, Walter
+AU  - Artibani W
+FAU - Bertini, Roberto
+AU  - Bertini R
+FAU - Carini, Marco
+AU  - Carini M
+FAU - Cosciani Cunico, Sergio
+AU  - Cosciani Cunico S
+FAU - Imbimbo, Ciro
+AU  - Imbimbo C
+FAU - Longo, Nicola
+AU  - Longo N
+FAU - Martignoni, Guido
+AU  - Martignoni G
+FAU - Martorana, Giuseppe
+AU  - Martorana G
+FAU - Minervini, Andrea
+AU  - Minervini A
+FAU - Mirone, Vincenzo
+AU  - Mirone V
+FAU - Montorsi, Francesco
+AU  - Montorsi F
+FAU - Schiavina, Riccardo
+AU  - Schiavina R
+FAU - Simeone, Claudio
+AU  - Simeone C
+FAU - Serni, Sergio
+AU  - Serni S
+FAU - Simonato, Alchiede
+AU  - Simonato A
+FAU - Siracusano, Salvatore
+AU  - Siracusano S
+FAU - Volpe, Alessandro
+AU  - Volpe A
+FAU - Carmignani, Giorgio
+AU  - Carmignani G
+CN  - SATURN Project-LUNA Foundation
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Validation Study
+DEP - 20100723
+PL  - Switzerland
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+SB  - IM
+EIN - Eur Urol. 2011 Jan;59(1):182. Schiavina, Roberto [corrected to Schiavina, 
+      Riccardo]
+CIN - Eur Urol. 2010 Oct;58(4):517-9; discussion 519-21. doi: 
+      10.1016/j.eururo.2010.08.007. PMID: 20728266
+CIN - J Urol. 2011 Apr;185(4):1223. doi: 10.1016/j.juro.2010.12.087. PMID: 22115474
+MH  - Aged
+MH  - Carcinoma, Renal Cell/classification/*pathology/surgery
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Kidney Neoplasms/classification/*pathology/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Staging/*standards
+MH  - Retrospective Studies
+FIR - De Cobelli, O
+IR  - De Cobelli O
+FIR - Schiavina, R
+IR  - Schiavina R
+FIR - Antonelli, A
+IR  - Antonelli A
+FIR - Corti, S
+IR  - Corti S
+FIR - Cosciani Cunico, S
+IR  - Cosciani Cunico S
+FIR - Simeone, C
+IR  - Simeone C
+FIR - Castelli, M
+IR  - Castelli M
+FIR - Cimino, S
+IR  - Cimino S
+FIR - Favilla, V
+IR  - Favilla V
+FIR - Morgia, G
+IR  - Morgia G
+FIR - Billia, M
+IR  - Billia M
+FIR - Terrone, C
+IR  - Terrone C
+FIR - Volpe, A
+IR  - Volpe A
+FIR - Imbimbo, C
+IR  - Imbimbo C
+FIR - Longo, N
+IR  - Longo N
+FIR - Mirone, V
+IR  - Mirone V
+FIR - Carini, M
+IR  - Carini M
+FIR - Masieri, L
+IR  - Masieri L
+FIR - Minervini, A
+IR  - Minervini A
+FIR - Serni, S
+IR  - Serni S
+FIR - Carmignani, G
+IR  - Carmignani G
+FIR - Oneto, F
+IR  - Oneto F
+FIR - Simonato, A
+IR  - Simonato A
+FIR - Varca, V
+IR  - Varca V
+FIR - Rocco, F
+IR  - Rocco F
+FIR - Artibani, W
+IR  - Artibani W
+FIR - Ficarra, V
+IR  - Ficarra V
+FIR - Novara, G
+IR  - Novara G
+FIR - Costantini, E
+IR  - Costantini E
+FIR - Porena, M
+IR  - Porena M
+FIR - Zucchi, A
+IR  - Zucchi A
+FIR - Morgia, G
+IR  - Morgia G
+FIR - Ciciliato, S
+IR  - Ciciliato S
+FIR - Lampropoulou, N
+IR  - Lampropoulou N
+FIR - Siracusano, S
+IR  - Siracusano S
+FIR - Fontana, D
+IR  - Fontana D
+FIR - Gontero, P
+IR  - Gontero P
+FIR - Tizzani, A
+IR  - Tizzani A
+FIR - Brunelli, M
+IR  - Brunelli M
+FIR - Martignoni, G
+IR  - Martignoni G
+FIR - Valotto, C
+IR  - Valotto C
+FIR - Zattoni, F
+IR  - Zattoni F
+EDAT- 2010/08/03 06:00
+MHDA- 2011/01/07 06:00
+CRDT- 2010/08/03 06:00
+PHST- 2010/06/07 00:00 [received]
+PHST- 2010/07/09 00:00 [accepted]
+PHST- 2010/08/03 06:00 [entrez]
+PHST- 2010/08/03 06:00 [pubmed]
+PHST- 2011/01/07 06:00 [medline]
+AID - S0302-2838(10)00659-7 [pii]
+AID - 10.1016/j.eururo.2010.07.006 [doi]
+PST - ppublish
+SO  - Eur Urol. 2010 Oct;58(4):588-95. doi: 10.1016/j.eururo.2010.07.006. Epub 2010 Jul 
+      23.

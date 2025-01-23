@@ -1,0 +1,112 @@
+PMID- 21914194
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120111
+LR  - 20220330
+IS  - 1471-2458 (Electronic)
+IS  - 1471-2458 (Linking)
+VI  - 11
+DP  - 2011 Sep 13
+TI  - Health care for immigrants in Europe: is there still consensus among country 
+      experts about principles of good practice? A Delphi study.
+PG  - 699
+LID - 10.1186/1471-2458-11-699 [doi]
+AB  - BACKGROUND: European Member States are facing a challenge to provide accessible 
+      and effective health care services for immigrants. It remains unclear how best to 
+      achieve this and what characterises good practice in increasingly multicultural 
+      societies across Europe. This study assessed the views and values of 
+      professionals working in different health care contexts and in different European 
+      countries as to what constitutes good practice in health care for immigrants. 
+      METHODS: A total of 134 experts in 16 EU Member States participated in a 
+      three-round Delphi process. The experts represented four different fields: 
+      academia, Non-Governmental Organisations, policy-making and health care practice. 
+      For each country, the process aimed to produce a national consensus list of the 
+      most important factors characterising good practice in health care for migrants. 
+      RESULTS: The scoring procedures resulted in 10 to 16 factors being identified as 
+      the most important for each participating country. All 186 factors were 
+      aggregated into 9 themes: (1) easy and equal access to health care, (2) 
+      empowerment of migrants, (3) culturally sensitive health care services, (4) 
+      quality of care, (5) patient/health care provider communication, (6) respect 
+      towards migrants, (7) networking in and outside health services, (8) targeted 
+      outreach activities, and (9) availability of data about specificities in migrant 
+      health care and prevention. Although local political debate, level of immigration 
+      and the nature of local health care systems influenced the selection and rating 
+      of factors within each country, there was a broad European consensus on most 
+      factors. Yet, discordance remained both within countries, e.g. on the need for 
+      prioritising cultural differences, and between countries, e.g. on the need for 
+      more consistent governance of health care services for immigrants. CONCLUSIONS: 
+      Experts across Europe asserted the right to culturally sensitive health care for 
+      all immigrants. There is a broad consensus among experts about the major 
+      principles of good practice that need to be implemented across Europe. However, 
+      there also is some disagreement both within and between countries on specific 
+      issues that require further research and debate.
+FAU - Deville, Walter
+AU  - Deville W
+AD  - International and Migrant Health, Netherlands Institute for Health Services 
+      Research, Otterstraat 118-124, 3500 BN Utrecht, the Netherlands. 
+      w.deville@nivel.nl
+FAU - Greacen, Tim
+AU  - Greacen T
+FAU - Bogic, Marija
+AU  - Bogic M
+FAU - Dauvrin, Marie
+AU  - Dauvrin M
+FAU - Dias, Sonia
+AU  - Dias S
+FAU - Gaddini, Andrea
+AU  - Gaddini A
+FAU - Jensen, Natasja Koitzsch
+AU  - Jensen NK
+FAU - Karamanidou, Christina
+AU  - Karamanidou C
+FAU - Kluge, Ulrike
+AU  - Kluge U
+FAU - Mertaniemi, Ritva
+AU  - Mertaniemi R
+FAU - Riera, Rosa P i
+AU  - Riera RP
+FAU - Sarvary, Attila
+AU  - Sarvary A
+FAU - Soares, Joaquim J F
+AU  - Soares JJ
+FAU - Stankunas, Mindaugas
+AU  - Stankunas M
+FAU - Strassmayr, Christa
+AU  - Strassmayr C
+FAU - Welbel, Marta
+AU  - Welbel M
+FAU - Priebe, Stefan
+AU  - Priebe S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110913
+PL  - England
+TA  - BMC Public Health
+JT  - BMC public health
+JID - 100968562
+SB  - IM
+MH  - *Attitude of Health Personnel
+MH  - *Consensus
+MH  - Delivery of Health Care/*organization & administration
+MH  - Delphi Technique
+MH  - *Emigrants and Immigrants
+MH  - Europe
+MH  - Health Services Accessibility
+MH  - Humans
+MH  - Policy Making
+PMC - PMC3182934
+EDAT- 2011/09/15 06:00
+MHDA- 2012/01/12 06:00
+PMCR- 2011/09/13
+CRDT- 2011/09/15 06:00
+PHST- 2011/03/14 00:00 [received]
+PHST- 2011/09/13 00:00 [accepted]
+PHST- 2011/09/15 06:00 [entrez]
+PHST- 2011/09/15 06:00 [pubmed]
+PHST- 2012/01/12 06:00 [medline]
+PHST- 2011/09/13 00:00 [pmc-release]
+AID - 1471-2458-11-699 [pii]
+AID - 10.1186/1471-2458-11-699 [doi]
+PST - epublish
+SO  - BMC Public Health. 2011 Sep 13;11:699. doi: 10.1186/1471-2458-11-699.

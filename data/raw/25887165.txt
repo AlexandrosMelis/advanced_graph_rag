@@ -1,0 +1,82 @@
+PMID- 25887165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150901
+LR  - 20150619
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 73
+IP  - 7
+DP  - 2015 Jul
+TI  - Does Sensation Return to the Nasal Tip After Microfat Grafting?
+PG  - 1396.e1-6
+LID - S0278-2391(15)00340-7 [pii]
+LID - 10.1016/j.joms.2015.03.048 [doi]
+AB  - PURPOSE: Patients usually complain about numbness in the nasal tip after microfat 
+      injections. The present study evaluated the severity of the numbness in the nasal 
+      tip after the procedure. PATIENTS AND METHODS: To address the research question, 
+      a prospective study of young women was designed and performed at the Beijing 
+      Anzhen Hospital. Time was the primary predictor variable. The nasal tip 
+      sensation, which was evaluated using objective and subjective assessments, was 
+      used as the primary outcome variable. The McNemar-Bowker test (time vs nasal tip 
+      sensation) was used to detect statistical significance. RESULTS: A total of 30 
+      young women (age 20.04 +/- 3.63 years) were recruited for the present study. The 
+      preoperative mean touch threshold value was 3.60 units. One week after the 
+      injection, the women experienced a decrease in the touch threshold value by 2.50 
+      units. However, the sensation recovered gradually during the follow-up period 
+      (1.51 units at week 2, 2.39 units at week 4, 3.01 units at week 8, and 3.35 units 
+      at week 12). Significant differences were detected between multiple different 
+      measurement points (P < .05). The percentage of those experiencing paresthesia 
+      after the microfat injections also gradually diminished to none. CONCLUSION: 
+      Postoperative numbness occurs in most patients receiving nasal microfat 
+      injections. Partial to complete recovery of nasal tip sensation can be expected 
+      to occur over a 3-month period.
+CI  - Copyright (c) 2015 American Association of Oral and Maxillofacial Surgeons. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Huang, Lin
+AU  - Huang L
+AD  - Professor, Department of Plastic and Reconstructive Surgery, Beijing Anzhen 
+      Hospital, Capital Medical University, Beijing, China. Electronic address: 
+      cc.ll.80811@163.com.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20150325
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American 
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+SB  - IM
+MH  - Abdominal Fat/surgery
+MH  - Adipose Tissue/*transplantation
+MH  - Adult
+MH  - Cohort Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Hypesthesia/etiology/physiopathology
+MH  - Middle Aged
+MH  - Nose/*physiology/surgery
+MH  - Postoperative Complications
+MH  - Prospective Studies
+MH  - Recovery of Function/*physiology
+MH  - Rhinoplasty/*methods
+MH  - Sensory Thresholds/physiology
+MH  - Touch/*physiology
+MH  - Transplant Donor Site/surgery
+MH  - Young Adult
+EDAT- 2015/04/19 06:00
+MHDA- 2015/09/02 06:00
+CRDT- 2015/04/19 06:00
+PHST- 2014/07/30 00:00 [received]
+PHST- 2015/03/18 00:00 [revised]
+PHST- 2015/03/19 00:00 [accepted]
+PHST- 2015/04/19 06:00 [entrez]
+PHST- 2015/04/19 06:00 [pubmed]
+PHST- 2015/09/02 06:00 [medline]
+AID - S0278-2391(15)00340-7 [pii]
+AID - 10.1016/j.joms.2015.03.048 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2015 Jul;73(7):1396.e1-6. doi: 
+      10.1016/j.joms.2015.03.048. Epub 2015 Mar 25.

@@ -1,0 +1,75 @@
+PMID- 10757151
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000516
+LR  - 20071115
+IS  - 0171-6425 (Print)
+IS  - 0171-6425 (Linking)
+VI  - 48
+IP  - 1
+DP  - 2000 Feb
+TI  - Does ischemic preconditioning require reperfusion before index ischemia?
+PG  - 15-21
+AB  - BACKGROUND: Ischemic preconditioning (IP) is initiated through one or several 
+      short bouts of ischemia and reperfusion which precede a prolonged ischemia. To 
+      test whether a reperfusion must precede the prolonged index ischemia, a series 
+      without reperfusion (intraischemic preconditioning: IIP) and a series with 
+      gradual onset of ischemia, i.e. ramp ischemia (RI), which is possibly related to 
+      the development of hibernation, was compared to conventional IP (CIP). METHOD: 
+      Experiments were performed an 27 blood-perfused rabbit hearts (Langendorff 
+      apparatus) that were randomized into one of four series: (1) control (n = 7): 60 
+      min normal flow - 60 min low flow (10%) ischemia - 60 min reperfusion. (2) CIP (n 
+      = 7): 4 times 5 min zero flow with 10 min reperfusion each - 60 min low flow 
+      (10%) - ischemia 60 min reperfusion. (3) IIP (n = 7): 50 min normal flow - 10 min 
+      no flow - 60min low flow (10%) ischemia -4 60min reperfusion. (4) RI (n=6): 
+      gradual reduction to 10% flow during 60min - 60min low flow (10%) ischemia - 
+      60min reperfusion. At the end of each protocol, the infarcted area was assessed. 
+      RESULTS: The infarct area in control hearts was 6.7+/-1.4% (means+/-SEM) of LV 
+      total area, in CIP hearts 2.6+/-0.8%, in IIP hearts 3.1+/-0.5%, and in RI hearts 
+      3.0+/-0.3% (all p<0.05 vs. control). The differences between the three protection 
+      protocols were statistically not significant, and no protective protocol reduced 
+      post-ischemic myocardial dysfunction. CONCLUSION: The preconditioning effect 
+      (infarct size reduction) appears not to depend on intermittent reperfusion. Thus, 
+      the protective mechanism of IP develops during the initial ischemia that precedes 
+      the index ischemia. Alternatively, low-flow ischemia is effectively a sort of 
+      reperfusion.
+FAU - Korbmacher, B
+AU  - Korbmacher B
+AD  - Department of Thoracic and Cardiovascular Surgery, Dusseldorf University, 
+      Germany.
+FAU - Schmidt, T
+AU  - Schmidt T
+FAU - Schwanke, U
+AU  - Schwanke U
+FAU - Schulz, R
+AU  - Schulz R
+FAU - Heusch, G
+AU  - Heusch G
+FAU - Schipke, J D
+AU  - Schipke JD
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Thorac Cardiovasc Surg
+JT  - The Thoracic and cardiovascular surgeon
+JID - 7903387
+SB  - IM
+MH  - Animals
+MH  - Disease Models, Animal
+MH  - Evaluation Studies as Topic
+MH  - Hemodynamics
+MH  - Ischemic Preconditioning, Myocardial/*methods
+MH  - Male
+MH  - Myocardial Infarction/pathology
+MH  - *Myocardial Reperfusion
+MH  - Rabbits
+MH  - Random Allocation
+EDAT- 2000/04/11 09:00
+MHDA- 2000/05/20 09:00
+CRDT- 2000/04/11 09:00
+PHST- 2000/04/11 09:00 [pubmed]
+PHST- 2000/05/20 09:00 [medline]
+PHST- 2000/04/11 09:00 [entrez]
+AID - 10.1055/s-2000-8890 [doi]
+PST - ppublish
+SO  - Thorac Cardiovasc Surg. 2000 Feb;48(1):15-21. doi: 10.1055/s-2000-8890.

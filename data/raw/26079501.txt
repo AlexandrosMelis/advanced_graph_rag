@@ -1,0 +1,102 @@
+PMID- 26079501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160525
+LR  - 20181202
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+VI  - 22
+DP  - 2015 Oct
+TI  - Does base deficit predict mortality in patients with severe traumatic brain 
+      injury?
+PG  - 125-30
+LID - S1743-9191(15)00288-5 [pii]
+LID - 10.1016/j.ijsu.2015.05.054 [doi]
+AB  - OBJECTIVE: Base Deficit (BD) is a marker of tissue hypoxia in polytrauma 
+      patients. It guides resuscitative measures, and predicts outcomes, complications 
+      and mortality. The aim of this study was to examine the presence of BD in 
+      patients with isolated severe traumatic brain injury (TBI), and to assess if it 
+      correlates with the outcomes in these patients. METHOD: This was a retrospective 
+      observational study. All patients over the age of 16 years presenting to Aga Khan 
+      University Hospital from 2009 to 2013 with isolated TBI, were included. Data was 
+      extracted from 2009 to 2013. Glasgow Outcome Scale (GOS) of 4 and 5 at last 
+      follow up was categorized as favorable outcome. Data was analyzed using SPSS 
+      version 19 and receiver operative curve (ROC) was generated for BD as a predictor 
+      of mortality and unfavorable outcome. RESULTS: One hundred and eight patients 
+      were analyzed. Ninety-eight (90.7%) were males. Mean age was 36.69 +/- 17.65. 
+      Eighty-eight (81.5%) patients had BD, while 20 (18.5%) patients had base excess. 
+      62 (58.5%) of the patients had unfavorable outcomes. BD on admission had a 
+      statistically significant negative correlation with Glasgow Coma Scale (GCS) on 
+      presentation (r = -0.239, p = 0.025) and Revised Trauma Score (RTS) (r = -0.214, 
+      p = 0.046). However, there was no statistically significant difference in means 
+      of BD between survivors and non survivors. Area under receiver operator curve 
+      (ROC) for BD as a predictor of mortality statistically non-significant. 
+      CONCLUSION: Although BD is correlated with GCS at presentation and RTS, it is not 
+      a reliable prognostic marker for outcome and mortality in patients with isolated 
+      TBI.
+CI  - Copyright (c) 2015 IJS Publishing Group Limited. Published by Elsevier Ltd. All 
+      rights reserved.
+FAU - Shallwani, Hussain
+AU  - Shallwani H
+AD  - Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+      Electronic address: hussainshallwani@hotmail.com.
+FAU - Waqas, Muhammad
+AU  - Waqas M
+AD  - Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+      Electronic address: shaiq_waqas@hotmail.com.
+FAU - Waheed, Shahan
+AU  - Waheed S
+AD  - Department of Emergency Medicine, The Aga Khan University Hospital Karachi, 
+      Pakistan. Electronic address: docshahan83@hotmail.com.
+FAU - Siddiqui, Mubbashira
+AU  - Siddiqui M
+AD  - Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+      Electronic address: mubbashira_siddiqui@hotmail.com.
+FAU - Froz, Asher
+AU  - Froz A
+AD  - The Aga Khan University Hospital Karachi, Pakistan. Electronic address: 
+      asher.froz@aku.edu.
+FAU - Bari, Muhammad Ehsan
+AU  - Bari ME
+AD  - Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+      Electronic address: ehsan.bari@aku.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20150614
+PL  - United States
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Acid-Base Imbalance/*complications
+MH  - Adult
+MH  - Biomarkers
+MH  - Brain Injuries/*complications/*mortality
+MH  - Female
+MH  - Glasgow Coma Scale
+MH  - Humans
+MH  - Hypoxia/complications
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Base deficit
+OT  - Outcomes
+OT  - Traumatic brain injury
+EDAT- 2015/06/17 06:00
+MHDA- 2016/05/26 06:00
+CRDT- 2015/06/17 06:00
+PHST- 2015/04/11 00:00 [received]
+PHST- 2015/05/04 00:00 [accepted]
+PHST- 2015/06/17 06:00 [entrez]
+PHST- 2015/06/17 06:00 [pubmed]
+PHST- 2016/05/26 06:00 [medline]
+AID - S1743-9191(15)00288-5 [pii]
+AID - 10.1016/j.ijsu.2015.05.054 [doi]
+PST - ppublish
+SO  - Int J Surg. 2015 Oct;22:125-30. doi: 10.1016/j.ijsu.2015.05.054. Epub 2015 Jun 
+      14.

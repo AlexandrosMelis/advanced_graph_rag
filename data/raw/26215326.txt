@@ -1,0 +1,99 @@
+PMID- 26215326
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160216
+LR  - 20151103
+IS  - 1097-6868 (Electronic)
+IS  - 0002-9378 (Linking)
+VI  - 213
+IP  - 5
+DP  - 2015 Nov
+TI  - Does the clinical presentation of a prior preterm birth predict risk in a 
+      subsequent pregnancy?
+PG  - 686.e1-7
+LID - S0002-9378(15)00779-6 [pii]
+LID - 10.1016/j.ajog.2015.07.029 [doi]
+AB  - OBJECTIVE: The objective of the study was to determine whether risk of recurrent 
+      preterm birth differs based on the clinical presentation of a prior spontaneous 
+      preterm birth (SPTB): advanced cervical dilatation (ACD), preterm premature 
+      rupture of membranes (PPROM), or preterm labor (PTL). STUDY DESIGN: This 
+      retrospective cohort study included singleton pregnancies from 2009 to 2014 
+      complicated by a history of prior SPTB. Women were categorized based on the 
+      clinical presentation of their prior preterm delivery as having ACD, PPROM, or 
+      PTL. Risks for sonographic short cervical length and recurrent SPTB were compared 
+      between women based on the clinical presentation of their prior preterm birth. 
+      Log-linear regression was used to control for confounders. RESULTS: Of 522 
+      patients included in this study, 96 (18.4%) had prior ACD, 246 (47.1%) had prior 
+      PPROM, and 180 (34.5%) had prior PTL. Recurrent PTB occurred in 55.2% of patients 
+      with a history of ACD compared with 27.2% of those with PPROM and 32.2% with PTL 
+      (P = .001). The mean gestational age at delivery was significantly lower for 
+      those with a history of ACD (34.0 weeks) compared with women with prior PPROM 
+      (37.2 weeks) or PTL (37.0 weeks) (P = .001). The lowest mean cervical length 
+      prior to 24 weeks was significantly shorter in patients with a history of 
+      advanced cervical dilation when compared with the other clinical presentations. 
+      CONCLUSION: Patients with a history of ACD are at an increased risk of having 
+      recurrent preterm birth and cervical shortening in a subsequent pregnancy 
+      compared with women with prior preterm birth associated PPROM or PTL.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Drassinower, Daphnie
+AU  - Drassinower D
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY. Electronic address: daphniedrassinower@yahoo.com.
+FAU - Obican, Sarah G
+AU  - Obican SG
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY.
+FAU - Siddiq, Zainab
+AU  - Siddiq Z
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY.
+FAU - Heller, Danielle
+AU  - Heller D
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY.
+FAU - Gyamfi-Bannerman, Cynthia
+AU  - Gyamfi-Bannerman C
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY.
+FAU - Friedman, Alexander M
+AU  - Friedman AM
+AD  - Department of Obstetrics and Gynecology, Columbia University Medical Center, New 
+      York, NY.
+LA  - eng
+PT  - Journal Article
+DEP - 20150726
+PL  - United States
+TA  - Am J Obstet Gynecol
+JT  - American journal of obstetrics and gynecology
+JID - 0370476
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Fetal Membranes, Premature Rupture/*epidemiology
+MH  - Gestational Age
+MH  - Humans
+MH  - *Labor Stage, First
+MH  - Pregnancy
+MH  - *Pregnancy Outcome
+MH  - Premature Birth/*epidemiology
+MH  - Recurrence
+MH  - Retrospective Studies
+MH  - Risk Assessment
+OTO - NOTNLM
+OT  - advanced cervical dilation
+OT  - recurrence risk
+OT  - recurrent preterm birth
+EDAT- 2015/07/29 06:00
+MHDA- 2016/02/18 06:00
+CRDT- 2015/07/29 06:00
+PHST- 2015/04/22 00:00 [received]
+PHST- 2015/06/15 00:00 [revised]
+PHST- 2015/07/18 00:00 [accepted]
+PHST- 2015/07/29 06:00 [entrez]
+PHST- 2015/07/29 06:00 [pubmed]
+PHST- 2016/02/18 06:00 [medline]
+AID - S0002-9378(15)00779-6 [pii]
+AID - 10.1016/j.ajog.2015.07.029 [doi]
+PST - ppublish
+SO  - Am J Obstet Gynecol. 2015 Nov;213(5):686.e1-7. doi: 10.1016/j.ajog.2015.07.029. 
+      Epub 2015 Jul 26.

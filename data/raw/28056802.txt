@@ -1,0 +1,115 @@
+PMID- 28056802
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171010
+LR  - 20181113
+IS  - 1471-2261 (Electronic)
+IS  - 1471-2261 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2017 Jan 5
+TI  - Is non-HDL-cholesterol a better predictor of long-term outcome in patients after 
+      acute myocardial infarction compared to LDL-cholesterol? : a retrospective study.
+PG  - 10
+LID - 10.1186/s12872-016-0450-9 [doi]
+LID - 10
+AB  - BACKGROUND: It has recently been shown that non-high density lipoprotein 
+      cholesterol (non-HDL-C) may be a better predictor of cardiovascular risk than low 
+      density lipoprotein cholesterol (LDL-C). Based on known ethic differences in 
+      lipid parameters and cardiovascular risk prediction, we sought to study the 
+      predictability of attaining non-HDL-C target and long-term major adverse 
+      cardiovascular event (MACE) in Thai patients after acute myocardial infarction 
+      (AMI) compared to attaining LDL-C target. METHODS: We retrospectively obtained 
+      the data of all patients who were admitted at Maharaj Nakorn Chiang Mai hospital 
+      due to AMI during 2006-2013. The mean non-HDL-C and LDL-C during long-term 
+      follow-up were used to predict MACE at each time point. The patients were 
+      classified as target attainment if non-HDL-C <100 mg/dl and/or LDL-C <70 mg/dl. 
+      The MACE was defined as combination of all-cause death, nonfatal coronary event 
+      and nonfatal stroke. RESULTS: During mean follow-up of 2.6 +/- 1.6 years among 868 
+      patients after AMI, 34.4% achieved non-HDL-C target, 23.7% achieved LDL-C target 
+      and 21.2% experienced MACEs. LDL-C and non-HDL-C were directly compared in Cox 
+      regression model. Compared with non-HDL-C <100 mg/dl, patients with non-HDL-C of 
+      >130 mg/dl had higher incidence of MACEs (HR 3.15, 95% CI 1.46-6.80, P = 0.003). 
+      Surprisingly, LDL-C >100 mg/dl was associated with reduced risk of MACE as 
+      compared to LDL <70 mg/dl (HR 0.42, 95% CI 0.18-0.98, p = 0.046) after direct 
+      pairwise comparison with non-HDL-C level. CONCLUSIONS: Non-attaining non-HDL-C 
+      goal predicted MACE at long-term follow-up after AMI whereas non-attaining LDL-C 
+      goal was not associated with the higher risk. Therefore, non-HDL-C may be a more 
+      suitable target of dyslipidemia treatment than LDL-C in patients after AMI.
+FAU - Wongcharoen, Wanwarang
+AU  - Wongcharoen W
+AD  - Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, 
+      Chiang Mai, Thailand.
+FAU - Sutthiwutthichai, Satjatham
+AU  - Sutthiwutthichai S
+AD  - Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, 
+      Chiang Mai, Thailand.
+FAU - Gunaparn, Siriluck
+AU  - Gunaparn S
+AD  - Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, 
+      Chiang Mai, Thailand.
+FAU - Phrommintikul, Arintaya
+AU  - Phrommintikul A
+AD  - Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, 
+      Chiang Mai, Thailand. arintaya.p@cmu.ac.th.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170105
+PL  - England
+TA  - BMC Cardiovasc Disord
+JT  - BMC cardiovascular disorders
+JID - 100968539
+RN  - 0 (Biomarkers)
+RN  - 0 (Cardiovascular Agents)
+RN  - 0 (Cholesterol, LDL)
+RN  - 0 (Hypolipidemic Agents)
+RN  - 97C5T2UQ7J (Cholesterol)
+SB  - IM
+MH  - Aged
+MH  - Biomarkers/blood
+MH  - Cardiovascular Agents/therapeutic use
+MH  - Chi-Square Distribution
+MH  - Cholesterol/*blood
+MH  - Cholesterol, LDL/*blood
+MH  - Dyslipidemias/blood/diagnosis/*drug therapy/epidemiology
+MH  - Female
+MH  - Humans
+MH  - Hypolipidemic Agents/*therapeutic use
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Non-ST Elevated Myocardial Infarction/blood/diagnosis/epidemiology/*therapy
+MH  - Percutaneous Coronary Intervention
+MH  - Proportional Hazards Models
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - ST Elevation Myocardial Infarction/blood/diagnosis/*epidemiology
+MH  - Secondary Prevention/*methods
+MH  - Thailand/epidemiology
+MH  - Thrombolytic Therapy
+MH  - Time Factors
+MH  - Treatment Outcome
+PMC - PMC5217612
+OTO - NOTNLM
+OT  - Acute myocardial infarction
+OT  - LDL-cholesterol
+OT  - Major adverse cardiovascular events
+OT  - Non-HDL-cholesterol
+EDAT- 2017/01/07 06:00
+MHDA- 2017/10/11 06:00
+PMCR- 2017/01/05
+CRDT- 2017/01/07 06:00
+PHST- 2016/05/06 00:00 [received]
+PHST- 2016/12/17 00:00 [accepted]
+PHST- 2017/01/07 06:00 [entrez]
+PHST- 2017/01/07 06:00 [pubmed]
+PHST- 2017/10/11 06:00 [medline]
+PHST- 2017/01/05 00:00 [pmc-release]
+AID - 10.1186/s12872-016-0450-9 [pii]
+AID - 450 [pii]
+AID - 10.1186/s12872-016-0450-9 [doi]
+PST - epublish
+SO  - BMC Cardiovasc Disord. 2017 Jan 5;17(1):10. doi: 10.1186/s12872-016-0450-9.

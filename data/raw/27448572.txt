@@ -1,0 +1,118 @@
+PMID- 27448572
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170615
+LR  - 20181202
+IS  - 1433-9285 (Electronic)
+IS  - 0933-7954 (Print)
+IS  - 0933-7954 (Linking)
+VI  - 51
+IP  - 11
+DP  - 2016 Nov
+TI  - Is duration of psychological treatment for depression related to return into 
+      treatment?
+PG  - 1495-1507
+AB  - PURPOSE: There is increasing pressure on mental health providers to reduce the 
+      duration of treatments, while retaining level of quality and effectiveness. The 
+      risk is that the population is underserved and therefore needs new treatment 
+      episodes. The primary aim of this study was to investigate whether duration of 
+      treatment and return into mental health care were related. METHODS: This study 
+      examined Dutch patients with an initial treatment episode in 2009 or 2010 in 
+      specialized mental health settings for depressive disorder (N = 85,754). 
+      Follow-up data about treatment episodes were available up until 2013. The data 
+      set included demographic (age, gender), and clinical factors (comorbidity with 
+      other DSM-IV Axis; scores on the 'Global Assessment of Functioning'). Cox 
+      regression analyses were used to assess whether duration of treatment and relapse 
+      into mental health care were related. RESULTS: The majority of patients did not 
+      return into mental health care (86 %). Patients with a shorter duration of 
+      treatment (5-250 min; 251-500 min and 751-1000 min) were slightly more likely to 
+      return (reference group: >1000 min) (HR 1.19 95 % CI 1.13-1.26; HR 1.11 95 % CI 
+      1.06-1.17; HR 1.18 95 % CI 1.11-1.25), adjusted for demographic and clinical 
+      variables. CONCLUSIONS: The results suggest that a longer duration of treatment 
+      may prevent return into mental health care in some groups. However, because of 
+      the design of the study, no causal inference can be drawn. Further research, 
+      preferably in a RCT, is needed to determine whether the trend towards lower 
+      intensity treatments is associated with repeated mental health care use.
+FAU - Boerema, A M
+AU  - Boerema AM
+AD  - Department of Clinical Neuro and Developmental Psychology, Section Clinical 
+      Psychology, Faculty of Behavioural and Movement Sciences, Vrije Universiteit 
+      Amsterdam, van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands. 
+      a.m.boerema@vu.nl.
+AD  - EMGO+ Institute for Health Care and Research, VU University Medical Centre, van 
+      der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands. a.m.boerema@vu.nl.
+FAU - Cuijpers, P
+AU  - Cuijpers P
+AD  - Department of Clinical Neuro and Developmental Psychology, Section Clinical 
+      Psychology, Faculty of Behavioural and Movement Sciences, Vrije Universiteit 
+      Amsterdam, van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands.
+AD  - EMGO+ Institute for Health Care and Research, VU University Medical Centre, van 
+      der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands.
+FAU - Beekman, A T F
+AU  - Beekman AT
+AD  - EMGO+ Institute for Health Care and Research, VU University Medical Centre, van 
+      der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands.
+AD  - Department of Psychiatry, VU University Medical Centre, van der Boechorststraat 
+      7, 1081 BT, Amsterdam, The Netherlands.
+FAU - Hellenthal, A
+AU  - Hellenthal A
+AD  - Statistics Netherlands (CBS), Henri Faasdreef 312, 2492 JP, The Hague, The 
+      Netherlands.
+FAU - Voorrips, L
+AU  - Voorrips L
+AD  - Statistics Netherlands (CBS), Henri Faasdreef 312, 2492 JP, The Hague, The 
+      Netherlands.
+FAU - van Straten, A
+AU  - van Straten A
+AD  - Department of Clinical Neuro and Developmental Psychology, Section Clinical 
+      Psychology, Faculty of Behavioural and Movement Sciences, Vrije Universiteit 
+      Amsterdam, van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands.
+AD  - EMGO+ Institute for Health Care and Research, VU University Medical Centre, van 
+      der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20160723
+PL  - Germany
+TA  - Soc Psychiatry Psychiatr Epidemiol
+JT  - Social psychiatry and psychiatric epidemiology
+JID - 8804358
+SB  - IM
+MH  - Adult
+MH  - Depression/psychology/*therapy
+MH  - Depressive Disorder/psychology/*therapy
+MH  - Diagnostic and Statistical Manual of Mental Disorders
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - *Mental Health Services
+MH  - Middle Aged
+MH  - Psychotherapy/*methods
+MH  - Recurrence
+MH  - Time Factors
+PMC - PMC5101270
+OTO - NOTNLM
+OT  - Brief therapy
+OT  - Duration of treatment
+OT  - Psychotherapy
+OT  - Return into treatment
+COIS- Compliance with ethical standards Ethical standards The manuscript does not 
+      contain clinical studies or patient data. The data included only information 
+      about the registered treatment activities and was not traceable to individual 
+      persons. Conflict of interest On behalf of all authors, the corresponding author 
+      states that there is no conflict of interest.
+EDAT- 2016/07/28 06:00
+MHDA- 2017/06/16 06:00
+PMCR- 2016/07/23
+CRDT- 2016/07/25 06:00
+PHST- 2015/12/17 00:00 [received]
+PHST- 2016/07/15 00:00 [accepted]
+PHST- 2016/07/28 06:00 [pubmed]
+PHST- 2017/06/16 06:00 [medline]
+PHST- 2016/07/25 06:00 [entrez]
+PHST- 2016/07/23 00:00 [pmc-release]
+AID - 10.1007/s00127-016-1267-7 [pii]
+AID - 1267 [pii]
+AID - 10.1007/s00127-016-1267-7 [doi]
+PST - ppublish
+SO  - Soc Psychiatry Psychiatr Epidemiol. 2016 Nov;51(11):1495-1507. doi: 
+      10.1007/s00127-016-1267-7. Epub 2016 Jul 23.

@@ -1,0 +1,90 @@
+PMID- 22233470
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120410
+LR  - 20240321
+IS  - 1471-2458 (Electronic)
+IS  - 1471-2458 (Linking)
+VI  - 12
+DP  - 2012 Jan 10
+TI  - Does the distribution of health care benefits in Kenya meet the principles of 
+      universal coverage?
+PG  - 20
+LID - 10.1186/1471-2458-12-20 [doi]
+AB  - BACKGROUND: The 58th World Health Assembly called for all health systems to move 
+      towards universal coverage where everyone has access to key promotive, 
+      preventive, curative and rehabilitative health interventions at an affordable 
+      cost. Universal coverage involves ensuring that health care benefits are 
+      distributed on the basis of need for care and not on ability to pay. The 
+      distribution of health care benefits is therefore an important policy question, 
+      which health systems should address. The aim of this study is to assess the 
+      distribution of health care benefits in the Kenyan health system, compare changes 
+      over two time periods and demonstrate the extent to which the distribution meets 
+      the principles of universal coverage. METHODS: Two nationally representative 
+      cross-sectional households surveys conducted in 2003 and 2007 were the main 
+      sources of data. A comprehensive analysis of the entire health system is 
+      conducted including the public sector, private-not-for-profit and 
+      private-for-profit sectors. Standard benefit incidence analysis techniques were 
+      applied and adopted to allow application to private sector services. RESULTS: The 
+      three sectors recorded similar levels of pro-rich distribution in 2003, but in 
+      2007, the private-not-for-profit sector was pro-poor, public sector benefits 
+      showed an equal distribution, while the private-for-profit sector remained 
+      pro-rich. Larger pro-rich disparities were recorded for inpatient compared to 
+      outpatient benefits at the hospital level, but primary health care services were 
+      pro-poor. Benefits were distributed on the basis of ability to pay and not on 
+      need for care. CONCLUSIONS: The principles of universal coverage require that all 
+      should benefit from health care according to need. The Kenyan health sector is 
+      clearly inequitable and benefits are not distributed on the basis of need. 
+      Deliberate efforts should be directed to restructuring the Kenyan health system 
+      to address access barriers and ensure that all Kenyans benefit from health care 
+      when they need it.
+FAU - Chuma, Jane
+AU  - Chuma J
+AD  - Kenya Medical Research Institute -Wellcome Trust Research Programme, Kilifi, 
+      Kenya. Jchuma@kilifi.kemri-wellcome.org
+FAU - Maina, Thomas
+AU  - Maina T
+FAU - Ataguba, John
+AU  - Ataguba J
+LA  - eng
+GR  - 092654/Wellcome Trust/United Kingdom
+GR  - 084516/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120110
+PL  - England
+TA  - BMC Public Health
+JT  - BMC public health
+JID - 100968562
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Health Policy
+MH  - Health Services Needs and Demand
+MH  - Healthcare Disparities/economics/*statistics & numerical data
+MH  - Hospitals, Proprietary/statistics & numerical data
+MH  - Hospitals, Public/statistics & numerical data
+MH  - Hospitals, Voluntary/statistics & numerical data
+MH  - Humans
+MH  - Insurance Benefits/*statistics & numerical data
+MH  - Insurance, Health/*statistics & numerical data
+MH  - Kenya
+MH  - Male
+MH  - Socioeconomic Factors
+MH  - Universal Health Insurance/organization & administration/standards/*statistics & 
+      numerical data
+PMC - PMC3280172
+EDAT- 2012/01/12 06:00
+MHDA- 2012/04/11 06:00
+PMCR- 2012/01/10
+CRDT- 2012/01/12 06:00
+PHST- 2011/08/16 00:00 [received]
+PHST- 2012/01/10 00:00 [accepted]
+PHST- 2012/01/12 06:00 [entrez]
+PHST- 2012/01/12 06:00 [pubmed]
+PHST- 2012/04/11 06:00 [medline]
+PHST- 2012/01/10 00:00 [pmc-release]
+AID - 1471-2458-12-20 [pii]
+AID - 10.1186/1471-2458-12-20 [doi]
+PST - epublish
+SO  - BMC Public Health. 2012 Jan 10;12:20. doi: 10.1186/1471-2458-12-20.

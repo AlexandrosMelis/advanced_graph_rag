@@ -1,0 +1,82 @@
+PMID- 23096188
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130104
+LR  - 20220309
+IS  - 1546-3141 (Electronic)
+IS  - 0361-803X (Linking)
+VI  - 199
+IP  - 5
+DP  - 2012 Nov
+TI  - Juvenile osteochondritis dissecans: is it a growth disturbance of the secondary 
+      physis of the epiphysis?
+PG  - 1121-8
+LID - 10.2214/AJR.11.8085 [doi]
+AB  - OBJECTIVE: The primary physis is responsible for longitudinal bone growth. 
+      Similarly, epiphysial growth relies on endochondral ossification from the 
+      circumferential secondary physeal [corrected]. injury can result in disruption of 
+      normal ossification. The cause of juvenile osteochondritis dissecans (OCD) 
+      remains elusive. We hypothesized that juvenile OCD results from an insult 
+      affecting endochondral ossification from the secondary physis. The purpose of our 
+      study was to evaluate the MRI appearance of the distal femoral 
+      epiphysis-particularly the secondary physis-of children with juvenile OCD and to 
+      compare these findings with the MRI findings of unaffected children. MATERIALS 
+      AND METHODS: Knee MRI examinations of 30 children (age range, 8 years 8 months to 
+      13 years 4 months) with OCD and 30 matched control patients were evaluated for 
+      skeletal maturity; location of the OCD lesion, if present; secondary physeal 
+      [corrected] continuity; overlying chondroepiphysial integrity, contour, and 
+      width; signal intensity of subchondral bone; and secondary physeal [corrected] 
+      conspicuity. Variables were compared using chi-square tests. RESULTS: All 
+      children were skeletally immature. Condylar lesions were medial in 24 knees and 
+      lateral in six knees. All were in the middle one third, posterior one third, or 
+      middle and posterior thirds in the sagittal plane. The majority of lesions 
+      spanned the intercondylar and middle one third of the femoral condyle in the 
+      coronal plane (73%). There was a significant difference between secondary physeal 
+      [corrected] disruption in juvenile OCD condyles compared with unaffected condyles 
+      (p < 0.001) and control condyles (p < 0.001). Compared with unaffected and 
+      control condyles, the OCD group showed chondroepiphysial widening (p < 0.001) and 
+      subchondral bone edema (p < 0.001) on MRI. Neither chondroepiphysial integrity 
+      nor chondroepiphysial contour was significantly different between groups (p = 
+      0.21, p = 0.31, respectively). CONCLUSION: MRI of children with OCD consistently 
+      showed secondary physis disruption, overlying chondroepiphysial widening, and 
+      subchondral bone edema. We suggest that disruption of normal endochondral 
+      ossification may be associated with juvenile OCD.
+FAU - Laor, Tal
+AU  - Laor T
+AD  - Department of Radiology, Cincinnati Children's Hospital Medical Center, 3333 
+      Burnet Ave, Cincinnati, OH 45229, USA. laor@cchmc.org
+FAU - Zbojniewicz, Andrew M
+AU  - Zbojniewicz AM
+FAU - Eismann, Emily A
+AU  - Eismann EA
+FAU - Wall, Eric J
+AU  - Wall EJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - AJR Am J Roentgenol
+JT  - AJR. American journal of roentgenology
+JID - 7708173
+SB  - IM
+EIN - AJR Am J Roentgenol. 2013 Jan;200(1):232
+MH  - Adolescent
+MH  - Case-Control Studies
+MH  - Chi-Square Distribution
+MH  - Child
+MH  - Epiphyses/*pathology
+MH  - Female
+MH  - Humans
+MH  - Knee Joint/*pathology
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Osteochondritis Dissecans/*diagnosis/pathology
+EDAT- 2012/10/26 06:00
+MHDA- 2013/01/05 06:00
+CRDT- 2012/10/26 06:00
+PHST- 2012/10/26 06:00 [entrez]
+PHST- 2012/10/26 06:00 [pubmed]
+PHST- 2013/01/05 06:00 [medline]
+AID - 199/5/1121 [pii]
+AID - 10.2214/AJR.11.8085 [doi]
+PST - ppublish
+SO  - AJR Am J Roentgenol. 2012 Nov;199(5):1121-8. doi: 10.2214/AJR.11.8085.

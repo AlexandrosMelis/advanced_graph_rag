@@ -1,0 +1,95 @@
+PMID- 20684175
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100914
+LR  - 20180813
+IS  - 1565-1088 (Print)
+VI  - 12
+IP  - 3
+DP  - 2010 Mar
+TI  - Vitamin D supplementation and regulatory T cells in apparently healthy subjects: 
+      vitamin D treatment for autoimmune diseases?
+PG  - 136-9
+AB  - BACKGROUND: Epidemiological data show significant associations of vitamin D 
+      deficiency and autoimmune diseases. Vitamin D may prevent autoimmunity by 
+      stimulating naturally occurring regulatory T cells. OBJECTIVES: To elucidate 
+      whether vitamin D supplementation increases Tregs frequency (%Tregs) within 
+      circulating CD4+ T cells. METHODS: We performed an uncontrolled vitamin D 
+      supplementation trial among 50 apparently healthy subjects including 
+      supplementation of 140,000 IU at baseline and after 4 weeks (visit 1). The final 
+      follow-up visit was performed 8 weeks after the baseline examination (visit 2). 
+      Blood was drawn at each study visit to determine 25-hydroxyvitamin D levels and 
+      %Tregs. Tregs were characterized as CD4+CD25++ T cells with expression of the 
+      transcription factor forkhead box P3 and low or absent expression of CD127. 
+      RESULTS: Forty-six study participants (65% females, mean age +/- SD 31 +/- 8 
+      years) completed the trial. 25(OH)D levels increased from 23.9 +/- 12.9 ng/ml at 
+      baseline to 45.9 +/- 14.0 ng/ml at visit 1 and 58.0 +/- 15.1 ng/ml at visit 2. 
+      %Tregs at baseline were 4.8 +/- 1.4. Compared to baseline levels we noticed a 
+      significant increase of %Tregs at study visit 1 (5.9 +/- 1.7, P < 0.001) and 2 
+      (5.6 +/- 1.6, P < 0.001). CONCLUSIONS: Vitamin D supplementation was associated 
+      with significantly increased %Tregs in apparently healthy individuals. This 
+      immunomodulatory effect of vitamin D might underlie the associations of vitamin D 
+      deficiency and autoimmune diseases. Hence, our finding provides a rationale for 
+      further studies to investigate vitamin D effects on autoimmunological processes.
+FAU - Prietl, Barbara
+AU  - Prietl B
+AD  - Division of Endocrinology and Nuclear Medicine, Medical University of Graz, 
+      Austria.
+FAU - Pilz, Stefan
+AU  - Pilz S
+FAU - Wolf, Michael
+AU  - Wolf M
+FAU - Tomaschitz, Andreas
+AU  - Tomaschitz A
+FAU - Obermayer-Pietsch, Barbara
+AU  - Obermayer-Pietsch B
+FAU - Graninger, Winfried
+AU  - Graninger W
+FAU - Pieber, Thomas R
+AU  - Pieber TR
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Israel
+TA  - Isr Med Assoc J
+JT  - The Israel Medical Association journal : IMAJ
+JID - 100930740
+RN  - 0 (FOXP3 protein, human)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (IL2RA protein, human)
+RN  - 0 (Immunologic Factors)
+RN  - 0 (Interleukin-2 Receptor alpha Subunit)
+RN  - 0 (Interleukin-7 Receptor alpha Subunit)
+RN  - 0 (Vitamins)
+RN  - 1406-16-2 (Vitamin D)
+RN  - 9007-41-4 (C-Reactive Protein)
+RN  - A288AR3C9H (25-hydroxyvitamin D)
+RN  - SY7Q814VUP (Calcium)
+SB  - IM
+CIN - Isr Med Assoc J. 2010 Mar;12(3):174-5. PMID: 20684184
+MH  - Adult
+MH  - C-Reactive Protein/analysis
+MH  - CD4 Lymphocyte Count
+MH  - CD4-Positive T-Lymphocytes/cytology
+MH  - Calcium/blood
+MH  - *Dietary Supplements
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Forkhead Transcription Factors/analysis
+MH  - Humans
+MH  - Immunologic Factors/pharmacology
+MH  - Interleukin-2 Receptor alpha Subunit/analysis
+MH  - Interleukin-7 Receptor alpha Subunit/analysis
+MH  - Male
+MH  - Pilot Projects
+MH  - T-Lymphocytes, Regulatory/classification/*drug effects
+MH  - Vitamin D/analogs & derivatives/blood/*pharmacology
+MH  - Vitamins/*pharmacology
+EDAT- 2010/08/06 06:00
+MHDA- 2010/09/16 06:00
+CRDT- 2010/08/06 06:00
+PHST- 2010/08/06 06:00 [entrez]
+PHST- 2010/08/06 06:00 [pubmed]
+PHST- 2010/09/16 06:00 [medline]
+PST - ppublish
+SO  - Isr Med Assoc J. 2010 Mar;12(3):136-9.

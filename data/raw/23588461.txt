@@ -1,0 +1,89 @@
+PMID- 23588461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131216
+LR  - 20140731
+IS  - 1699-5198 (Electronic)
+IS  - 0212-1611 (Linking)
+VI  - 27
+IP  - 6
+DP  - 2012 Nov-Dec
+TI  - Should ascitis volume and anthropometric measurements be estimated in 
+      hospitalized alcoholic cirrotics?
+PG  - 2089-92
+LID - S0212-16112012000600039 [pii]
+LID - 10.3305/nh.2012.27.6.6123 [doi]
+AB  - INTRODUCTION: Ascitis and undernutrition are frequent complications of cirrhosis, 
+      however ascitis volume and anthropometric assessment are not routinely documented 
+      or considered in prognostic evaluation. In a homogeneous cohort followed during 
+      two years these variables were scrutinized, aiming to ascertain relevance for 
+      longterm outcome. METHODS: Population (N = 25, all males with alcoholic 
+      cirrhosis) was recruited among patients hospitalized for uncomplicated ascitis. 
+      Exclusion criteria were refractory or tense ascitis, cancer, spontaneous 
+      bacterial peritonitis, bleeding varices and critical illness. Measurements 
+      included ultrasonographically estimated ascitis volume, dry body mass index/BMI , 
+      upper arm anthropometrics, hematologic counts and liver function tests. RESULTS: 
+      Population (age 48.3 +/- 11.3 years, BMI 21.1 +/- 3.5 kg/m(2), serum albumin 2.5 +/- 0.8 
+      g/dL) was mostly in the Child-Pugh C category (77.8%) but clinically stable. 
+      During the follow-up period of 22.6 +/- 3.8 months, additional hospitalizations 
+      numbered 1.7 +/- 1.0 and more than one quarter succumbed. Admission ascitis volume 
+      corresponded to 7.1 +/- 3.6 L and dry BMI to 18.3 +/- 3.5 kg/m(2). Child Pugh index was 
+      relevant for both mortality and rehospitalization. Nevertheless, similar matches 
+      for mortality were documented with ascitis volume and dry BMI, and arm 
+      circumference below the 5th percentile was highly significantly associated with 
+      rehospitalization. CONCLUSIONS: A greater association than hitherto acknowledged, 
+      between ascitis volume and anthropometric measurements from one side, and 
+      long-term rehospitalization and mortality from the other, was demonstrated in 
+      male stable alcoholic cirrhotics. Further studies with alcoholic and other 
+      modalities of cirrhosis including women are recommended.
+FAU - Silva, E M
+AU  - Silva EM
+AD  - University Hospital Lauro Wanderley, Federal University of Paraiba. Joao Pessoa. 
+      Brazil.
+FAU - Morais, L C S L
+AU  - Morais LC
+FAU - Medeiros Filho, J E M
+AU  - Medeiros Filho JE
+FAU - Asciutti, L S R
+AU  - Asciutti LS
+FAU - Rocha, H A C
+AU  - Rocha HA
+FAU - Costa, Ma J C
+AU  - Costa MJ
+FAU - Goncalves, Ma C R
+AU  - Goncalves MC
+FAU - Faintuch, J
+AU  - Faintuch J
+LA  - eng
+PT  - Journal Article
+PL  - Spain
+TA  - Nutr Hosp
+JT  - Nutricion hospitalaria
+JID - 9100365
+SB  - IM
+MH  - Adult
+MH  - Anthropometry
+MH  - Ascites/*pathology
+MH  - Ascitic Fluid/cytology
+MH  - Blood Chemical Analysis
+MH  - Cohort Studies
+MH  - Female
+MH  - Hospitalization
+MH  - Humans
+MH  - Liver Cirrhosis, Alcoholic/mortality/*pathology/therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Recurrence
+MH  - Treatment Outcome
+EDAT- 2013/04/17 06:00
+MHDA- 2013/12/18 06:00
+CRDT- 2013/04/17 06:00
+PHST- 2012/08/20 00:00 [received]
+PHST- 2012/10/13 00:00 [accepted]
+PHST- 2013/04/17 06:00 [entrez]
+PHST- 2013/04/17 06:00 [pubmed]
+PHST- 2013/12/18 06:00 [medline]
+AID - S0212-16112012000600039 [pii]
+AID - 10.3305/nh.2012.27.6.6123 [doi]
+PST - ppublish
+SO  - Nutr Hosp. 2012 Nov-Dec;27(6):2089-92. doi: 10.3305/nh.2012.27.6.6123.

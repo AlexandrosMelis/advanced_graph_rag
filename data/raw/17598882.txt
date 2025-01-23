@@ -1,0 +1,89 @@
+PMID- 17598882
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070914
+LR  - 20181113
+IS  - 1465-542X (Electronic)
+IS  - 1465-5411 (Print)
+IS  - 1465-5411 (Linking)
+VI  - 9
+IP  - 3
+DP  - 2007
+TI  - Is breast cancer prognosis inherited?
+PG  - R39
+AB  - INTRODUCTION: A genetic component is well established in the etiology of breast 
+      cancer. It is not well known, however, whether genetic traits also influence 
+      prognostic features of the malignant phenotype. METHODS: We carried out a 
+      population-based cohort study in Sweden based on the nationwide Multi-Generation 
+      Register. Among all women with breast cancer diagnosed from 1961 to 2001, 2,787 
+      mother-daughter pairs and 831 sister pairs with breast cancer were identified; we 
+      achieved complete follow-up and classified 5-year breast cancer-specific 
+      prognosis among proband (mother or oldest sister) into tertiles as poor, 
+      intermediary, or good. We used Kaplan-Meier estimates of survival proportions and 
+      Cox models to calculate relative risks of dying from breast cancer within 5 years 
+      depending on the proband's outcome. RESULTS: The 5-year survival proportion among 
+      daughters whose mothers died within 5 years was 87% compared to 91% if the mother 
+      was alive (p = 0.03). Among sisters, the corresponding proportions were 70% and 
+      88%, respectively (p = 0.001). After adjustment for potential confounders, 
+      daughters and sisters of a proband with poor prognosis had a 60% higher 5-year 
+      breast cancer mortality compared to those of a proband with good prognosis 
+      (hazard ratio [HR], 1.6; 95% confidence interval [CI], 1.2 to 2.2; p for trend 
+      0.002). This association was slightly stronger among sisters (HR, 1.8; 95% CI, 
+      1.0 to 3.4) than among daughters (HR, 1.6; 95% CI, 1.1 to 2.3). CONCLUSION: 
+      Breast cancer prognosis of a woman predicts the survival in her first-degree 
+      relatives with breast cancer. Our novel findings suggest that breast cancer 
+      prognosis might be inherited.
+FAU - Hartman, Mikael
+AU  - Hartman M
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm, Sweden. mikael.hartman@ki.se
+FAU - Lindstrom, Linda
+AU  - Lindstrom L
+FAU - Dickman, Paul W
+AU  - Dickman PW
+FAU - Adami, Hans-Olov
+AU  - Adami HO
+FAU - Hall, Per
+AU  - Hall P
+FAU - Czene, Kamila
+AU  - Czene K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Breast Cancer Res
+JT  - Breast cancer research : BCR
+JID - 100927353
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Breast Neoplasms/*epidemiology/*genetics/mortality/physiopathology
+MH  - Cause of Death
+MH  - Cohort Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Middle Aged
+MH  - Nuclear Family
+MH  - Prognosis
+MH  - Registries
+MH  - Survival Analysis
+MH  - Survivors
+MH  - Sweden/epidemiology
+MH  - Time Factors
+PMC - PMC1929105
+EDAT- 2007/06/30 09:00
+MHDA- 2007/09/15 09:00
+PMCR- 2007/06/28
+CRDT- 2007/06/30 09:00
+PHST- 2007/02/06 00:00 [received]
+PHST- 2007/04/25 00:00 [revised]
+PHST- 2007/06/28 00:00 [accepted]
+PHST- 2007/06/30 09:00 [pubmed]
+PHST- 2007/09/15 09:00 [medline]
+PHST- 2007/06/30 09:00 [entrez]
+PHST- 2007/06/28 00:00 [pmc-release]
+AID - bcr1737 [pii]
+AID - 10.1186/bcr1737 [doi]
+PST - ppublish
+SO  - Breast Cancer Res. 2007;9(3):R39. doi: 10.1186/bcr1737.

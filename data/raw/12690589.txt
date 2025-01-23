@@ -1,0 +1,80 @@
+PMID- 12690589
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030513
+LR  - 20161118
+IS  - 0003-9993 (Print)
+IS  - 0003-9993 (Linking)
+VI  - 84
+IP  - 4
+DP  - 2003 Apr
+TI  - Can continuous physical training counteract aging effect on myoelectric fatigue? 
+      A surface electromyography study application.
+PG  - 513-7
+AB  - OBJECTIVES: To compare the myoelectric onset of muscle fatigue in physically 
+      active trained young skiers with respect to elderly skiers and to test whether 
+      continuous training can counteract the selective loss of type II muscle fibers 
+      usually observed with aging. DESIGN: An observational, cross-sectional study of 
+      the myoelectric onset of muscle fatigue in the left tibialis anterior muscles. 
+      SETTING: Surface electromyography recorded with portable devices at a downhill 
+      ski rescue lodge in the Italian Alps. PARTICIPANTS: Fifty-four physically 
+      trained, active skiers (43 men, 11 women; age range, 24-85y). INTERVENTIONS: 
+      Questionnaire on physical activity and 2 sustained isometric voluntary 
+      contractions at 20% and 2 at 80% of the maximal voluntary contraction level. MAIN 
+      OUTCOME MEASURES: Isometric contractions and mean and median spectral frequencies 
+      calculated to monitor the myoelectric manifestations of muscle fatigue. RESULTS: 
+      Fatigue indices did not differ significantly between younger and older subjects 
+      and, thus, did not show a correlation between myoelectric manifestations of 
+      muscle fatigue and age in physically active subjects. CONCLUSION: It appears 
+      possible that aging skeletal muscles subjected to continuous exercise develop an 
+      adaptive response that counteracts the selective loss of type II muscle fibers 
+      usually observed in the muscles of elderly sedentary subjects. Our results 
+      suggest that physical activity could be considered in the elderly within a broad 
+      rehabilitative framework in which appropriate and even tailored physical training 
+      could be planned to counteract the physiologic effects of aging on muscle fiber 
+      distribution.
+FAU - Casale, Roberto
+AU  - Casale R
+AD  - Department of Clinical Neurophysiology, Salvatore Maugeri Foundation, IRCCS, 
+      Scientific Institute of Montescano, Montescano, Italy. rcasale@fsm.it
+FAU - Rainoldi, Alberto
+AU  - Rainoldi A
+FAU - Nilsson, Jan
+AU  - Nilsson J
+FAU - Bellotti, Pasquale
+AU  - Bellotti P
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Arch Phys Med Rehabil
+JT  - Archives of physical medicine and rehabilitation
+JID - 2985158R
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*physiology
+MH  - Cross-Sectional Studies
+MH  - Electromyography
+MH  - Exercise/*physiology
+MH  - Female
+MH  - Humans
+MH  - Isometric Contraction/physiology
+MH  - Leg/physiology
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle Fatigue/*physiology
+MH  - Muscle, Skeletal/*physiology
+MH  - Physical Fitness/*physiology
+EDAT- 2003/04/12 05:00
+MHDA- 2003/05/14 05:00
+CRDT- 2003/04/12 05:00
+PHST- 2003/04/12 05:00 [pubmed]
+PHST- 2003/05/14 05:00 [medline]
+PHST- 2003/04/12 05:00 [entrez]
+AID - S0003-9993(02)04901-8 [pii]
+AID - 10.1053/apmr.2003.50083 [doi]
+PST - ppublish
+SO  - Arch Phys Med Rehabil. 2003 Apr;84(4):513-7. doi: 10.1053/apmr.2003.50083.

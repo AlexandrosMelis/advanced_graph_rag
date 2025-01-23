@@ -1,0 +1,90 @@
+PMID- 10808977
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000524
+LR  - 20191025
+IS  - 0749-3797 (Print)
+IS  - 0749-3797 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2000 Jan
+TI  - Can tailored interventions increase mammography use among HMO women?
+PG  - 1-10
+AB  - BACKGROUND: Telephone counseling and tailored print communications have emerged 
+      as promising methods for promoting mammography screening. However, there has been 
+      little research testing, within the same randomized field trial, of the efficacy 
+      of these two methods compared to a high-quality usual care system for enhancing 
+      screening. This study addressed the question: Compared to usual care, is tailored 
+      telephone counseling more effective than tailored print materials for promoting 
+      mammography screening? DESIGN: Three-year randomized field trial. PARTICIPANTS: 
+      One thousand ninety-nine women aged 50 and older recruited from a health 
+      maintenance organization in North Carolina. INTERVENTION: Women were randomized 
+      to 1 of 3 groups: (1) usual care, (2) tailored print communications, and (3) 
+      tailored telephone counseling. MAIN OUTCOME: Adherence to mammography screening 
+      based on self-reports obtained during 1995, 1996, and 1997. RESULTS: Compared to 
+      usual care alone, telephone counseling promoted a significantly higher proportion 
+      of women having mammograms on schedule (71% vs 61%) than did tailored print (67% 
+      vs 61%) but only after the first year of intervention (during 1996). Furthermore, 
+      compared to usual care, telephone counseling was more effective than tailored 
+      print materials at promoting being on schedule with screening during 1996 and 
+      1997 among women who were off-schedule during the previous year. CONCLUSIONS: The 
+      effects of the intervention were most pronounced after the first intervention. 
+      Compared to usual care, telephone counseling seemed particularly effective at 
+      promoting change among nonadherent women, the group for whom the intervention was 
+      developed. These results suggest that telephone counseling, rather than tailored 
+      print, might be the preferred first-line intervention for getting nonadherent 
+      women on schedule for mammography screening. Many questions would have to be 
+      answered about why the tailored print intervention was not more powerful. 
+      Nevertheless, it is clear that additional interventions will be needed to 
+      maintain women's adherence to mammography. Medical Subject Headings (MeSH): 
+      mammography screening, telephone counseling, tailored print communications, 
+      barriers.
+FAU - Lipkus, I M
+AU  - Lipkus IM
+AD  - Cancer Prevention, Detection and Control Research Program, Duke Comprehensive 
+      Cancer Center, Duke University Medical Center, Durham, North Carolina 27710, USA. 
+      mc.duke.edu.
+FAU - Rimer, B K
+AU  - Rimer BK
+FAU - Halabi, S
+AU  - Halabi S
+FAU - Strigo, T S
+AU  - Strigo TS
+LA  - eng
+GR  - 1R01CA63782-05/CA/NCI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - Netherlands
+TA  - Am J Prev Med
+JT  - American journal of preventive medicine
+JID - 8704773
+SB  - IM
+MH  - Cost-Benefit Analysis
+MH  - Female
+MH  - Health Maintenance Organizations
+MH  - Humans
+MH  - Logistic Models
+MH  - Mammography/*statistics & numerical data
+MH  - Marketing of Health Services/economics/*methods
+MH  - Middle Aged
+MH  - North Carolina
+MH  - Odds Ratio
+MH  - Pamphlets
+MH  - *Patient Acceptance of Health Care
+MH  - Patient Satisfaction
+MH  - *Reminder Systems/economics
+MH  - Telephone
+EDAT- 2000/05/16 09:00
+MHDA- 2000/06/08 09:00
+CRDT- 2000/05/16 09:00
+PHST- 2000/05/16 09:00 [pubmed]
+PHST- 2000/06/08 09:00 [medline]
+PHST- 2000/05/16 09:00 [entrez]
+AID - S0749-3797(99)00106-3 [pii]
+AID - 10.1016/s0749-3797(99)00106-3 [doi]
+PST - ppublish
+SO  - Am J Prev Med. 2000 Jan;18(1):1-10. doi: 10.1016/s0749-3797(99)00106-3.

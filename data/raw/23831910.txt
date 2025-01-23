@@ -1,0 +1,67 @@
+PMID- 23831910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131219
+LR  - 20130708
+IS  - 1121-421X (Print)
+IS  - 1121-421X (Linking)
+VI  - 59
+IP  - 2
+DP  - 2013 Jun
+TI  - Double balloon enteroscopy: is it efficacious and safe in a community setting?
+PG  - 205-10
+AB  - AIM: Double balloon enteroscopy (DBE) has been extensively used in tertiary 
+      referral centers but little literature exists on the efficacy, complications and 
+      outcomes of patients undergoing DBE in the community setting. We present our 
+      findings regarding the use of DBE in a community hospital. METHODS: From March 
+      2007 to January 2011, 88 DBE procedures were performed on 66 patients. 
+      Indications included evaluation anemia/gastrointestinal bleed, small bowel IBD 
+      and dilation of strictures. Video-capsule endoscopy (VCE) was used prior to DBE 
+      in 43 of the 66 patients prior to DBE evaluation. RESULTS: The mean age was 62 
+      years. Thirty-two patients were female, 15 were African-American; 44 antegrade 
+      and 44 retrograde DBEs were performed. The mean time per antegrade DBE was 
+      107.4+/-30.0 minutes with a distance of 318.4+/-152.9 cm reached past the pylorus. 
+      The mean time per lower DBE was 100.7+/-27.3 minutes with 168.9+/-109.1 cm meters 
+      past the ileocecal valve reached. Endoscopic therapy in the form of 
+      electrocautery to ablate bleeding sources was performed in 20 patients (30.3%), 
+      biopsy in 17 patients (25.8%) and dilation of Crohn's-related small bowel 
+      strictures in 4 (6.1%). 43 VCEs with pathology noted were performed prior to DBE, 
+      with findings endoscopically confirmed in 32 cases (74.4%). In 3 cases the DBE 
+      showed findings not noted on VCE. CONCLUSION: DBE appears to be equally safe and 
+      effective when performed in the community setting as compared to a tertiary 
+      referral center with a comparable yield, efficacy, and complication rate.
+FAU - Sorser, S A
+AU  - Sorser SA
+AD  - Department of Gastroenterology, Providence Hospital, Southfield, MI, USA - 
+      douglas.adler@hsc.utah.edu.
+FAU - Watson, A
+AU  - Watson A
+FAU - Gamarra, R M
+AU  - Gamarra RM
+FAU - Stawick, L E
+AU  - Stawick LE
+FAU - Adler, D G
+AU  - Adler DG
+LA  - eng
+PT  - Journal Article
+PL  - Italy
+TA  - Minerva Gastroenterol Dietol
+JT  - Minerva gastroenterologica e dietologica
+JID - 9109791
+SB  - IM
+MH  - Community Health Centers
+MH  - *Double-Balloon Enteroscopy/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Intestinal Diseases/diagnosis/surgery
+MH  - Male
+MH  - Middle Aged
+EDAT- 2013/07/09 06:00
+MHDA- 2013/12/20 06:00
+CRDT- 2013/07/09 06:00
+PHST- 2013/07/09 06:00 [entrez]
+PHST- 2013/07/09 06:00 [pubmed]
+PHST- 2013/12/20 06:00 [medline]
+AID - R08Y2013N02A0205 [pii]
+PST - ppublish
+SO  - Minerva Gastroenterol Dietol. 2013 Jun;59(2):205-10.

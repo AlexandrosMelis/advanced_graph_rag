@@ -1,0 +1,78 @@
+PMID- 24013712
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140730
+LR  - 20211021
+IS  - 1435-2451 (Electronic)
+IS  - 1435-2443 (Linking)
+VI  - 398
+IP  - 8
+DP  - 2013 Dec
+TI  - Preoperative platelet count in esophageal squamous cell carcinoma: is it a 
+      prognostic factor?
+PG  - 1115-22
+LID - 10.1007/s00423-013-1111-4 [doi]
+AB  - PURPOSE: Platelet count is inversely related to prognosis in many cancers; 
+      however, its role in esophageal cancer is still controversial. The purpose of 
+      this study was to determine the prognostic value of preoperative platelet count 
+      in esophageal squamous cell carcinoma (ESCC). METHODS: From January 2006 to 
+      December 2008, a retrospective analysis of 425 consecutive patients with ESCC was 
+      conducted. A receiver operating characteristic (ROC) curve for survival 
+      prediction was plotted to verify the optimum cutoff point for preoperative 
+      platelet count. Univariate and multivariate analyses were performed to evaluate 
+      the prognostic parameters. RESULTS: A ROC curve for survival prediction was 
+      plotted to verify the optimum cutoff point for platelet count, which was 205 (x 
+      10(9)/L). Patients with platelet count </= 205 had a significantly better 5-year 
+      survival than patients with a platelet count >205 (60.7 vs. 31.6 %, P < 0.001). 
+      The 5-year survival of patients either with platelet count </= 205 or >205 were 
+      similar (68.6 vs. 58.8 %, P = 0.085) when the nodes were negative. However, the 
+      5-year survival of patients with platelet count </= 205 was better than that of 
+      patients with a platelet count >205 when the nodes were involved (32.0 vs. 12.7 
+      %, P = 0.004). Multivariate analysis showed that platelet count (P = 0.013), T 
+      grade (P = 0.017), and N staging (P < 0.001) were independent prognostic factors. 
+      CONCLUSIONS: Preoperative platelet count is a predictive factor for long-term 
+      survival in ESCC, especially in nodal-positive patients. We conclude that 205 
+      (x10(9)/L) may be the optimum cutoff point for platelet count in predicting 
+      survival in ESCC patients.
+FAU - Feng, Ji Feng
+AU  - Feng JF
+AD  - Department of Thoracic Surgery, Zhejiang Cancer Hospital, No.38 Guangji Road, 
+      Banshan Bridge, Hangzhou, 310022, China, Jifzhejiang@gmail.com.
+FAU - Huang, Ying
+AU  - Huang Y
+FAU - Lu, Wei Shan
+AU  - Lu WS
+FAU - Chen, Qi Xun
+AU  - Chen QX
+LA  - eng
+PT  - Journal Article
+DEP - 20130908
+PL  - Germany
+TA  - Langenbecks Arch Surg
+JT  - Langenbeck's archives of surgery
+JID - 9808285
+SB  - IM
+MH  - Carcinoma, Squamous Cell/*blood/*pathology
+MH  - Esophageal Neoplasms/*blood/*pathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Staging
+MH  - *Platelet Count
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Survival Rate
+EDAT- 2013/09/10 06:00
+MHDA- 2014/07/31 06:00
+CRDT- 2013/09/10 06:00
+PHST- 2013/01/22 00:00 [received]
+PHST- 2013/08/26 00:00 [accepted]
+PHST- 2013/09/10 06:00 [entrez]
+PHST- 2013/09/10 06:00 [pubmed]
+PHST- 2014/07/31 06:00 [medline]
+AID - 10.1007/s00423-013-1111-4 [doi]
+PST - ppublish
+SO  - Langenbecks Arch Surg. 2013 Dec;398(8):1115-22. doi: 10.1007/s00423-013-1111-4. 
+      Epub 2013 Sep 8.

@@ -1,0 +1,111 @@
+PMID- 26708803
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171019
+LR  - 20171019
+IS  - 1873-4898 (Electronic)
+IS  - 1477-5131 (Linking)
+VI  - 12
+IP  - 5
+DP  - 2016 Oct
+TI  - Treatment of contralateral hydrocele in neonatal testicular torsion: Is less 
+      more?
+PG  - 306.e1-306.e4
+LID - S1477-5131(15)00308-3 [pii]
+LID - 10.1016/j.jpurol.2015.07.009 [doi]
+AB  - OBJECTIVE: Treatment of neonatal testicular torsion has two objectives: salvage 
+      of the involved testicle (which is rarely achieved) and preservation of the 
+      contralateral gonad. The second goal universally involves contralateral 
+      testicular scrotal fixation to prevent the future occurrence of contralateral 
+      torsion. However, there is controversy with regards to management of a 
+      synchronous contralateral hydrocele. It has been our policy not to address the 
+      contralateral hydrocele through an inguinal incision to minimize potential injury 
+      to the spermatic cord. Our objective in this study was to determine whether the 
+      decision to manage a contralateral hydrocele in cases of neonatal testicular 
+      torsion solely through a scrotal approach is safe and effective. PATIENTS AND 
+      METHOD: We reviewed all cases of neonatal testicular torsion occurring at our 
+      institution between the years 1999 and 2006. Age at presentation, physical 
+      examination, ultrasonographic and intraoperative findings were recorded. Patients 
+      were followed after initial surgical intervention to determine the likelihood of 
+      developing a subsequent hydrocele or hernia. RESULTS: Thirty-seven patients were 
+      identified as presenting with neonatal torsion. Age of presentation averaged 3.5 
+      days (range 1-14 days). Left-sided pathology was seen more commonly than the 
+      right, with a 25:12 distribution. All torsed testicles were nonviable. Twenty-two 
+      patients were noted to have a contralateral hydrocele at presentation. All 
+      hydroceles were opened through a scrotal approach at the time of contralateral 
+      scrotal fixation. No patient underwent an inguinal exploration to examine for a 
+      patent process vaginalis. None of the patients who presented with a hydrocele 
+      have developed a clinical hydrocele or hernia after an average 7.5 years (range 
+      4.3-11.2) follow-up. CONCLUSION: We have demonstrated that approaching a 
+      contralateral hydrocele in cases of neonatal testicular torsion solely through a 
+      scrotal incision is safe and effective. Inguinal exploration was not performed in 
+      our study and our long-term results demonstrate that such an approach would have 
+      brought no additional benefit. In avoiding an inguinal approach we did not 
+      subject our patients to unnecessary risk of testicular or vasal injury. 
+      Contralateral hydrocele is commonly seen in cases of neonatal testicular torsion. 
+      In our experience this is a condition of minimal clinical significance and does 
+      not warrant formal inguinal exploration for treatment. This conservative 
+      management strategy minimizes the potential of contralateral spermatic cord 
+      injury in the neonate. The aims of the study were met.
+CI  - Copyright (c) 2015 Journal of Pediatric Urology Company. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Kaefer, Martin
+AU  - Kaefer M
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA. Electronic 
+      address: mkaefer@iupui.edu.
+FAU - Agarwal, Deepak
+AU  - Agarwal D
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Misseri, Rosalia
+AU  - Misseri R
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Whittam, Benjamin
+AU  - Whittam B
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Hubert, Katherine
+AU  - Hubert K
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Szymanski, Konrad
+AU  - Szymanski K
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Rink, Richard
+AU  - Rink R
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+FAU - Cain, Mark P
+AU  - Cain MP
+AD  - Pediatric Urology, Riley Hospital for Children, Indianapolis, IN, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20150905
+PL  - England
+TA  - J Pediatr Urol
+JT  - Journal of pediatric urology
+JID - 101233150
+SB  - IM
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Retrospective Studies
+MH  - Spermatic Cord Torsion/*complications
+MH  - Testicular Hydrocele/*complications/*surgery
+MH  - Urologic Surgical Procedures, Male/methods
+OTO - NOTNLM
+OT  - Bladder injury
+OT  - Hydrocele
+OT  - Inguinal hernia
+OT  - Neonatal
+OT  - Spermatic cord injury
+OT  - Testicular torsion
+EDAT- 2015/12/29 06:00
+MHDA- 2017/10/20 06:00
+CRDT- 2015/12/29 06:00
+PHST- 2015/01/14 00:00 [received]
+PHST- 2015/07/18 00:00 [accepted]
+PHST- 2015/12/29 06:00 [pubmed]
+PHST- 2017/10/20 06:00 [medline]
+PHST- 2015/12/29 06:00 [entrez]
+AID - S1477-5131(15)00308-3 [pii]
+AID - 10.1016/j.jpurol.2015.07.009 [doi]
+PST - ppublish
+SO  - J Pediatr Urol. 2016 Oct;12(5):306.e1-306.e4. doi: 10.1016/j.jpurol.2015.07.009. 
+      Epub 2015 Sep 5.

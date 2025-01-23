@@ -1,0 +1,118 @@
+PMID- 25735444
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160721
+LR  - 20160104
+IS  - 1463-1318 (Electronic)
+IS  - 1462-8910 (Linking)
+VI  - 17
+IP  - 8
+DP  - 2015 Aug
+TI  - Rectal cancer threatening or affecting the prostatic plane: is partial 
+      prostatectomy oncologically adequate? Results of a multicentre retrospective 
+      study.
+PG  - 689-97
+LID - 10.1111/codi.12933 [doi]
+AB  - AIM: The management of rectal cancer threatening or affecting the prostatic plane 
+      is still under debate. The role of preoperative chemo radiotherapy and the extent 
+      of prostatectomy seem to be key points in the treatment of these tumours. The aim 
+      of the present study was to evaluate the pathological circumferential margin 
+      status and the local recurrence rate following different therapeutic options. 
+      METHOD: A multicentre, retrospective study was conducted of patients with rectal 
+      cancer threatening or affecting the prostatic plane, but not the bladder, judged 
+      by magnetic resonance imaging (MRI). The use of preoperative chemoradiotherapy 
+      and the type of urologic resection were correlated with the status of the 
+      pathological circumferential resection margin (CRM) and local recurrence. 
+      RESULTS: A consecutive series of 126 men with rectal cancer threatening (44) or 
+      affecting (82) the prostatic plane on preoperative staging and operated with 
+      local curative intent between 1998 and 2010 was analysed. In patients who did not 
+      have chemoradiotherapy but had a preoperative threatened anterior margin the 
+      CRM-positive rate was 25.0%. In patients who did not have preoperative 
+      chemoradiotherapy but did have an affected margin, the CRM-positive rate was 
+      41.7%. When preoperative radiotherapy was given, the respective CRM infiltration 
+      rates were 7.1 and 20.7%. In patients having preoperative chemoradiotherapy 
+      followed by prostatic resection the rate of CRM positivity was 2.4%. Partial 
+      prostatectomy after preoperative chemoradiotherapy resulted in a free anterior 
+      CRM in all cases, but intra-operative urethral damage occurred in 36.4% of 
+      patients who underwent partial prostatectomy, resulting in a postoperative 
+      urinary fistula in 18.2% of patients. CONCLUSION: Preoperative chemoradiation is 
+      mandatory in male patients with a threatened or affected anterior circumferential 
+      margin on preoperative MRI. In patients with preoperative prostatic infiltration, 
+      prostatic resection is necessary. In this group of patients partial prostatectomy 
+      seems to be oncologically safe.
+CI  - Colorectal Disease (c) 2015 The Association of Coloproctology of Great Britain and 
+      Ireland.
+FAU - Frasson, M
+AU  - Frasson M
+AD  - Colorectal Unit, Department of General Surgery, Hospital La Fe, University of 
+      Valencia, Valencia, Spain.
+FAU - Garcia-Granero, E
+AU  - Garcia-Granero E
+AD  - Colorectal Unit, Department of General Surgery, Hospital La Fe, University of 
+      Valencia, Valencia, Spain.
+FAU - Parajo, A
+AU  - Parajo A
+AD  - Colorectal Unit, Department of General Surgery, Complejo Hospitalario 
+      Universitario de Ourense, Ourense, Spain.
+FAU - Garcia-Mayor, L
+AU  - Garcia-Mayor L
+AD  - Colorectal Unit, Department of General Surgery, Hospital La Fe, University of 
+      Valencia, Valencia, Spain.
+FAU - Flor, B
+AU  - Flor B
+AD  - Colorectal Unit, Department of General Surgery, Hospital La Fe, University of 
+      Valencia, Valencia, Spain.
+FAU - Garcia-Granero, A
+AU  - Garcia-Granero A
+AD  - Spanish Association of Coloproctology (AECP), Bellvitge University Hospital and 
+      Valle de Hebron University Hospital, Barcelona, Spain.
+FAU - Lavery, I
+AU  - Lavery I
+AD  - Department of Colorectal Surgery, Digestive Disease Institute, Cleveland Clinic, 
+      Cleveland, Ohio, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - England
+TA  - Colorectal Dis
+JT  - Colorectal disease : the official journal of the Association of Coloproctology of 
+      Great Britain and Ireland
+JID - 100883611
+SB  - IM
+CIN - Colorectal Dis. 2016 Mar;18(3):312. doi: 10.1111/codi.13261. PMID: 26748906
+CIN - Colorectal Dis. 2016 Mar;18(3):312-3. doi: 10.1111/codi.13272. PMID: 26757199
+MH  - Aged
+MH  - Chemoradiotherapy, Adjuvant
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Neoadjuvant Therapy
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Recurrence, Local/*pathology
+MH  - Neoplasm, Residual
+MH  - Prostate/pathology/*surgery
+MH  - *Prostatectomy/adverse effects/methods
+MH  - Radiotherapy, Adjuvant
+MH  - Rectal Neoplasms/*pathology/*therapy
+MH  - Retrospective Studies
+MH  - Urethra/injuries
+MH  - Urinary Fistula/*etiology
+OTO - NOTNLM
+OT  - Rectal cancer
+OT  - locally advanced
+OT  - multivisceral resection
+OT  - partial prostatectomy
+OT  - preoperative radiotherapy
+OT  - prostate
+EDAT- 2015/03/05 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2015/03/05 06:00
+PHST- 2014/09/07 00:00 [received]
+PHST- 2015/01/20 00:00 [accepted]
+PHST- 2015/03/05 06:00 [entrez]
+PHST- 2015/03/05 06:00 [pubmed]
+PHST- 2016/07/22 06:00 [medline]
+AID - 10.1111/codi.12933 [doi]
+PST - ppublish
+SO  - Colorectal Dis. 2015 Aug;17(8):689-97. doi: 10.1111/codi.12933.

@@ -1,0 +1,85 @@
+PMID- 22540518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140520
+LR  - 20220331
+IS  - 1600-0501 (Electronic)
+IS  - 0905-7161 (Linking)
+VI  - 24
+IP  - 7
+DP  - 2013 Jul
+TI  - Is micro-computed tomography reliable to determine the microstructure of the 
+      maxillary alveolar bone?
+PG  - 730-7
+LID - 10.1111/j.1600-0501.2012.02478.x [doi]
+AB  - OBJECTIVES: To analyze the reliability of micro-computed tomography (micro-CT) to 
+      assess bone density and the microstructure of the maxillary bones at the alveolar 
+      process in human clinics by direct comparison with conventional stereologic-based 
+      histomorphometry. MATERIALS AND METHODS: Analysis of osseous microstructural 
+      variables including bone volumetric density (BV/TV) of 39 biopsies from the 
+      maxillary alveolar bone was performed by micro-CT. Conventional stereologic-based 
+      histomorphometry of 10 bone biopsies was performed by optic microscopy (OM) and 
+      low-vacuum surface electronic microscopy (SEM). Percentages of bone between 
+      micro-CT and conventional stereologic-based histomorphometry were compared. 
+      RESULTS: Significant positive correlations were observed between BV/TV and the 
+      percentage of bone (%Bone) analyzed by SEM (r = 0.933, P < 0.001), by toluidine 
+      blue staining OM (r = 0.950, P < 0.001) and by dark field OM (r = 0.667, 
+      P = 0.05). The high positive correlation coefficient between BV/TV and trabecular 
+      thickness illustrates that a value of BV/TV upper than 50% squares with a bone 
+      presenting most of their trabecules thicker than 0.2 mm. The high negative 
+      correlation between BV/TV and trabecular separation shows that values of BV/TV 
+      upper than 50% squares with a bone presenting most of their trabecules separated 
+      less than 0.3 mm each other. CONCLUSION: BV/TV assessed by micro-CT correlates 
+      with the percentage of bone assessed by conventional stereologic-based 
+      histomorphometry. Micro-CT is a reliable technique to determine the bone density 
+      and the microstructure of the maxillary alveolar bone at the site of dental 
+      implant insertion.
+CI  - (c) 2012 John Wiley & Sons A/S.
+FAU - Gonzalez-Garcia, Raul
+AU  - Gonzalez-Garcia R
+AD  - Department of Oral and Maxillofacial-Head and Neck Surgery, University Hospital 
+      Infanta Cristina, Badajoz, Spain. raulmaxilo@gmail.com
+FAU - Monje, Florencio
+AU  - Monje F
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120430
+PL  - Denmark
+TA  - Clin Oral Implants Res
+JT  - Clinical oral implants research
+JID - 9105713
+RN  - 0 (Coloring Agents)
+RN  - 15XUH0X66N (Tolonium Chloride)
+MH  - Adult
+MH  - Aged
+MH  - Alveolar Process/*diagnostic imaging/ultrastructure
+MH  - Biopsy/methods
+MH  - Bone Density/physiology
+MH  - Coloring Agents
+MH  - Dental Implantation, Endosseous/instrumentation
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/methods
+MH  - Male
+MH  - Maxilla/*diagnostic imaging/ultrastructure
+MH  - Microscopy
+MH  - Microscopy, Electron
+MH  - Middle Aged
+MH  - Reproducibility of Results
+MH  - Spectrometry, X-Ray Emission
+MH  - Tolonium Chloride
+MH  - X-Ray Microtomography/methods/*statistics & numerical data
+MH  - Young Adult
+EDAT- 2012/05/01 06:00
+MHDA- 2014/05/21 06:00
+CRDT- 2012/05/01 06:00
+PHST- 2012/03/12 00:00 [accepted]
+PHST- 2012/05/01 06:00 [entrez]
+PHST- 2012/05/01 06:00 [pubmed]
+PHST- 2014/05/21 06:00 [medline]
+AID - 10.1111/j.1600-0501.2012.02478.x [doi]
+PST - ppublish
+SO  - Clin Oral Implants Res. 2013 Jul;24(7):730-7. doi: 
+      10.1111/j.1600-0501.2012.02478.x. Epub 2012 Apr 30.

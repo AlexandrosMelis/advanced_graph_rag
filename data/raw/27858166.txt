@@ -1,0 +1,99 @@
+PMID- 27858166
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170316
+LR  - 20181113
+IS  - 1436-2813 (Electronic)
+IS  - 0941-1291 (Print)
+IS  - 0941-1291 (Linking)
+VI  - 47
+IP  - 3
+DP  - 2017 Mar
+TI  - Traumatic aortic injury: does the anatomy of the aortic arch influence aortic 
+      trauma severity?
+PG  - 328-334
+LID - 10.1007/s00595-016-1443-0 [doi]
+AB  - PURPOSE: Traumatic aortic injury (TAI) is a rare but life-threatening type of 
+      injury. We investigate whether the anatomy of the aortic arch influences the 
+      severity of aortic injury. METHODS: This is a retrospective study of twenty-two 
+      cases treated with TEVAR for TAI in our department from 2009 to 2014. Aortic 
+      injury was assessed in accordance with the recommendations of the Society of 
+      Vascular Surgery. We measured the aortic arch angle and the aortic arch index, 
+      based on the initial angio-CT scan, in each of the analyzed cases. RESULTS: The 
+      mean aortic arch index and mean aortic arch angle were 6.8 cm and 58.3 degrees , 
+      respectively, in the type I injury group; 4.4 cm and 45.9 degrees  in the type III group; 
+      3.3 cm and 37 degrees  in the type IV group. There were substantial differences in both 
+      the aortic arch index and the aortic arch angle of the type III and IV groups. A 
+      multivariate analysis confirmed that the aortic arch angle was significantly 
+      associated with the occurrence of type III damage (OR 1.5; 95% CI 1.03-2.2). 
+      CONCLUSIONS: The severity of TAI is influenced by the sharpness of the aortic 
+      arch. There is an inverse relationship between the severity of aortic injury and 
+      the aortic arch index.
+FAU - Wojciechowski, Jacek
+AU  - Wojciechowski J
+AD  - Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+      Debinki 7, 80-923, Gdansk, Poland.
+FAU - Znaniecki, Lukasz
+AU  - Znaniecki L
+AD  - Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+      Debinki 7, 80-923, Gdansk, Poland. l.znaniecki@gmail.com.
+FAU - Bury, Kamil
+AU  - Bury K
+AD  - Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+      Debinki 7, 80-923, Gdansk, Poland.
+FAU - Chwojnicki, Kamil
+AU  - Chwojnicki K
+AD  - Department of Neurology, Medical University of Gdansk, Gdansk, Poland.
+FAU - Rogowski, Jan
+AU  - Rogowski J
+AD  - Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+      Debinki 7, 80-923, Gdansk, Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20161117
+PL  - Japan
+TA  - Surg Today
+JT  - Surgery today
+JID - 9204360
+SB  - IM
+MH  - Adult
+MH  - Aorta/diagnostic imaging/*injuries/surgery
+MH  - Aorta, Thoracic/*anatomy & histology/diagnostic imaging
+MH  - Endovascular Procedures/methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Retrospective Studies
+MH  - Stents
+MH  - Thoracic Injuries/classification/*diagnosis/*pathology/surgery
+MH  - Tomography, X-Ray Computed
+MH  - *Trauma Severity Indices
+MH  - Treatment Outcome
+MH  - Young Adult
+PMC - PMC5288446
+OTO - NOTNLM
+OT  - Aorta
+OT  - Injury
+OT  - Stent-graft
+OT  - Thoracic trauma
+OT  - Trauma
+COIS- The authors declare no conflicts of interest in association with the present 
+      study.
+EDAT- 2016/11/20 06:00
+MHDA- 2017/03/17 06:00
+PMCR- 2016/11/17
+CRDT- 2016/11/19 06:00
+PHST- 2015/06/17 00:00 [received]
+PHST- 2016/06/14 00:00 [accepted]
+PHST- 2016/11/20 06:00 [pubmed]
+PHST- 2017/03/17 06:00 [medline]
+PHST- 2016/11/19 06:00 [entrez]
+PHST- 2016/11/17 00:00 [pmc-release]
+AID - 10.1007/s00595-016-1443-0 [pii]
+AID - 1443 [pii]
+AID - 10.1007/s00595-016-1443-0 [doi]
+PST - ppublish
+SO  - Surg Today. 2017 Mar;47(3):328-334. doi: 10.1007/s00595-016-1443-0. Epub 2016 Nov 
+      17.

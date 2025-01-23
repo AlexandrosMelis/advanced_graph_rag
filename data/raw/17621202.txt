@@ -1,0 +1,70 @@
+PMID- 17621202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070808
+LR  - 20220310
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 32
+IP  - 15
+DP  - 2007 Jul 1
+TI  - Does shaving the incision site increase the infection rate after spinal surgery?
+PG  - 1575-7
+AB  - STUDY DESIGN: A prospective randomized clinical study. OBJECTIVE: To determine 
+      whether shaving the incision site before spinal surgery causes postsurgical 
+      infection. SUMMARY OF BACKGROUND DATA: Spine surgeons usually shave the skin of 
+      the incision site immediately before surgery is performed. However, evidence from 
+      some surgical series suggests that presurgical shaving may increase the 
+      postsurgical infection rate. To our knowledge, no previously published studies 
+      have addressed this issue. METHODS: A total of 789 patients scheduled to undergo 
+      spinal surgery were randomly allocated into 2 groups: those in whom the site of 
+      operation was shaved immediately before surgery (shaved group; 371 patients) and 
+      the patients in whom presurgical shaving was not performed (unshaved group; 418 
+      patients). The mean duration of anesthesia and the infection rates in both groups 
+      were recorded and compared. RESULTS: The duration of anesthesia did not differ in 
+      the 2 groups (P > 0.05). A postoperative infection developed in 4 patients in the 
+      shaved group and in 1 patient in the nonshaved group (P < 0.01). CONCLUSIONS: The 
+      shaving of the incision site immediately before spinal surgery may increase the 
+      rate of postoperative infection.
+FAU - Celik, Suat E
+AU  - Celik SE
+AD  - Department of Neurosurgery, Beyoglu State Hospital, Istanbul, Turkey. 
+      suaterolcelik@yahoo.com
+FAU - Kara, Ayhan
+AU  - Kara A
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+RN  - 0 (Anti-Bacterial Agents)
+SB  - IM
+CIN - Spine (Phila Pa 1976). 2008 May 1;33(10):1156; author reply 1156. doi: 
+      10.1097/BRS.0b013e31816f6988. PMID: 18449054
+MH  - Adult
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Dermatologic Surgical Procedures
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neurosurgical Procedures/*adverse effects
+MH  - Preoperative Care/*adverse effects/statistics & numerical data
+MH  - Prospective Studies
+MH  - Skin/microbiology
+MH  - Spinal Diseases/*surgery
+MH  - Surgical Wound Infection/*epidemiology/prevention & control
+EDAT- 2007/07/11 09:00
+MHDA- 2007/08/09 09:00
+CRDT- 2007/07/11 09:00
+PHST- 2007/07/11 09:00 [pubmed]
+PHST- 2007/08/09 09:00 [medline]
+PHST- 2007/07/11 09:00 [entrez]
+AID - 00007632-200707010-00002 [pii]
+AID - 10.1097/BRS.0b013e318074c39f [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2007 Jul 1;32(15):1575-7. doi: 
+      10.1097/BRS.0b013e318074c39f.

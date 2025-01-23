@@ -1,0 +1,74 @@
+PMID- 18603989
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081218
+LR  - 20080708
+IS  - 1812-2078 (Electronic)
+IS  - 1812-2027 (Linking)
+VI  - 5
+IP  - 1
+DP  - 2007 Jan-Mar
+TI  - Can homemade alcohol (Raksi) be useful for preserving dead bodies? An experiment 
+      on wistar albino rats.
+PG  - 68-71
+AB  - INTRODUCTION: Embalming is the through disinfection and art of preserving bodies 
+      after death using chemical substances. It keeps a body life like in appearance 
+      during the time it lies in a state prior to funeral. OBJECTIVE: This study was 
+      undertaken to investigate the effectiveness of Raksi in sacrificed rats in 
+      arresting postmortem changes and establishing scientific fact whether Raksi can 
+      be an alternative to standard embalming constituent if it is not available. 
+      MATERIAL AND METHODS: 50 albino rats were systematically randomized into control 
+      and experiment groups. Raksi and distilled water were injected for embalming 
+      purpose intraventricularly in experiment and control groups of rats respectively 
+      and kept for 48 to 96 hours for observation for postmortem changes. RESULT: 
+      Observations made at 48 and 72 hours of embalming revealed that Raksi can arrest 
+      postmortem changes in the rats up to 72 hours (3rd day) successfully in the 
+      experimental group whereas moderate to severe postmortem changes were seen in the 
+      control group. The experimental group showed mild degree of putrefactive changes, 
+      liberation of gases and liquefaction of tissues only at 96 hours (4th day) of 
+      embalming. DISCUSSION: The Raksi used in this experiment contained 34% of 
+      alcohol, which was determined by an alcohol hydrometer. Experiment clearly 
+      demonstrated from its result that raksi can be utilised temporarily for embalming 
+      since it contains alcohol and has preservative, bactericidal and disinfectant 
+      properties. CONCLUSION: It is concluded from the study that this knowledge if 
+      applied to dead human subjects, may preserve dead bodies temporarily allowing 
+      delayed funeral.
+FAU - Dhungel, S
+AU  - Dhungel S
+AD  - Department of Anatomy, BP Koirala Institute of Health Sciences, Dharan, Nepal. 
+      docsd2002@yahoo.com
+FAU - Maskey, D
+AU  - Maskey D
+FAU - Jha, C B
+AU  - Jha CB
+FAU - Bhattacharya, S
+AU  - Bhattacharya S
+FAU - Paudel, B H
+AU  - Paudel BH
+FAU - Shrestha, R N
+AU  - Shrestha RN
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Nepal
+TA  - Kathmandu Univ Med J (KUMJ)
+JT  - Kathmandu University medical journal (KUMJ)
+JID - 101215359
+RN  - 0 (Alcohols)
+SB  - IM
+MH  - Alcohols/*pharmacology
+MH  - Animals
+MH  - Embalming/*methods
+MH  - Nepal
+MH  - Postmortem Changes
+MH  - Random Allocation
+MH  - Rats
+MH  - Rats, Wistar
+EDAT- 2008/07/08 09:00
+MHDA- 2008/12/19 09:00
+CRDT- 2008/07/08 09:00
+PHST- 2008/07/08 09:00 [pubmed]
+PHST- 2008/12/19 09:00 [medline]
+PHST- 2008/07/08 09:00 [entrez]
+PST - ppublish
+SO  - Kathmandu Univ Med J (KUMJ). 2007 Jan-Mar;5(1):68-71.

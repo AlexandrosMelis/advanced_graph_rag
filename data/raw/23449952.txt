@@ -1,0 +1,103 @@
+PMID- 23449952
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130827
+LR  - 20151119
+IS  - 1527-1315 (Electronic)
+IS  - 0033-8419 (Linking)
+VI  - 268
+IP  - 1
+DP  - 2013 Jul
+TI  - Contrast-enhanced MR imaging of hand and finger joints in patients with early 
+      rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for 
+      assessing synovial enhancement at 3 T?
+PG  - 161-9
+LID - 10.1148/radiol.13121733 [doi]
+AB  - PURPOSE: To investigate the diagnostic value of a half dose compared with a full 
+      dose of gadobenate dimeglumine in the assessment of synovitis or tenosynovitis in 
+      the wrist and finger joints in patients with early rheumatoid arthritis (RA) and 
+      a disease activity score greater than 3.2. MATERIALS AND METHODS: With 
+      institutional review board approval and informed consent, 57 patients with early 
+      RA underwent 3-T magnetic resonance (MR) imaging with two different doses of 
+      contrast media. The contrast enhancement was measured in inflamed synovial tissue 
+      at half dose (0.05 mmol per kilogram of body weight) and at full dose (0.1 
+      mmol/kg) by using T1-weighted sequences with fat saturation. The differences and 
+      the correlation of signal intensities (SIs) at half- and full-dose sequences were 
+      compared by using the paired t test and Pearson correlations. Image quality, 
+      Rheumatoid Arthritis MRI Score (RAMRIS), and tenosynovitis score on half- and 
+      full-dose images were compared by two observers using the Wilcoxon test. 
+      Interrater agreement was assessed by using kappa statistics. RESULTS: A significant 
+      difference in SI was found between half-dose and full-dose gadobenate 
+      dimeglumine-enhanced synovial tissue (mean: 914.35 +/- 251.1 vs 1022 +/- 244.5, P < 
+      .001). Because the SI showed high correlation between the ratio at half dose and 
+      full dose (r = 0.875), the formula, ratio of synovial enhancement to saline 
+      syringe at full dose = 0.337 + 1.070 x ratio of synovial enhancement to saline 
+      syringe at half dose, can be used to convert the normalized value of half dose to 
+      full dose. However, no difference in RAMRIS (score 0 in 490 of 1026 joints; score 
+      1 in 344; score 2 in 158; and score 3 in 34) or tenosynovitis scores in grading 
+      synovitis or tenosynovitis in image quality and in assessment of synovial 
+      enhancement was detected between half-dose and full-dose images (P = 1). 
+      CONCLUSION: Postcontrast synovial SIs showed high correlation between half dose 
+      and full dose, and image quality was rated identically. Therefore, half-dose 
+      gadobenate dimeglumine at 3-T MR imaging may be sufficient for assessing 
+      synovitis or tenosynovitis in early RA.
+FAU - Schueller-Weidekamm, Claudia
+AU  - Schueller-Weidekamm C
+AD  - Department of Radiology, Division of Neuroradiology and Musculoskeletal 
+      Radiology, Medical University of Vienna/Vienna General Hospital, Waehringer 
+      Guertel 18-20, A-1090 Vienna, Austria. 
+      claudia.schuellerweidekamm@meduniwien.ac.at
+FAU - Lodemann, Klaus-Peter
+AU  - Lodemann KP
+FAU - Grisar, Johannes
+AU  - Grisar J
+FAU - Schueller, Gerd
+AU  - Schueller G
+FAU - Weber, Michael
+AU  - Weber M
+FAU - Kainberger, Franz
+AU  - Kainberger F
+FAU - Platzgummer, Hannes
+AU  - Platzgummer H
+LA  - eng
+PT  - Journal Article
+DEP - 20130228
+PL  - United States
+TA  - Radiology
+JT  - Radiology
+JID - 0401260
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 15G12L5X8K (gadobenic acid)
+RN  - 6HG8UB2MUY (Meglumine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Arthritis, Rheumatoid/*pathology
+MH  - *Contrast Media
+MH  - Female
+MH  - Finger Joint/*pathology
+MH  - Hand/*pathology
+MH  - Humans
+MH  - Image Interpretation, Computer-Assisted
+MH  - Linear Models
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Meglumine/*analogs & derivatives
+MH  - Middle Aged
+MH  - *Organometallic Compounds
+MH  - Prospective Studies
+MH  - Synovitis/*pathology
+MH  - Tenosynovitis/*pathology
+MH  - Wrist Joint/*pathology
+EDAT- 2013/03/02 06:00
+MHDA- 2013/08/28 06:00
+CRDT- 2013/03/02 06:00
+PHST- 2013/03/02 06:00 [entrez]
+PHST- 2013/03/02 06:00 [pubmed]
+PHST- 2013/08/28 06:00 [medline]
+AID - radiol.13121733 [pii]
+AID - 10.1148/radiol.13121733 [doi]
+PST - ppublish
+SO  - Radiology. 2013 Jul;268(1):161-9. doi: 10.1148/radiol.13121733. Epub 2013 Feb 28.

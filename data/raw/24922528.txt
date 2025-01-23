@@ -1,0 +1,110 @@
+PMID- 24922528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150410
+LR  - 20140715
+IS  - 1873-6327 (Electronic)
+IS  - 0306-4603 (Linking)
+VI  - 39
+IP  - 10
+DP  - 2014 Oct
+TI  - The association of puberty and young adolescent alcohol use: do parents have a 
+      moderating role?
+PG  - 1389-93
+LID - S0306-4603(14)00155-5 [pii]
+LID - 10.1016/j.addbeh.2014.05.006 [doi]
+AB  - PURPOSE: To explore the extent to which parent-adolescent emotional closeness, 
+      family conflict, and parental permissiveness moderate the association of puberty 
+      and alcohol use in adolescents (aged 10-14). METHODS: Cross-sectional survey of 
+      7631 adolescents from 231 Australian schools. Measures included pubertal status, 
+      recent (30day) alcohol use, parent-adolescent emotional closeness, family 
+      conflict, parental permissiveness of alcohol use and peer alcohol use. The 
+      analysis was based on a two-level (individuals nested within schools) logistic 
+      regression model, with main effects entered first, and interaction terms added 
+      second. RESULTS: The interaction of family factors and pubertal stage did not 
+      improve the fit of the model, so a main effect model of family factors and 
+      pubertal stage was adopted. There were significant main effects for pubertal 
+      stage with boys in middle puberty at increased odds of alcohol use, and girls in 
+      advanced puberty at increased odds of alcohol use. CONCLUSIONS: Puberty and 
+      family factors were strong predictors of adolescent alcohol use, but family 
+      factors did not account for variation in the association of pubertal stage and 
+      alcohol use.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Li, H Karen
+AU  - Li HK
+AD  - Centre for Youth Substance Abuse Research, The University of Queensland, 
+      Brisbane, Australia; School of Psychology, The University of Queensland, 
+      Brisbane, Australia. Electronic address: k.li@uq.edu.au.
+FAU - Kelly, Adrian B
+AU  - Kelly AB
+AD  - Centre for Youth Substance Abuse Research, The University of Queensland, 
+      Brisbane, Australia.
+FAU - Chan, Gary C K
+AU  - Chan GC
+AD  - Centre for Youth Substance Abuse Research, The University of Queensland, 
+      Brisbane, Australia.
+FAU - Toumbourou, John W
+AU  - Toumbourou JW
+AD  - Centre for Adolescent Health, Royal Children's Hospital, Melbourne, Australia; 
+      Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, 
+      Australia; School of Psychology and Centre for Mental Health and Wellbeing 
+      Research, Deakin University, Melbourne, Australia.
+FAU - Patton, George C
+AU  - Patton GC
+AD  - Centre for Adolescent Health, Royal Children's Hospital, Melbourne, Australia; 
+      Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, 
+      Australia; Department of Paediatrics, University of Melbourne, Melbourne, 
+      Australia.
+FAU - Williams, Joanne W
+AU  - Williams JW
+AD  - Centre for Adolescent Health, Royal Children's Hospital, Melbourne, Australia; 
+      Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne, 
+      Australia; Department of Paediatrics, University of Melbourne, Melbourne, 
+      Australia.
+LA  - eng
+GR  - 1P60MD003422/MD/NIMHD NIH HHS/United States
+GR  - P30 CA016672/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140527
+PL  - England
+TA  - Addict Behav
+JT  - Addictive behaviors
+JID - 7603486
+SB  - IM
+MH  - Adolescent
+MH  - Alcohol Drinking/*epidemiology
+MH  - Australia/epidemiology
+MH  - Child
+MH  - Cross-Sectional Studies
+MH  - *Family Conflict
+MH  - Female
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Odds Ratio
+MH  - *Parent-Child Relations
+MH  - Parents
+MH  - *Puberty
+OTO - NOTNLM
+OT  - Adolescent
+OT  - Alcohol
+OT  - Family relationships
+OT  - Parents
+OT  - Permissiveness
+OT  - Puberty
+EDAT- 2014/06/13 06:00
+MHDA- 2015/04/11 06:00
+CRDT- 2014/06/13 06:00
+PHST- 2014/01/29 00:00 [received]
+PHST- 2014/05/08 00:00 [revised]
+PHST- 2014/05/19 00:00 [accepted]
+PHST- 2014/06/13 06:00 [entrez]
+PHST- 2014/06/13 06:00 [pubmed]
+PHST- 2015/04/11 06:00 [medline]
+AID - S0306-4603(14)00155-5 [pii]
+AID - 10.1016/j.addbeh.2014.05.006 [doi]
+PST - ppublish
+SO  - Addict Behav. 2014 Oct;39(10):1389-93. doi: 10.1016/j.addbeh.2014.05.006. Epub 
+      2014 May 27.

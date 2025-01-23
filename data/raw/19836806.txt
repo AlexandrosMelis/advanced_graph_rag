@@ -1,0 +1,88 @@
+PMID- 19836806
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091130
+LR  - 20211028
+IS  - 1527-3792 (Electronic)
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 182
+IP  - 6
+DP  - 2009 Dec
+TI  - Should prostate specific antigen be adjusted for body mass index? Data from the 
+      Baltimore Longitudinal Study of Aging.
+PG  - 2646-51
+LID - 10.1016/j.juro.2009.08.041 [doi]
+AB  - PURPOSE: Obesity may be associated with lower prostate specific antigen through 
+      hemodilution. We examined the relationship between body mass index and prostate 
+      specific antigen by age in men without prostate cancer in a longitudinal aging 
+      study to determine whether prostate specific antigen must be adjusted for body 
+      mass index. MATERIALS AND METHODS: The study population included 994 men (4,937 
+      observations) without prostate cancer in the Baltimore Longitudinal Study of 
+      Aging. Mixed effects models were used to examine the relationship between 
+      prostate specific antigen and body mass index in kg/m(2) by age. Separate models 
+      were explored in men with prostate cancer censored at diagnosis, for percent body 
+      fat measurements, for weight changes with time and adjusting for initial prostate 
+      size in 483 men (2,523 observations) with pelvic magnetic resonance imaging 
+      measurements. RESULTS: In men without prostate cancer body mass index was not 
+      significantly associated with prostate specific antigen after adjusting for age 
+      (p = 0.06). A 10-point body mass index increase was associated with a prostate 
+      specific antigen difference of -0.03 ng/ml (95% CI -0.40-0.49). Results were 
+      similar when men with prostate cancer were included, when percent body fat was 
+      substituted for body mass index, and after adjusting for prostate volume. 
+      Longitudinal weight changes also had no significant association with prostate 
+      specific antigen. CONCLUSIONS: Consistent with prior studies, we found an inverse 
+      relationship between obesity and serum prostate specific antigen. However, the 
+      magnitude of the difference was small. Thus, adjusting prostate specific antigen 
+      for body mass index does not appear warranted.
+FAU - Loeb, Stacy
+AU  - Loeb S
+AD  - The James Buchanan Brady Urological Institute, The Johns Hopkins Medical 
+      Institutions, Baltimore, Maryland, USA. stacyloeb@gmail.com
+FAU - Carter, H Ballentine
+AU  - Carter HB
+FAU - Schaeffer, Edward M
+AU  - Schaeffer EM
+FAU - Ferrucci, Luigi
+AU  - Ferrucci L
+FAU - Kettermann, Anna
+AU  - Kettermann A
+FAU - Metter, E Jeffrey
+AU  - Metter EJ
+LA  - eng
+GR  - ZIA AG000633-21/ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+CIN - J Urol. 2009 Dec;182(6):2651-2. doi: 10.1016/j.juro.2009.08.189. PMID: 19836785
+CIN - J Urol. 2009 Dec;182(6):2651. doi: 10.1016/j.juro.2009.08.188. PMID: 19836803
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Body Mass Index
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Middle Aged
+MH  - Prostate-Specific Antigen/*blood
+MH  - Young Adult
+PMC - PMC4197054
+MID - NIHMS286018
+EDAT- 2009/10/20 06:00
+MHDA- 2009/12/16 06:00
+PMCR- 2014/10/14
+CRDT- 2009/10/20 06:00
+PHST- 2009/04/04 00:00 [received]
+PHST- 2009/10/20 06:00 [entrez]
+PHST- 2009/10/20 06:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+PHST- 2014/10/14 00:00 [pmc-release]
+AID - S0022-5347(09)02063-1 [pii]
+AID - 10.1016/j.juro.2009.08.041 [doi]
+PST - ppublish
+SO  - J Urol. 2009 Dec;182(6):2646-51. doi: 10.1016/j.juro.2009.08.041.

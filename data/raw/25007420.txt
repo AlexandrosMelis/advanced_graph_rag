@@ -1,0 +1,107 @@
+PMID- 25007420
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140925
+LR  - 20211021
+IS  - 0706-7437 (Print)
+IS  - 1497-0015 (Electronic)
+IS  - 0706-7437 (Linking)
+VI  - 59
+IP  - 7
+DP  - 2014 Jul
+TI  - Are there mental health differences between francophone and non-francophone 
+      populations in manitoba?
+PG  - 366-75
+AB  - OBJECTIVE: Francophones may experience poorer health due to social status, 
+      cultural differences in lifestyle and attitudes, and language barriers to health 
+      care. Our study sought to compare mental health indicators between Francophones 
+      and non-Francophones living in the province of Manitoba. METHODS: Two populations 
+      were used: one from administrative datasets housed at the Manitoba Centre for 
+      Health Policy and the other from representative survey samples. The 
+      administrative datasets contained data from physician billings, hospitalizations, 
+      prescription drug use, education, and social services use, and surveys included 
+      indicators on language variables and on self-rated health. RESULTS: Outside urban 
+      areas, Francophones had lower rates of diagnosed substance use disorder (rate 
+      ratio [RR] = 0.80; 95% CI 0.68 to 0.95) and of suicide and suicide attempts (RR = 
+      0.59; 95% CI 0.43 to 0.79), compared with non-Francophones, but no differences 
+      were found between the groups across the province in rates of diagnosed mood 
+      disorders, anxiety disorders, dementia, or any mental disorders after adjusting 
+      for age, sex, and geographic area. When surveyed, Francophones were less likely 
+      than non-Francophones to report that their mental health was excellent, very 
+      good, or good (66.9%, compared with 74.2%). CONCLUSIONS: The discrepancy in how 
+      Francophones view their mental health and their rates of diagnosed mental 
+      disorders may be related to health seeking behaviours in the Francophone 
+      population. Community and government agencies should try to improve the mental 
+      health of this population through mental health promotion and by addressing 
+      language and cultural barriers to health services.
+FAU - Chartier, Mariette Jeanne
+AU  - Chartier MJ
+AD  - Research Scientist, Manitoba Centre for Health Policy, Department of Community 
+      Health Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba; 
+      Assistant Professor, Department of Community Health Sciences, Faculty of 
+      Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - Finlayson, Gregory
+AU  - Finlayson G
+AD  - Research Scientist, Manitoba Centre for Health Policy, Department of Community 
+      Health Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - Prior, Heather
+AU  - Prior H
+AD  - Data Analyst, Manitoba Centre for Health Policy, Department of Community Health 
+      Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - Mcgowan, Kari-Lynne
+AU  - Mcgowan KL
+AD  - Research Coordinator, Manitoba Centre for Health Policy, Department of Community 
+      Health Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - Chen, Hui
+AU  - Chen H
+AD  - Data Analyst, Manitoba Centre for Health Policy, Department of Community Health 
+      Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - Walld, Randy
+AU  - Walld R
+AD  - Data Analyst, Manitoba Centre for Health Policy, Department of Community Health 
+      Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+FAU - De Rocquigny, Janelle
+AU  - De Rocquigny J
+AD  - Graduate Student, Department of Community Health Sciences, Faculty of Medicine, 
+      University of Manitoba, Winnipeg, Manitoba.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Can J Psychiatry
+JT  - Canadian journal of psychiatry. Revue canadienne de psychiatrie
+JID - 7904187
+SB  - IM
+MH  - Adult
+MH  - *Communication Barriers
+MH  - *Cross-Cultural Comparison
+MH  - Cross-Sectional Studies
+MH  - *Cultural Characteristics
+MH  - Female
+MH  - Health Surveys
+MH  - *Hierarchy, Social
+MH  - Humans
+MH  - *Language
+MH  - *Life Style
+MH  - Male
+MH  - Manitoba
+MH  - Mental Disorders/diagnosis/*epidemiology/psychology
+MH  - Middle Aged
+MH  - Substance-Related Disorders/diagnosis/epidemiology/psychology
+MH  - Suicide/statistics & numerical data
+MH  - Suicide, Attempted/statistics & numerical data
+PMC - PMC4086314
+EDAT- 2014/07/10 06:00
+MHDA- 2014/09/26 06:00
+PMCR- 2015/01/01
+CRDT- 2014/07/10 06:00
+PHST- 2013/09/01 00:00 [received]
+PHST- 2014/02/01 00:00 [accepted]
+PHST- 2014/07/10 06:00 [entrez]
+PHST- 2014/07/10 06:00 [pubmed]
+PHST- 2014/09/26 06:00 [medline]
+PHST- 2015/01/01 00:00 [pmc-release]
+AID - cjp-2014-vol59-july-366-375 [pii]
+AID - 10.1177/070674371405900704 [doi]
+PST - ppublish
+SO  - Can J Psychiatry. 2014 Jul;59(7):366-75. doi: 10.1177/070674371405900704.

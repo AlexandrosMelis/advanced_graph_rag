@@ -1,0 +1,99 @@
+PMID- 22720085
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121213
+LR  - 20211021
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 7
+IP  - 6
+DP  - 2012
+TI  - Does insulin resistance drive the association between hyperglycemia and 
+      cardiovascular risk?
+PG  - e39260
+LID - 10.1371/journal.pone.0039260 [doi]
+LID - e39260
+AB  - BACKGROUND: Several studies have shown associations between hyperglycemia and 
+      risk of cardiovascular disease (CVD) and mortality, yet glucose-lowering 
+      treatment does little to mitigate this risk. We examined whether associations 
+      between hyperglycemia and CVD risk were explained by underlying insulin 
+      resistance. METHODS: In 60 middle-aged individuals without diabetes we studied 
+      the associations of fasting plasma glucose, 2-hour post oral glucose tolerance 
+      test plasma glucose, insulin sensitivity as well as body fat percentage with CVD 
+      risk. Insulin sensitivity was measured as the glucose infusion rate during a 
+      euglycemic hyperinsulinemic clamp, body fat percentage was measured by dual X-ray 
+      absorptiometry, and CVD risk was estimated using the Framingham risk score. 
+      Associations of fasting plasma glucose, 2-hour plasma glucose, insulin 
+      sensitivity and body fat percentage with the Framingham risk score were assessed 
+      in linear regression models. RESULTS: Both fasting and 2-hour plasma glucose 
+      levels were associated with higher Framingham risk score (fasting glucose: r(2) = 
+      0.21; 2-hour glucose: r(2) = 0.24; P<0.001 for both), and insulin sensitivity 
+      with lower Framingham risk score (r(2) = 0.36; P<0.001). However, adjustment for 
+      insulin sensitivity and 2-hour glucose made the effect of fasting glucose 
+      non-significant (P = 0.060). Likewise, when adjusting for insulin sensitivity and 
+      fasting glucose, the association between 2-hour glucose and Framingham risk score 
+      disappeared (P = 0.143). In contrast, insulin sensitivity was still associated 
+      with Framingham risk score after adjusting for glucose levels (P<0.001). Body fat 
+      was not associated with Framingham risk score when taking insulin sensitivity 
+      into account (P = 0.550). CONCLUSION: The association between plasma glucose 
+      levels and CVD risk is mainly explained by insulin resistance, which raises the 
+      question of whether glucose lowering per se without changes in the processes that 
+      underlie hyperglycemia should be the sole clinical paradigm in the treatment of 
+      type 2 diabetes or its prevention.
+FAU - Faerch, Kristine
+AU  - Faerch K
+AD  - Steno Diabetes Center, Gentofte, Denmark. krif@steno.dk
+FAU - Bergman, Bryan
+AU  - Bergman B
+FAU - Perreault, Leigh
+AU  - Perreault L
+LA  - eng
+GR  - DK064811/DK/NIDDK NIH HHS/United States
+GR  - RR00036/RR/NCRR NIH HHS/United States
+GR  - F32 DK059739/DK/NIDDK NIH HHS/United States
+GR  - DK059739/DK/NIDDK NIH HHS/United States
+GR  - K23 DK064811/DK/NIDDK NIH HHS/United States
+GR  - M01 RR000036/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120615
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Blood Glucose)
+SB  - IM
+MH  - Adult
+MH  - Blood Glucose/analysis
+MH  - Cardiovascular Diseases/*complications
+MH  - Female
+MH  - Humans
+MH  - Hyperglycemia/*complications
+MH  - *Insulin Resistance
+MH  - Male
+MH  - Middle Aged
+MH  - Risk Factors
+PMC - PMC3376119
+COIS- Competing Interests: The authors have read the journal's policy and have the 
+      following conflicts: KF is employed by Steno Diabetes Center A/S, a research 
+      hospital working in the Danish National Health Service and which is owned by Novo 
+      Nordisk A/S. Steno Diabetes Center A/S receives part of its core funding from 
+      unrestricted grants from the Novo Nordisk Foundation and Novo Nordisk A/S. K.F. 
+      owns shares in Novo Nordisk A/S. No other potential conflicts of interest 
+      relevant to this article were reported. This does not alter the authors' 
+      adherence to all the PLoS ONE policies on sharing data and materials.
+EDAT- 2012/06/22 06:00
+MHDA- 2012/12/14 06:00
+PMCR- 2012/06/15
+CRDT- 2012/06/22 06:00
+PHST- 2012/03/16 00:00 [received]
+PHST- 2012/05/22 00:00 [accepted]
+PHST- 2012/06/22 06:00 [entrez]
+PHST- 2012/06/22 06:00 [pubmed]
+PHST- 2012/12/14 06:00 [medline]
+PHST- 2012/06/15 00:00 [pmc-release]
+AID - PONE-D-12-07716 [pii]
+AID - 10.1371/journal.pone.0039260 [doi]
+PST - ppublish
+SO  - PLoS One. 2012;7(6):e39260. doi: 10.1371/journal.pone.0039260. Epub 2012 Jun 15.

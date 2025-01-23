@@ -1,0 +1,83 @@
+PMID- 19103915
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090427
+LR  - 20211020
+IS  - 1355-8196 (Print)
+IS  - 1355-8196 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2009 Jan
+TI  - Are home sampling kits for sexually transmitted infections acceptable among men 
+      who have sex with men?
+PG  - 35-43
+LID - 10.1258/jhsrp.2008.007065 [doi]
+AB  - OBJECTIVE: There is an urgent need to increase opportunistic screening for 
+      sexually transmitted infections (STIs) in community settings, particularly for 
+      those who are at increased risk including men who have sex with men (MSM). The 
+      aim of this qualitative study was to explore whether home sampling kits (HSK) for 
+      multiple bacterial STIs are potentially acceptable among MSM and to identify any 
+      concerns regarding their use. This study was developed as part of a formative 
+      evaluation of HSKs. METHODS: Focus groups and one-to-one semi-structured 
+      interviews with MSM were conducted. Focus group participants (n = 20) were shown 
+      a variety of self-sampling materials and asked to discuss them. Individual 
+      interviewees (n = 24) had experience of the self-sampling techniques as part of a 
+      pilot clinical study. All data were digitally recorded and transcribed verbatim. 
+      Data were analysed using a framework analysis approach. RESULTS: The concept of a 
+      HSK was generally viewed as positive, with many benefits identified relating to 
+      increased access to testing, enhanced personal comfort and empowerment. Concerns 
+      about the accuracy of the test, delays in receiving the results, the possible 
+      lack of support and potential negative impact on 'others' were raised. 
+      CONCLUSION: The widespread acceptability of using HSKs for the diagnosis of STIs 
+      could have important public health impacts in terms of earlier diagnosis of 
+      asymptomatic infections and thus a decrease in the rate of onward transmission. 
+      In addition, HSKs could potentially optimize the use of genitourinary medicine 
+      services and facilitate patient choice.
+FAU - Llewellyn, Carrie
+AU  - Llewellyn C
+AD  - Division of Public Health & Primary Care, Brighton & Sussex Medical School, 
+      Brighton. c.d.llewellyn@bsms.ac.uk
+FAU - Pollard, Alex
+AU  - Pollard A
+FAU - Smith, Helen
+AU  - Smith H
+FAU - Fisher, Martin
+AU  - Fisher M
+CN  - Home Sampling Kit Study Group
+LA  - eng
+GR  - G0300706/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Health Serv Res Policy
+JT  - Journal of health services research & policy
+JID - 9604936
+RN  - 0 (Reagent Kits, Diagnostic)
+MH  - Adult
+MH  - Bisexuality/*psychology
+MH  - Feasibility Studies
+MH  - Focus Groups
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Homosexuality, Male/*psychology
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Male
+MH  - Mass Screening/*instrumentation/methods
+MH  - Middle Aged
+MH  - Patient Acceptance of Health Care/*statistics & numerical data
+MH  - Qualitative Research
+MH  - Reagent Kits, Diagnostic/*statistics & numerical data
+MH  - Risk-Taking
+MH  - Sexually Transmitted Diseases/*diagnosis/microbiology
+MH  - United Kingdom
+MH  - Young Adult
+EDAT- 2008/12/24 09:00
+MHDA- 2009/04/28 09:00
+CRDT- 2008/12/24 09:00
+PHST- 2008/12/24 09:00 [entrez]
+PHST- 2008/12/24 09:00 [pubmed]
+PHST- 2009/04/28 09:00 [medline]
+AID - 14/1/35 [pii]
+AID - 10.1258/jhsrp.2008.007065 [doi]
+PST - ppublish
+SO  - J Health Serv Res Policy. 2009 Jan;14(1):35-43. doi: 10.1258/jhsrp.2008.007065.

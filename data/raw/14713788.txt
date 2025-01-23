@@ -1,0 +1,107 @@
+PMID- 14713788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040226
+LR  - 20170908
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 171
+IP  - 2 Pt 1
+DP  - 2004 Feb
+TI  - Is year of radical prostatectomy a predictor of outcome in prostate cancer?
+PG  - 692-6
+AB  - PURPOSE: We examined whether the year in which radical prostatectomy (RP) was 
+      performed is a predictor of treatment outcome after controlling for standard 
+      prognostic factors. MATERIALS AND METHODS: We examined the association between RP 
+      year and outcome in 6,556 patients from 7 centers using preoperative and 
+      pathological features. Patients underwent surgery between 1985 and 2000. The 
+      variables analyzed were RP year, clinical stage, pretreatment prostate specific 
+      antigen, biopsy Gleason sum, RP Gleason sum, margin status, level of 
+      extracapsular extension, seminal vesicle status, lymph node status, neoadjuvant 
+      hormones and adjuvant therapy. Median followup was 23 months (maximum 166). 
+      Separate Cox multivariate regression analyses were performed to analyze 
+      preoperative and postoperative factors. RESULTS: RP year was a predictor of 
+      outcome on preoperative analysis (p = 0.006) but not on postoperative analysis (p 
+      = 0.130). Patient outcome steadily improved with surgery through the mid 1990s 
+      and then it appeared to level off. CONCLUSIONS: When controlling for preoperative 
+      features, the year in which RP was performed is a predictor of outcome on 
+      multivariate analysis. This effect could not be explained by stage migration.
+FAU - Cagiannos, Ilias
+AU  - Cagiannos I
+AD  - Department of Urology, Memorial Sloan-Kettering Cancer Center, New York, New York 
+      10021, USA.
+FAU - Karakiewicz, Pierre
+AU  - Karakiewicz P
+FAU - Graefen, Markus
+AU  - Graefen M
+FAU - Eastham, James A
+AU  - Eastham JA
+FAU - Ohori, Makoto
+AU  - Ohori M
+FAU - Rabbani, Farhang
+AU  - Rabbani F
+FAU - Reuter, Victor
+AU  - Reuter V
+FAU - Wheeler, Thomas
+AU  - Wheeler T
+FAU - Kupelian, Patrick
+AU  - Kupelian P
+FAU - Klein, Eric
+AU  - Klein E
+FAU - Huland, Hartwig
+AU  - Huland H
+FAU - Hammerer, Peter G
+AU  - Hammerer PG
+FAU - Erbersdobler, Andreas
+AU  - Erbersdobler A
+FAU - Schroeder, Fritz
+AU  - Schroeder F
+FAU - Wildhagen, Mark
+AU  - Wildhagen M
+FAU - Quinn, David I
+AU  - Quinn DI
+FAU - Henshall, Susan M
+AU  - Henshall SM
+FAU - Grygiel, John J
+AU  - Grygiel JJ
+FAU - Sutherland, Robert L
+AU  - Sutherland RL
+FAU - Stricker, Phillip D
+AU  - Stricker PD
+FAU - Morash, Christopher G
+AU  - Morash CG
+FAU - Scardino, Peter T
+AU  - Scardino PT
+FAU - Kattan, Michael W
+AU  - Kattan MW
+LA  - eng
+GR  - CA92690/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prostatectomy/*standards
+MH  - Prostatic Neoplasms/*surgery
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2004/01/10 05:00
+MHDA- 2004/02/27 05:00
+CRDT- 2004/01/10 05:00
+PHST- 2004/01/10 05:00 [pubmed]
+PHST- 2004/02/27 05:00 [medline]
+PHST- 2004/01/10 05:00 [entrez]
+AID - S0022-5347(05)62558-X [pii]
+AID - 10.1097/01.ju.0000107260.98031.0e [doi]
+PST - ppublish
+SO  - J Urol. 2004 Feb;171(2 Pt 1):692-6. doi: 10.1097/01.ju.0000107260.98031.0e.

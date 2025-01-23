@@ -1,0 +1,365 @@
+PMID- 23224030
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140424
+LR  - 20221207
+IS  - 1436-6215 (Electronic)
+IS  - 1436-6207 (Linking)
+VI  - 52
+IP  - 7
+DP  - 2013 Oct
+TI  - Do European people with type 1 diabetes consume a high atherogenic diet? 7-year 
+      follow-up of the EURODIAB Prospective Complications Study.
+PG  - 1701-10
+LID - 10.1007/s00394-012-0473-7 [doi]
+AB  - BACKGROUND/OBJECTIVES: Individuals with type 1 diabetes have a high risk of 
+      developing cardiovascular diseases, and it has been reported that they consume a 
+      high atherogenic diet. We examined how nutrient intake and adherence to current 
+      European nutritional recommendations evolved in a large cohort of European 
+      individuals with type 1 diabetes over a period of 7 years. SUBJECTS/METHODS: We 
+      analysed data from the EURODIAB Prospective Complications Study, a European 
+      multicentre prospective cohort study. Standardized 3-day dietary records were 
+      employed in individuals with type 1 diabetes. One thousand one hundred and two 
+      patients (553 men, 549 women, baseline age 33 +/- 10 years, duration 15 +/- 9 years) 
+      had complete nutritional data available at baseline and after 7 years. We 
+      calculated mean differences in reported nutrients over time and adjusted these 
+      for age, gender, HbA1c and BMI with ANOVA models. RESULTS: Compared to baseline, 
+      there were minor changes in nutrients. Reported protein (-0.35% energy (en), fat 
+      (-1.07% en), saturated fat (-0.25% en) and cholesterol (-7.42 mg/1000 kcal) 
+      intakes were lower, whereas carbohydrate (+1.23% en) and fibre (+0.46 g/1000 
+      kcal) intakes were higher at the 7-year follow-up. European recommendations for 
+      adequate nutrient intakes were followed in individuals with type 1 diabetes for 
+      protein (76% at baseline and 78% at follow-up), moderately for fat (34, 40%), 
+      carbohydrate (34, 41%) and cholesterol (39, 47%), but poorly for fibre (1.4, 
+      2.4%) and saturated fat (11, 13%). CONCLUSION: European individuals with type 1 
+      diabetes consume a high atherogenic diet as few patients met recommendations for 
+      dietary fibre and saturated fat. This study showed minor changes in dietary 
+      nutrients and energy intakes over a period of 7 years. Nutrition education needs 
+      particular focus on strategies to increase dietary fibre and reduce saturated fat 
+      to exploit their potential benefit.
+FAU - Soedamah-Muthu, Sabita S
+AU  - Soedamah-Muthu SS
+AD  - Division of Human Nutrition, Wageningen University, 6700 EV, PO Box 8129, 
+      Wageningen, The Netherlands, sabita.soedamah-muthu@wur.nl.
+FAU - Chaturvedi, Nish
+AU  - Chaturvedi N
+FAU - Fuller, John H
+AU  - Fuller JH
+FAU - Toeller, Monika
+AU  - Toeller M
+CN  - EURODIAB Prospective Complications Study Group
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121207
+PL  - Germany
+TA  - Eur J Nutr
+JT  - European journal of nutrition
+JID - 100888704
+RN  - 0 (Cholesterol, Dietary)
+RN  - 0 (Dietary Carbohydrates)
+RN  - 0 (Dietary Fiber)
+RN  - 0 (Dietary Proteins)
+RN  - 0 (Insulin)
+RN  - 97C5T2UQ7J (Cholesterol)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Body Mass Index
+MH  - Body Weight
+MH  - Cardiovascular Diseases/complications/*epidemiology
+MH  - Cholesterol/blood
+MH  - Cholesterol, Dietary/administration & dosage
+MH  - Diabetes Mellitus, Type 1/complications/*epidemiology
+MH  - Diet Records
+MH  - *Diet, Atherogenic
+MH  - Dietary Carbohydrates/administration & dosage
+MH  - Dietary Fiber/administration & dosage
+MH  - Dietary Proteins/administration & dosage
+MH  - Energy Intake
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Insulin/administration & dosage
+MH  - Male
+MH  - Middle Aged
+MH  - Motor Activity
+MH  - Nutrition Assessment
+MH  - Nutritional Status
+MH  - Prospective Studies
+MH  - Recommended Dietary Allowances
+MH  - White People
+MH  - Young Adult
+FIR - Karamanos, B
+IR  - Karamanos B
+FIR - Kofinis, A
+IR  - Kofinis A
+FIR - Petrou, K
+IR  - Petrou K
+FIR - Giorgino, F
+IR  - Giorgino F
+FIR - Picca, G
+IR  - Picca G
+FIR - Angarano, A
+IR  - Angarano A
+FIR - De Pergola, G
+IR  - De Pergola G
+FIR - Laviola, L
+IR  - Laviola L
+FIR - Giorgino, R
+IR  - Giorgino R
+FIR - Ionescu-Tirgoviste, C
+IR  - Ionescu-Tirgoviste C
+FIR - Coszma, A
+IR  - Coszma A
+FIR - Guja, C
+IR  - Guja C
+FIR - Songini, M
+IR  - Songini M
+FIR - Casu, A
+IR  - Casu A
+FIR - Pedron, M
+IR  - Pedron M
+FIR - Pintus, S
+IR  - Pintus S
+FIR - Fossarello, M
+IR  - Fossarello M
+FIR - Ferriss, J B
+IR  - Ferriss J
+FIR - O'Keefe, D
+IR  - O'Keefe D
+FIR - Grealy, G
+IR  - Grealy G
+FIR - Toeller, M
+IR  - Toeller M
+FIR - Arden, C
+IR  - Arden C
+FIR - Rottiers, R
+IR  - Rottiers R
+FIR - Tuyttens, C
+IR  - Tuyttens C
+FIR - Priem, H
+IR  - Priem H
+FIR - Ebeling, P
+IR  - Ebeling P
+FIR - Kyllia, M
+IR  - Kyllia M
+FIR - Koivisto, V A
+IR  - Koivisto V
+FIR - Idzior-Walus, B
+IR  - Idzior-Walus B
+FIR - Sieradzki, J
+IR  - Sieradzki J
+FIR - Cyganek, K
+IR  - Cyganek K
+FIR - Solnica, B
+IR  - Solnica B
+FIR - Lemkes, H H P J
+IR  - Lemkes H
+FIR - Lemkes-Stuffken, J C
+IR  - Lemkes-Stuffken J
+FIR - Rogado, M C
+IR  - Rogado M
+FIR - Gardete-Correia, L
+IR  - Gardete-Correia L
+FIR - Cardoso, M C
+IR  - Cardoso M
+FIR - Silva, A
+IR  - Silva A
+FIR - Boavida, J
+IR  - Boavida J
+FIR - Machado Sa Marques, M
+IR  - Machado Sa Marques M
+FIR - Michel, G
+IR  - Michel G
+FIR - Wirion, R
+IR  - Wirion R
+FIR - Cardillo, S
+IR  - Cardillo S
+FIR - Pozza, G
+IR  - Pozza G
+FIR - Mangili, R
+IR  - Mangili R
+FIR - Asnaghi, V
+IR  - Asnaghi V
+FIR - Standl, E
+IR  - Standl E
+FIR - Schaffler, B
+IR  - Schaffler B
+FIR - Brand, H
+IR  - Brand H
+FIR - Soussan, D Ben
+IR  - Soussan D
+FIR - Verier, O
+IR  - Verier O
+FIR - Fallas, P
+IR  - Fallas P
+FIR - Fallas, M C
+IR  - Fallas M
+FIR - Fuller, J H
+IR  - Fuller J
+FIR - Holloway, J
+IR  - Holloway J
+FIR - Asbury, L
+IR  - Asbury L
+FIR - Betteridge, D J
+IR  - Betteridge D
+FIR - Cathelineau, G
+IR  - Cathelineau G
+FIR - Bouallouche, A
+IR  - Bouallouche A
+FIR - Cathelineau, B Villatte
+IR  - Cathelineau B
+FIR - Santeusanio, F
+IR  - Santeusanio F
+FIR - Rosi, G
+IR  - Rosi G
+FIR - D'Alessandro, V
+IR  - D'Alessandro V
+FIR - Cagini, C
+IR  - Cagini C
+FIR - Bottini, P
+IR  - Bottini P
+FIR - Reboldi, G P
+IR  - Reboldi G
+FIR - Navalesi, R
+IR  - Navalesi R
+FIR - Penno, G
+IR  - Penno G
+FIR - Bandinelli, S
+IR  - Bandinelli S
+FIR - Miccoli, R
+IR  - Miccoli R
+FIR - Nannipieri, M
+IR  - Nannipieri M
+FIR - Ghirlanda, G
+IR  - Ghirlanda G
+FIR - Saponara, C
+IR  - Saponara C
+FIR - Cotroneo, P
+IR  - Cotroneo P
+FIR - Manto, A
+IR  - Manto A
+FIR - Ward, J D
+IR  - Ward J
+FIR - Tesfaye, S
+IR  - Tesfaye S
+FIR - Eaton, S
+IR  - Eaton S
+FIR - Mody, C
+IR  - Mody C
+FIR - Borra, M
+IR  - Borra M
+FIR - Perin, P Cavallo
+IR  - Perin PC
+FIR - Giunti, S
+IR  - Giunti S
+FIR - Grassi, G
+IR  - Grassi G
+FIR - Pagano, G F
+IR  - Pagano G
+FIR - Porta, M
+IR  - Porta M
+FIR - Sivieri, R
+IR  - Sivieri R
+FIR - Vitelli, F
+IR  - Vitelli F
+FIR - Veglio, M
+IR  - Veglio M
+FIR - Papazoglou, N
+IR  - Papazoglou N
+FIR - Manes, G
+IR  - Manes G
+FIR - Muggeo, M
+IR  - Muggeo M
+FIR - Iagulli, M
+IR  - Iagulli M
+FIR - Cacciatori, V
+IR  - Cacciatori V
+FIR - Cattedra, V
+IR  - Cattedra V
+FIR - Irsigler, K
+IR  - Irsigler K
+FIR - Abrahamian, H
+IR  - Abrahamian H
+FIR - Walford, S
+IR  - Walford S
+FIR - Sinclair, J
+IR  - Sinclair J
+FIR - Hughes, S
+IR  - Hughes S
+FIR - McLelland, V
+IR  - McLelland V
+FIR - Ward, J
+IR  - Ward J
+FIR - Roglic, G
+IR  - Roglic G
+FIR - Metelko, Z
+IR  - Metelko Z
+FIR - Pepeonik, Z R
+IR  - Pepeonik Z
+FIR - Fuller, J H
+IR  - Fuller J
+FIR - Karamanos, B
+IR  - Karamanos B
+FIR - Chaturvedi, N
+IR  - Chaturvedi N
+FIR - Toeller, M
+IR  - Toeller M
+FIR - Pozza, G
+IR  - Pozza G
+FIR - Ferriss, B
+IR  - Ferriss B
+FIR - Porta, M
+IR  - Porta M
+FIR - Rottiers, R
+IR  - Rottiers R
+FIR - Michel, G
+IR  - Michel G
+FIR - Fuller, J H
+IR  - Fuller J
+FIR - Chaturvedi, N
+IR  - Chaturvedi N
+FIR - Holloway, J
+IR  - Holloway J
+FIR - Webb, D
+IR  - Webb D
+FIR - Asbury, L
+IR  - Asbury L
+FIR - Viberti, G C
+IR  - Viberti GC
+FIR - Swaminathan, R
+IR  - Swaminathan R
+FIR - Lumb, P
+IR  - Lumb P
+FIR - Collins, A
+IR  - Collins A
+FIR - Sankaralingham, S
+IR  - Sankaralingham S
+FIR - Crook, M A
+IR  - Crook MA
+FIR - Aldington, S
+IR  - Aldington S
+FIR - Mortemore, T
+IR  - Mortemore T
+FIR - Lipinski, H
+IR  - Lipinski H
+FIR - Toeller, M
+IR  - Toeller M
+FIR - Scherbaum, W A
+IR  - Scherbaum WA
+FIR - Gries, F A
+IR  - Gries FA
+EDAT- 2012/12/12 06:00
+MHDA- 2014/04/25 06:00
+CRDT- 2012/12/11 06:00
+PHST- 2012/06/21 00:00 [received]
+PHST- 2012/11/22 00:00 [accepted]
+PHST- 2012/12/11 06:00 [entrez]
+PHST- 2012/12/12 06:00 [pubmed]
+PHST- 2014/04/25 06:00 [medline]
+AID - 10.1007/s00394-012-0473-7 [doi]
+PST - ppublish
+SO  - Eur J Nutr. 2013 Oct;52(7):1701-10. doi: 10.1007/s00394-012-0473-7. Epub 2012 Dec 
+      7.

@@ -1,0 +1,94 @@
+PMID- 19419587
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090625
+LR  - 20220317
+IS  - 1749-8090 (Electronic)
+IS  - 1749-8090 (Linking)
+VI  - 4
+DP  - 2009 May 7
+TI  - Sternal plating for primary and secondary sternal closure; can it improve sternal 
+      stability?
+PG  - 19
+LID - 10.1186/1749-8090-4-19 [doi]
+AB  - BACKGROUND: Sternal instability with mediastinitis is a very serious complication 
+      after median sternotomy. Biomechanical studies have suggested superiority of 
+      rigid plate fixation over wire cerclage for sternal fixation. This study tests 
+      the hypothesis that sternal closure stability can be improved by adding plate 
+      fixation in a human cadaver model. METHODS: Midline sternotomy was performed in 
+      18 human cadavers. Four sternal closure techniques were tested: (1) approximation 
+      with six interrupted steel wires; (2) approximation with six interrupted cables; 
+      (3) closure 1 (wires) or 2 (cables) reinforced with a transverse sternal plate at 
+      the sixth rib; (4) Closure using 4 sternal plates alone. Intrathoracic pressure 
+      was increased in all techniques while sternal separation was measured by three 
+      pairs of sonomicrometry crystals fixed at the upper, middle and lower parts of 
+      the sternum until 2.0 mm separation was detected. Differences in displacement 
+      pressures were analyzed using repeated measures ANOVA and Regression 
+      Coefficients. RESULTS: Intrathoracic pressure required to cause 2.0 mm separation 
+      increased significantly from 183.3 +/- 123.9 to 301.4 +/- 204.5 in wires/cables 
+      alone vs. wires/cables plus one plate respectively, and to 355.0 +/- 210.4 in the 
+      4 plates group (p < 0.05). Regression Coefficients (95% CI) were 120 (47-194) and 
+      142 (66-219) respectively for the plate groups. CONCLUSION: Transverse sternal 
+      plating with 1 or 4 plates significantly improves sternal stability closure in 
+      human cadaver model. Adding a single sternal plate to primary closure improves 
+      the strength of sternal closure with traditional wiring potentially reducing the 
+      risk of sternal dehiscence and could be considered in high risk patients.
+FAU - Fawzy, Hosam
+AU  - Fawzy H
+AD  - Division of Cardiovascular and Thoracic Surgery, Department of Surgery, Terrence 
+      Donnelly Heart Center, Keenan Research Center in the Li Ka Shing Knowledge 
+      Institute of St Michael's Hospital, University of Toronto, Ontario, Canada. 
+      hosamfawzy@hotmail.com
+FAU - Alhodaib, Nasser
+AU  - Alhodaib N
+FAU - Mazer, C David
+AU  - Mazer CD
+FAU - Harrington, Alana
+AU  - Harrington A
+FAU - Latter, David
+AU  - Latter D
+FAU - Bonneau, Daniel
+AU  - Bonneau D
+FAU - Errett, Lee
+AU  - Errett L
+FAU - Mahoney, James
+AU  - Mahoney J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090507
+PL  - England
+TA  - J Cardiothorac Surg
+JT  - Journal of cardiothoracic surgery
+JID - 101265113
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analysis of Variance
+MH  - Bone Plates
+MH  - Bone Wires
+MH  - Cadaver
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Orthopedic Procedures/*methods
+MH  - Regression Analysis
+MH  - Sternum/*surgery
+MH  - Suture Techniques
+MH  - Thoracotomy/methods
+PMC - PMC2684105
+EDAT- 2009/05/08 09:00
+MHDA- 2009/06/26 09:00
+PMCR- 2009/05/07
+CRDT- 2009/05/08 09:00
+PHST- 2009/04/09 00:00 [received]
+PHST- 2009/05/07 00:00 [accepted]
+PHST- 2009/05/08 09:00 [entrez]
+PHST- 2009/05/08 09:00 [pubmed]
+PHST- 2009/06/26 09:00 [medline]
+PHST- 2009/05/07 00:00 [pmc-release]
+AID - 1749-8090-4-19 [pii]
+AID - 10.1186/1749-8090-4-19 [doi]
+PST - epublish
+SO  - J Cardiothorac Surg. 2009 May 7;4:19. doi: 10.1186/1749-8090-4-19.

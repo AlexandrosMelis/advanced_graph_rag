@@ -1,0 +1,82 @@
+PMID- 19608436
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091123
+LR  - 20090907
+IS  - 1878-4046 (Electronic)
+IS  - 1076-6332 (Linking)
+VI  - 16
+IP  - 10
+DP  - 2009 Oct
+TI  - Chemical shift MRI: is there any contribution to morphologic evaluation of solid 
+      breast masses?
+PG  - 1263-71
+LID - 10.1016/j.acra.2009.05.014 [doi]
+AB  - RATIONALE AND OBJECTIVES: To investigate the contribution of chemical shift 
+      magnetic resonance imaging for assessment of the margins of solid breast masses 
+      by benefiting from India ink artifact. METHODS AND MATERIALS: Eighty-eight masses 
+      in 64 patients were evaluated in T1- and T2-weighted images, dynamic contrast and 
+      chemical shift studies according to Breast Imaging Reporting and Data System 
+      magnetic resonance lexicon. Subtraction images were automatically obtained by 
+      chemical shift imaging and dynamic studies. Each sequence was scored using a 
+      scale of 1 to 5 according to its ability to demonstrate margins separate from 
+      surrounding parenchyma. Breast parenchyma was evaluated as fatty and dense. The 
+      results were compared with the histopathologic results. RESULTS: Twenty-eight 
+      (31.8%) of the lesions were localized in fatty breast, and the remaining 60 
+      (68.2%) lesions were localized in dense breast. There were 34 (38.6%) benign and 
+      54 (61.4%) malignant masses. In fatty breast, chemical shift subtraction and 
+      T1-weighted images were valuable both for the demonstration and differentiation 
+      of benign lesions (P < .05). None of the sequence was valuable for both the 
+      demonstration and differentiation of malignant lesions in fatty breasts (P > 
+      .05). In dense breasts, chemical shift subtraction and dynamic contrast 
+      subtraction images were valuable for both the demonstration and differentiation 
+      of benign and malignant lesions. Additional to these sequences, T2-weighted 
+      images was also valuable for benign lesions (P < .05). CONCLUSION: Chemical shift 
+      subtraction can contribute to routine dynamic contrast subtraction in morphologic 
+      analysis particularly for the evaluation of margins of benign lesions in fatty 
+      breasts. It can also help in morphologic analysis of masses in dense breast.
+FAU - Gokalp, Gokhan
+AU  - Gokalp G
+AD  - Department of Radiology, Uludag University Medical Faculty, Gorukle, Bursa, 
+      Turkey. drgokhangokalp@yahoo.com
+FAU - Topal, Ugur
+AU  - Topal U
+FAU - Bolca, Naile
+AU  - Bolca N
+FAU - Ercan, Ilker
+AU  - Ercan I
+LA  - eng
+PT  - Journal Article
+DEP - 20090715
+PL  - United States
+TA  - Acad Radiol
+JT  - Academic radiology
+JID - 9440159
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *Algorithms
+MH  - Breast Neoplasms/*pathology
+MH  - Female
+MH  - Humans
+MH  - Image Enhancement/methods
+MH  - Image Interpretation, Computer-Assisted/*methods
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Middle Aged
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - *Subtraction Technique
+EDAT- 2009/07/18 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/07/18 09:00
+PHST- 2008/06/19 00:00 [received]
+PHST- 2009/05/18 00:00 [revised]
+PHST- 2009/05/22 00:00 [accepted]
+PHST- 2009/07/18 09:00 [entrez]
+PHST- 2009/07/18 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - S1076-6332(09)00313-4 [pii]
+AID - 10.1016/j.acra.2009.05.014 [doi]
+PST - ppublish
+SO  - Acad Radiol. 2009 Oct;16(10):1263-71. doi: 10.1016/j.acra.2009.05.014. Epub 2009 
+      Jul 15.

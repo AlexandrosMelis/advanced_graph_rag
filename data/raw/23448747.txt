@@ -1,0 +1,90 @@
+PMID- 23448747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130820
+LR  - 20131121
+IS  - 1538-0688 (Electronic)
+IS  - 0190-535X (Linking)
+VI  - 40
+IP  - 2
+DP  - 2013 Mar
+TI  - Do older adults with cancer fall more often? A comparative analysis of falls in 
+      those with and without cancer.
+PG  - E69-78
+LID - 10.1188/13.ONF.E69-E78 [doi]
+AB  - PURPOSE/OBJECTIVES: To examine whether a history of cancer increased the 
+      likelihood of a fall in community-dwelling older adults, and if cancer type, 
+      stage, or time since diagnosis increased falls. DESIGN: A longitudinal, 
+      retrospective, cohort study. SETTING: A home- and community-based waiver program 
+      in Michigan. SAMPLE: 862 older adults aged 65 years or older with cancer compared 
+      to 8,617 older adults without cancer using data from the Minimum Data Set-Home 
+      Care and Michigan cancer registry. METHODS: Reports of falls were examined for 
+      90-180 days. Generalized estimating equations were used to compare differences 
+      between the groups. MAIN RESEARCH VARIABLES: Cancer, falls, patient 
+      characteristics, comorbidities, medications, pain, weight loss, vision, memory 
+      recall, and activities, as well as cancer type, stage, and time since diagnosis. 
+      FINDINGS: A fall occurred at a rate of 33% in older adults with cancer compared 
+      to 29% without cancer (p < 0.00). Those with a history of cancer were more likely 
+      to fall than those without cancer (adjusted odds ratio 1.16; 95% confidence 
+      interval [1.02, 1.33]; p = 0.03). No differences in fall rates were determined by 
+      cancer type or stage, and the odds of a fall did not increase when adding time 
+      since cancer diagnosis. CONCLUSIONS: The fall rate was higher in older adults 
+      with cancer than in older adults without cancer. IMPLICATIONS FOR NURSING: Nurses 
+      need to assess fall risk and initiate fall prevention measures for older adults 
+      at the time of cancer diagnosis. KNOWLEDGE TRANSLATION: When caring for older 
+      adults with cancer, nurses should be aware of an increased risk for falls. 
+      Healthcare staff also should be aware of an increased risk for falls in that 
+      population during cancer treatment. Evidence-based fall prevention measures 
+      should be included in care plans for older adult cancer survivors.
+FAU - Spoelstra, Sandra L
+AU  - Spoelstra SL
+AD  - College of Nursing, Michigan State University in East Lansing, MI, USA. 
+      sandra.spoelstra@hc.msu
+FAU - Given, Barbara A
+AU  - Given BA
+FAU - Schutte, Debra L
+AU  - Schutte DL
+FAU - Sikorskii, Alla
+AU  - Sikorskii A
+FAU - You, Mei
+AU  - You M
+FAU - Given, Charles W
+AU  - Given CW
+LA  - eng
+GR  - 1F31NR011522-01A1/NR/NINR NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Oncol Nurs Forum
+JT  - Oncology nursing forum
+JID - 7809033
+SB  - IM
+MH  - Accidental Falls/*statistics & numerical data
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Aging
+MH  - Comorbidity
+MH  - Female
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Michigan/epidemiology
+MH  - Neoplasms/*epidemiology/nursing
+MH  - Oncology Nursing
+MH  - Prevalence
+MH  - Registries/statistics & numerical data
+MH  - Residence Characteristics/statistics & numerical data
+MH  - Retrospective Studies
+MH  - Risk Factors
+EDAT- 2013/03/02 06:00
+MHDA- 2013/08/21 06:00
+CRDT- 2013/03/02 06:00
+PHST- 2013/03/02 06:00 [entrez]
+PHST- 2013/03/02 06:00 [pubmed]
+PHST- 2013/08/21 06:00 [medline]
+AID - 0312080076535885 [pii]
+AID - 10.1188/13.ONF.E69-E78 [doi]
+PST - ppublish
+SO  - Oncol Nurs Forum. 2013 Mar;40(2):E69-78. doi: 10.1188/13.ONF.E69-E78.

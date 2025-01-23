@@ -1,0 +1,75 @@
+PMID- 20497880
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100820
+LR  - 20161021
+IS  - 0219-3108 (Electronic)
+IS  - 1015-9584 (Linking)
+VI  - 33
+IP  - 1
+DP  - 2010 Jan
+TI  - Is transurethral catheterisation the ideal method of bladder drainage? A survey 
+      of patient satisfaction with indwelling transurethral urinary catheters.
+PG  - 31-6
+LID - 10.1016/S1015-9584(10)60006-1 [doi]
+AB  - OBJECTIVE: Bladder catheterisation is a routine part of major abdominal surgery. 
+      Transurethral catheterisation is the most common method of bladder drainage but 
+      is also notorious for its discomfort and increased risk of urinary tract 
+      infection. The present study aimed to establish patient satisfaction with 
+      transurethral catheterisation and to assess the incidence of clinically 
+      significant urinary tract infections after transurethral catheterisation through 
+      survey. METHODS: All patients who underwent major open abdominal surgery between 
+      October 2006 and December 2008 and required standard transurethral bladder 
+      catheterisation, were asked to participate in the study. Fifty patients were 
+      recruited. RESULTS: Male patients were more dissatisfied than their female 
+      counterparts with transurethral catheterisation (satisfaction score: 4.18/10 vs. 
+      2.75/10; p = 0.05). Male patients had more than double the score for pain at the 
+      urinary meatus with the catheter in situ (p =0.012) and during urine catheter 
+      removal (p = 0.013). Half the patients in the study also had symptoms of urinary 
+      tract infection after catheter removal. CONCLUSION: Our study emphasised the 
+      discomfort of transurethral urinary catheters, especially in male patients, and 
+      the high incidence of urinary tract infections in both sexes. Consideration 
+      should be given to the utilisation of alternative methods of bladder drainage, 
+      such as suprapubic catheterisation, which can be performed with ease during 
+      laparotomy.
+CI  - Copyright (c) 2010 Asian Surgical Association. Published by Elsevier B.V. All 
+      rights reserved.
+FAU - Tan, Glenn Wei Leong
+AU  - Tan GW
+AD  - Department of General Surgery, Tan Tock Seng Hospital, 11 Jalan Tan Tock Seng, 
+      Singapore. glenn_tan@ttsh.com.sg
+FAU - Chan, Siew Pang
+AU  - Chan SP
+FAU - Ho, Choon Kiat
+AU  - Ho CK
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Asian J Surg
+JT  - Asian journal of surgery
+JID - 8900600
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Catheters, Indwelling
+MH  - Female
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Pain/etiology
+MH  - *Patient Satisfaction
+MH  - Urinary Catheterization/*adverse effects
+MH  - Urinary Tract Infections/*epidemiology/etiology
+EDAT- 2010/05/26 06:00
+MHDA- 2010/08/21 06:00
+CRDT- 2010/05/26 06:00
+PHST- 2010/02/11 00:00 [accepted]
+PHST- 2010/05/26 06:00 [entrez]
+PHST- 2010/05/26 06:00 [pubmed]
+PHST- 2010/08/21 06:00 [medline]
+AID - S1015-9584(10)60006-1 [pii]
+AID - 10.1016/S1015-9584(10)60006-1 [doi]
+PST - ppublish
+SO  - Asian J Surg. 2010 Jan;33(1):31-6. doi: 10.1016/S1015-9584(10)60006-1.

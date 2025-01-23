@@ -1,0 +1,109 @@
+PMID- 27908583
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170517
+LR  - 20170517
+IS  - 1988-8856 (Electronic)
+IS  - 1888-4415 (Linking)
+VI  - 61
+IP  - 1
+DP  - 2017 Jan-Feb
+TI  - Should lower limb fractures be treated surgically in patients with chronic spinal 
+      injuries? Experience in a reference centre.
+PG  - 19-27
+LID - S1888-4415(16)30079-0 [pii]
+LID - 10.1016/j.recot.2016.07.007 [doi]
+AB  - OBJECTIVE: To report the outcomes of surgical treatment of lower limb fractures 
+      in patients with chronic spinal cord injuries. MATERIAL AND METHOD: A total of 37 
+      lower limb fractures were treated from 2003 to 2010, of which 25 fractures were 
+      treated surgically and 12 orthopaedically. RESULTS: Patients of the surgical 
+      group had better clinical results, range of motion, bone consolidation, and less 
+      pressure ulcers and radiological misalignment. No differences were detected 
+      between groups in terms of pain, hospital stay, and medical complications. 
+      DISCUSSION: There is no currently consensus regarding the management of lower 
+      limb fractures in patients with chronic spinal cord injuries, but the trend has 
+      been conservative treatment due to the high rate of complications in surgical 
+      treatment. CONCLUSIONS: Chronic spinal cord injuries patients with lower limb 
+      fractures who are treated surgically achieved a more reliable consolidation, 
+      practically a free range of motion, low rate of cutaneous complications, and pain 
+      associated with the fracture. This allows a quick return to the previous standard 
+      of living, and should be considered as an alternative to orthopaedic treatment in 
+      these patients.
+CI  - Copyright (c) 2016 SECOT. Publicado por Elsevier Espana, S.L.U. All rights 
+      reserved.
+FAU - Barrera-Ochoa, S
+AU  - Barrera-Ochoa S
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario Vall 
+      d'Hebron, Universidad Autonoma Barcelona (UAB), Barcelona, Espana; Grupo de 
+      Ingenieria Tisular Musculoesqueletica, Institut de Recerca Vall d'Hebron , 
+      Barcelona, Espana; Servicio de Cirugia Ortopedica y Traumatologia, Hospital 
+      Universitario Quiron-Dexeus, ICATME, Barcelona, Espana. Electronic address: 
+      Dr.barreraochoa@gmail.com.
+FAU - Haddad, S
+AU  - Haddad S
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario Vall 
+      d'Hebron, Universidad Autonoma Barcelona (UAB), Barcelona, Espana.
+FAU - Rodriguez-Alabau, S
+AU  - Rodriguez-Alabau S
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario 
+      Quiron-Dexeus, ICATME, Barcelona, Espana.
+FAU - Teixidor, J
+AU  - Teixidor J
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario Vall 
+      d'Hebron, Universidad Autonoma Barcelona (UAB), Barcelona, Espana.
+FAU - Tomas, J
+AU  - Tomas J
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario Vall 
+      d'Hebron, Universidad Autonoma Barcelona (UAB), Barcelona, Espana.
+FAU - Molero, V
+AU  - Molero V
+AD  - Servicio de Cirugia Ortopedica y Traumatologia, Hospital Universitario Vall 
+      d'Hebron, Universidad Autonoma Barcelona (UAB), Barcelona, Espana.
+LA  - eng
+LA  - spa
+PT  - Journal Article
+TT  -  inverted question markSe deben tratar quirurgicamente las fracturas de extremidad inferior en 
+      pacientes con lesiones medulares cronicas? Experiencia en un centro de 
+      referencia.
+DEP - 20161129
+PL  - Spain
+TA  - Rev Esp Cir Ortop Traumatol
+JT  - Revista espanola de cirugia ortopedica y traumatologia
+JID - 101477399
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Femoral Fractures/complications/*surgery
+MH  - Fracture Fixation/*methods
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Spinal Cord Injuries/*complications
+MH  - Tibial Fractures/complications/*surgery
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Chronic spinal cord injury
+OT  - Conservative treatment
+OT  - Fijacion quirurgica
+OT  - Fractura extremidad inferior
+OT  - Lesion medular cronica
+OT  - Lower limb fractures
+OT  - Surgical fixation
+OT  - Surgical treatment
+OT  - Tratamiento conservador
+OT  - Tratamiento quirurgico
+EDAT- 2016/12/03 06:00
+MHDA- 2017/05/18 06:00
+CRDT- 2016/12/03 06:00
+PHST- 2015/07/19 00:00 [received]
+PHST- 2016/04/17 00:00 [revised]
+PHST- 2016/07/25 00:00 [accepted]
+PHST- 2016/12/03 06:00 [pubmed]
+PHST- 2017/05/18 06:00 [medline]
+PHST- 2016/12/03 06:00 [entrez]
+AID - S1888-4415(16)30079-0 [pii]
+AID - 10.1016/j.recot.2016.07.007 [doi]
+PST - ppublish
+SO  - Rev Esp Cir Ortop Traumatol. 2017 Jan-Feb;61(1):19-27. doi: 
+      10.1016/j.recot.2016.07.007. Epub 2016 Nov 29.

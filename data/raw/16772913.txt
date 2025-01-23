@@ -1,0 +1,77 @@
+PMID- 16772913
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060628
+LR  - 20150624
+IS  - 1529-4242 (Electronic)
+IS  - 0032-1052 (Linking)
+VI  - 117
+IP  - 7
+DP  - 2006 Jun
+TI  - A comparison of 500 prefilled textured saline breast implants versus 500 standard 
+      textured saline breast implants: is there a difference in deflation rates?
+PG  - 2175-8; discussion 2179-81
+AB  - BACKGROUND: This study provides the first large-volume (1000 implant) comparison 
+      of the deflation rates of Poly Implant Prosthesis prefilled textured saline 
+      breast implants versus a control group of Mentor Siltex textured saline implants. 
+      METHODS: A consecutive series of 500 Poly Implant Prosthesis prefilled textured 
+      saline breast implants was compared with a consecutive series of 500 Mentor 
+      Siltex breast implants. Each breast implant was evaluated for a 4-year period, 
+      and the annual deflation rate (number of deflations during a given year divided 
+      by the total number of implants) and cumulative deflation rate (cumulative total 
+      of deflations through a given year divided by the total number of implants) were 
+      recorded. Statistical significance was calculated using the Fisher's exact test 
+      at year 1 and the chi-square analysis at years 2 through 4. RESULTS: The 
+      cumulative deflation rates of the Poly Implant Prosthesis implants was as 
+      follows: year 1, 1.2 percent; year 2, 5.6 percent; year 3, 11.4 percent; and year 
+      4, 15.4 percent. The cumulative deflation rates of the Mentor implants was: year 
+      1, 0.2 percent; year 2, 0.6 percent; year 3, 1.6 percent; and year 4, 4.4 
+      percent. At year 1, the difference between deflation rates was not statistically 
+      significant (Fisher's exact test, p > 0.05). However, at year 2 (chi-square, 
+      13.29; p < 0.001), year 3 (chi-square, 37.91; p < 0.001), and year 4 (chi-square, 
+      32.69; p < 0.001), the difference was statistically significant. CONCLUSIONS: 
+      There was a statistically significant difference between the overall deflation 
+      rates of Poly Implant Prosthesis prefilled textured saline breast implants and 
+      Mentor Siltex breast implants at year 2, year 3, and year 4. After 4 years, the 
+      15.56 percent cumulative deflation rate of Poly Implant Prosthesis implants was 
+      over 3.5 times higher than the 4.31 percent deflation rate of the Mentor Siltex 
+      implants. There may be several factors contributing to the higher deflation rate 
+      seen in Poly Implant Prosthesis implants, including possible in vitro deflation 
+      before implantation and silicone shell curing technique. Nevertheless, this 
+      statistically significant deflation difference must be taken into account when 
+      balancing the risks and benefits of Poly Implant Prosthesis breast implants.
+FAU - Stevens, W Grant
+AU  - Stevens WG
+AD  - Marina Plastic Surgery Associates, Marina del Rey, CA, USA. drstevens@hotmail.com
+FAU - Hirsch, Elliot M
+AU  - Hirsch EM
+FAU - Stoker, David A
+AU  - Stoker DA
+FAU - Cohen, Robert
+AU  - Cohen R
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Plast Reconstr Surg
+JT  - Plastic and reconstructive surgery
+JID - 1306050
+SB  - IM
+MH  - Breast Implantation/*instrumentation
+MH  - *Breast Implants
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Postoperative Complications
+MH  - *Prosthesis Failure
+EDAT- 2006/06/15 09:00
+MHDA- 2006/06/29 09:00
+CRDT- 2006/06/15 09:00
+PHST- 2006/06/15 09:00 [pubmed]
+PHST- 2006/06/29 09:00 [medline]
+PHST- 2006/06/15 09:00 [entrez]
+AID - 00006534-200606000-00011 [pii]
+AID - 10.1097/01.prs.0000218199.28082.9d [doi]
+PST - ppublish
+SO  - Plast Reconstr Surg. 2006 Jun;117(7):2175-8; discussion 2179-81. doi: 
+      10.1097/01.prs.0000218199.28082.9d.

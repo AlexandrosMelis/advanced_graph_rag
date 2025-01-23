@@ -1,0 +1,78 @@
+PMID- 21881325
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120111
+LR  - 20190608
+IS  - 2186-1005 (Electronic)
+IS  - 1341-1098 (Linking)
+VI  - 17
+IP  - 4
+DP  - 2011
+TI  - Do preoperative statins reduce atrial fibrillation after coronary artery bypass 
+      grafting?
+PG  - 376-82
+AB  - OBJECTIVE: Recent studies have demonstrated that statins have pleiotropic 
+      effects, including anti-inflammatory effects and atrial fibrillation (AF) 
+      preventive effects. The objective of this study was to assess the efficacy of 
+      preoperative statin therapy in preventing AF after coronary artery bypass 
+      grafting (CABG). METHODS: 221 patients underwent CABG in our hospital from 2004 
+      to 2007. 14 patients with preoperative AF and 4 patients with concomitant valve 
+      surgery were excluded from this study. Patients were divided into two groups to 
+      examine the influence of statins: those with preoperative statin therapy (Statin 
+      group, n = 77) and those without it (Non-statin group, n = 126). In addition, 
+      patients were divided into two groups to determine the independent predictors for 
+      postoperative AF: those with postoperative AF (AF group, n = 54) and those 
+      without it (Non-AF group, n = 149). Patient data were collected and analyzed 
+      retrospectively. RESULTS: The overall incidence of postoperative AF was 26%. 
+      Postoperative AF was significantly lower in the Statin group compared with the 
+      Non-statin group (16% versus 33%, p = 0.005). Multivariate analysis demonstrated 
+      that independent predictors of AF development after CABG were preoperative statin 
+      therapy (odds ratio [OR] 0.327, 95% confidence interval [CI] 0.107 to 0.998, p = 
+      0.05) and age (OR 1.058, 95% CI 1.004 to 1.116, p = 0.035). CONCLUSION: Our study 
+      indicated that preoperative statin therapy seems to reduce AF development after 
+      CABG.
+FAU - Sakamoto, Hiroaki
+AU  - Sakamoto H
+AD  - Department of Cardiovascular Surgery, Hitachi General Hospital, Hitachi, Ibaraki, 
+      Japan. sakamotoh@md.tsukuba.ac.jp
+FAU - Watanabe, Yasunori
+AU  - Watanabe Y
+FAU - Satou, Masataka
+AU  - Satou M
+LA  - eng
+PT  - Journal Article
+PL  - Japan
+TA  - Ann Thorac Cardiovasc Surg
+JT  - Annals of thoracic and cardiovascular surgery : official journal of the 
+      Association of Thoracic and Cardiovascular Surgeons of Asia
+JID - 9703158
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+SB  - IM
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Atrial Fibrillation/etiology/*prevention & control
+MH  - Chi-Square Distribution
+MH  - Coronary Artery Bypass/*adverse effects
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Hydroxymethylglutaryl-CoA Reductase Inhibitors/*administration & dosage
+MH  - Japan
+MH  - Male
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2011/09/02 06:00
+MHDA- 2012/01/12 06:00
+CRDT- 2011/09/02 06:00
+PHST- 2011/09/02 06:00 [entrez]
+PHST- 2011/09/02 06:00 [pubmed]
+PHST- 2012/01/12 06:00 [medline]
+AID - JST.JSTAGE/atcs/oa.10.01588 [pii]
+AID - 10.5761/atcs.oa.10.01588 [doi]
+PST - ppublish
+SO  - Ann Thorac Cardiovasc Surg. 2011;17(4):376-82. doi: 10.5761/atcs.oa.10.01588.

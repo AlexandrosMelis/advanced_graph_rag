@@ -1,0 +1,84 @@
+PMID- 20156655
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100816
+LR  - 20220321
+IS  - 1527-9995 (Electronic)
+IS  - 0090-4295 (Linking)
+VI  - 76
+IP  - 1
+DP  - 2010 Jul
+TI  - Scrotal approach to both palpable and impalpable undescended testes: should it 
+      become our first choice?
+PG  - 73-6
+LID - 10.1016/j.urology.2009.09.096 [doi]
+AB  - OBJECTIVES: To determine the advantages of scrotal incision in the treatment of 
+      undescended testis. Undescended testis is a common pediatric condition and is 
+      conventionally managed surgically by orchidopexy. A single scrotal incision 
+      orchidopexy has become accepted as a valid approach for patients with palpable 
+      undescended testicles. Because this approach also allows easy detection of 
+      atrophic testes or testicular remnants, it recently has also emerged as an 
+      alternative initial surgical approach to impalpable undescended testicles. 
+      METHODS: All orchidopexies performed between 2004 and 2008 at our university 
+      hospital were prospectively included in this study. A total of 194 scrotal 
+      orchidopexies were performed in 154 patients (mean age, 71 months; range, 4-229 
+      months). In all cases a scrotal approach was chosen irrespective of the initial 
+      position or presence of an open processus vaginalis. Testicular position was 
+      examined at follow-up after a mean period of 10 months (3-22 months). RESULTS: 
+      Overall, 36 of the 46 impalpable testicles (78%) could be diagnosed and treated 
+      accordingly, using only a scrotal incision. Conversion to laparoscopy was needed 
+      in 4 cases. A limited number of postoperative complications were seen. In all 
+      cases, the testes were palpable and remained in the scrotum on follow-up. 
+      CONCLUSIONS: Initial single scrotal incision can be recommended for orchidopexy, 
+      even in the more difficult cases of impalpable undescended testes. Advantages 
+      seem to include shorter operative time, a cosmetically appealing single incision, 
+      and possibly less pain. The scrotal incision technique significantly reduces the 
+      need for laparoscopy in impalpable testes. Surprisingly, it even allows 
+      successful orchidopexy of abdominal testes, provided an open processus is 
+      present.
+CI  - Copyright 2010 Elsevier Inc. All rights reserved.
+FAU - Callewaert, Piet R H
+AU  - Callewaert PR
+AD  - Department of Urology, Maastricht University Medical Centre, Maastricht, The 
+      Netherlands.
+FAU - Rahnama'i, Mohammad S
+AU  - Rahnama'i MS
+FAU - Biallosterski, Bart T
+AU  - Biallosterski BT
+FAU - van Kerrebroeck, Philip E V
+AU  - van Kerrebroeck PE
+LA  - eng
+PT  - Journal Article
+DEP - 20100213
+PL  - United States
+TA  - Urology
+JT  - Urology
+JID - 0366151
+SB  - IM
+CIN - Urology. 2010 Jul;76(1):77. doi: 10.1016/j.urology.2009.12.017. PMID: 20599106
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - Cryptorchidism/diagnosis/*surgery
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Palpation
+MH  - Prospective Studies
+MH  - Scrotum
+MH  - Urologic Surgical Procedures, Male/methods/standards
+MH  - Young Adult
+EDAT- 2010/02/17 06:00
+MHDA- 2010/08/17 06:00
+CRDT- 2010/02/17 06:00
+PHST- 2009/07/06 00:00 [received]
+PHST- 2009/09/16 00:00 [revised]
+PHST- 2009/09/29 00:00 [accepted]
+PHST- 2010/02/17 06:00 [entrez]
+PHST- 2010/02/17 06:00 [pubmed]
+PHST- 2010/08/17 06:00 [medline]
+AID - S0090-4295(09)03077-5 [pii]
+AID - 10.1016/j.urology.2009.09.096 [doi]
+PST - ppublish
+SO  - Urology. 2010 Jul;76(1):73-6. doi: 10.1016/j.urology.2009.09.096. Epub 2010 Feb 
+      13.

@@ -1,0 +1,86 @@
+PMID- 25571931
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151021
+LR  - 20181202
+IS  - 1421-9786 (Electronic)
+IS  - 1015-9770 (Linking)
+VI  - 39
+IP  - 2
+DP  - 2015
+TI  - Do elderly patients call 911 when presented with clinical scenarios suggestive of 
+      acute stroke? A cross-sectional study.
+PG  - 87-93
+LID - 10.1159/000369962 [doi]
+AB  - BACKGROUND AND PURPOSE: Among patients with acute stroke symptoms, delay in 
+      hospital admission is the main obstacle for the use of thrombolytic therapy and 
+      other interventions associated with decreased mortality and disability. The 
+      primary aim of this study was to assess whether an elderly clinical population 
+      correctly endorsed the response to call for emergency services when presented 
+      with signs and symptoms of stroke using a standardized questionnaire. METHODS: We 
+      performed a cross-sectional study among elderly out-patients (>/=60 years) in 
+      Buenos Aires, Argentina randomly recruited from a government funded health 
+      clinic. The correct endorsement of intention to call 911 was assessed with the 
+      Stroke Action Test and the cut-off point was set at >/=75%. Knowledge of stroke and 
+      clinical and socio-demographic indicators were also collected and evaluated as 
+      predictors of correct endorsement using logistic regression. RESULTS: Among 367 
+      elderly adults, 14% correctly endorsed intention to call 911. Presented with the 
+      most typical signs and symptoms, only 65% reported that they would call an 
+      ambulance. Amaurosis Fugax was the symptom for which was called the least (15%). 
+      On average, the correct response was chosen only 37% of the time. Compared to 
+      lower levels of education, higher levels were associated to correctly endorsed 
+      intention to call 911 (secondary School adjusted OR 3.53, 95% CI 1.59-7.86 and 
+      Tertiary/University adjusted OR 3.04, 95% CI 1.12-8.21). CONCLUSIONS: These 
+      results suggest the need to provide interventions that are specifically designed 
+      to increase awareness of potential stroke signs and symptoms and appropriate 
+      subsequent clinical actions.
+CI  - (c) 2015 S. Karger AG, Basel.
+FAU - Caruso, Diego
+AU  - Caruso D
+AD  - Department of Internal Medicine, Hospital Dr. Cesar Milstein associated with 
+      University of Buenos Aires, Buenos Aires, Argentina.
+FAU - Perez Akly, Manuel
+AU  - Perez Akly M
+FAU - Costantini, Pablo Daniel
+AU  - Costantini PD
+FAU - Fridman, Sebastian
+AU  - Fridman S
+FAU - Esnaola, Maria Martha
+AU  - Esnaola MM
+LA  - eng
+PT  - Journal Article
+DEP - 20150108
+PL  - Switzerland
+TA  - Cerebrovasc Dis
+JT  - Cerebrovascular diseases (Basel, Switzerland)
+JID - 9100851
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Amaurosis Fugax
+MH  - Ambulances/statistics & numerical data
+MH  - Argentina
+MH  - Cross-Sectional Studies
+MH  - Educational Status
+MH  - Emergency Medical Service Communication Systems/*statistics & numerical data
+MH  - Emergency Medical Services/statistics & numerical data
+MH  - Female
+MH  - Health Education
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - *Intention
+MH  - Male
+MH  - Middle Aged
+MH  - *Stroke
+EDAT- 2015/01/13 06:00
+MHDA- 2015/10/22 06:00
+CRDT- 2015/01/10 06:00
+PHST- 2014/08/26 00:00 [received]
+PHST- 2014/11/17 00:00 [accepted]
+PHST- 2015/01/10 06:00 [entrez]
+PHST- 2015/01/13 06:00 [pubmed]
+PHST- 2015/10/22 06:00 [medline]
+AID - 000369962 [pii]
+AID - 10.1159/000369962 [doi]
+PST - ppublish
+SO  - Cerebrovasc Dis. 2015;39(2):87-93. doi: 10.1159/000369962. Epub 2015 Jan 8.

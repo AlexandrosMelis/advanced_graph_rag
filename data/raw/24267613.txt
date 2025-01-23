@@ -1,0 +1,99 @@
+PMID- 24267613
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140820
+LR  - 20211021
+IS  - 1471-2482 (Electronic)
+IS  - 1471-2482 (Linking)
+VI  - 13 Suppl 2
+IP  - Suppl 2
+DP  - 2013
+TI  - Is the advanced age a contraindication to GERD laparoscopic surgery? Results of a 
+      long term follow-up.
+PG  - S13
+LID - 10.1186/1471-2482-13-S2-S13 [doi]
+AB  - BACKGROUND: In this prospective non randomized observational cohort study we have 
+      evaluated the influence of age on outcome of laparoscopic total fundoplication 
+      for GERD. METHODS: Six hundred and twenty consecutive patients underwent total 
+      laparoscopic fundoplication for GERD. Five hundred and twenty-four patients were 
+      younger than 65 years (YG), and 96 patients were 65 years or older (EG). The 
+      following parameters were considered in the preoperative and postoperative 
+      evaluation: presence, duration, and severity of GERD symptoms, presence of a 
+      hiatal hernia, manometric and 24 hour pH-monitoring data, duration of operation, 
+      incidence of complications and length of hospital stay. RESULTS: Elderly patients 
+      more often had atypical symptoms of GERD and at manometric evaluation had a 
+      higher rate of impaired esophageal peristalsis in comparison with younger 
+      patients. The duration of the operation was similar between the two groups. The 
+      incidence of intraoperative and postoperative complications was low and the 
+      difference was not statistically significant between the two groups. An excellent 
+      outcome was observed in 93.0% of young patients and in 88.9% of elderly patients 
+      (p = NS). CONCLUSIONS: Laparoscopic antireflux surgery is a safe and effective 
+      treatment for GERD even in elderly patients, warranting low morbidity and 
+      mortality rates and a significant improvement of symptoms comparable to younger 
+      patients.
+FAU - Fei, Landino
+AU  - Fei L
+FAU - Rossetti, Gianluca
+AU  - Rossetti G
+FAU - Moccia, Francesco
+AU  - Moccia F
+FAU - Marra, Teresa
+AU  - Marra T
+FAU - Guadagno, Paolo
+AU  - Guadagno P
+FAU - Docimo, Ludovico
+AU  - Docimo L
+FAU - Cimmino, Marco
+AU  - Cimmino M
+FAU - Napolitano, Vincenzo
+AU  - Napolitano V
+FAU - Docimo, Giovanni
+AU  - Docimo G
+FAU - Napoletano, Domenico
+AU  - Napoletano D
+FAU - Guerriero, Ludovica
+AU  - Guerriero L
+FAU - Pascotto, Beniamino
+AU  - Pascotto B
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20131008
+PL  - England
+TA  - BMC Surg
+JT  - BMC surgery
+JID - 100968567
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Child
+MH  - Contraindications
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Fundoplication/*methods
+MH  - Gastroesophageal Reflux/*surgery
+MH  - Humans
+MH  - *Laparoscopy
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Time Factors
+MH  - Young Adult
+PMC - PMC3851262
+EDAT- 2013/12/07 06:00
+MHDA- 2014/08/21 06:00
+PMCR- 2013/10/08
+CRDT- 2013/11/26 06:00
+PHST- 2013/11/26 06:00 [entrez]
+PHST- 2013/12/07 06:00 [pubmed]
+PHST- 2014/08/21 06:00 [medline]
+PHST- 2013/10/08 00:00 [pmc-release]
+AID - 1471-2482-13-S2-S13 [pii]
+AID - 10.1186/1471-2482-13-S2-S13 [doi]
+PST - ppublish
+SO  - BMC Surg. 2013;13 Suppl 2(Suppl 2):S13. doi: 10.1186/1471-2482-13-S2-S13. Epub 
+      2013 Oct 8.

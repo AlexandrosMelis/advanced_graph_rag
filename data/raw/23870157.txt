@@ -1,0 +1,102 @@
+PMID- 23870157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140627
+LR  - 20140505
+IS  - 1097-685X (Electronic)
+IS  - 0022-5223 (Linking)
+VI  - 147
+IP  - 5
+DP  - 2014 May
+TI  - Are intraoperative precursor events associated with postoperative major adverse 
+      events?
+PG  - 1499-504
+LID - S0022-5223(13)00581-3 [pii]
+LID - 10.1016/j.jtcvs.2013.05.018 [doi]
+AB  - OBJECTIVES: Precursor events are undesirable events that can lead to a subsequent 
+      adverse event and have been associated with postoperative mortality. The purpose 
+      of the present study was to determine whether precursor events are associated 
+      with a composite endpoint of major adverse cardiac events (MACE) (death, acute 
+      renal failure, stroke, infection) in a low- to medium-risk coronary artery bypass 
+      grafting, valve, and valve plus coronary artery bypass grafting population. These 
+      events might be targets for strategies aimed at quality improvement. METHODS: The 
+      present study was a retrospective cohort design performed at the Queen Elizabeth 
+      Health Science Centre. Low- to medium-risk patients who had experienced 
+      postoperative MACE were matched 1:1 with patients who had not experienced 
+      postoperative MACE. The operative notes, for both groups, were scored by 5 
+      surgeons to determine the frequency of 4 precursor events: bleeding, difficulty 
+      weaning from cardiopulmonary bypass, repair or regrafting, and incomplete 
+      revascularization or repair. A univariate comparison of >/=1 precursor events in 
+      the matched groups was performed. RESULTS: A total of 311 MACE patients (98.4%) 
+      were matched. The primary outcome occurred more frequently in the MACE group than 
+      in the non-MACE group (33% vs 24%; P = .015). The incidence of the individual 
+      events of bleeding and difficulty weaning from cardiopulmonary bypass was 
+      significantly higher in the MACE group. Those patients with a precursor event in 
+      the absence of MACE also appeared to have a greater prevalence of other important 
+      postoperative outcomes. CONCLUSIONS: Patients undergoing cardiac surgery who are 
+      exposed to intraoperative precursor events were more likely to experience a 
+      postoperative MACE. Quality improvement techniques aimed at mitigating the 
+      consequences of precursor events might improve the surgical outcomes for cardiac 
+      surgical patients.
+CI  - Crown Copyright (c) 2014. Published by Mosby, Inc. All rights reserved.
+FAU - Herman, Christine R
+AU  - Herman CR
+AD  - Division of Cardiac Surgery, Dallhousie University, Halifax, Nova Scotia, Canada; 
+      Department of Community Health and Epidemiology, Dallhousie University, Halifax, 
+      Nova Scotia, Canada. Electronic address: cherman@dal.ca.
+FAU - Legare, Jean-Francois
+AU  - Legare JF
+AD  - Division of Cardiac Surgery, Dallhousie University, Halifax, Nova Scotia, Canada.
+FAU - Levy, Adrian
+AU  - Levy A
+AD  - Department of Community Health and Epidemiology, Dallhousie University, Halifax, 
+      Nova Scotia, Canada.
+FAU - Buth, Karen J
+AU  - Buth KJ
+AD  - Division of Cardiac Surgery, Dallhousie University, Halifax, Nova Scotia, Canada.
+FAU - Baskett, Roger
+AU  - Baskett R
+AD  - Division of Cardiac Surgery, Dallhousie University, Halifax, Nova Scotia, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20130716
+PL  - United States
+TA  - J Thorac Cardiovasc Surg
+JT  - The Journal of thoracic and cardiovascular surgery
+JID - 0376343
+SB  - IM
+MH  - Aged
+MH  - Blood Loss, Surgical/mortality
+MH  - Cardiopulmonary Bypass
+MH  - Coronary Artery Bypass/*adverse effects/mortality
+MH  - Female
+MH  - Heart Valve Prosthesis Implantation/*adverse effects/mortality
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Nova Scotia/epidemiology
+MH  - Postoperative Complications/*epidemiology/mortality/surgery
+MH  - Prevalence
+MH  - Quality Improvement
+MH  - Quality Indicators, Health Care
+MH  - Registries
+MH  - Reoperation
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2013/07/23 06:00
+MHDA- 2014/06/28 06:00
+CRDT- 2013/07/23 06:00
+PHST- 2012/10/12 00:00 [received]
+PHST- 2013/01/21 00:00 [revised]
+PHST- 2013/05/30 00:00 [accepted]
+PHST- 2013/07/23 06:00 [entrez]
+PHST- 2013/07/23 06:00 [pubmed]
+PHST- 2014/06/28 06:00 [medline]
+AID - S0022-5223(13)00581-3 [pii]
+AID - 10.1016/j.jtcvs.2013.05.018 [doi]
+PST - ppublish
+SO  - J Thorac Cardiovasc Surg. 2014 May;147(5):1499-504. doi: 
+      10.1016/j.jtcvs.2013.05.018. Epub 2013 Jul 16.

@@ -1,0 +1,87 @@
+PMID- 20354380
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100525
+LR  - 20151119
+IS  - 1938-808X (Electronic)
+IS  - 1040-2446 (Linking)
+VI  - 85
+IP  - 4
+DP  - 2010 Apr
+TI  - Do women residents delay childbearing due to perceived career threats?
+PG  - 640-6
+LID - 10.1097/ACM.0b013e3181d2cb5b [doi]
+AB  - PURPOSE: To assess gender differences among residents regarding their plans to 
+      have children during residency and determine the most influential reasons for 
+      these differences. METHOD: Using the Health Belief Model as a framework, the 
+      authors created an instrument to survey 424 residents from 11 residency programs 
+      at three academic medical institutions about their intentions to have children 
+      during residency. The authors developed a scale to assess the perceived career 
+      threats of having children during residency, evaluated its psychometric 
+      properties, and calculated the effect of the mediators. RESULTS: The response 
+      rate was 77% (328/424). Forty-one percent of men versus 27% of women planned to 
+      have children during residency (P = .01). The instrument measured four career 
+      threats-extended training, loss of fellowship positions, pregnancy complications, 
+      and interference with career plans-on a five-point Likert scale. The scale had a 
+      Cronbach alpha of 0.84 and an eigenvalue of 2.2. Compared with men, women had 
+      higher scores for each item and a higher mean score (2.9 versus 2.1, P = .001), 
+      signifying greater belief in the potential of pregnancy to threaten careers. 
+      After adjusting for age, institution, postgraduate year, and knowledge of 
+      parental leave policies, women were less likely to plan to have children during 
+      residency (odds ratio 0.46 [95% confidence interval 0.25-0.84]). In mediation 
+      analysis, threats to career explained 67% of the gender variance. CONCLUSIONS: 
+      Women residents intentionally postpone pregnancy because of perceived threats to 
+      their careers. Medical educators should be aware of these findings when 
+      counseling female trainees.
+FAU - Willett, Lisa L
+AU  - Willett LL
+AD  - Internal Medicine Residency Program, Division of General Internal Medicine, 
+      University of Alabama at Birmingham, Birmingham, Alabama 35291-0012, USA. 
+      lwillett@uab.edu
+FAU - Wellons, Melissa F
+AU  - Wellons MF
+FAU - Hartig, Jason R
+AU  - Hartig JR
+FAU - Roenigk, Lindsey
+AU  - Roenigk L
+FAU - Panda, Mukta
+AU  - Panda M
+FAU - Dearinger, Angela T
+AU  - Dearinger AT
+FAU - Allison, Jeroan
+AU  - Allison J
+FAU - Houston, Thomas K
+AU  - Houston TK
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - United States
+TA  - Acad Med
+JT  - Academic medicine : journal of the Association of American Medical Colleges
+JID - 8904605
+SB  - IM
+MH  - Adult
+MH  - *Career Mobility
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - *Internship and Residency
+MH  - Male
+MH  - Physicians, Women/*psychology
+MH  - Pregnancy
+MH  - Psychometrics/methods
+MH  - Reproductive Behavior/*psychology
+MH  - Sex Factors
+MH  - Surveys and Questionnaires
+MH  - United States
+EDAT- 2010/04/01 06:00
+MHDA- 2010/05/26 06:00
+CRDT- 2010/04/01 06:00
+PHST- 2010/04/01 06:00 [entrez]
+PHST- 2010/04/01 06:00 [pubmed]
+PHST- 2010/05/26 06:00 [medline]
+AID - 00001888-201004000-00024 [pii]
+AID - 10.1097/ACM.0b013e3181d2cb5b [doi]
+PST - ppublish
+SO  - Acad Med. 2010 Apr;85(4):640-6. doi: 10.1097/ACM.0b013e3181d2cb5b.

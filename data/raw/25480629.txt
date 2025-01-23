@@ -1,0 +1,102 @@
+PMID- 25480629
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160518
+LR  - 20181202
+IS  - 1432-2218 (Electronic)
+IS  - 0930-2794 (Linking)
+VI  - 29
+IP  - 10
+DP  - 2015 Oct
+TI  - Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy 
+      safe and effective as revision surgery?
+PG  - 2899-903
+LID - 10.1007/s00464-014-4017-5 [doi]
+AB  - INTRODUCTION: Up to 30 % of patients who have undergone laparoscopic sleeve 
+      gastrectomy require revision surgery for inadequate weight loss, weight regain, 
+      and/or the development of severe upper gastrointestinal symptoms. The aim of this 
+      retrospective study was to evaluate the safety and efficacy of laparoscopic 
+      fundectomy (LF) in cases of a residual fundus/neofundus development regarding 
+      GERD symptoms. METHODS: The study group comprised 19 patients (17 female; mean 
+      BMI 35.4 kg/m(2)) divided into 2 groups. Group A (n = 10) patients with severe 
+      GERD and evidence of residual fundus/neofundus, Hiatal hernia with good results 
+      in terms of weight loss. Group B (n = 9) patients with severe GERD, a residual 
+      fundus/neofundus, inadequate weight loss or weight regain. Fundectomy was 
+      indicated when a residual fundus/neofundus was associated with severe GERD 
+      symptoms. The presence of a residual fundus/neofundus was assessed by a barium 
+      swallow and/or multislice computed tomography. RESULTS: No mortality or 
+      intra-operative complications occurred. Five postoperative complications 
+      occurred: 2 cases of bleeding, 1 mid-gastric stenosis and 2 leaks (10.5 %). All 
+      patients experienced improvements in their GERD symptoms and stopped PPI 
+      treatment. Group B exhibited an additional %EWL of 53.4 % at 24 months. 
+      CONCLUSION: LF and cruroplasty is feasible and has good results in terms of GERD 
+      symptoms control and additional weight loss. The high rate of postoperative 
+      complications observed in this series remains a matter of concern. A re-sleeve 
+      procedure might be considered as an alternative to RYGB/DS conversion restricted 
+      to selected patients.
+FAU - Silecchia, Gianfranco
+AU  - Silecchia G
+AD  - Division of General Surgery & Bariatric Center of Excellence, Department of 
+      Medico-Surgical Sciences and Biotechnology, Hospital ICOT, Sapienza University of 
+      Rome, Via F. Faggiana 1668, 04100, Latina, Italy. 
+      gianfranco.silecchia@uniroma1.it.
+FAU - De Angelis, Francesco
+AU  - De Angelis F
+AD  - Division of General Surgery & Bariatric Center of Excellence, Department of 
+      Medico-Surgical Sciences and Biotechnology, Hospital ICOT, Sapienza University of 
+      Rome, Via F. Faggiana 1668, 04100, Latina, Italy. francescodeangelis4@alice.it.
+FAU - Rizzello, Mario
+AU  - Rizzello M
+AD  - Division of General Surgery & Bariatric Center of Excellence, Department of 
+      Medico-Surgical Sciences and Biotechnology, Hospital ICOT, Sapienza University of 
+      Rome, Via F. Faggiana 1668, 04100, Latina, Italy.
+FAU - Albanese, Alice
+AU  - Albanese A
+AD  - IFSO Bariatric Center of Excellence, Policlinico Universitario, University of 
+      Padova, Via Giustiniani 2, 35128, Padua, Italy.
+FAU - Longo, Fabio
+AU  - Longo F
+AD  - Division of General Surgery & Bariatric Center of Excellence, Department of 
+      Medico-Surgical Sciences and Biotechnology, Hospital ICOT, Sapienza University of 
+      Rome, Via F. Faggiana 1668, 04100, Latina, Italy.
+FAU - Foletto, Mirto
+AU  - Foletto M
+AD  - IFSO Bariatric Center of Excellence, Policlinico Universitario, University of 
+      Padova, Via Giustiniani 2, 35128, Padua, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20141206
+PL  - Germany
+TA  - Surg Endosc
+JT  - Surgical endoscopy
+JID - 8806653
+SB  - IM
+MH  - Female
+MH  - Gastrectomy/*adverse effects/*methods
+MH  - Gastric Fundus/*surgery
+MH  - Gastroesophageal Reflux/etiology/*surgery
+MH  - Humans
+MH  - *Laparoscopy
+MH  - Male
+MH  - Postoperative Complications
+MH  - Reoperation
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Fundectomy
+OT  - GERD
+OT  - Hiatal hernia
+OT  - Obesity
+OT  - Revised sleeve gastrectomy
+EDAT- 2014/12/07 06:00
+MHDA- 2016/05/19 06:00
+CRDT- 2014/12/07 06:00
+PHST- 2014/07/26 00:00 [received]
+PHST- 2014/11/19 00:00 [accepted]
+PHST- 2014/12/07 06:00 [entrez]
+PHST- 2014/12/07 06:00 [pubmed]
+PHST- 2016/05/19 06:00 [medline]
+AID - 10.1007/s00464-014-4017-5 [pii]
+AID - 10.1007/s00464-014-4017-5 [doi]
+PST - ppublish
+SO  - Surg Endosc. 2015 Oct;29(10):2899-903. doi: 10.1007/s00464-014-4017-5. Epub 2014 
+      Dec 6.

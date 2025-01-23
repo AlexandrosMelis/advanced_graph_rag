@@ -1,0 +1,85 @@
+PMID- 24747511
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150129
+LR  - 20140609
+IS  - 1873-7943 (Electronic)
+IS  - 0005-7916 (Linking)
+VI  - 45
+IP  - 3
+DP  - 2014 Sep
+TI  - Updating emotional content in working memory: a depression-specific deficit?
+PG  - 368-74
+LID - S0005-7916(14)00024-X [pii]
+LID - 10.1016/j.jbtep.2014.03.004 [doi]
+AB  - BACKGROUND AND OBJECTIVES: Interference from irrelevant negative material might 
+      be a key mechanism underlying intrusive ruminative thoughts in depression. 
+      Considering commonalities between depression and social anxiety and the presence 
+      of similar intrusive thoughts in social anxiety, the current study was designed 
+      to assess whether interference from irrelevant material in working memory is 
+      specific to depression or is also present in social anxiety disorder. METHODS: To 
+      examine the effects of irrelevant emotional material on working memory 
+      performance, participants memorized two lists of words on each trial and were 
+      subsequently instructed to ignore one of the lists. Participants were then asked 
+      to indicate whether a probe word belonged to the relevant list or not. RESULTS: 
+      Compared to control and social anxiety groups, the depression groups (both pure 
+      and comorbid with social anxiety disorder) exhibited greater difficulties 
+      removing irrelevant emotional material from working memory (i.e., greater 
+      intrusion effects). Greater intrusion effects were also associated with increased 
+      rumination. LIMITATIONS: Although we included three clinical groups (depression, 
+      social anxiety, and the comorbid groups), the results are based on a relatively 
+      small number of participants. CONCLUSIONS: The results indicate that difficulties 
+      removing irrelevant material from working memory might be unique to depression, 
+      and the ability to inhibit irrelevant information is relatively preserved in 
+      social anxiety disorder.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Yoon, K Lira
+AU  - Yoon KL
+AD  - Department of Psychology, University of Maine, Orono, ME 04469-5782, USA. 
+      Electronic address: lira.k.yoon@umit.maine.edu.
+FAU - LeMoult, Joelle
+AU  - LeMoult J
+AD  - Department of Psychology, Stanford University, Stanford, CA 94305, USA. 
+      Electronic address: jlemoult@stanford.edu.
+FAU - Joormann, Jutta
+AU  - Joormann J
+AD  - Department of Psychology, Northwestern University, Evanston, IL 60208-2071, USA. 
+      Electronic address: jutta.joormann@northwestern.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20140404
+PL  - Netherlands
+TA  - J Behav Ther Exp Psychiatry
+JT  - Journal of behavior therapy and experimental psychiatry
+JID - 0245075
+SB  - IM
+MH  - Adult
+MH  - Depressive Disorder, Major/*psychology
+MH  - Emotions/*physiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Memory, Short-Term/*physiology
+MH  - Middle Aged
+MH  - Neuropsychological Tests
+MH  - Reaction Time
+OTO - NOTNLM
+OT  - Cognitive inhibition
+OT  - Major depressive disorder
+OT  - Social anxiety disorder
+OT  - Updating
+OT  - Working memory
+EDAT- 2014/04/22 06:00
+MHDA- 2015/01/30 06:00
+CRDT- 2014/04/22 06:00
+PHST- 2013/08/22 00:00 [received]
+PHST- 2014/01/07 00:00 [revised]
+PHST- 2014/03/25 00:00 [accepted]
+PHST- 2014/04/22 06:00 [entrez]
+PHST- 2014/04/22 06:00 [pubmed]
+PHST- 2015/01/30 06:00 [medline]
+AID - S0005-7916(14)00024-X [pii]
+AID - 10.1016/j.jbtep.2014.03.004 [doi]
+PST - ppublish
+SO  - J Behav Ther Exp Psychiatry. 2014 Sep;45(3):368-74. doi: 
+      10.1016/j.jbtep.2014.03.004. Epub 2014 Apr 4.

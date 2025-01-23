@@ -1,0 +1,65 @@
+PMID- 22519710
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130314
+LR  - 20230111
+IS  - 1537-2995 (Electronic)
+IS  - 0041-1132 (Linking)
+VI  - 53
+IP  - 1
+DP  - 2013 Jan
+TI  - Will clinical studies elucidate the connection between the length of storage of 
+      transfused red blood cells and clinical outcomes? An analysis based on the 
+      simulation of randomized controlled trials.
+PG  - 34-40
+LID - 10.1111/j.1537-2995.2012.03656.x [doi]
+AB  - BACKGROUND: The temporal pattern of the biologic mechanism linking red blood cell 
+      (RBC) storage duration with clinical outcomes is yet unknown. This study 
+      investigates how such a temporal pattern can affect the power of randomized 
+      controlled trials (RCT) to detect a relevant clinical outcome mediated by the 
+      transfusion of stored RBCs. STUDY DESIGN AND METHODS: This study was a computer 
+      simulation of four RCTs, each using a specific categorization of the RBC storage 
+      time. The trial's endpoint was evaluated assuming five hypothetical temporal 
+      patterns for the biologic mechanism linking RBC storage duration with clinical 
+      outcomes. RESULTS: Power of RCTs to unveil a significant association between RBC 
+      storage duration and clinical outcomes was critically dependent on a complex 
+      interaction among three factors: 1) the way the RBC storage time is categorized 
+      in the trial design, 2) the temporal pattern assumed for the RBC storage lesion, 
+      and 3) the age distribution of RBCs in the inventory from which they are picked 
+      up for transfusion. For most combinations of these factors, the power of RCTs to 
+      detect a significant treatment effect was below 80%. All the four simulated RCTs 
+      had a very low power to disclose a harmful clinical effect confined to last week 
+      of the maximum 42-day shelf life of stored RBCs. CONCLUSIONS: Ongoing RCTs may 
+      lack enough power to settle the issue of whether or not the transfusion of stored 
+      blood has a negative clinical impact. A precautionary reduction of the maximum 
+      storage time to 35 days is advisable.
+CI  - (c) 2012 American Association of Blood Banks.
+FAU - Pereira, Arturo
+AU  - Pereira A
+AD  - Service of Hemotherapy and Hemostasis, Hospital Clinic, Barcelona, Spain. 
+      apereira@clinic.ub.es
+LA  - eng
+PT  - Journal Article
+DEP - 20120423
+PL  - United States
+TA  - Transfusion
+JT  - Transfusion
+JID - 0417360
+SB  - IM
+MH  - Blood Preservation/*adverse effects
+MH  - *Computer Simulation
+MH  - Erythrocyte Transfusion/*adverse effects/*methods
+MH  - Erythrocytes/*cytology
+MH  - Humans
+MH  - Randomized Controlled Trials as Topic
+MH  - Time Factors
+EDAT- 2012/04/24 06:00
+MHDA- 2013/03/15 06:00
+CRDT- 2012/04/24 06:00
+PHST- 2012/04/24 06:00 [entrez]
+PHST- 2012/04/24 06:00 [pubmed]
+PHST- 2013/03/15 06:00 [medline]
+AID - 10.1111/j.1537-2995.2012.03656.x [doi]
+PST - ppublish
+SO  - Transfusion. 2013 Jan;53(1):34-40. doi: 10.1111/j.1537-2995.2012.03656.x. Epub 
+      2012 Apr 23.

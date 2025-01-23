@@ -1,0 +1,81 @@
+PMID- 22075911
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120327
+LR  - 20161125
+IS  - 1476-5373 (Electronic)
+IS  - 0007-0610 (Linking)
+VI  - 211
+IP  - 9
+DP  - 2011 Nov 11
+TI  - Is there a differential in the dental health of new recruits to the British Armed 
+      Forces? A pilot study.
+PG  - E18
+LID - 10.1038/sj.bdj.2011.937 [doi]
+AB  - BACKGROUND AND AIM: Figures from the British Defence Dental Services reveal that 
+      serving personnel in the British Army have a persistently lower level of dental 
+      fitness than those in the Royal Navy or the Royal Air Force. No research had been 
+      undertaken to ascertain if this reflects the oral health of recruits joining each 
+      Service. This study aimed to pilot a process for collecting dental and 
+      sociodemographic data from new recruits to each Service and examine the null 
+      hypothesis that no differences in dental health existed. METHOD: Diagnostic 
+      criteria were developed, a sample size calculated and data collected at the 
+      initial training establishments of each Service. RESULTS: Data for 432 
+      participants were entered into the analysis. Recruits in the Army sample had a 
+      significantly greater prevalence of dental decay and greater treatment resource 
+      need than either of the other two Services. Army recruits had a mean number of 
+      2.59 (2.08, 3.09) decayed teeth per recruit, compared to 1.93 (1.49, 2.39 p 
+      <0.01) in Royal Navy recruits and 1.26 (0.98, 1.53 p <0.001) in Royal Air Force 
+      recruits. Among Army recruits 62.7% were from the two most deprived quintiles of 
+      the Index of Multiple Deprivation compared to 42.5% of Royal Naval recruits and 
+      36.6% of Royal Air Force recruits. CONCLUSION: A significant difference in dental 
+      health between recruits to each Service does exist and is a likely to be a 
+      reflection of the sociodemographic background from which they are drawn.
+FAU - Elmer, T B
+AU  - Elmer TB
+AD  - West Midlands Strategic Health Authority, St Chad's Court, 213 Hagley Road, 
+      Birmingham, B16 9RG. tim.elmer@southstaffspct.nhs.uk
+FAU - Langford, J
+AU  - Langford J
+FAU - McCormick, R
+AU  - McCormick R
+FAU - Morris, A J
+AU  - Morris AJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20111111
+PL  - England
+TA  - Br Dent J
+JT  - British dental journal
+JID - 7513219
+SB  - IM
+CIN - Br Dent J. 2011 Nov 11;211(9):424-5. doi: 10.1038/sj.bdj.2011.910. PMID: 22075887
+MH  - Adolescent
+MH  - Cross-Sectional Studies
+MH  - DMF Index
+MH  - Dental Caries/*epidemiology
+MH  - Female
+MH  - *Health Status Disparities
+MH  - Humans
+MH  - Male
+MH  - Military Dentistry/*statistics & numerical data
+MH  - *Military Personnel/statistics & numerical data
+MH  - *Oral Health
+MH  - Pilot Projects
+MH  - Prevalence
+MH  - Smoking/epidemiology
+MH  - Statistics, Nonparametric
+MH  - United Kingdom/epidemiology
+MH  - Young Adult
+EDAT- 2011/11/15 06:00
+MHDA- 2012/03/28 06:00
+CRDT- 2011/11/15 06:00
+PHST- 2011/08/24 00:00 [accepted]
+PHST- 2011/11/15 06:00 [entrez]
+PHST- 2011/11/15 06:00 [pubmed]
+PHST- 2012/03/28 06:00 [medline]
+AID - sj.bdj.2011.937 [pii]
+AID - 10.1038/sj.bdj.2011.937 [doi]
+PST - epublish
+SO  - Br Dent J. 2011 Nov 11;211(9):E18. doi: 10.1038/sj.bdj.2011.937.

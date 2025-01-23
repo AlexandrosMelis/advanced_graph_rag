@@ -1,0 +1,101 @@
+PMID- 23283159
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130304
+LR  - 20220330
+IS  - 1879-1972 (Electronic)
+IS  - 1054-139X (Print)
+IS  - 1054-139X (Linking)
+VI  - 51
+IP  - 6 Suppl
+DP  - 2012 Dec
+TI  - Is obesity a risk factor for wheezing among adolescents? A prospective study in 
+      southern Brazil.
+PG  - S38-45
+LID - S1054-139X(12)00360-6 [pii]
+LID - 10.1016/j.jadohealth.2012.08.016 [doi]
+AB  - PURPOSE: To investigate the effect of obesity at the start of adolescence on the 
+      prevalence, incidence and maintenance of chest wheezing among individuals aged 
+      11-15 years in a birth cohort in a developing country. METHODS: The seventh 
+      follow-up of the 1993 Pelotas birth cohort occurred in 2004 (individuals aged 
+      10-11 years). Between January and August 2008, the eighth follow-up of the cohort 
+      was conducted. All the individuals of the original cohort who were alive (who 
+      were then adolescents aged between 14 and 15 years) were targets for the study. 
+      The International Study of Asthma and Allergies in Childhood (ISAAC) 
+      questionnaire was used to define wheezing. In addition to the body mass index 
+      (BMI), used to define obesity by the World Health Organization (WHO) criteria, we 
+      assessed skinfold thickness. RESULTS: From the original cohort, 4,349 individuals 
+      were located (85.7% follow-up rate). The prevalence of chest wheezing at 11 and 
+      15 years were 13.5% (95% CI: 12.5%-14.5%) and 12.1% (95% CI: 11.1%-13.1%), 
+      respectively. The prevalence of wheezing at both times was 4.5% (95% CI: 
+      3.9%-5.1%) and the incidence of wheezing was 7.5% (95% CI: 6.7%-8.3%). 
+      Independent of the effect of various confounding variables, the prevalence of 
+      wheezing at 15 years was 50% greater among obese individuals than among eutrophic 
+      individuals at 11 years (RR 1.53; 95% CI: 1.14-2.05). The greater the skinfold 
+      tertile at 11 years, the higher the prevalence of wheezing at 15 years was (p = 
+      .011). Weight status and skinfolds did not present any association with incident 
+      wheezing. After controlling for confounding factors, the risk of persistent 
+      wheezing among obese individuals at 11 years was 1.82 (95% CI: 1.30-2.54). 
+      CONCLUSIONS: Since obesity at the start of adolescence is associated with asthma 
+      symptom persistence, prevention and treatment of obesity may reduce avoidable 
+      healthcare costs and disease burden.
+CI  - Copyright (c) 2012 Society for Adolescent Health and Medicine. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Noal, Ricardo B
+AU  - Noal RB
+AD  - Epidemiology Postgraduate Program, Federal University of Pelotas, Pelotas, 
+      Brazil. ricardonoal@gmail.com
+FAU - Menezes, Ana M B
+AU  - Menezes AM
+FAU - Macedo, Silvia E C
+AU  - Macedo SE
+FAU - Dumith, Samuel C
+AU  - Dumith SC
+FAU - Perez-Padilla, Rogelio
+AU  - Perez-Padilla R
+FAU - Araujo, Cora L P
+AU  - Araujo CL
+FAU - Hallal, Pedro C
+AU  - Hallal PC
+LA  - eng
+GR  - Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121110
+PL  - United States
+TA  - J Adolesc Health
+JT  - The Journal of adolescent health : official publication of the Society for 
+      Adolescent Medicine
+JID - 9102136
+SB  - IM
+MH  - Adolescent
+MH  - Asthma/*epidemiology
+MH  - Brazil/epidemiology
+MH  - Child
+MH  - Cohort Studies
+MH  - Confounding Factors, Epidemiologic
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Obesity/*epidemiology
+MH  - Prevalence
+MH  - *Respiratory Sounds
+MH  - Risk Factors
+PMC - PMC3500686
+EDAT- 2013/01/11 06:00
+MHDA- 2013/03/05 06:00
+PMCR- 2012/12/01
+CRDT- 2013/01/04 06:00
+PHST- 2012/01/23 00:00 [received]
+PHST- 2012/08/29 00:00 [revised]
+PHST- 2012/08/30 00:00 [accepted]
+PHST- 2013/01/04 06:00 [entrez]
+PHST- 2013/01/11 06:00 [pubmed]
+PHST- 2013/03/05 06:00 [medline]
+PHST- 2012/12/01 00:00 [pmc-release]
+AID - S1054-139X(12)00360-6 [pii]
+AID - 10.1016/j.jadohealth.2012.08.016 [doi]
+PST - ppublish
+SO  - J Adolesc Health. 2012 Dec;51(6 Suppl):S38-45. doi: 
+      10.1016/j.jadohealth.2012.08.016. Epub 2012 Nov 10.

@@ -1,0 +1,84 @@
+PMID- 18534072
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080722
+LR  - 20211028
+IS  - 1476-0320 (Print)
+IS  - 1475-9985 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2008
+TI  - Do general practice characteristics influence uptake of an information technology 
+      (IT) innovation in primary care?
+PG  - 3-8
+AB  - INTRODUCTION: Recent evaluations of IT innovations in primary care have 
+      highlighted variations between centres and practices in uptake and use. We 
+      evaluated whether structural characteristics of a general practice were 
+      associated with variations in use of a web-based clinical information system 
+      underpinning a Managed Clinical Network in diabetes, between the years 2001 and 
+      2003. METHODS: Using a computerised audit trail, we calculated the numbers of 
+      web-based operations that occurred in each practice, stratified by staff type and 
+      year, and adjusted for the numbers of registered diabetic patients. In regression 
+      analyses, we determined whether total use was associated with structural 
+      characteristics of the practice (total list size, training status, numbers of GPs 
+      (general practitioners), mean age of the GPs, numbers of female GPs, level of 
+      deprivation of the population and whether staff had received advanced training in 
+      diabetes care). RESULTS: Initially there were a few practices which made very 
+      frequent use of the information system, with relatively high numbers of practices 
+      using the facility infrequently. However, overall use gradually became more 
+      evenly spread. This effect was particularly evident among nurse users. Frequent 
+      use by GPs was evident in only a small number of practices, with mean GP use 
+      decreasing over the three years. In linear regression analyses, none of the 
+      general practice variables were associated with online use, either overall or 
+      stratified by staff type, except for the numbers of diabetes-educated staff. This 
+      was consistently associated with increased use by nurses and GPs. CONCLUSIONS: 
+      The analyses show that structural characteristics of a practice are not 
+      associated with uptake of a new IT facility, but that its use may be influenced 
+      by post-graduate education in the relevant clinical condition. For this diabetes 
+      system at least, practice nurse use was critical in spreading uptake beyond 
+      initial GP enthusiasts and for sustained and rising use in subsequent years.
+FAU - Evans, Josie M M
+AU  - Evans JM
+AD  - Lecturer in Epidemiology, Division of Community Health Sciences, University of 
+      Dundee, Scotland. j.m.m.stansfield@chs.dundee.ac.uk
+FAU - Guthrie, Bruce
+AU  - Guthrie B
+FAU - Pagliari, Claudia
+AU  - Pagliari C
+FAU - Greene, Alex
+AU  - Greene A
+FAU - Morris, Andrew D
+AU  - Morris AD
+FAU - Cunningham, Scott
+AU  - Cunningham S
+FAU - Donnan, Peter T
+AU  - Donnan PT
+LA  - eng
+GR  - HSRU2/CSO_/Chief Scientist Office/United Kingdom
+PT  - Journal Article
+PL  - England
+TA  - Inform Prim Care
+JT  - Informatics in primary care
+JID - 101150138
+SB  - IM
+MH  - Age Factors
+MH  - Diabetes Mellitus/therapy
+MH  - *Diffusion of Innovation
+MH  - Disease Management
+MH  - Family Practice/*organization & administration
+MH  - Humans
+MH  - Information Systems/*organization & administration/*statistics & numerical data
+MH  - *Internet
+MH  - Sex Factors
+MH  - Socioeconomic Factors
+MH  - Time Factors
+EDAT- 2008/06/07 09:00
+MHDA- 2008/07/23 09:00
+CRDT- 2008/06/07 09:00
+PHST- 2008/06/07 09:00 [pubmed]
+PHST- 2008/07/23 09:00 [medline]
+PHST- 2008/06/07 09:00 [entrez]
+AID - 669 [pii]
+AID - 10.14236/jhi.v16i1.669 [doi]
+PST - ppublish
+SO  - Inform Prim Care. 2008;16(1):3-8. doi: 10.14236/jhi.v16i1.669.

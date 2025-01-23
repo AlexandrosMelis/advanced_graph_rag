@@ -1,0 +1,85 @@
+PMID- 18708308
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090210
+LR  - 20191210
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+VI  - 6
+IP  - 5
+DP  - 2008 Oct
+TI  - Can surgeon familiarization with current evidence lead to a change in practice? A 
+      prospective study.
+PG  - 378-81
+LID - 10.1016/j.ijsu.2008.07.001 [doi]
+AB  - BACKGROUND: Despite evidence against its utility, many surgeons continue to 
+      employ prophylactic nasogastric decompression in elective colonic resection. This 
+      study aimed to establish whether an easy and practical intervention, mailing out 
+      a summary of current evidence to surgeons, can change surgeons practice to bring 
+      it more in line with current evidence. METHODS: The use of prophylactic 
+      nasogastric (NG) decompression in elective colonic resections was documented for 
+      the 2 consecutive months of October and November, 2004 at the Royal Alexandra 
+      Hospital (RAH). A one page summary of recent evidence concerning this practice 
+      was then mailed to all general surgeons at that institution. A similar second 
+      review was carried out for the months of January and February, 2005. The two 
+      periods were compared with regards to prophylactic NG use. RESULTS: Twenty two 
+      patients underwent elective colonic resections during the months of October and 
+      November, 2004. Twenty one patients underwent such procedures in January and 
+      February, 2005. Seven out of the 22 cases in the first group (the 
+      pre-intervention block) received prophylactic NG decompression. Five out of the 
+      21 cases in the second group (the post-intervention block) received prophylactic 
+      NG decompression. The difference in prophylactic NG use between the two groups 
+      was not statistically significant. CONCLUSIONS: This study has shown that mailing 
+      out a summary of current evidence to surgeons concerning a certain issue is not 
+      sufficient to lead to a change in practice.
+FAU - Cadili, Ali
+AU  - Cadili A
+AD  - Dvorkin Lounge, University of Alberta Hospital, Edmonton, Alberta, Canada. 
+      acadili@ualberta.ca
+FAU - de Gara, Christopher
+AU  - de Gara C
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20080716
+PL  - United States
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alberta
+MH  - Attitude of Health Personnel
+MH  - Chi-Square Distribution
+MH  - Colectomy/*methods
+MH  - Elective Surgical Procedures/*methods
+MH  - *Evidence-Based Medicine
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Intubation, Gastrointestinal/*methods/statistics & numerical data
+MH  - Male
+MH  - Middle Aged
+MH  - Outcome Assessment, Health Care
+MH  - Postoperative Complications/prevention & control
+MH  - Practice Patterns, Physicians'
+MH  - Probability
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Statistics, Nonparametric
+MH  - Treatment Outcome
+EDAT- 2008/08/19 09:00
+MHDA- 2009/02/12 09:00
+CRDT- 2008/08/19 09:00
+PHST- 2008/06/23 00:00 [received]
+PHST- 2008/07/08 00:00 [accepted]
+PHST- 2008/08/19 09:00 [pubmed]
+PHST- 2009/02/12 09:00 [medline]
+PHST- 2008/08/19 09:00 [entrez]
+AID - S1743-9191(08)00104-0 [pii]
+AID - 10.1016/j.ijsu.2008.07.001 [doi]
+PST - ppublish
+SO  - Int J Surg. 2008 Oct;6(5):378-81. doi: 10.1016/j.ijsu.2008.07.001. Epub 2008 Jul 
+      16.

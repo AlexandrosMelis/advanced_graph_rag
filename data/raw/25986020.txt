@@ -1,0 +1,86 @@
+PMID- 25986020
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150820
+LR  - 20220311
+IS  - 1098-4275 (Electronic)
+IS  - 0031-4005 (Linking)
+VI  - 135
+IP  - 6
+DP  - 2015 Jun
+TI  - Is zero central line-associated bloodstream infection rate sustainable? A 5-year 
+      perspective.
+PG  - e1485-93
+LID - 10.1542/peds.2014-2523 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Adoption and implementation of evidence-based measures 
+      for catheter care leads to reductions in central line-associated bloodstream 
+      infection (CLABSI) rates in the NICU. The purpose of this study is to evaluate 
+      whether this rate reduction is sustainable for at least 1 year and to identify 
+      key determinants of this sustainability at the NICU of the Floating Hospital for 
+      Children at Tufts Medical Center. METHODS: We reviewed the incidence of CLABSIs 
+      in the NICU temporally to the implementation of new practice policies and 
+      procedures, from July 2008 to December 2013. RESULTS: Adoption of standardized 
+      care practices, including bundles and checklists, was associated with a 
+      significant reduction of the CLABSI rate to zero for >370 consecutive days in our 
+      NICU in 2012. Overall, our CLABSI rates decreased from 4.1 per 1000 line days in 
+      2009 (13 infections; 3163 line days) to 0.94 in 2013 (2 infections; 2115 line 
+      days), which represents a 77% reduction over a 5-year period. In the first 
+      quarter of 2013, there was a brief increase in CLABSI rate to 3.3 per 1000 line 
+      days; after a series of interventions, the CLABSI rate was maintained at zero for 
+      >600 days. Ongoing training, surveillance, and vigilance with catheter insertion 
+      and maintenance practices and improved documentation were identified as key 
+      drivers for success. CONCLUSIONS: High-quality training, strict compliance with 
+      evidence-based guidelines, and thorough documentation is associated with 
+      significant reductions in CLABSIs. Mindful organizing may lead to a better 
+      understanding of what goes into a unit's ability to handle peak demands and 
+      sustain extraordinary performance in the long-term.
+CI  - Copyright (c) 2015 by the American Academy of Pediatrics.
+FAU - Erdei, Carmina
+AU  - Erdei C
+AD  - Division of Neonatology, Department of Pediatrics (Neonatology), Floating 
+      Hospital for Children at Tufts Medical Center, Boston, Massachusetts; 
+      carmina.erdei@gmail.com.
+FAU - McAvoy, Linda L
+AU  - McAvoy LL
+AD  - Division of Neonatology, Department of Pediatrics (Neonatology), Floating 
+      Hospital for Children at Tufts Medical Center, Boston, Massachusetts;
+FAU - Gupta, Munish
+AU  - Gupta M
+AD  - Department of Pediatrics (Neonatology), Beth Israel Deaconess Medical Center, 
+      Boston, Massachusetts; and.
+FAU - Pereira, Sunita
+AU  - Pereira S
+AD  - Division of Neonatology, Department of Pediatrics (Neonatology), Floating 
+      Hospital for Children at Tufts Medical Center, Boston, Massachusetts;
+FAU - McGowan, Elisabeth C
+AU  - McGowan EC
+AD  - Department of Pediatrics (Neonatology), Women and Infants' Hospital, Providence, 
+      Rhode Island.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150518
+PL  - United States
+TA  - Pediatrics
+JT  - Pediatrics
+JID - 0376422
+SB  - IM
+MH  - Bacteremia/epidemiology/*etiology/*prevention & control
+MH  - Catheter-Related Infections/epidemiology/*etiology/*prevention & control
+MH  - Catheterization, Central Venous/*adverse effects
+MH  - Guideline Adherence
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Time Factors
+EDAT- 2015/05/20 06:00
+MHDA- 2015/08/21 06:00
+CRDT- 2015/05/20 06:00
+PHST- 2015/01/26 00:00 [accepted]
+PHST- 2015/05/20 06:00 [entrez]
+PHST- 2015/05/20 06:00 [pubmed]
+PHST- 2015/08/21 06:00 [medline]
+AID - peds.2014-2523 [pii]
+AID - 10.1542/peds.2014-2523 [doi]
+PST - ppublish
+SO  - Pediatrics. 2015 Jun;135(6):e1485-93. doi: 10.1542/peds.2014-2523. Epub 2015 May 
+      18.

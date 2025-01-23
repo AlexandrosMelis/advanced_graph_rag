@@ -1,0 +1,111 @@
+PMID- 22644412
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130107
+LR  - 20211021
+IS  - 1867-108X (Electronic)
+IS  - 1867-1071 (Linking)
+VI  - 30
+IP  - 7
+DP  - 2012 Aug
+TI  - Hepatic arterial embolization for unresectable hepatocellular carcinomas: do 
+      technical factors affect prognosis?
+PG  - 560-6
+LID - 10.1007/s11604-012-0088-1 [doi]
+AB  - PURPOSE: To evaluate retrospectively whether technical factors of hepatic 
+      arterial embolization affect the prognosis of patients with hepatocellular 
+      carcinoma (HCC). MATERIALS AND METHODS: Inclusion criteria of this study were the 
+      following: (1) patients received embolization as the initial treatment during 
+      2003-2004, (2) Child A or B liver profile, (3) five or fewer HCCs with maximum 
+      diameter of 7 cm or smaller, and (4) no extrahepatic metastasis. Patient data 
+      were gathered from 43 centers. Prognostic factors were evaluated using univariate 
+      and multivariate analyses. RESULTS: Eight hundred fifteen patients were enrolled. 
+      The 1-, 3-, 5-, and 7-year overall survival rates were 92.0 % (95 % CI 
+      90.1-93.9), 62.9 % (95 % CI 59.3-66.6), 39.0 % (95 % CI 35.1-43.0), and 26.7 % 
+      (95 % CI 22.6-30.8) in all patients. Univariate analysis showed a Child-Pugh 
+      class-A, alpha-fetoprotein level lower than 100 ng/ml, tumor size of 3 cm or 
+      smaller, tumor number of 3 or fewer, one-lobe tumor distribution, nodular tumor 
+      type, within the Milan criteria, stage I or II, no portal venous invasion, use of 
+      iodized oil, and selective embolization were significantly better prognostic 
+      factors. In the multivariate Cox model, the benefit to survival of selective 
+      embolization remained significant (hazard ratio 0.68; 95 % CI 0.48-0.97; p = 
+      0.033). CONCLUSION: Selective embolization contributes to survival in patients 
+      with HCCs.
+FAU - Yamakado, Koichiro
+AU  - Yamakado K
+AD  - Department of Interventional Radiology, Mie University School of Medicine, 2-174 
+      Edobashi, Tsu 514-8507, Japan. yama@clin.medic.mie-u.ac.jp
+FAU - Miyayama, Shiro
+AU  - Miyayama S
+FAU - Hirota, Shozo
+AU  - Hirota S
+FAU - Mizunuma, Kimiyoshi
+AU  - Mizunuma K
+FAU - Nakamura, Kenji
+AU  - Nakamura K
+FAU - Inaba, Yoshitaka
+AU  - Inaba Y
+FAU - Maeda, Akihiro
+AU  - Maeda A
+FAU - Matsuo, Kunihiro
+AU  - Matsuo K
+FAU - Nishida, Norifumi
+AU  - Nishida N
+FAU - Aramaki, Takeshi
+AU  - Aramaki T
+FAU - Anai, Hiroshi
+AU  - Anai H
+FAU - Koura, Shinichi
+AU  - Koura S
+FAU - Oikawa, Shigeo
+AU  - Oikawa S
+FAU - Watanabe, Ken
+AU  - Watanabe K
+FAU - Yasumoto, Taku
+AU  - Yasumoto T
+FAU - Furuichi, Kinya
+AU  - Furuichi K
+FAU - Yamaguchi, Masato
+AU  - Yamaguchi M
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120530
+PL  - Japan
+TA  - Jpn J Radiol
+JT  - Japanese journal of radiology
+JID - 101490689
+RN  - 0 (alpha-Fetoproteins)
+RN  - 8001-40-9 (Iodized Oil)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/*therapy
+MH  - Chemoembolization, Therapeutic/*methods
+MH  - Disease Progression
+MH  - Female
+MH  - Hepatic Artery
+MH  - Humans
+MH  - Iodized Oil/administration & dosage
+MH  - Liver Neoplasms/*therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Proportional Hazards Models
+MH  - Retrospective Studies
+MH  - Survival Rate
+MH  - alpha-Fetoproteins/analysis
+EDAT- 2012/05/31 06:00
+MHDA- 2013/01/08 06:00
+CRDT- 2012/05/31 06:00
+PHST- 2012/04/04 00:00 [received]
+PHST- 2012/05/10 00:00 [accepted]
+PHST- 2012/05/31 06:00 [entrez]
+PHST- 2012/05/31 06:00 [pubmed]
+PHST- 2013/01/08 06:00 [medline]
+AID - 10.1007/s11604-012-0088-1 [doi]
+PST - ppublish
+SO  - Jpn J Radiol. 2012 Aug;30(7):560-6. doi: 10.1007/s11604-012-0088-1. Epub 2012 May 
+      30.

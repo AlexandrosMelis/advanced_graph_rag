@@ -1,0 +1,72 @@
+PMID- 10749257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000428
+LR  - 20080215
+IS  - 0361-803X (Print)
+IS  - 0361-803X (Linking)
+VI  - 174
+IP  - 4
+DP  - 2000 Apr
+TI  - Has the mammography quality standards act affected the mammography quality in 
+      North Carolina?
+PG  - 1089-91
+AB  - OBJECTIVE: The United States Food and Drug Administration implemented federal 
+      regulations governing mammography under the Mammography Quality Standards Act 
+      (MQSA) of 1992. During 1995, its first year in implementation, we examined the 
+      impact of the MQSA on the quality of mammography in North Carolina. MATERIALS AND 
+      METHODS: All mammography facilities were inspected during 1993-1994, and again in 
+      1995. Both inspections evaluated mean glandular radiation dose, phantom image 
+      evaluation, darkroom fog, and developer temperature. Two mammography health 
+      specialists employed by the North Carolina Division of Radiation Protection 
+      performed all inspections and collected and codified data. RESULTS: The 
+      percentage of facilities that met quality standards increased from the first 
+      inspection to the second inspection. Phantom scores passing rate was 31.6% versus 
+      78.2%; darkroom fog passing rate was 74.3% versus 88.5%; and temperature 
+      difference passing rate was 62.4% versus 86.9%. CONCLUSION: In 1995, the first 
+      year that the MQSA was in effect, there was a significant improvement in the 
+      quality of mammography in North Carolina. This improvement probably resulted from 
+      facilities' compliance with federal regulations.
+FAU - Pisano, E D
+AU  - Pisano ED
+AD  - Department of Radiology, University of North Carolina, Chapel Hill 27599-7510, 
+      USA.
+FAU - Schell, M
+AU  - Schell M
+FAU - Rollins, J
+AU  - Rollins J
+FAU - Burns, C B
+AU  - Burns CB
+FAU - Hall, B
+AU  - Hall B
+FAU - Lin, Y
+AU  - Lin Y
+FAU - Braeuning, M P
+AU  - Braeuning MP
+FAU - Burke, E
+AU  - Burke E
+FAU - Holliday, J
+AU  - Holliday J
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - AJR Am J Roentgenol
+JT  - AJR. American journal of roentgenology
+JID - 7708173
+SB  - IM
+MH  - Mammography/*standards
+MH  - North Carolina
+MH  - United States
+MH  - United States Food and Drug Administration/standards
+EDAT- 2000/04/05 09:00
+MHDA- 2000/05/08 09:00
+CRDT- 2000/04/05 09:00
+PHST- 2000/04/05 09:00 [pubmed]
+PHST- 2000/05/08 09:00 [medline]
+PHST- 2000/04/05 09:00 [entrez]
+AID - 10.2214/ajr.174.4.1741089 [doi]
+PST - ppublish
+SO  - AJR Am J Roentgenol. 2000 Apr;174(4):1089-91. doi: 10.2214/ajr.174.4.1741089.

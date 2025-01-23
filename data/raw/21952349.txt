@@ -1,0 +1,98 @@
+PMID- 21952349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120220
+LR  - 20161125
+IS  - 1421-9751 (Electronic)
+IS  - 0008-6312 (Linking)
+VI  - 119
+IP  - 3
+DP  - 2011
+TI  - Remote ischemic postconditioning: does it protect against ischemic damage in 
+      percutaneous coronary revascularization? justification and design of a randomized 
+      placebo-controlled clinical trial.
+PG  - 164-9
+LID - 10.1159/000331432 [doi]
+AB  - OBJECTIVE: Myocardial damage that is associated with percutaneous coronary 
+      intervention (PCI) partially affects the results of the procedure, and is related 
+      to medium-term cardiovascular death. Remote postischemic conditioning might 
+      reduce the myocardial lesions that are associated with PCI, but perhaps less so 
+      in diabetics. The aim of this study was to evaluate the protective effect of 
+      remote postischemic conditioning in patients undergoing elective PCI for stable 
+      angina or non-ST elevation acute coronary syndrome with troponin <1 ng/ml at the 
+      time of randomization. METHODS: This randomized single-blinded single-center 
+      clinical trial involved 320 patients undergoing elective PCI who were randomized 
+      to either receive three 5-min cycles of ischemia by inflation of a cuff on the 
+      non-dominant arm to 200 mm Hg (remote postischemic conditioning) or to placebo 
+      (uninflated cuff). The primary outcome variable was the maximum increase in 
+      troponin in the first 24 h. The secondary outcome variable was readmission due to 
+      heart failure or cardiovascular mortality after 1 year of follow-up. In addition, 
+      a diabetic population was studied. CONCLUSIONS: This clinical trial evaluated the 
+      possible reduction in intervention-related myocardial damage that was 
+      attributable to remote postischemic conditioning.
+CI  - Copyright (c) 2011 S. Karger AG, Basel.
+FAU - Jimenez-Navarro, M F
+AU  - Jimenez-Navarro MF
+AD  - Servicio de Cardiologia, Hospital Clinico Universitario Virgen de la Victoria, 
+      Malaga, Spain. fernandocarrascochinchilla@gmail.com
+FAU - Carrasco-Chinchilla, F
+AU  - Carrasco-Chinchilla F
+FAU - Munoz-Garcia, A J
+AU  - Munoz-Garcia AJ
+FAU - Dominguez-Franco, A
+AU  - Dominguez-Franco A
+FAU - Caballero-Borrego, J
+AU  - Caballero-Borrego J
+FAU - Alonso-Briales, J H
+AU  - Alonso-Briales JH
+FAU - Hernandez-Garcia, J M
+AU  - Hernandez-Garcia JM
+FAU - de Teresa-Galvan, E
+AU  - de Teresa-Galvan E
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110927
+PL  - Switzerland
+TA  - Cardiology
+JT  - Cardiology
+JID - 1266406
+SB  - IM
+MH  - Analysis of Variance
+MH  - Angioplasty, Balloon, Coronary/*adverse effects/methods
+MH  - Confidence Intervals
+MH  - Coronary Angiography/methods
+MH  - Elective Surgical Procedures
+MH  - Female
+MH  - Humans
+MH  - Ischemic Postconditioning/*methods
+MH  - Kaplan-Meier Estimate
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Myocardial Infarction/diagnostic imaging/mortality/*therapy
+MH  - Myocardial Ischemia/*prevention & control
+MH  - Patient Selection
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Reference Values
+MH  - Risk Assessment
+MH  - Severity of Illness Index
+MH  - Single-Blind Method
+MH  - Survival Analysis
+MH  - Treatment Outcome
+EDAT- 2011/09/29 06:00
+MHDA- 2012/02/22 06:00
+CRDT- 2011/09/29 06:00
+PHST- 2011/02/25 00:00 [received]
+PHST- 2011/07/19 00:00 [accepted]
+PHST- 2011/09/29 06:00 [entrez]
+PHST- 2011/09/29 06:00 [pubmed]
+PHST- 2012/02/22 06:00 [medline]
+AID - 000331432 [pii]
+AID - 10.1159/000331432 [doi]
+PST - ppublish
+SO  - Cardiology. 2011;119(3):164-9. doi: 10.1159/000331432. Epub 2011 Sep 27.

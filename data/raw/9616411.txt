@@ -1,0 +1,82 @@
+PMID- 9616411
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980625
+LR  - 20190503
+IS  - 0143-005X (Print)
+IS  - 1470-2738 (Electronic)
+IS  - 0143-005X (Linking)
+VI  - 52
+IP  - 4
+DP  - 1998 Apr
+TI  - Do general practitioner hospitals reduce the utilisation of general hospital 
+      beds? Evidence from Finnmark county in north Norway.
+PG  - 243-6
+AB  - STUDY OBJECTIVE: To assess whether populations with access to general 
+      practitioner hospitals (GP hospitals) utilise general hospitals less than 
+      populations without such access. DESIGN: Observational study comparing the total 
+      rates of admissions and of occupied bed days in general hospitals between 
+      populations with and without access to GP hospitals. Comparisons were also made 
+      separately for diagnoses commonly encountered in GP hospitals. SETTING: Two 
+      general hospitals serving the population of Finnmark county in north Norway. 
+      PATIENTS: 35,435 admissions based on five years' routine recordings from the two 
+      hospitals. MAIN RESULTS: The total rate of admission to general hospitals was 
+      lower in peripheral municipalities with a GP hospital than in central 
+      municipalities without this kind of institution, 26% and 28% lower for men and 
+      women respectively. The corresponding differences were 38% and 52%, when analysed 
+      for occupied bed days. The differences were most pronounced for patients with 
+      respiratory diseases, cardiac failure, and cancer who are primarily or 
+      intermediately treated or cared for in GP hospitals, and for patients with stroke 
+      and fractures, who are regularly transferred from general hospitals to GP 
+      hospitals for longer term follow up care. CONCLUSION: GP hospitals seem to reduce 
+      the utilisation of general hospitals with respect to admissions as well as 
+      occupied bed days.
+FAU - Aaraas, I
+AU  - Aaraas I
+AD  - Institute of Community Medicine, University of Tromso, Norway.
+FAU - Forde, O H
+AU  - Forde OH
+FAU - Kristiansen, I S
+AU  - Kristiansen IS
+FAU - Melbye, H
+AU  - Melbye H
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Epidemiol Community Health
+JT  - Journal of epidemiology and community health
+JID - 7909766
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Bed Occupancy/*statistics & numerical data
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Health Services Accessibility
+MH  - Hospitals, County/*statistics & numerical data
+MH  - Hospitals, General/*statistics & numerical data
+MH  - Hospitals, Group Practice/*statistics & numerical data
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Length of Stay/statistics & numerical data
+MH  - Male
+MH  - Middle Aged
+MH  - Norway
+MH  - Patient Admission/statistics & numerical data
+MH  - Retrospective Studies
+PMC - PMC1756694
+EDAT- 1998/06/09 00:00
+MHDA- 1998/06/09 00:01
+PMCR- 2001/04/01
+CRDT- 1998/06/09 00:00
+PHST- 1998/06/09 00:00 [pubmed]
+PHST- 1998/06/09 00:01 [medline]
+PHST- 1998/06/09 00:00 [entrez]
+PHST- 2001/04/01 00:00 [pmc-release]
+AID - 10.1136/jech.52.4.243 [doi]
+PST - ppublish
+SO  - J Epidemiol Community Health. 1998 Apr;52(4):243-6. doi: 10.1136/jech.52.4.243.

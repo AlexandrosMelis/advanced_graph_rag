@@ -1,0 +1,87 @@
+PMID- 8521557
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19960123
+LR  - 20190623
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 92
+IP  - 12
+DP  - 1995 Dec 15
+TI  - The insertion allele of the ACE gene I/D polymorphism. A candidate gene for 
+      insulin resistance?
+PG  - 3390-3
+AB  - BACKGROUND: The insertion/deletion (ID) polymorphism of the 
+      angiotensin-converting enzyme (ACE) gene has been associated with increased 
+      coronary heart disease (CHD), although the mechanism of this association is not 
+      apparent. We tested the hypothesis that the deletion allele of the ACE gene is 
+      associated with insulin resistance. METHODS AND RESULTS: We related ACE genotype 
+      to components of the insulin-resistance syndrome in 103 non-insulin-dependent 
+      diabetic (NIDDM) and 533 nondiabetic white subjects. NIDDM subjects with the DD 
+      genotype had significantly lower levels of specific insulin (DD 38.6, ID 57.1, 
+      and II 87.4 pmol.L-1 by ANOVA, P = .011). Non-insulin-treated subjects with the 
+      DD genotype had increased insulin sensitivity by HOMA % (DD 56.4%, II 29.4%, P = 
+      .027) and lower levels of des 31,32 proinsulin (DD 3.3, II 7.6 pmol.L-1, P = 
+      .012) compared with II subjects. There were no differences in prevalence of CHD 
+      or levels of blood pressure, serum lipids, or plasminogen activator inhibitor-1 
+      (PAI-1) activity between the three ACE genotypes. In nondiabetic subjects there 
+      were no differences in insulin sensitivity, levels of insulin-like molecules, 
+      blood pressure, PAI-1, serum lipids, or CHD prevalence between the three ACE 
+      genotypes. CONCLUSIONS: We conclude that increased cardiovascular risk of the DD 
+      genotype is not mediated through insulin resistance or abnormalities in 
+      fibrinolysis. Conversely, we report an increased sensitivity in NIDDM subjects 
+      with the ACE DD genotype.
+FAU - Panahloo, A
+AU  - Panahloo A
+AD  - Department of Medicine, University College London Medical School, Whittington 
+      Hospital, England.
+FAU - Andres, C
+AU  - Andres C
+FAU - Mohamed-Ali, V
+AU  - Mohamed-Ali V
+FAU - Gould, M M
+AU  - Gould MM
+FAU - Talmud, P
+AU  - Talmud P
+FAU - Humphries, S E
+AU  - Humphries SE
+FAU - Yudkin, J S
+AU  - Yudkin JS
+LA  - eng
+GR  - Wellcome Trust/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (DNA Transposable Elements)
+RN  - 0 (Plasminogen Activator Inhibitor 1)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+SB  - IM
+MH  - Alleles
+MH  - Case-Control Studies
+MH  - Coronary Disease/genetics
+MH  - DNA Transposable Elements
+MH  - Diabetes Mellitus, Type 2/*genetics
+MH  - Diabetic Angiopathies/genetics
+MH  - Female
+MH  - Genotype
+MH  - Humans
+MH  - Insulin Resistance/*genetics
+MH  - Male
+MH  - Middle Aged
+MH  - Peptidyl-Dipeptidase A/*genetics
+MH  - Plasminogen Activator Inhibitor 1/metabolism
+MH  - Polymerase Chain Reaction
+MH  - Polymorphism, Genetic
+EDAT- 1995/12/15 00:00
+MHDA- 1995/12/15 00:01
+CRDT- 1995/12/15 00:00
+PHST- 1995/12/15 00:00 [pubmed]
+PHST- 1995/12/15 00:01 [medline]
+PHST- 1995/12/15 00:00 [entrez]
+AID - 10.1161/01.cir.92.12.3390 [doi]
+PST - ppublish
+SO  - Circulation. 1995 Dec 15;92(12):3390-3. doi: 10.1161/01.cir.92.12.3390.

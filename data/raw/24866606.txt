@@ -1,0 +1,196 @@
+PMID- 24866606
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150116
+LR  - 20161205
+IS  - 1550-9613 (Electronic)
+IS  - 0278-4297 (Linking)
+VI  - 33
+IP  - 6
+DP  - 2014 Jun
+TI  - Do emergency ultrasound fellowship programs impact emergency medicine residents' 
+      ultrasound education?
+PG  - 999-1004
+LID - 10.7863/ultra.33.6.999 [doi]
+AB  - OBJECTIVES: Recent years have seen a rapid proliferation of emergency ultrasound 
+      (EUS) programs in the United States. To date, there is no evidence supporting 
+      that EUS fellowships enhance residents' ultrasound (US) educational experiences. 
+      The purpose of this study was to determine the impact of EUS fellowships on 
+      emergency medicine (EM) residents' US education. METHODS: We conducted a 
+      cross-sectional study at 9 academic medical centers. A questionnaire on US 
+      education and bedside US use was pilot tested and given to EM residents. The 
+      primary outcomes included the number of US examinations performed, scope of 
+      bedside US applications, barriers to residents' US education, and US use in the 
+      emergency department. The secondary outcomes were factors that would impact 
+      residents' US education. The outcomes were compared between residency programs 
+      with and without EUS fellowships. RESULTS: A total of 244 EM residents 
+      participated in this study. Thirty percent (95% confidence interval, 24%-35%) 
+      reported they had performed more than 150 scans. Residents in programs with EUS 
+      fellowships reported performing more scans than those in programs without 
+      fellowships (P = .04). Significant differences were noted in most applications of 
+      bedside US between residency programs with and without fellowships (P < .05). 
+      There were also significant differences in the barriers to US education between 
+      residency programs with and without fellowships (P < .05). CONCLUSIONS: Emergency 
+      US fellowship programs had a positive impact on residents' US educational 
+      experiences. Emergency medicine residents performed more scans overall and also 
+      used bedside US for more advanced applications in programs with EUS fellowships.
+CI  - (c) 2014 by the American Institute of Ultrasound in Medicine.
+FAU - Adhikari, Srikar
+AU  - Adhikari S
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.). 
+      sriadhikari@aol.com.
+FAU - Raio, Christopher
+AU  - Raio C
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Morrison, Daniel
+AU  - Morrison D
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Tsung, James
+AU  - Tsung J
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Leech, Stephen
+AU  - Leech S
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Meer, Jehangir
+AU  - Meer J
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Lyon, Matthew
+AU  - Lyon M
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Lopez, Fernando
+AU  - Lopez F
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+FAU - Akhtar, Saadia
+AU  - Akhtar S
+AD  - Department of Emergency Medicine, University of Arizona Medical Center, Tucson, 
+      Arizona USA (S.Ad.); Department of Emergency Medicine, North Shore University 
+      Hospital, Manhasset, New York USA (C.R.); Department of Emergency Medicine, 
+      University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical 
+      School, New Brunswick, New Jersey USA (D.M.); Department of Emergency Medicine, 
+      Mount Sinai School of Medicine, New York, New York USA (J.T.); Department of 
+      Emergency Medicine, Orlando Regional Medical Center, Orlando, Florida USA (S.L.); 
+      Department of Emergency Medicine, Emory University School of Medicine, Atlanta, 
+      Georgia USA (J.M.); Department of Emergency Medicine, Georgia Regents University, 
+      Augusta, Georgia USA (M.L.); Division of Emergency Medicine, Duke University, 
+      Durham, North Carolina (F.L.); and Department of Emergency Medicine, Albert 
+      Einstein Beth Israel Medical Center, New York, New York USA (S.Ak.).
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Ultrasound Med
+JT  - Journal of ultrasound in medicine : official journal of the American Institute of 
+      Ultrasound in Medicine
+JID - 8211547
+SB  - IM
+MH  - Attitude of Health Personnel
+MH  - Clinical Competence/*statistics & numerical data
+MH  - Educational Measurement/*statistics & numerical data
+MH  - Emergency Medicine/*education
+MH  - Fellowships and Scholarships/*statistics & numerical data
+MH  - Internship and Residency/*statistics & numerical data
+MH  - Radiology/*education
+MH  - *Ultrasonography
+MH  - United States
+OTO - NOTNLM
+OT  - bedside ultrasound
+OT  - emergency medicine residents
+OT  - emergency ultrasound
+OT  - emergency ultrasound fellowship
+EDAT- 2014/05/29 06:00
+MHDA- 2015/01/17 06:00
+CRDT- 2014/05/29 06:00
+PHST- 2014/05/29 06:00 [entrez]
+PHST- 2014/05/29 06:00 [pubmed]
+PHST- 2015/01/17 06:00 [medline]
+AID - 33/6/999 [pii]
+AID - 10.7863/ultra.33.6.999 [doi]
+PST - ppublish
+SO  - J Ultrasound Med. 2014 Jun;33(6):999-1004. doi: 10.7863/ultra.33.6.999.

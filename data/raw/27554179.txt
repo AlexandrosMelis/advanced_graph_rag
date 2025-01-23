@@ -1,0 +1,116 @@
+PMID- 27554179
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170126
+LR  - 20181202
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+VI  - 34
+DP  - 2016 Oct
+TI  - Is routine dissection of the station 9 lymph nodes really necessary for primary 
+      lung cancer?
+PG  - 53-57
+LID - S1743-9191(16)30323-5 [pii]
+LID - 10.1016/j.ijsu.2016.08.023 [doi]
+AB  - OBJECTIVES: Mediastinal lymph node dissection is an essential component of lung 
+      cancer surgery; however, choosing mediastinal lymph nodes stations to be 
+      dissected is subjective. We carried out this research to investigate the need for 
+      dissection of station 9 lymph nodes during lung cancer surgery. METHODS: Patients 
+      with primary lung cancer who underwent radical surgery between 2010 and 2014 were 
+      retrospectively reviewed. Clinical, pathologic, and prognosis data were obtained 
+      and analyzed. RESULTS: A total number of 1397 patients were included in this 
+      research. The metastasis rate of station 9 was 3.45%, which was significantly 
+      lower than other mediastinal stations. This metastasis rate was significantly 
+      correlated with pT stage, the lobe where the tumor was located, metastasis status 
+      of intrapulmonary lymph nodes, pTNM stage, and most of the other mediastinal 
+      lymph node stations. In males or ground glass opacity (GGO) patients, the 
+      metastasis of station 9 nodes was more unlikely to occur, even though there was 
+      no statistical significance. The staging results of most patients (99.63%) would 
+      not be impaired, even if station 9 nodes were not dissected, and the prognostic 
+      analysis showed that the metastasis status of station 9 had no significant 
+      influence on survival. CONCLUSION: The metastasis rate of station 9 lymph nodes 
+      was significantly lower than other mediastinal stations in lung cancer patients. 
+      The metastasis status of station 9 had no significant influence on tumor staging 
+      or prognosis. Routine dissection of station 9 lymph nodes may not be necessary, 
+      especially in patients with a low T stage, upper or middle lobe tumors, or 
+      without intrapulmonary lymph node metastasis.
+CI  - Copyright (c) 2016 IJS Publishing Group Ltd. Published by Elsevier Ltd. All rights 
+      reserved.
+FAU - Sun, Fenghao
+AU  - Sun F
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Zhan, Cheng
+AU  - Zhan C
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Shi, Mengkun
+AU  - Shi M
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Yang, Xiaodong
+AU  - Yang X
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Wang, Lin
+AU  - Wang L
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Jiang, Wei
+AU  - Jiang W
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Lin, Zongwu
+AU  - Lin Z
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Xi, Junjie
+AU  - Xi J
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+FAU - Shi, Yu
+AU  - Shi Y
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China. Electronic address: shi.yu@zs-hospital.sh.cn.
+FAU - Wang, Qun
+AU  - Wang Q
+AD  - Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Shanghai 
+      200032, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20160821
+PL  - United States
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Lung Neoplasms/pathology/*surgery
+MH  - Lymph Node Excision/*methods
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Lung cancer
+OT  - MLND
+OT  - Prognosis
+OT  - Staging
+OT  - Station 9 lymph nodes
+EDAT- 2016/10/21 06:00
+MHDA- 2017/01/27 06:00
+CRDT- 2016/08/25 06:00
+PHST- 2016/04/18 00:00 [received]
+PHST- 2016/08/17 00:00 [revised]
+PHST- 2016/08/18 00:00 [accepted]
+PHST- 2016/10/21 06:00 [pubmed]
+PHST- 2017/01/27 06:00 [medline]
+PHST- 2016/08/25 06:00 [entrez]
+AID - S1743-9191(16)30323-5 [pii]
+AID - 10.1016/j.ijsu.2016.08.023 [doi]
+PST - ppublish
+SO  - Int J Surg. 2016 Oct;34:53-57. doi: 10.1016/j.ijsu.2016.08.023. Epub 2016 Aug 21.

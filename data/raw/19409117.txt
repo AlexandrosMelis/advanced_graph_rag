@@ -1,0 +1,76 @@
+PMID- 19409117
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100212
+LR  - 20220409
+IS  - 1677-6119 (Electronic)
+IS  - 1677-5538 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2009 Mar-Apr
+TI  - Can infundibular height predict the clearance of lower pole calyceal stone after 
+      extracorporeal shockwave lithotripsy?
+PG  - 140-9; discussion 149-50
+AB  - PURPOSE: To evaluate the efficacy of extracorporeal shock wave lithotripsy (SWL) 
+      on lower calyceal calculi in relation to the renal anatomical factors and 
+      determine which of these factors can be used to select patients who will benefit 
+      from SWL. MATERIALS AND METHODS: We analyzed retrospectively 78 patients with 
+      single radiopaque lower calyceal stones treated with SWL. The patients were 
+      evaluated 3 months after lithotripsy with a simple abdominal X-ray and a kidney 
+      ultrasound scan. The success of the treatment, removal of all fragments, was 
+      correlated with renal anatomical factors measured in the pre-treatment 
+      intravenous urography: infundibulopelvic angle, lower infundibulum width, lower 
+      infundibulum length, ratio length/width, infundibulum height, and number of minor 
+      calyces in the lower calyceal group. RESULTS: Three months after SWL treatment, 
+      39 patients were stone-free (NR group) and 39 had residual fragments (R group). 
+      Both groups presented no differences in relation to infundibulopelvic angle, 
+      width and length of the lower calyceal infundibulum, length/width ratio of the 
+      lower infundibulum or number of lower calyces. Height of the infundibulum, 
+      described as the distance between the line passing through the lowest part of the 
+      calyx containing the calculus and the highest point of the lower lip of renal 
+      pelvis, was the only parameter in which significant differences (p = 0.002) were 
+      found between the NR and R groups. CONCLUSIONS: Lower Infundibular height could 
+      be a good measurement tool for deciding which patients with lower calyceal 
+      lithiasis would benefit from SWL treatment. Height of less than 22 mm suggests a 
+      good outcome from lithotripsy.
+FAU - Arzoz-Fabregas, M
+AU  - Arzoz-Fabregas M
+AD  - USP, Instituto Universitario Dexeus, Barcelona, Spain. 37031maf@comb.es
+FAU - Ibarz-Servio, L
+AU  - Ibarz-Servio L
+FAU - Blasco-Casares, F J
+AU  - Blasco-Casares FJ
+FAU - Ramon-Dalmau, M
+AU  - Ramon-Dalmau M
+FAU - Ruiz-Marcellan, F J
+AU  - Ruiz-Marcellan FJ
+LA  - eng
+PT  - Journal Article
+PL  - Brazil
+TA  - Int Braz J Urol
+JT  - International braz j urol : official journal of the Brazilian Society of Urology
+JID - 101158091
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Kidney Calculi/*therapy
+MH  - Kidney Calices/*anatomy & histology
+MH  - *Lithotripsy/standards
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+EDAT- 2009/05/05 09:00
+MHDA- 2010/02/13 06:00
+CRDT- 2009/05/05 09:00
+PHST- 2008/12/10 00:00 [accepted]
+PHST- 2009/05/05 09:00 [entrez]
+PHST- 2009/05/05 09:00 [pubmed]
+PHST- 2010/02/13 06:00 [medline]
+AID - IBJUv35n2a2 [pii]
+AID - 10.1590/s1677-55382009000200003 [doi]
+PST - ppublish
+SO  - Int Braz J Urol. 2009 Mar-Apr;35(2):140-9; discussion 149-50. doi: 
+      10.1590/s1677-55382009000200003.

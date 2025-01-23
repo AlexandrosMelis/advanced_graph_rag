@@ -1,0 +1,79 @@
+PMID- 14745753
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040623
+LR  - 20151119
+IS  - 1053-1807 (Print)
+IS  - 1053-1807 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2004 Feb
+TI  - Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for 
+      the abdominal aorta and pelvis?
+PG  - 194-201
+AB  - PURPOSE: To evaluate the usefulness of half-dose contrast-enhanced magnetic 
+      resonance (MR) angiography for depicting the abdominal aorta and its major 
+      branches. MATERIALS AND METHODS: A total of 72 consecutive patients were randomly 
+      assigned to one of four groups that underwent MR angiography after receiving 
+      different concentrations (original or diluted to 50%) and total amounts (single 
+      or half-dose) of gadolinium chelate injected at different rates (1 or 0.5 
+      mL/second). The signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) of 
+      the abdominal aorta and of the common and external iliac arteries were 
+      calculated, and two blinded readers rated the respective image qualities. 
+      RESULTS: The SNR and CNR of the abdominal aorta and the common iliac artery in 
+      the 0.5 mL/second groups were statistically significantly lower than those in the 
+      1 mL/second groups. The differences in overall image quality across the four 
+      groups were not statistically significant. CONCLUSION: Half-dose MR angiography 
+      using diluted contrast medium injected at a rate of 1 mL/second depicted the 
+      abdominal aorta and its branches as clearly as using a full single dose.
+CI  - Copyright 2004 Wiley-Liss, Inc.
+FAU - Takahashi, Satoru
+AU  - Takahashi S
+AD  - Department of Clinical Informative Imagiology, Osaka University Graduate School 
+      of Medicine, Osaka, Japan. takahashi@inf-img.med.osaka-u.ac.jp
+FAU - Murakami, Takamichi
+AU  - Murakami T
+FAU - Takamura, Manabu
+AU  - Takamura M
+FAU - Kim, Tonsok
+AU  - Kim T
+FAU - Hori, Masatoshi
+AU  - Hori M
+FAU - Narumi, Yoshifumi
+AU  - Narumi Y
+FAU - Nakamura, Hironobu
+AU  - Nakamura H
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Magn Reson Imaging
+JT  - Journal of magnetic resonance imaging : JMRI
+JID - 9105850
+RN  - 0 (Contrast Media)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Analysis of Variance
+MH  - Aorta, Abdominal/*anatomy & histology
+MH  - Contrast Media/administration & dosage
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - *Gadolinium DTPA/administration & dosage
+MH  - Humans
+MH  - Imaging, Three-Dimensional/*methods
+MH  - Injections, Intravenous
+MH  - Magnetic Resonance Angiography/*methods
+MH  - Middle Aged
+MH  - Pelvis/*anatomy & histology/blood supply
+MH  - Phantoms, Imaging
+MH  - Statistics, Nonparametric
+EDAT- 2004/01/28 05:00
+MHDA- 2004/06/24 05:00
+CRDT- 2004/01/28 05:00
+PHST- 2004/01/28 05:00 [pubmed]
+PHST- 2004/06/24 05:00 [medline]
+PHST- 2004/01/28 05:00 [entrez]
+AID - 10.1002/jmri.10443 [doi]
+PST - ppublish
+SO  - J Magn Reson Imaging. 2004 Feb;19(2):194-201. doi: 10.1002/jmri.10443.

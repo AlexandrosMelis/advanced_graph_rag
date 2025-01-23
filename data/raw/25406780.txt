@@ -1,0 +1,79 @@
+PMID- 25406780
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150707
+LR  - 20141121
+IS  - 1538-8689 (Electronic)
+IS  - 0360-4039 (Linking)
+VI  - 44
+IP  - 12
+DP  - 2014 Dec
+TI  - Does skin care frequency affect the severity of incontinence-associated 
+      dermatitis in critically ill patients?
+PG  - 27-32
+LID - 10.1097/01.NURSE.0000456382.63520.24 [doi]
+AB  - BACKGROUND: Incontinence-associated dermatitis (IAD) is a potentially serious 
+      skin injury that can lead to pressure ulcers (PUs). Multiple studies have 
+      indicated the need for evidence to find the most effective skin care protocol to 
+      reduce the incidence and severity of IAD in critically ill patients. OBJECTIVE: 
+      To compare the incidence and severity of IAD in two groups on a progressive care 
+      unit (PCU) using a defined skin care protocol: cleaning with a gentle cleanser 
+      and moisturizer, then applying a skin protectant/barrier. The control group 
+      received the skin care protocol every 12 hours and the interventional group 
+      received the protocol every 6 hours; both groups also received it as needed. 
+      METHODS: A 9-month randomized prospective study was conducted on 99 patients (N = 
+      55 in the intervention group and N = 44 in the control group) who were 
+      incontinent of urine, stool, or both, or had a fecal diversion device or urinary 
+      catheter for more than 2 days. RESULTS: The dermatitis score in the intervention 
+      group on discharge was significantly less (7.1%; P </= 0.001) in the moderate IAD 
+      group than in the control group (10.9%). The dermatitis score means and P values 
+      of each group were compared using a paired t test. CONCLUSION: The researchers 
+      studied a defined skin care protocol using a cleanser with aloe vera and a 
+      cleansing lotion, followed by application of either a moisture barrier with 
+      silicone or skin protectant with zinc oxide and menthol, undertaken at two 
+      different frequencies. Data revealed the incidence of moderate IAD was decreased 
+      in the experimental group (receiving the skin protocol every 6 hours and p.r.n.).
+FAU - Conley, Patricia
+AU  - Conley P
+AD  - At Research Medical Center in Kansas City, Mo., Patricia Conley is a staff nurse 
+      in the PCU, David McKinsey is an infectious diseases physician, Olwyn Ross is a 
+      wound care and ostomy nurse, and Jennifer Feeback is the division director of 
+      clinical research. Anthony Ramsey is the director at Radford University School of 
+      Nursing in Radford, Va.
+FAU - McKinsey, David
+AU  - McKinsey D
+FAU - Ross, Olwyn
+AU  - Ross O
+FAU - Ramsey, Anthony
+AU  - Ramsey A
+FAU - Feeback, Jennifer
+AU  - Feeback J
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Nursing
+JT  - Nursing
+JID - 7600137
+MH  - Aged
+MH  - Critical Illness
+MH  - Dermatitis/epidemiology/*etiology/*prevention & control
+MH  - Fecal Incontinence/*complications
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Nursing Evaluation Research
+MH  - Prospective Studies
+MH  - *Severity of Illness Index
+MH  - Skin Care/nursing/*statistics & numerical data
+MH  - Urinary Incontinence/*complications
+EDAT- 2014/11/20 06:00
+MHDA- 2015/07/08 06:00
+CRDT- 2014/11/20 06:00
+PHST- 2014/11/20 06:00 [entrez]
+PHST- 2014/11/20 06:00 [pubmed]
+PHST- 2015/07/08 06:00 [medline]
+AID - 00152193-201412000-00011 [pii]
+AID - 10.1097/01.NURSE.0000456382.63520.24 [doi]
+PST - ppublish
+SO  - Nursing. 2014 Dec;44(12):27-32. doi: 10.1097/01.NURSE.0000456382.63520.24.

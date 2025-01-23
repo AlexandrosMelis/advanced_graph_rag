@@ -1,0 +1,101 @@
+PMID- 26133538
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160802
+LR  - 20151020
+IS  - 1502-7708 (Electronic)
+IS  - 0036-5521 (Linking)
+VI  - 51
+IP  - 1
+DP  - 2016 Jan
+TI  - Does oral alpha-galactosidase relieve irritable bowel symptoms?
+PG  - 16-21
+LID - 10.3109/00365521.2015.1063156 [doi]
+AB  - OBJECTIVE: Abdominal bloating is reported by a majority of irritable bowel 
+      syndrome (IBS) patients. Excess colonic fermentation may cause gaseous symptoms. 
+      Several foodstuffs contain oligosaccharides with an alpha-galactosidic linkage that 
+      is resistant to mammalian hydrolases. Assisted hydrolysis by exogenous 
+      alpha-galactosidase enzyme (AG) could offer a way of controlling IBS symptoms by 
+      reducing colonic fermentation and gas production. The aim of this study was to 
+      assess the effect of AG on symptom severity and quality of life in IBS patients 
+      with abdominal bloating or flatulence. METHODS: A total of 125 subjects with IBS 
+      received AG or placebo at meals for 12 weeks. IBS-Symptom Severity Score 
+      (IBS-SSS) and quality of life (QoL) were assessed at baseline, during the 
+      treatment and at 4-week follow-up. RESULTS: AG showed a trend toward a more 
+      prominent decrease in IBS-SSS. The responder rate at week 16 was higher for the 
+      AG group. No difference was detected in QoL between AG and placebo groups. A 
+      total of 25 patients (18 in AG group and 7 in placebo group, p = 0.016) withdrew 
+      from the study. Abdominal pain and diarrhea were more often reported as reason 
+      for withdrawal in AG group. CONCLUSIONS: We found no evidence to support the use 
+      of AG routinely in IBS patients. Improvement of clinical response at 4-week 
+      follow-up may suggest a long-term effect of unknown mechanism, but could also be 
+      attributed to non-responder drop out. Gastrointestinal (GI) side effects may be a 
+      coincidence in this study, but irritation of GI tract by AG administration cannot 
+      be excluded.
+FAU - Hillila, Markku
+AU  - Hillila M
+AD  - a 1 Aava Gastroenterology Clinic , Helsinki, Finland.
+AD  - b 2 Clinic of Gastroenterology, University of Helsinki and Helsinki University 
+      Hospital , Helsinki, Finland.
+FAU - Farkkila, Martti A
+AU  - Farkkila MA
+AD  - b 2 Clinic of Gastroenterology, University of Helsinki and Helsinki University 
+      Hospital , Helsinki, Finland.
+FAU - Sipponen, Taina
+AU  - Sipponen T
+AD  - a 1 Aava Gastroenterology Clinic , Helsinki, Finland.
+AD  - b 2 Clinic of Gastroenterology, University of Helsinki and Helsinki University 
+      Hospital , Helsinki, Finland.
+FAU - Rajala, Janne
+AU  - Rajala J
+AD  - a 1 Aava Gastroenterology Clinic , Helsinki, Finland.
+FAU - Koskenpato, Jari
+AU  - Koskenpato J
+AD  - a 1 Aava Gastroenterology Clinic , Helsinki, Finland.
+AD  - b 2 Clinic of Gastroenterology, University of Helsinki and Helsinki University 
+      Hospital , Helsinki, Finland.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150702
+PL  - England
+TA  - Scand J Gastroenterol
+JT  - Scandinavian journal of gastroenterology
+JID - 0060105
+RN  - 0 (Gastrointestinal Agents)
+RN  - EC 3.2.1.22 (alpha-Galactosidase)
+SB  - IM
+MH  - Abdominal Pain
+MH  - Administration, Oral
+MH  - Adult
+MH  - Diarrhea
+MH  - Female
+MH  - Finland
+MH  - Flatulence/*drug therapy
+MH  - Gastrointestinal Agents/*administration & dosage/adverse effects
+MH  - Humans
+MH  - Irritable Bowel Syndrome/*drug therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Quality of Life
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+MH  - alpha-Galactosidase/*administration & dosage/adverse effects
+OTO - NOTNLM
+OT  - abdominal pain
+OT  - carbohydrates
+OT  - diet
+OT  - flatulence
+OT  - irritable bowel syndrome
+OT  - alpha-galactosidase
+EDAT- 2015/07/03 06:00
+MHDA- 2016/08/03 06:00
+CRDT- 2015/07/03 06:00
+PHST- 2015/07/03 06:00 [entrez]
+PHST- 2015/07/03 06:00 [pubmed]
+PHST- 2016/08/03 06:00 [medline]
+AID - 10.3109/00365521.2015.1063156 [doi]
+PST - ppublish
+SO  - Scand J Gastroenterol. 2016 Jan;51(1):16-21. doi: 10.3109/00365521.2015.1063156. 
+      Epub 2015 Jul 2.

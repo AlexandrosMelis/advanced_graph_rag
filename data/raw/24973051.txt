@@ -1,0 +1,96 @@
+PMID- 24973051
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150511
+LR  - 20140825
+IS  - 0736-4679 (Print)
+IS  - 0736-4679 (Linking)
+VI  - 47
+IP  - 3
+DP  - 2014 Sep
+TI  - Medical student education in emergency medicine: do students meet the national 
+      standards for clinical encounters of selected core conditions?
+PG  - 328-32
+LID - S0736-4679(14)00386-2 [pii]
+LID - 10.1016/j.jemermed.2014.04.029 [doi]
+AB  - BACKGROUND: Establishing a core curriculum for undergraduate Emergency Medicine 
+      (EM) education is crucial to development of the specialty. The Clerkship 
+      Directors in Emergency Medicine (CDEM) National Curriculum Task Force recommended 
+      that all students in a 4(th)-year EM clerkship be exposed to 10 emergent clinical 
+      conditions. OBJECTIVES: To evaluate the feasibility of encountering recommended 
+      core conditions in a clinical setting during a 4(th)-year EM clerkship. METHODS: 
+      Students from three institutions participated in this ongoing, prospective 
+      observation study. Students' patient logs were collected during 4-week EM 
+      clerkships between July 2011 and June 2012. De-identified logs were reviewed and 
+      the number of patient encounters for each of the CDEM-identified emergent 
+      conditions was recorded. The percentage of students who saw each of the core 
+      complaints was calculated, as was the average number of core complaints seen by 
+      each. RESULTS: Data from 130 students at three institutions were captured; 15.4% 
+      of students saw all 10 conditions during their rotation, and 76.9% saw at least 
+      eight. The average number of conditions seen per student was 8.4 (range of 
+      7.0-8.6). The percentage of students who saw each condition varied, ranging from 
+      100% (chest pain and abdominal pain) to 31% (cardiac arrest). CONCLUSIONS: Most 
+      students do not encounter all 10 conditions during patient encounters throughout 
+      a 4-week EM rotation, although most have exposure to at least eight. Certain 
+      conditions are far less likely than others to be encountered, and may need to be 
+      taught in a nonclinical setting.
+CI  - Copyright (c) 2014 Elsevier Inc. All rights reserved.
+FAU - Avegno, Jennifer
+AU  - Avegno J
+AD  - Department of Emergency Medicine, LSU-New Orleans, New Orleans, Louisiana.
+FAU - Leuthauser, Amy
+AU  - Leuthauser A
+AD  - Department of Emergency Medicine, Mount Sinai School of Medicine, New York, New 
+      York.
+FAU - Martinez, Joseph
+AU  - Martinez J
+AD  - Department of Emergency Medicine, University of Maryland, Baltimore, Maryland.
+FAU - Marinelli, Melissa
+AU  - Marinelli M
+AD  - Department of Emergency Medicine, Northwestern University, Chicago, Illinois.
+FAU - Osgood, Gale
+AU  - Osgood G
+AD  - Department of Emergency Medicine, University of Missouri-Columbia, Columbia, 
+      Missouri.
+FAU - Satonik, Robert
+AU  - Satonik R
+AD  - Synergy Medical, Mount Pleasant, Michigan.
+FAU - Ander, Doug
+AU  - Ander D
+AD  - Department of Emergency Medicine, Emory University, Atlanta, Georgia.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20140624
+PL  - United States
+TA  - J Emerg Med
+JT  - The Journal of emergency medicine
+JID - 8412174
+SB  - IM
+CIN - J Emerg Med. 2014 Sep;47(3):326-7. doi: 10.1016/j.jemermed.2013.09.041. PMID: 
+      24998500
+MH  - Clinical Clerkship/methods/*standards
+MH  - *Curriculum
+MH  - Education, Medical, Undergraduate/*methods
+MH  - Emergency Medicine/*education
+MH  - Feasibility Studies
+MH  - Humans
+MH  - Prospective Studies
+OTO - NOTNLM
+OT  - clinical conditions
+OT  - education
+OT  - medical student
+EDAT- 2014/06/29 06:00
+MHDA- 2015/05/12 06:00
+CRDT- 2014/06/29 06:00
+PHST- 2013/06/12 00:00 [received]
+PHST- 2014/02/06 00:00 [revised]
+PHST- 2014/04/28 00:00 [accepted]
+PHST- 2014/06/29 06:00 [entrez]
+PHST- 2014/06/29 06:00 [pubmed]
+PHST- 2015/05/12 06:00 [medline]
+AID - S0736-4679(14)00386-2 [pii]
+AID - 10.1016/j.jemermed.2014.04.029 [doi]
+PST - ppublish
+SO  - J Emerg Med. 2014 Sep;47(3):328-32. doi: 10.1016/j.jemermed.2014.04.029. Epub 
+      2014 Jun 24.

@@ -1,0 +1,91 @@
+PMID- 23598835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140403
+LR  - 20211021
+IS  - 1936-959X (Electronic)
+IS  - 0195-6108 (Print)
+IS  - 0195-6108 (Linking)
+VI  - 34
+IP  - 9
+DP  - 2013 Sep
+TI  - Is severe pain immediately after spinal augmentation a predictor of long-term 
+      outcomes?
+PG  - 1853-6
+LID - 10.3174/ajnr.A3505 [doi]
+AB  - BACKGROUND AND PURPOSE: Severe, immediate postprocedural pain and the need for 
+      analgesics after vertebroplasty can be a discouraging experience for patients and 
+      caregivers. The goal of this study was to investigate whether the presence of 
+      severe pain immediately after vertebroplasty predicts short- and long-term pain 
+      relief. MATERIALS AND METHODS: A chart review was performed to categorize 
+      patients regarding pain severity and analgesic usage immediately after 
+      vertebroplasty (< 4 h). "Severe" pain was defined as at least 8 of 10 with the 
+      10-point VAS. Outcomes were pain severity and pain medication score and usage at 
+      1 month and 1 year after vertebroplasty. Outcomes and clinical characteristics 
+      were compared between groups by using the Wilcoxon signed-rank test and the 
+      Fisher exact test. RESULTS: Of the 429 vertebroplasty procedures identified, 69 
+      (16%) were associated with severe pain, and 133 (31%) were associated with 
+      analgesic administration immediately after the procedure. The group experiencing 
+      severe pain had higher preprocedure median VAS rest pain scores (5 [IQR, 2-7]) 
+      and activity pain scores (10 [IQR, 8-10]) compared with patients who did not 
+      experience severe pain (3 [IQR, 1-6]; P = .0208, and 8 [IQR, 7-10]; P = .0263, 
+      respectively). At 1 month postprocedure, VAS rest and activity pain scores were 
+      similar between the severe pain group and the nonsevere pain group (P = .16 and P 
+      = .25, respectively) and between the group receiving pain medication and the 
+      group not receiving pain medication (P = .25 and P = .67, respectively). This 
+      similarity continued for 1 year after the procedure. Analgesic usage was similar 
+      among all groups at 1 year postprocedure. CONCLUSIONS: Patients with severe pain 
+      immediately after vertebroplasty have similar long-term outcomes compared with 
+      patients without severe pain.
+FAU - Cho, Y W
+AU  - Cho YW
+AD  - Departments of Radiology.
+FAU - McDonald, J S
+AU  - McDonald JS
+FAU - Rad, A E
+AU  - Rad AE
+FAU - Ocel, J J
+AU  - Ocel JJ
+FAU - Kallmes, D F
+AU  - Kallmes DF
+LA  - eng
+PT  - Journal Article
+DEP - 20130418
+PL  - United States
+TA  - AJNR Am J Neuroradiol
+JT  - AJNR. American journal of neuroradiology
+JID - 8003708
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Causality
+MH  - Chronic Pain/diagnosis/*epidemiology/*prevention & control
+MH  - Comorbidity
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Minnesota/epidemiology
+MH  - Pain Measurement/*statistics & numerical data
+MH  - Pain, Postoperative/diagnosis/*epidemiology/prevention & control
+MH  - Prevalence
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Spinal Fractures/*epidemiology/*therapy
+MH  - Treatment Outcome
+MH  - Vertebroplasty/*statistics & numerical data
+PMC - PMC7965646
+EDAT- 2013/04/20 06:00
+MHDA- 2014/04/04 06:00
+PMCR- 2014/09/01
+CRDT- 2013/04/20 06:00
+PHST- 2013/04/20 06:00 [entrez]
+PHST- 2013/04/20 06:00 [pubmed]
+PHST- 2014/04/04 06:00 [medline]
+PHST- 2014/09/01 00:00 [pmc-release]
+AID - ajnr.A3505 [pii]
+AID - 12-01055 [pii]
+AID - 10.3174/ajnr.A3505 [doi]
+PST - ppublish
+SO  - AJNR Am J Neuroradiol. 2013 Sep;34(9):1853-6. doi: 10.3174/ajnr.A3505. Epub 2013 
+      Apr 18.

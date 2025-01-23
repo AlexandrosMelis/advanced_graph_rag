@@ -1,0 +1,78 @@
+PMID- 11413427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010726
+LR  - 20190727
+IS  - 0362-2436 (Print)
+IS  - 0362-2436 (Linking)
+VI  - 26
+IP  - 10
+DP  - 2001 May 15
+TI  - Does transverse apex coincide with coronal apex levels (regional or global) in 
+      adolescent idiopathic scoliosis?
+PG  - 1143-6
+AB  - STUDY DESIGN: Cross-sectional. OBJECTIVES: To identify the regional and global 
+      apexes of curves in adolescent idiopathic scoliosis and to compare the levels of 
+      those with the most rotated vertebral levels on computed tomography scans. 
+      SUMMARY OF BACKGROUND DATA: The terminology regarding the terms and definitions 
+      had been arbitrary until being refined and standardized by the Scoliosis Research 
+      Society Working Group on Three-Dimensional Terminology of Spinal Deformity. 
+      Apical vertebra or disc is defined as the most laterally deviated vertebra or 
+      disc in a scoliosis curve, but the most rotated vertebra (or disc) has not been 
+      included in this terminology. One study suggested that the most rotated vertebral 
+      level was always located at the apex. METHODS: Thirty-three structural curves of 
+      25 consecutive patients scheduled for surgery for thoracic or thoracolumbar 
+      scoliosis were analyzed with standing anteroposterior radiographs and computed 
+      tomography scans covering the curve apexes and pelvis. Thoracic and lumbar curves 
+      were evaluated separately for all Type II curves. Vertebral rotations were 
+      normalized by the rotation of the pelvis. The most rotated vertebral (or disc) 
+      levels (transverse apex) were compared with the regional and global apex levels 
+      (vertebra or disc) (coronal apexes) of the corresponding curves separately. 
+      RESULTS: Regional and global apexes were at the same level in 18 (54.5%) curves, 
+      and within half a level in another 15 (45.4%), and the regional apex was one 
+      level higher in two curves (95% confidence levels: -0.82, +0.88). Comparison of 
+      the most rotated levels with regional and global apex levels revealed a higher 
+      variability, extending up to two levels for the global apex (95% confidence 
+      levels: -1.19, +1.54 levels for the global and -1.0, +1.41 levels for the 
+      regional apexes). CONCLUSION: This study demonstrated that the regional or global 
+      apex of a given curve is the most rotated level in only a minority of the curves. 
+      The most rotated level may be as far as two levels from the global apex and one 
+      level from the regional apex.
+FAU - Acaroglu, E
+AU  - Acaroglu E
+AD  - Department of Orthopaedics and Traumatology, Hacettepe University, Ankara, 
+      Turkey. eacaruglu@superonline.com
+FAU - Yazici, M
+AU  - Yazici M
+FAU - Deviren, V
+AU  - Deviren V
+FAU - Alanay, A
+AU  - Alanay A
+FAU - Cila, A
+AU  - Cila A
+FAU - Surat, A
+AU  - Surat A
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Adolescent
+MH  - Humans
+MH  - Lumbar Vertebrae/diagnostic imaging
+MH  - Rotation
+MH  - Scoliosis/*diagnostic imaging
+MH  - Thoracic Vertebrae/diagnostic imaging
+MH  - Tomography, X-Ray Computed
+EDAT- 2001/06/20 10:00
+MHDA- 2001/07/28 10:01
+CRDT- 2001/06/20 10:00
+PHST- 2001/06/20 10:00 [pubmed]
+PHST- 2001/07/28 10:01 [medline]
+PHST- 2001/06/20 10:00 [entrez]
+AID - 10.1097/00007632-200105150-00010 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2001 May 15;26(10):1143-6. doi: 
+      10.1097/00007632-200105150-00010.

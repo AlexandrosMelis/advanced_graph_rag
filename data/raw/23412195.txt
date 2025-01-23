@@ -1,0 +1,78 @@
+PMID- 23412195
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140325
+LR  - 20220408
+IS  - 1432-1068 (Electronic)
+IS  - 1633-8065 (Linking)
+VI  - 23
+IP  - 6
+DP  - 2013 Aug
+TI  - Should displaced midshaft clavicular fractures be treated surgically? A 
+      meta-analysis based on current evidence.
+PG  - 621-9
+LID - 10.1007/s00590-012-1063-3 [doi]
+AB  - PURPOSE: This study was designed to compare clinical effectiveness of operative 
+      with nonoperative treatment for displaced midshaft clavicular fractures (DMCF). 
+      METHODS: We systematically searched electronic databases (MEDILINE, EMBASE, 
+      CLINICAL, OVID, BIOSIS and Cochrane registry of controlled clinical trials) to 
+      identify randomized controlled trials (RCTs) in which operative treatment was 
+      compared with nonoperative treatment for DMCF from 1980 to 2012. The methodologic 
+      quality of trials was assessed. Data from chosen studies were pooled with using 
+      of fixed-effects and random-effects models with mean differences and risk ratios 
+      for continuous and dichotomous variables, respectively. RESULTS: Four RCTs with a 
+      total of 321 patients were screened for the present study. Results showed that 
+      the operative treatment was superior to the nonoperative treatment regarding the 
+      rate of nonunion [95 % confidence interval (CI) (0.05, 0.43), P = 0.0004], 
+      malunion [95 % CI (0.06, 0.34), P < 0.00001] and overall complication [95 % CI 
+      (0.43-0.76), P = 0.0001]. Subgroup analyses of complications revealed that 
+      significant differences were existed in the incidence of neurologic symptoms 
+      [95 % CI (0.20, 0.74), P = 0.004] and dissatisfaction with appearance [95 % CI 
+      (0.19, 0.65), P = 0.001]. Lack of consistent and standardized assessment data, 
+      insufficiency analysis that carried out showed improved functional outcomes 
+      (P < 0.05) in operative treatment. CONCLUSIONS: The available evidence suggests 
+      that the operative treatment for DMCF is associated with a lower rate of 
+      nonunion, malunion and complication than nonoperative treatment. This study 
+      supports traditional primary operative treatment for DMCF in active adults.
+FAU - Xu, Chang-peng
+AU  - Xu CP
+AD  - Orthopaedics and Trauma, NanFang Hospital, Southern Medical University, No. 1838 
+      Guangzhou Da Dao Bei, Guangzhou, Guangdong Province 510515, China.
+FAU - Li, Xue
+AU  - Li X
+FAU - Cui, Zhuang
+AU  - Cui Z
+FAU - Diao, Xi-cai
+AU  - Diao XC
+FAU - Yu, Bin
+AU  - Yu B
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+DEP - 20120815
+PL  - France
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+JID - 9518037
+SB  - IM
+MH  - Clavicle/*injuries
+MH  - Databases, Factual
+MH  - Fracture Fixation, Internal/*methods
+MH  - Fractures, Bone/*surgery
+MH  - Humans
+MH  - Postoperative Complications
+MH  - Randomized Controlled Trials as Topic
+MH  - Recovery of Function
+MH  - Treatment Outcome
+EDAT- 2013/02/16 06:00
+MHDA- 2014/03/26 06:00
+CRDT- 2013/02/16 06:00
+PHST- 2012/07/07 00:00 [received]
+PHST- 2012/07/28 00:00 [accepted]
+PHST- 2013/02/16 06:00 [entrez]
+PHST- 2013/02/16 06:00 [pubmed]
+PHST- 2014/03/26 06:00 [medline]
+AID - 10.1007/s00590-012-1063-3 [doi]
+PST - ppublish
+SO  - Eur J Orthop Surg Traumatol. 2013 Aug;23(6):621-9. doi: 
+      10.1007/s00590-012-1063-3. Epub 2012 Aug 15.

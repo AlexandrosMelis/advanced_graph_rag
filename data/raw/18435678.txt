@@ -1,0 +1,76 @@
+PMID- 18435678
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090323
+LR  - 20090119
+IS  - 1423-0410 (Electronic)
+IS  - 0042-9007 (Linking)
+VI  - 95
+IP  - 1
+DP  - 2008 Jul
+TI  - Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?
+PG  - 66-9
+LID - 10.1111/j.1423-0410.2008.01061.x [doi]
+AB  - BACKGROUND AND OBJECTIVES: Kell haemolytic disease in pregnancies has been 
+      suggested to be associated with decreased fetal platelet counts. The aim of this 
+      study was to evaluate the incidence and clinical significance of fetal 
+      thrombocytopenia in pregnancies complicated by Kell alloimmunization. MATERIALS 
+      AND METHODS: In this retrospective cohort study, fetal platelet counts were 
+      performed in 42 pregnancies with severe Kell alloimmunization prior to the first 
+      intrauterine blood transfusion. Platelet counts from 318 first intrauterine 
+      transfusions in RhD alloimmunized pregnancies were used as controls. RESULTS: 
+      Fetal thrombocytopenia (platelet count < 150 x 10(9)/l) was found in 4/42 (10%) 
+      in the Kell group and in 84/318 (26%) in the RhD group. None of the fetuses in 
+      the Kell alloimmunized pregnancies, including 15 with severe hydrops, had a 
+      clinically significant thrombocytopenia defined as a platelet count < 50 x 
+      10(9)/l. In the RhD alloimmunized pregnancies, 2/230 (1%) of the non-hydropic 
+      fetuses and 7/30 (23%) of the severely hydropic fetuses had a clinically 
+      significant thrombocytopenia. CONCLUSION: In contrast to fetuses with severe 
+      anaemia and hydrops due to RhD alloimmunization, fetuses with severe anaemia due 
+      to Kell alloimmunization are generally not at risk for substantial 
+      thrombocytopenia.
+FAU - van den Akker, E S A
+AU  - van den Akker ES
+AD  - Department of Obstetrics, Leiden University Medical Centre, Leiden, The 
+      Netherlands. e.s.a.van_den_akker@lumc.nl
+FAU - Klumper, F J C M
+AU  - Klumper FJ
+FAU - Brand, A
+AU  - Brand A
+FAU - Kanhai, H H H
+AU  - Kanhai HH
+FAU - Oepkes, D
+AU  - Oepkes D
+LA  - eng
+PT  - Journal Article
+DEP - 20080423
+PL  - England
+TA  - Vox Sang
+JT  - Vox sanguinis
+JID - 0413606
+RN  - 0 (Kell Blood-Group System)
+SB  - IM
+MH  - *Blood Group Incompatibility
+MH  - Cohort Studies
+MH  - Edema
+MH  - Female
+MH  - Fetus/immunology
+MH  - Humans
+MH  - Incidence
+MH  - Kell Blood-Group System/*immunology
+MH  - Pregnancy
+MH  - Pregnancy Complications, Hematologic/*immunology
+MH  - Prospective Studies
+MH  - Rh Isoimmunization/immunology
+MH  - Thrombocytopenia, Neonatal Alloimmune/*etiology/immunology
+EDAT- 2008/04/26 09:00
+MHDA- 2009/03/24 09:00
+CRDT- 2008/04/26 09:00
+PHST- 2008/04/26 09:00 [pubmed]
+PHST- 2009/03/24 09:00 [medline]
+PHST- 2008/04/26 09:00 [entrez]
+AID - VOX1061 [pii]
+AID - 10.1111/j.1423-0410.2008.01061.x [doi]
+PST - ppublish
+SO  - Vox Sang. 2008 Jul;95(1):66-9. doi: 10.1111/j.1423-0410.2008.01061.x. Epub 2008 
+      Apr 23.

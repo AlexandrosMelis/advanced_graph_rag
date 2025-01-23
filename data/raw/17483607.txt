@@ -1,0 +1,66 @@
+PMID- 17483607
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080221
+LR  - 20131121
+IS  - 1300-7475 (Print)
+IS  - 1300-7475 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2007
+TI  - Does topical N-acetylcysteine application after myringotomy cause severe 
+      otorrhea?
+PG  - 22-5
+AB  - OBJECTIVES: The effect of topical N-acetylcysteine (NAC) application was 
+      investigated on the healing of acute experimental tympanic membrane perforations. 
+      MATERIALS AND METHODS: Twenty guinea pigs were used in this study. Under 
+      intraperitoneal ketamine anesthesia, incisional myringotomies were performed in 
+      the posterosuperior quadrant of the tympanic membranes with a straight otologic 
+      hook. The diameter of the perforations was approximately 2 mm. Perforations in 
+      both ears were treated with freshly prepared sponges soaked in either 0.1 ml 0.9% 
+      NaCl solution (10 control animals) or 0.6 mg/0.1 ml NAC (10 animals) for three 
+      consecutive days. All the tympanic membranes were examined by otomicroscopy on 
+      the third, fifth, seventh, and ninth days. RESULTS: In the control group, all the 
+      perforations were completely closed at the end of nine days. During the same 
+      period, only 40% of the perforations were completely closed in the NAC group. The 
+      remaining ears exhibited otorrhea by the third day. CONCLUSION: N-acetylcysteine 
+      may cause severe otorrhea in the healing process of tympanic membrane 
+      perforations. Further studies including histopathological examinations are 
+      required to elucidate this condition.
+FAU - Sanli, Arif
+AU  - Sanli A
+AD  - Department of Otolaryngology, Dr. Lutfi Kirdar Training and Research Hospital, 
+      Istanbul, Turkey.
+FAU - Eken, Mehmet
+AU  - Eken M
+FAU - Evren, Cenk
+AU  - Evren C
+FAU - Ates, Gunay
+AU  - Ates G
+FAU - Paksoy, Mustafa
+AU  - Paksoy M
+LA  - eng
+PT  - Journal Article
+PL  - Turkey
+TA  - Kulak Burun Bogaz Ihtis Derg
+JT  - Kulak burun bogaz ihtisas dergisi : KBB = Journal of ear, nose, and throat
+JID - 100899230
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - WYQ7N0BPYC (Acetylcysteine)
+SB  - IM
+MH  - Acetylcysteine/administration & dosage/*adverse effects
+MH  - Administration, Topical
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/*adverse effects
+MH  - Guinea Pigs
+MH  - Otitis Media, Suppurative/*chemically induced/pathology
+MH  - Severity of Illness Index
+MH  - Tympanic Membrane Perforation/*drug therapy/pathology
+EDAT- 2007/05/08 09:00
+MHDA- 2008/02/22 09:00
+CRDT- 2007/05/08 09:00
+PHST- 2007/05/08 09:00 [pubmed]
+PHST- 2008/02/22 09:00 [medline]
+PHST- 2007/05/08 09:00 [entrez]
+PST - ppublish
+SO  - Kulak Burun Bogaz Ihtis Derg. 2007;17(1):22-5.

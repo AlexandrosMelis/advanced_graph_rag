@@ -1,0 +1,76 @@
+PMID- 12607120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030805
+LR  - 20181113
+IS  - 1435-2443 (Print)
+IS  - 1435-2443 (Linking)
+VI  - 387
+IP  - 11-12
+DP  - 2003 Feb
+TI  - Does anastomotic leakage affect functional outcome after rectal resection for 
+      cancer?
+PG  - 406-10
+AB  - BACKGROUND: Anastomotic leakage is the most threatening early complication in 
+      sphincter-preserving rectal cancer surgery. While the oncological consequences 
+      have been well examined, only few data exist about the functional outcome. 
+      PATIENTS AND METHODS: We investigated continence function in 150 patients after 
+      curative sphincter-preserving rectal cancer surgery. Functional results were 
+      compared in 22 patients with a clinically relevant anastomotic leakage, confirmed 
+      radiologically or endoscopically, and 128 patients with uneventful recovery. 
+      Evaluation of continence function was based on the Cleveland Clinic Continence 
+      Score and was examined in all patients with anastomotic leakage and in 111 
+      patients without complications 107+/-46 weeks postoperatively. Additionally, 14 
+      patients with anastomotic leakage and 58 patients with uneventful recovery 
+      underwent anorectal manometry 26+/-15 weeks postoperatively. RESULTS: The 
+      continence score in patients after anastomotic leakage did not differ 
+      significantly from that in patients without complications. Sphincter function was 
+      similar. Maximum tolerable volume and rectal compliance were slightly but not 
+      significantly worse after leakage. CONCLUSIONS: Continence function remained 
+      undisturbed after anastomotic leakage due to rectal resection
+FAU - Bittorf, Birgit
+AU  - Bittorf B
+AD  - Department of Surgery, University of Erlangen-Nuremburg, Krankenhausstrasse 12, 
+      91054, Erlangen, Germany. birebi@aol.com
+FAU - Stadelmaier, Uwe
+AU  - Stadelmaier U
+FAU - Merkel, Susanne
+AU  - Merkel S
+FAU - Hohenberger, Werner
+AU  - Hohenberger W
+FAU - Matzel, Klaus E
+AU  - Matzel KE
+LA  - eng
+PT  - Journal Article
+DEP - 20030207
+PL  - Germany
+TA  - Langenbecks Arch Surg
+JT  - Langenbeck's archives of surgery
+JID - 9808285
+SB  - IM
+MH  - *Anastomosis, Surgical
+MH  - Fecal Incontinence/*physiopathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Manometry
+MH  - Middle Aged
+MH  - Postoperative Complications/*physiopathology
+MH  - Rectal Neoplasms/physiopathology/*surgery
+MH  - Rectum/physiopathology/surgery
+MH  - Statistics, Nonparametric
+MH  - Surgical Wound Dehiscence/*physiopathology
+MH  - Surveys and Questionnaires
+MH  - Treatment Failure
+EDAT- 2003/02/28 04:00
+MHDA- 2003/08/06 05:00
+CRDT- 2003/02/28 04:00
+PHST- 2002/10/01 00:00 [received]
+PHST- 2002/12/24 00:00 [accepted]
+PHST- 2003/02/28 04:00 [pubmed]
+PHST- 2003/08/06 05:00 [medline]
+PHST- 2003/02/28 04:00 [entrez]
+AID - 10.1007/s00423-003-0349-7 [doi]
+PST - ppublish
+SO  - Langenbecks Arch Surg. 2003 Feb;387(11-12):406-10. doi: 
+      10.1007/s00423-003-0349-7. Epub 2003 Feb 7.

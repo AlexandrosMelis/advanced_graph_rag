@@ -1,0 +1,92 @@
+PMID- 23072266
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130903
+LR  - 20211021
+IS  - 1557-7708 (Electronic)
+IS  - 1075-5535 (Print)
+IS  - 1075-5535 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2013 Mar
+TI  - Has the use of complementary and alternative medicine therapies by U.S. adults 
+      with chronic disease-related functional limitations changed from 2002 to 2007?
+PG  - 217-23
+LID - 10.1089/acm.2012.0009 [doi]
+AB  - OBJECTIVES: This study examined changes in the use of complementary and 
+      alternative medicine (CAM) therapies by U.S. adults aged 18 years or older with 
+      chronic disease-related functional limitations between 2002 and 2007. DESIGN: The 
+      study was a cross-sectional survey. SETTING/LOCATION: The study was conducted in 
+      the United States. SUBJECTS: The study comprised adults aged 18 years or older 
+      with chronic disease-related functional limitations. METHODS: Data were obtained 
+      from the 2002 and 2007 U.S. National Health Interview Survey to compare the use 
+      of 22 CAM therapies (n=9313 and n=7014, respectively). Estimates were age 
+      adjusted to the year 2000 U.S. standard population. RESULTS: The unadjusted and 
+      age-standardized prevalence of overall CAM use (22 therapies comparable between 
+      both survey years) was higher in 2007 than in 2002 (30.6% versus 26.9%, p<0.001 
+      and 34.4% versus 30.6%, p<0.001, respectively). Adults with functional 
+      limitations that included changing and maintaining body position experienced a 
+      significant increase in CAM use between 2002 and 2007 (31.1%-35.0%, p<0.01). The 
+      use of deep breathing exercises was the most prevalent CAM therapy in both 2002 
+      and 2007 and increased significantly during this period (from 17.9% to 19.9%, 
+      p<0.05). The use of meditation, massage, and yoga also increased significantly 
+      from 2002 and 2007 (11.0%-13.5%, p<0.01; 7.0%-10.9%, p<0.0001; and 5.1% to 6.6%, 
+      p<0.05, respectively), while the use of the Atkins diet decreased (2.2%- 1.4%, 
+      p<0.01). CONCLUSIONS: Among U.S. adults with chronic disease-related functional 
+      limitations, the overall increase in CAM use from 2002 to 2007 was significant, 
+      particularly among those with changing and maintaining body position limitations.
+FAU - Okoro, Catherine A
+AU  - Okoro CA
+AD  - Centers for Disease Control and Prevention, Office of Surveillance, Epidemiology, 
+      and Laboratory Services, Public Health Surveillance and Informatics Program 
+      Office, Division of Behavioral Surveillance, Atlanta, GA 30333, USA. 
+      COkoro@cdc.gov
+FAU - Zhao, Guixiang
+AU  - Zhao G
+FAU - Li, Chaoyang
+AU  - Li C
+FAU - Balluz, Lina S
+AU  - Balluz LS
+LA  - eng
+GR  - CC999999/Intramural CDC HHS/United States
+PT  - Journal Article
+DEP - 20121016
+PL  - United States
+TA  - J Altern Complement Med
+JT  - Journal of alternative and complementary medicine (New York, N.Y.)
+JID - 9508124
+SB  - IM
+MH  - *Activities of Daily Living
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Chronic Disease/*therapy
+MH  - Complementary Therapies/*statistics & numerical data/trends
+MH  - Cross-Sectional Studies
+MH  - Diet Therapy/*statistics & numerical data/trends
+MH  - Female
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Male
+MH  - Massage/statistics & numerical data/trends
+MH  - Middle Aged
+MH  - Mind-Body Therapies/statistics & numerical data/trends
+MH  - *Patient Acceptance of Health Care
+MH  - Posture
+MH  - United States
+MH  - Young Adult
+PMC - PMC8276047
+MID - NIHMS1718036
+COIS- Disclosure Statement No competing financial interests exist.
+EDAT- 2012/10/18 06:00
+MHDA- 2013/09/04 06:00
+PMCR- 2021/07/13
+CRDT- 2012/10/18 06:00
+PHST- 2012/10/18 06:00 [entrez]
+PHST- 2012/10/18 06:00 [pubmed]
+PHST- 2013/09/04 06:00 [medline]
+PHST- 2021/07/13 00:00 [pmc-release]
+AID - 10.1089/acm.2012.0009 [doi]
+PST - ppublish
+SO  - J Altern Complement Med. 2013 Mar;19(3):217-23. doi: 10.1089/acm.2012.0009. Epub 
+      2012 Oct 16.

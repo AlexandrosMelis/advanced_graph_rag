@@ -1,0 +1,76 @@
+PMID- 12630042
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030610
+LR  - 20041117
+IS  - 0172-6390 (Print)
+IS  - 0172-6390 (Linking)
+VI  - 50
+IP  - 49
+DP  - 2003 Jan-Feb
+TI  - Does body mass index (BMI) influence morbidity and long-term survival in gastric 
+      cancer patients after gastrectomy?
+PG  - 284-8
+AB  - BACKGROUND/AIMS: The long-term survival of patients with gastric cancer is 
+      governed by various factors, such as the clinical stage of the cancer, the 
+      patient's nutritional state, and the treatment and may be governed by the volume 
+      of intraperitoneal adipose tissue. The aim of this study is to clarify the 
+      relationship between the degree of the patients' body mass index and their 
+      long-term survival. METHODOLOGY: Gastric cancer patients who had undergone a 
+      gastrectomy with D2-lymphadenectomy and with resection A and B according to the 
+      criteria of the Japanese Research Society for Gastric Cancer Rules were 
+      subgrouped into those patients with a body mass index < 0.185 (the lower body 
+      mass index group) and those patients with a body mass index > 0.210 (the higher 
+      body mass index group). The patient's morbidity and long-term survival rate was 
+      retrospectively compared between the 2 groups. RESULTS: A significantly longer 
+      mean survival rate was observed for the lower body mass index group in stage 2 
+      (1667 vs. 1322 days, P = 0.0240). Also, a significantly longer mean survival rate 
+      was observed for the higher BMI group in stage 3a (1431 vs. 943, P = 0.0071). 
+      CONCLUSIONS: The body mass index is one of the prognostic factors of stage 2 and 
+      stage 3a gastric cancer. However, it does not appear to be useful for determining 
+      the prognosis of stage 1a, 1b, 3b, and 4a gastric cancers.
+FAU - Moriwaki, Yoshihiro
+AU  - Moriwaki Y
+AD  - Department of Surgery, Fujisawa Municipal Hospital, Kanagawa, Japan.
+FAU - Kunisaki, Chikara
+AU  - Kunisaki C
+FAU - Kobayashi, Syunsuke
+AU  - Kobayashi S
+FAU - Harada, Hirofumi
+AU  - Harada H
+FAU - Imai, Shinsuke
+AU  - Imai S
+FAU - Kasaoka, Chitaka
+AU  - Kasaoka C
+LA  - eng
+PT  - Journal Article
+PL  - Greece
+TA  - Hepatogastroenterology
+JT  - Hepato-gastroenterology
+JID - 8007849
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *Body Mass Index
+MH  - Female
+MH  - Gastrectomy/*adverse effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/*etiology/*mortality/pathology
+MH  - Neoplasm Staging
+MH  - *Postoperative Complications
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Stomach Neoplasms/*mortality/pathology/*surgery
+MH  - Survival Rate
+MH  - Time Factors
+EDAT- 2003/03/13 04:00
+MHDA- 2003/06/11 05:00
+CRDT- 2003/03/13 04:00
+PHST- 2003/03/13 04:00 [pubmed]
+PHST- 2003/06/11 05:00 [medline]
+PHST- 2003/03/13 04:00 [entrez]
+PST - ppublish
+SO  - Hepatogastroenterology. 2003 Jan-Feb;50(49):284-8.

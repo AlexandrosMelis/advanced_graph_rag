@@ -1,0 +1,104 @@
+PMID- 25168472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150730
+LR  - 20141202
+IS  - 1532-2963 (Electronic)
+IS  - 0958-2592 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2014 Dec
+TI  - Can static foot posture measurements predict regional plantar surface area?
+PG  - 161-8
+LID - S0958-2592(14)00067-4 [pii]
+LID - 10.1016/j.foot.2014.07.003 [doi]
+AB  - BACKGROUND: The intent of this study was to determine if the use of a single or 
+      combination of static foot posture measurements can be used to predict rearfoot, 
+      midfoot, and forefoot plantar surface area in individuals with pronated or normal 
+      foot types. METHODS: Twelve foot measurements were collected on 52 individuals 
+      (mean age 25.8 years) with the change in midfoot width used to place subjects in 
+      a pronated or normal foot mobility group. Dynamic plantar contact area was 
+      collected during walking with a pressure sensor platform. The 12 measures were 
+      entered into a stepwise regression analysis to determine the optimal set of 
+      measures associated with regional plantar surface area. RESULTS: A two variable 
+      model was found to describe the relationship between the foot measurements and 
+      forefoot plantar contact area (r(2)=0.79, p<0.0001). A four variable model was 
+      found to describe the relationship between the foot measurements and midfoot 
+      plantar contact area (r(2)=0.85, p<0.0001) in those individuals with a 1.26cm or 
+      greater change in midfoot width. CONCLUSIONS: The results indicate that 
+      clinicians can use a combination of simple, reliable and time efficient foot 
+      measures to explain 79% and 85% of the plantar surface area in the forefoot and 
+      midfoot, respectively.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - McPoil, Thomas G
+AU  - McPoil TG
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States. Electronic address: tmcpoil@regis.edu.
+FAU - Haager, Mathew
+AU  - Haager M
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - Hilt, John
+AU  - Hilt J
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - Klapheke, John
+AU  - Klapheke J
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - Martinez, Ray
+AU  - Martinez R
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - VanSteenwyk, Cory
+AU  - VanSteenwyk C
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - Weber, Nicholas
+AU  - Weber N
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+FAU - Cornwall, Mark W
+AU  - Cornwall MW
+AD  - Northern Arizona University, P.O. Box 15105, Flagstaff, AZ 86011, United States.
+FAU - Bade, Michael
+AU  - Bade M
+AD  - Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, Denver, 
+      CO 80221, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20140727
+PL  - Scotland
+TA  - Foot (Edinb)
+JT  - Foot (Edinburgh, Scotland)
+JID - 9109564
+SB  - IM
+MH  - Adult
+MH  - Biomechanical Phenomena
+MH  - Female
+MH  - Foot/anatomy & histology/*physiology
+MH  - Humans
+MH  - Male
+MH  - Posture/*physiology
+MH  - Predictive Value of Tests
+MH  - Pressure
+MH  - Weight-Bearing/*physiology
+OTO - NOTNLM
+OT  - Foot mobility
+OT  - Foot posture
+OT  - Plantar surface area
+OT  - Reliability
+EDAT- 2014/08/30 06:00
+MHDA- 2015/08/01 06:00
+CRDT- 2014/08/30 06:00
+PHST- 2014/05/30 00:00 [received]
+PHST- 2014/07/16 00:00 [revised]
+PHST- 2014/07/19 00:00 [accepted]
+PHST- 2014/08/30 06:00 [entrez]
+PHST- 2014/08/30 06:00 [pubmed]
+PHST- 2015/08/01 06:00 [medline]
+AID - S0958-2592(14)00067-4 [pii]
+AID - 10.1016/j.foot.2014.07.003 [doi]
+PST - ppublish
+SO  - Foot (Edinb). 2014 Dec;24(4):161-8. doi: 10.1016/j.foot.2014.07.003. Epub 2014 
+      Jul 27.

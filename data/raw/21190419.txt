@@ -1,0 +1,78 @@
+PMID- 21190419
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120224
+LR  - 20191210
+IS  - 1473-0766 (Electronic)
+IS  - 0951-3590 (Linking)
+VI  - 27
+IP  - 10
+DP  - 2011 Oct
+TI  - Does nuchal translucency thickness in the first trimester predict GDM onset 
+      during pregnancy?
+PG  - 782-4
+LID - 10.3109/09513590.2010.538101 [doi]
+AB  - BACKGROUND AND AIMS: This study was planned to evaluate whether increased nuchal 
+      translucency (NT) thickness in the first trimester of gestation can be related to 
+      onset of gestational diabetes mellitus (GDM) during pregnancy. METHODS: From 
+      January 2006 to August 2008, a group of 678 singleton pregnancies who had 
+      developed GDM has been selected as a study group among a total of 3966 pregnant 
+      women who had undergone first trimester screening for aneuploidies at 11-14 weeks 
+      of gestation. A group of 420 single pregnant women with physiological pregnancy 
+      were enrolled as control group. Both fetal structural and karyotype's anomalies 
+      were excluded in the two groups. NT was mesured by a Fetal Medicine Foundation 
+      certificated operator; GDM was diagnosed at 24-28 weeks of gestation following 
+      Carpenter and Coustan criteria. In the analyses of continuos variables, study and 
+      control group were compared by Student's t-test and Anova test. RESULTS: There 
+      was no significative difference (p = 0.585) between NT values in the study (mean 
+      = 1.56) and control group (mean = 1.54). CONCLUSIONS: NT thickness does not show 
+      a significative increase in those women who subsequently develop GDM. Therefore, 
+      NT assessment does not prove to be an useful ultrasound parameter for predicting 
+      GDM onset during pregnancy.
+FAU - Luchi, Carlo
+AU  - Luchi C
+AD  - Department of Reproductive Medicine and Child Development, Division of Gynecology 
+      and Obstetrics P. Fioretti, University of Pisa, Pisa, Italy. c.luchi@unipi.it
+FAU - Schifano, Martina
+AU  - Schifano M
+FAU - Nanini, Chiara
+AU  - Nanini C
+FAU - Di Cianni, Graziano
+AU  - Di Cianni G
+FAU - Lencioni, Cristina
+AU  - Lencioni C
+FAU - Genazzani, Andrea R
+AU  - Genazzani AR
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+DEP - 20101229
+PL  - England
+TA  - Gynecol Endocrinol
+JT  - Gynecological endocrinology : the official journal of the International Society 
+      of Gynecological Endocrinology
+JID - 8807913
+SB  - IM
+MH  - Adult
+MH  - Diabetes, Gestational/blood/*diagnostic imaging
+MH  - Early Diagnosis
+MH  - Female
+MH  - Glucose Tolerance Test
+MH  - Hospitals, University
+MH  - Humans
+MH  - *Nuchal Translucency Measurement
+MH  - Predictive Value of Tests
+MH  - Pregnancy
+MH  - *Pregnancy Trimester, First
+MH  - Pregnancy Trimester, Second/blood
+MH  - Retrospective Studies
+EDAT- 2010/12/31 06:00
+MHDA- 2012/03/01 06:00
+CRDT- 2010/12/31 06:00
+PHST- 2010/12/31 06:00 [entrez]
+PHST- 2010/12/31 06:00 [pubmed]
+PHST- 2012/03/01 06:00 [medline]
+AID - 10.3109/09513590.2010.538101 [doi]
+PST - ppublish
+SO  - Gynecol Endocrinol. 2011 Oct;27(10):782-4. doi: 10.3109/09513590.2010.538101. 
+      Epub 2010 Dec 29.

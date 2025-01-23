@@ -1,0 +1,87 @@
+PMID- 23147106
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130509
+LR  - 20220408
+IS  - 1421-9794 (Electronic)
+IS  - 0009-3157 (Linking)
+VI  - 58
+IP  - 4
+DP  - 2012
+TI  - Is peak concentration needed in therapeutic drug monitoring of vancomycin? A 
+      pharmacokinetic-pharmacodynamic analysis in patients with methicillin-resistant 
+      staphylococcus aureus pneumonia.
+PG  - 308-12
+LID - 10.1159/000343162 [doi]
+AB  - BACKGROUND: We analyzed the pharmacokinetic-pharmacodynamic relationship of 
+      vancomycin to determine the drug exposure parameters that correlate with the 
+      efficacy and nephrotoxicity of vancomycin in patients with methicillin-resistant 
+      Staphylococcus aureus pneumonia and evaluated the need to use peak concentration 
+      in therapeutic drug monitoring (TDM). METHODS: Serum drug concentrations of 31 
+      hospitalized patients treated with vancomycin for methicillin-resistant S. aureus 
+      pneumonia were collected. RESULTS: Significant differences in trough 
+      concentration (Cmin)/minimum inhibitory concentration (MIC) and area under the 
+      serum concentration-time curve (AUC0-24)/MIC were observed between the response 
+      and non-response groups. Significant differences in Cmin and AUC0-24 were 
+      observed between the nephrotoxicity and non-nephrotoxicity groups. Receiver 
+      operating characteristic curves revealed high predictive values of Cmin/MIC and 
+      AUC0-24/MIC for efficacy and of Cmin and AUC0-24 for safety of vancomycin. 
+      CONCLUSIONS: These results suggest little need to use peak concentration in 
+      vancomycin TDM because Cmin/MIC and Cmin are sufficient to predict the efficacy 
+      and safety of vancomycin.
+CI  - Copyright (c) 2012 S. Karger AG, Basel.
+FAU - Suzuki, Yosuke
+AU  - Suzuki Y
+AD  - Department of Clinical Pharmacy, Oita University Hospital, Oita, Japan.
+FAU - Kawasaki, Kanako
+AU  - Kawasaki K
+FAU - Sato, Yuhki
+AU  - Sato Y
+FAU - Tokimatsu, Issei
+AU  - Tokimatsu I
+FAU - Itoh, Hiroki
+AU  - Itoh H
+FAU - Hiramatsu, Kazufumi
+AU  - Hiramatsu K
+FAU - Takeyama, Masaharu
+AU  - Takeyama M
+FAU - Kadota, Jun-Ichi
+AU  - Kadota J
+LA  - eng
+PT  - Journal Article
+DEP - 20121107
+PL  - Switzerland
+TA  - Chemotherapy
+JT  - Chemotherapy
+JID - 0144731
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 6Q205EH1VU (Vancomycin)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Bacterial Agents/blood/pharmacokinetics/therapeutic use
+MH  - Area Under Curve
+MH  - Female
+MH  - Half-Life
+MH  - Humans
+MH  - Male
+MH  - Methicillin-Resistant Staphylococcus aureus/drug effects/*isolation & 
+      purification
+MH  - Microbial Sensitivity Tests
+MH  - Middle Aged
+MH  - Pneumonia/*drug therapy/microbiology
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Vancomycin/blood/*pharmacokinetics/therapeutic use
+EDAT- 2012/11/14 06:00
+MHDA- 2013/05/10 06:00
+CRDT- 2012/11/14 06:00
+PHST- 2012/04/30 00:00 [received]
+PHST- 2012/09/04 00:00 [accepted]
+PHST- 2012/11/14 06:00 [entrez]
+PHST- 2012/11/14 06:00 [pubmed]
+PHST- 2013/05/10 06:00 [medline]
+AID - 000343162 [pii]
+AID - 10.1159/000343162 [doi]
+PST - ppublish
+SO  - Chemotherapy. 2012;58(4):308-12. doi: 10.1159/000343162. Epub 2012 Nov 7.

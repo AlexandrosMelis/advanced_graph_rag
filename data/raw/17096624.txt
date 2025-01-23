@@ -1,0 +1,65 @@
+PMID- 17096624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070213
+LR  - 20181201
+IS  - 1087-3244 (Print)
+IS  - 1087-3244 (Linking)
+VI  - 30
+IP  - 6
+DP  - 2006 Nov-Dec
+TI  - Do patterns of knowledge and attitudes exist among unvaccinated seniors?
+PG  - 675-83
+AB  - OBJECTIVE: To examine patterns of knowledge and attitudes among adults aged > 65 
+      years unvaccinated for influenza. METHODS: Surveyed Medicare beneficiaries in 5 
+      areas; clustered unvaccinated seniors by their immunization related knowledge and 
+      attitudes. RESULTS: Identified 4 clusters: Potentials (45%) would receive 
+      influenza vaccine to prevent disease; Fearful Uninformeds (9%) were unsure if 
+      influenza vaccine causes illness; Doubters (27%) were unsure if vaccine is 
+      efficacious; Misinformeds (19%) believed influenza vaccine causes illness. More 
+      Potentials (75%) and Misinformeds (70%) ever received influenza vaccine than did 
+      Fearful Uninformeds (18%) and Doubters (29%). CONCLUSION: Findings suggest that 
+      cluster analyses may be useful in identifying groups for targeted health 
+      messages.
+FAU - Bardenheier, Barbara H
+AU  - Bardenheier BH
+AD  - Immunization Services Division, National Immunization Program, Centers for 
+      Disease Control and Prevention, 1600 Clifton Road NE, MS E-52, Atlanta, GA, USA. 
+      bfb7@cdc.gov
+FAU - Wortley, Pascale M
+AU  - Wortley PM
+FAU - Winston, Carla A
+AU  - Winston CA
+FAU - Washington, Michael L
+AU  - Washington ML
+FAU - Lindley, Megan C
+AU  - Lindley MC
+FAU - Sapsis, Karena
+AU  - Sapsis K
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Am J Health Behav
+JT  - American journal of health behavior
+JID - 9602338
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Immunization Programs/*statistics & numerical data
+MH  - Influenza A virus/*immunology
+MH  - Influenza, Human/*prevention & control
+MH  - Interviews as Topic
+MH  - Male
+MH  - United States
+EDAT- 2006/11/14 09:00
+MHDA- 2007/02/14 09:00
+CRDT- 2006/11/14 09:00
+PHST- 2006/11/14 09:00 [pubmed]
+PHST- 2007/02/14 09:00 [medline]
+PHST- 2006/11/14 09:00 [entrez]
+AID - 10.5555/ajhb.2006.30.6.675 [doi]
+PST - ppublish
+SO  - Am J Health Behav. 2006 Nov-Dec;30(6):675-83. doi: 10.5555/ajhb.2006.30.6.675.

@@ -1,0 +1,82 @@
+PMID- 21074975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110426
+LR  - 20160526
+IS  - 1573-2509 (Electronic)
+IS  - 0920-9964 (Linking)
+VI  - 125
+IP  - 1
+DP  - 2011 Jan
+TI  - Ultra high risk (UHR) for psychosis criteria: are there different levels of risk 
+      for transition to psychosis?
+PG  - 62-8
+LID - 10.1016/j.schres.2010.10.017 [doi]
+AB  - INTRODUCTION: The ultra high risk (UHR) for psychosis criteria have been 
+      validated in a number of studies. However, it is not known whether particular UHR 
+      criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent 
+      Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of 
+      criteria, is associated with a higher risk of transition to psychosis. The 
+      current study investigated this issue over a 6-month follow-up period. We 
+      hypothesised that the risk of transition would increase in the following order: 
+      Trait alone<APS alone < APS+Trait<BLIPS. METHOD: Data on UHR intake criteria and 
+      transition to psychosis status at 6 months were analysed for UHR patients seen at 
+      the PACE clinic, Orygen Youth Health between January 2000 and November 2008. 
+      RESULTS: A total of 928 new referrals were accepted into the PACE clinic over 
+      this period of whom 817 (88%) had baseline information available for analysis. 
+      The percentage of subjects who presented with APS, Trait and BLIPS were 83%, 27% 
+      and 4%, respectively. When the two intermediate groups (APS alone and APS+Trait) 
+      were combined, there was evidence that the risk of transition increased in the 
+      order of Trait alone<APS<BLIPS (p=0.024, adjusted analysis). CONCLUSIONS: Our 
+      data suggest that UHR intake criteria predict transition over 6 months in the 
+      order of Trait alone<APS<BLIPS. The fact that BLIPS patients are at the highest 
+      risk of transition over the short term is consistent with the "early" versus 
+      "late" prodrome model. It also indicates that particular clinical attention may 
+      need to be paid to BLIPS patients, especially early in the course of treatment.
+CI  - Copyright (c) 2010 Elsevier B.V. All rights reserved.
+FAU - Nelson, B
+AU  - Nelson B
+AD  - Orygen Youth Health Research Centre, Centre for Youth Mental Health, University 
+      of Melbourne, Melbourne, Victoria, Australia. nelsonb@unimelb.edu.au
+FAU - Yuen, K
+AU  - Yuen K
+FAU - Yung, A R
+AU  - Yung AR
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20101112
+PL  - Netherlands
+TA  - Schizophr Res
+JT  - Schizophrenia research
+JID - 8804207
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Neuropsychological Tests
+MH  - Psychiatric Status Rating Scales
+MH  - Psychotic Disorders/*diagnosis/*etiology
+MH  - Regression Analysis
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Severity of Illness Index
+MH  - Time Factors
+MH  - Young Adult
+EDAT- 2010/11/16 06:00
+MHDA- 2011/04/27 06:00
+CRDT- 2010/11/16 06:00
+PHST- 2010/06/07 00:00 [received]
+PHST- 2010/10/13 00:00 [revised]
+PHST- 2010/10/14 00:00 [accepted]
+PHST- 2010/11/16 06:00 [entrez]
+PHST- 2010/11/16 06:00 [pubmed]
+PHST- 2011/04/27 06:00 [medline]
+AID - S0920-9964(10)01592-6 [pii]
+AID - 10.1016/j.schres.2010.10.017 [doi]
+PST - ppublish
+SO  - Schizophr Res. 2011 Jan;125(1):62-8. doi: 10.1016/j.schres.2010.10.017. Epub 2010 
+      Nov 12.

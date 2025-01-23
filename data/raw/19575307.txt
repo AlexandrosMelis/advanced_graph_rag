@@ -1,0 +1,92 @@
+PMID- 19575307
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100722
+LR  - 20211020
+IS  - 1573-2584 (Electronic)
+IS  - 0301-1623 (Linking)
+VI  - 41
+IP  - 4
+DP  - 2009 Dec
+TI  - Does glomerular hyperfiltration in pregnancy damage the kidney in women with more 
+      parities?
+PG  - 927-32
+LID - 10.1007/s11255-009-9586-1 [doi]
+AB  - OBJECTIVES: We aimed to investigate the glomerular hyperfiltration due to 
+      pregnancy in women with more parities. METHODS: Five hundred women aged 52.57 +/- 
+      8.08 years, without a history of hypertension, diabetes mellitus or complicated 
+      pregnancy were involved in the study. They were divided into three groups. Group 
+      1: women with no or one parity (n = 76); group 2: women with two or three 
+      parities (n = 333); group 3: women with four or more parities (n = 91). 
+      Laboratory parameters and demographical data were compared between the three 
+      groups. RESULTS: Mean age, serum urea and serum creatinine were similar between 
+      three groups. Patients in group 3 had significantly higher GFR values compared to 
+      groups 1 and 2 (109.44 +/- 30.99, 110.76 +/- 30.22 and 121.92 +/- 34.73 
+      mL/min/1.73 m(2) for groups 1, 2 and 3, respectively; P = 0.008 for group 1 vs 
+      group 3; P = 0.002 for group 2 vs group 3). CONCLUSIONS: In our study, we suggest 
+      that glomerular hyperfiltration due to pregnancy does not have adverse effects on 
+      kidney in women with more parities. Pregnancy may have possible protective 
+      mechanisms for kidney against adverse effects of glomerular hyperfiltration.
+FAU - Gumus, Ilknur Inegol
+AU  - Gumus II
+AD  - Department of Obstetrics and Gynecology, Fatih University School of Medicine, 
+      Ankara, Turkey.
+FAU - Uz, Ebru
+AU  - Uz E
+FAU - Bavbek, Nuket
+AU  - Bavbek N
+FAU - Kargili, Ayse
+AU  - Kargili A
+FAU - Yanik, Burcu
+AU  - Yanik B
+FAU - Turgut, Faruk Hilmi
+AU  - Turgut FH
+FAU - Akcay, Ali
+AU  - Akcay A
+FAU - Turhan, Nilgun Ozturk
+AU  - Turhan NO
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20090704
+PL  - Netherlands
+TA  - Int Urol Nephrol
+JT  - International urology and nephrology
+JID - 0262521
+RN  - 268B43MJ25 (Uric Acid)
+RN  - 8W8T17847W (Urea)
+RN  - AYI8EX34EU (Creatinine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Body Mass Index
+MH  - Cohort Studies
+MH  - Confidence Intervals
+MH  - Creatinine/urine
+MH  - Female
+MH  - Glomerular Filtration Rate/*physiology
+MH  - Humans
+MH  - Kidney Diseases/*diagnosis/*epidemiology
+MH  - Kidney Function Tests
+MH  - Middle Aged
+MH  - *Parity
+MH  - Pregnancy/*physiology
+MH  - Pregnancy Complications/*diagnosis/*epidemiology
+MH  - Risk Factors
+MH  - Sensitivity and Specificity
+MH  - Urea/urine
+MH  - Uric Acid/urine
+MH  - Urinalysis
+EDAT- 2009/07/04 09:00
+MHDA- 2010/07/23 06:00
+CRDT- 2009/07/04 09:00
+PHST- 2008/06/27 00:00 [received]
+PHST- 2009/05/11 00:00 [accepted]
+PHST- 2009/07/04 09:00 [entrez]
+PHST- 2009/07/04 09:00 [pubmed]
+PHST- 2010/07/23 06:00 [medline]
+AID - 10.1007/s11255-009-9586-1 [doi]
+PST - ppublish
+SO  - Int Urol Nephrol. 2009 Dec;41(4):927-32. doi: 10.1007/s11255-009-9586-1. Epub 
+      2009 Jul 4.

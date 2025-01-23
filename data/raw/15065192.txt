@@ -1,0 +1,68 @@
+PMID- 15065192
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040823
+LR  - 20161124
+IS  - 0960-7692 (Print)
+IS  - 0960-7692 (Linking)
+VI  - 23
+IP  - 4
+DP  - 2004 Apr
+TI  - Three-dimensional ultrasound-validated large-core needle biopsy: is it a reliable 
+      method for the histological assessment of breast lesions?
+PG  - 393-7
+AB  - OBJECTIVE: The use of three-dimensional (3D) ultrasound may help to determine the 
+      exact position of the needle during breast biopsy, thereby reducing the number of 
+      core samples that are needed to achieve a reliable histological diagnosis. The 
+      aim of this study was to demonstrate the efficacy of 3D ultrasound-validated 
+      large-core needle biopsy (LCNB) of the breast. METHODS: A total of 360 core 
+      needle biopsies was obtained from 169 breast lesions in 146 patients. Additional 
+      open breast biopsy was performed in 111 women (127/169 breast lesions); the 
+      remaining 42 lesions were followed up for at least 24 months. 3D ultrasound 
+      visualization of the needle in the postfiring position was used to classify the 
+      biopsy as central, marginal or outside the lesion. Based on this classification 
+      it was decided whether another sample had to be obtained. RESULTS: A median of 
+      two core samples per lesion provided for all the lesions a sensitivity for 
+      malignancy of 96.9%, specificity of 100%, false-positive rate of 0% and 
+      false-negative rate of 3.1%, and for the excised lesions a sensitivity of 96.5%, 
+      specificity of 100%, false-positive rate of 0%, false-negative rate of 3.5% and 
+      an underestimation rate of 3.4%. CONCLUSIONS: 3D ultrasound validation of the 
+      postfiring needle position is an efficient adjunct to ultrasound-guided LCNB. The 
+      advantages of 3D ultrasound validation are likely to include a reduction in the 
+      number of core samples needed to achieve a reliable histological diagnosis (and a 
+      possible reduction in the risk of tumor cell displacement), reduced procedure 
+      time and lower costs.
+CI  - Copyright 2004 ISUOG.
+FAU - Delle Chiaie, L
+AU  - Delle Chiaie L
+AD  - Centre for Ultrasound and Prenatal Diagnosis, Department of Obstetrics and 
+      Gynecology, University of Ulm, Ulm, Germany. loredana.delle-chiaie@web.de
+FAU - Terinde, R
+AU  - Terinde R
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Ultrasound Obstet Gynecol
+JT  - Ultrasound in obstetrics & gynecology : the official journal of the International 
+      Society of Ultrasound in Obstetrics and Gynecology
+JID - 9108340
+SB  - IM
+MH  - Biopsy, Needle/*methods
+MH  - Breast Diseases/*diagnostic imaging/*pathology
+MH  - Breast Neoplasms/diagnostic imaging/pathology
+MH  - False Negative Reactions
+MH  - False Positive Reactions
+MH  - Female
+MH  - Humans
+MH  - *Needles
+MH  - Predictive Value of Tests
+MH  - Ultrasonography, Mammary/*methods
+EDAT- 2004/04/06 05:00
+MHDA- 2004/08/24 05:00
+CRDT- 2004/04/06 05:00
+PHST- 2004/04/06 05:00 [pubmed]
+PHST- 2004/08/24 05:00 [medline]
+PHST- 2004/04/06 05:00 [entrez]
+AID - 10.1002/uog.1001 [doi]
+PST - ppublish
+SO  - Ultrasound Obstet Gynecol. 2004 Apr;23(4):393-7. doi: 10.1002/uog.1001.

@@ -1,0 +1,77 @@
+PMID- 28707539
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170901
+LR  - 20240330
+IS  - 1748-880X (Electronic)
+IS  - 0007-1285 (Print)
+IS  - 0007-1285 (Linking)
+VI  - 90
+IP  - 1077
+DP  - 2017 Aug
+TI  - Visceral adipose tissue area measurement at a single level: can it represent 
+      visceral adipose tissue volume?
+PG  - 20170253
+LID - 10.1259/bjr.20170253 [doi]
+LID - 20170253
+AB  - OBJECTIVE: Measurement of visceral adipose tissue (VAT) needs to be accurate and 
+      sensitive to change for risk monitoring. The purpose of this study is to 
+      determine the CT slice location where VAT area can best reflect changes in VAT 
+      volume and body weight. METHODS: 60 plain abdominal CT images from 30 males [mean 
+      age (range) 51 (41-68) years, mean body weight (range) 71.1 (101.9-50.9) kg] who 
+      underwent workplace screenings twice within a 1-year interval were evaluated. 
+      Automatically calculated and manually corrected areas of the VAT of various scan 
+      levels using "freeform curve" region of interest on CT were recorded and compared 
+      with body weight changes. RESULTS: The strongest correlations of VAT area with 
+      VAT volume and body weight changes were shown in a slice 3 cm above the lower 
+      margin of L3 with r values of 0.853 and 0.902, respectively. CONCLUSION: VAT area 
+      measurement at a single level 3 cm above the lower margin of the L3 vertebra is 
+      feasible and can reflect changes in VAT volume and body weight. Advances in 
+      knowledge: As VAT area at a CT slice 3cm above the lower margin of L3 can best 
+      reflect interval changes in VAT volume and body weight, VAT area measurement 
+      should be selected at this location.
+FAU - Noumura, Yusuke
+AU  - Noumura Y
+AD  - 1 Department of Health Sciences, Hokkaido University , Sapporo , Japan.
+FAU - Kamishima, Tamotsu
+AU  - Kamishima T
+AD  - 2 Department of Biomedical Science and Engineering, Faculty of Health Sciences, 
+      Hokkaido University , Sapporo , Japan.
+FAU - Sutherland, Kenneth
+AU  - Sutherland K
+AD  - 3 Division of Photonic Bioimaging, Faculty of Medicine Research Center for 
+      Cooperative Projects, Hokkaido University , Sapporo , Japan.
+FAU - Nishimura, Hideho
+AU  - Nishimura H
+AD  - 4 Sapporo Ryokuai Hospital , Sapporo , Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20170714
+PL  - England
+TA  - Br J Radiol
+JT  - The British journal of radiology
+JID - 0373125
+SB  - IM
+MH  - Abdomen/anatomy & histology
+MH  - Adult
+MH  - Aged
+MH  - Humans
+MH  - Intra-Abdominal Fat/*anatomy & histology
+MH  - Male
+MH  - Middle Aged
+MH  - *Multidetector Computed Tomography
+MH  - Reproducibility of Results
+MH  - Retrospective Studies
+PMC - PMC5858805
+EDAT- 2017/07/15 06:00
+MHDA- 2017/09/02 06:00
+PMCR- 2018/08/01
+CRDT- 2017/07/15 06:00
+PHST- 2017/07/15 06:00 [pubmed]
+PHST- 2017/09/02 06:00 [medline]
+PHST- 2017/07/15 06:00 [entrez]
+PHST- 2018/08/01 00:00 [pmc-release]
+AID - 10.1259/bjr.20170253 [doi]
+PST - ppublish
+SO  - Br J Radiol. 2017 Aug;90(1077):20170253. doi: 10.1259/bjr.20170253. Epub 2017 Jul 
+      14.

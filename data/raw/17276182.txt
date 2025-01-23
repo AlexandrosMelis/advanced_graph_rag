@@ -1,0 +1,109 @@
+PMID- 17276182
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070403
+LR  - 20070205
+IS  - 1558-3597 (Electronic)
+IS  - 0735-1097 (Linking)
+VI  - 49
+IP  - 5
+DP  - 2007 Feb 6
+TI  - Stretch-sensitive KCNQ1 mutation A link between genetic and environmental factors 
+      in the pathogenesis of atrial fibrillation?
+PG  - 578-86
+AB  - OBJECTIVES: This study sought to evaluate mutations in genes encoding the slow 
+      component of the cardiac delayed rectifier K+ current (I(Ks)) channel in familial 
+      atrial fibrillation (AF). BACKGROUND: Although AF can have a genetic etiology, 
+      links between inherited gene defects and acquired factors such as atrial stretch 
+      have not been explored. METHODS: Mutation screening of the KCNQ1, KCNE1, KCNE2, 
+      and KCNE3 genes was performed in 50 families with AF. The effects of mutant 
+      protein on cardiac I(Ks) activation were evaluated using electrophysiological 
+      studies and human atrial action potential modeling. RESULTS: One missense KCNQ1 
+      mutation, R14C, was identified in 1 family with a high prevalence of 
+      hypertension. Atrial fibrillation was present only in older individuals who had 
+      developed atrial dilation and who were genotype positive. Patch-clamp studies of 
+      wild-type or R14C KCNQ1 expressed with KCNE1 in CHO cells showed no statistically 
+      significant differences between wild-type and mutant channel kinetics at 
+      baseline, or after activation of adenylate cyclase with forskolin. After exposure 
+      to hypotonic solution to elicit cell swelling/stretch, mutant channels showed a 
+      marked increase in current, a leftward shift in the voltage dependence of 
+      activation, altered channel kinetics, and shortening of the modeled atrial action 
+      potential duration. CONCLUSIONS: These data suggest that the R14C KCNQ1 mutation 
+      alone is insufficient to cause AF. Rather, we suggest a model in which a "second 
+      hit", such as an environmental factor like hypertension, which promotes atrial 
+      stretch and thereby unmasks an inherited defect in ion channel kinetics (the 
+      "first hit"), is required for AF to be manifested. Such a model would also 
+      account for the age-related increase in AF development.
+FAU - Otway, Robyn
+AU  - Otway R
+AD  - Sr. Bernice Research Program in Inherited Heart Diseases, Darlinghurst, New South 
+      Wales, Australia.
+FAU - Vandenberg, Jamie I
+AU  - Vandenberg JI
+FAU - Guo, Guanglan
+AU  - Guo G
+FAU - Varghese, Anthony
+AU  - Varghese A
+FAU - Castro, M Leticia
+AU  - Castro ML
+FAU - Liu, Jian
+AU  - Liu J
+FAU - Zhao, JingTing
+AU  - Zhao J
+FAU - Bursill, Jane A
+AU  - Bursill JA
+FAU - Wyse, Ken R
+AU  - Wyse KR
+FAU - Crotty, Haley
+AU  - Crotty H
+FAU - Baddeley, Olivia
+AU  - Baddeley O
+FAU - Walker, Bruce
+AU  - Walker B
+FAU - Kuchar, Dennis
+AU  - Kuchar D
+FAU - Thorburn, Charles
+AU  - Thorburn C
+FAU - Fatkin, Diane
+AU  - Fatkin D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070122
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (KCNQ1 Potassium Channel)
+RN  - 0 (KCNQ1 protein, human)
+RN  - 0 (Potassium Channels, Voltage-Gated)
+SB  - IM
+MH  - Action Potentials/physiology
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Atrial Fibrillation/*genetics/physiopathology
+MH  - Cohort Studies
+MH  - Female
+MH  - Heart Atria/physiopathology
+MH  - Humans
+MH  - KCNQ1 Potassium Channel/*genetics
+MH  - Male
+MH  - Middle Aged
+MH  - Mutation, Missense/*genetics
+MH  - Pedigree
+MH  - Potassium Channels, Voltage-Gated/*physiology
+EDAT- 2007/02/06 09:00
+MHDA- 2007/04/04 09:00
+CRDT- 2007/02/06 09:00
+PHST- 2006/07/14 00:00 [received]
+PHST- 2006/09/05 00:00 [revised]
+PHST- 2006/09/27 00:00 [accepted]
+PHST- 2007/02/06 09:00 [pubmed]
+PHST- 2007/04/04 09:00 [medline]
+PHST- 2007/02/06 09:00 [entrez]
+AID - S0735-1097(06)02864-6 [pii]
+AID - 10.1016/j.jacc.2006.09.044 [doi]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2007 Feb 6;49(5):578-86. doi: 10.1016/j.jacc.2006.09.044. Epub 
+      2007 Jan 22.

@@ -1,0 +1,81 @@
+PMID- 22658587
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130418
+LR  - 20181202
+IS  - 1878-1861 (Electronic)
+IS  - 1878-1861 (Linking)
+VI  - 15
+IP  - 6
+DP  - 2012 Nov
+TI  - Affect-regulated exercise intensity: does training at an intensity that feels 
+      'good' improve physical health?
+PG  - 548-53
+LID - S1440-2440(12)00075-8 [pii]
+LID - 10.1016/j.jsams.2012.01.005 [doi]
+AB  - OBJECTIVES: Affect-regulated exercise to feel 'good' can be used to control 
+      exercise intensity amongst both active and sedentary individuals and should 
+      support exercise adherence. It is not known, however, whether affect-regulated 
+      exercise training can lead to physical health gains. The aim of this study was to 
+      examine if affect-regulated exercise to feel 'good' leads to improved fitness 
+      over the course of an 8-week training programme. DESIGN: A repeated measures 
+      design (pretest-posttest) with independent groups (training and control). 
+      METHODS: 20 sedentary females completed a submaximal graded exercise test and 
+      were then allocated to either a training group or control group. The training 
+      group completed two supervised sessions and one unsupervised session per week for 
+      8 weeks. Exercise intensity was affect-regulated to feel 'good'. Following the 8 
+      weeks of training, both groups completed a second submaximal graded exercise 
+      test. RESULTS: Repeated measures analyses of variance indicated a significant 
+      increase in the time to reach ventilatory threshold in the training group (318 +/- 
+      23.7s) compared to control (248 +/- 16.9s). Overall compliance to training was high 
+      (>92%). Participants in the training group exercised at intensities that would be 
+      classified as being in the lower range of the recommended guidelines ( approximately  50% 
+      V O(2) max) for cardiovascular health. CONCLUSIONS: Affect-regulated exercise to 
+      feel 'good' can be used in a training programme to regulate exercise intensity. 
+      This approach led to a 19% increase in time to reach ventilatory threshold, which 
+      is indicative of improved fitness.
+CI  - Copyright (c) 2012 Sports Medicine Australia. Published by Elsevier Ltd. All rights 
+      reserved.
+FAU - Parfitt, Gaynor
+AU  - Parfitt G
+AD  - University of South Australia, Australia. Gaynor.Parfitt@unisa.edu.au
+FAU - Alrumh, Amnah
+AU  - Alrumh A
+FAU - Rowlands, Alex V
+AU  - Rowlands AV
+LA  - eng
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120531
+PL  - Australia
+TA  - J Sci Med Sport
+JT  - Journal of science and medicine in sport
+JID - 9812598
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Affect/*physiology
+MH  - Exercise/*physiology/*psychology
+MH  - Female
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - Middle Aged
+MH  - Oxygen Consumption/physiology
+MH  - Physical Fitness/physiology/psychology
+MH  - Sedentary Behavior
+MH  - Young Adult
+EDAT- 2012/06/05 06:00
+MHDA- 2013/04/20 06:00
+CRDT- 2012/06/05 06:00
+PHST- 2011/09/13 00:00 [received]
+PHST- 2011/12/22 00:00 [revised]
+PHST- 2012/01/18 00:00 [accepted]
+PHST- 2012/06/05 06:00 [entrez]
+PHST- 2012/06/05 06:00 [pubmed]
+PHST- 2013/04/20 06:00 [medline]
+AID - S1440-2440(12)00075-8 [pii]
+AID - 10.1016/j.jsams.2012.01.005 [doi]
+PST - ppublish
+SO  - J Sci Med Sport. 2012 Nov;15(6):548-53. doi: 10.1016/j.jsams.2012.01.005. Epub 
+      2012 May 31.

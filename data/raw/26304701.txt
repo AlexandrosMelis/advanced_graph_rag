@@ -1,0 +1,99 @@
+PMID- 26304701
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171030
+LR  - 20180222
+IS  - 1873-1953 (Electronic)
+IS  - 1474-5151 (Linking)
+VI  - 15
+IP  - 6
+DP  - 2016 Oct
+TI  - Can nurse-led preoperative education reduce anxiety and postoperative 
+      complications of patients undergoing cardiac surgery?
+PG  - 447-58
+LID - 10.1177/1474515115602678 [doi]
+AB  - BACKGROUND: The effect of preoperative education on anxiety and postoperative 
+      outcomes of cardiac surgery patients remains unclear. AIM: The aim of the study 
+      was to estimate the effectiveness of a nurse-led preoperative education on 
+      anxiety and postoperative outcomes. METHODS: A randomised controlled study was 
+      designed. All the patients who were admitted for elective cardiac surgery in a 
+      general hospital in Athens with knowledge of the Greek language were eligible to 
+      take part in the study. Patients in the intervention group received preoperative 
+      education by specially trained nurses. The control group received the standard 
+      information by the ward personnel. Measurements of anxiety were conducted on 
+      admission-A, before surgery-B and before discharge-C by the state-trait anxiety 
+      inventory. RESULTS: The sample consisted of 395 patients (intervention group: 
+      205, control group: 190). The state anxiety on the day before surgery decreased 
+      only in the intervention group (34.0 (8.4) versus 36.9 (10.7); P=0.001). The mean 
+      decrease in state score during the follow-up period was greater in the 
+      intervention group (P=0.001). No significant difference was found in the length 
+      of stay or readmission. Lower proportions of chest infection were found in the 
+      intervention group (10 (5.3) versus 1 (0.5); P=0.004). Multivariate linear 
+      regression revealed that education and score in trait anxiety scale on admission 
+      are independent predictors of a reduction in state anxiety. CONCLUSION: 
+      Preoperative education delivered by nurses reduced anxiety and postoperative 
+      complications of patients undergoing cardiac surgery, but it was not effective in 
+      reducing readmissions or length of stay.
+CI  - (c) The European Society of Cardiology 2015.
+FAU - Kalogianni, Antonia
+AU  - Kalogianni A
+AD  - Faculty of Nursing, Technological Educational Institute of Athens, Greece 
+      antonia_cal@teiath.gr.
+FAU - Almpani, Panagiota
+AU  - Almpani P
+AD  - Faculty of Nursing, Technological Educational Institute of Athens, Greece.
+FAU - Vastardis, Leonidas
+AU  - Vastardis L
+AD  - Intensive Care Unit of Department of Cardiac Surgery, 'Evangelismos' General 
+      Hospital, Athens, Greece.
+FAU - Baltopoulos, George
+AU  - Baltopoulos G
+AD  - Faculty of Nursing, National and Kapodistrian University of Athens, Greece.
+FAU - Charitos, Christos
+AU  - Charitos C
+AD  - Cardiothoracic Surgery Department, 'Evangelismos', General Hospital of Athens, 
+      Greece.
+FAU - Brokalaki, Hero
+AU  - Brokalaki H
+AD  - Faculty of Nursing, National and Kapodistrian University of Athens, Greece.
+LA  - eng
+PT  - Journal Article
+DEP - 20150824
+PL  - England
+TA  - Eur J Cardiovasc Nurs
+JT  - European journal of cardiovascular nursing
+JID - 101128793
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anxiety Disorders/*etiology/*prevention & control
+MH  - Cardiac Surgical Procedures/*adverse effects/*nursing
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nurse-Patient Relations
+MH  - *Patient Education as Topic
+MH  - Postoperative Complications/*etiology/*prevention & control
+MH  - Preoperative Care
+MH  - Preoperative Period
+OTO - NOTNLM
+OT  - Preoperative patients' education
+OT  - anxiety
+OT  - cardiac surgery
+OT  - length of stay
+OT  - postoperative complications
+EDAT- 2015/08/26 06:00
+MHDA- 2017/10/31 06:00
+CRDT- 2015/08/26 06:00
+PHST- 2015/01/27 00:00 [received]
+PHST- 2015/07/25 00:00 [accepted]
+PHST- 2015/08/26 06:00 [entrez]
+PHST- 2015/08/26 06:00 [pubmed]
+PHST- 2017/10/31 06:00 [medline]
+AID - 1474515115602678 [pii]
+AID - 10.1177/1474515115602678 [doi]
+PST - ppublish
+SO  - Eur J Cardiovasc Nurs. 2016 Oct;15(6):447-58. doi: 10.1177/1474515115602678. Epub 
+      2015 Aug 24.

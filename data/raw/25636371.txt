@@ -1,0 +1,130 @@
+PMID- 25636371
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161101
+LR  - 20161230
+IS  - 0210-5705 (Print)
+IS  - 0210-5705 (Linking)
+VI  - 38
+IP  - 5
+DP  - 2015 May
+TI  - [Is it possible to stop treatment with nucleos(t)ide analogs in patients with 
+      e-antigen negative chronic hepatitis B? Experience and new expectations].
+PG  - 305-12
+LID - S0210-5705(14)00319-7 [pii]
+LID - 10.1016/j.gastrohep.2014.12.001 [doi]
+AB  - BACKGROUND: Treatment of HBeAg-negative chronic hepatitis B (CHB) with 
+      nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a 
+      criterion for its discontinuation, is a rare event. Recent evidence suggests that 
+      discontinuing NA therapy may be feasible in selected patients. OBJECTIVES: To 
+      analyze the rate of virological relapse in patients with HBeAg-negative CHB who 
+      discontinued treatment with NAs. METHODS: We performed a single-center 
+      observational study that included 140 patients with HBsAg-negative CHB. 
+      Twenty-two patients, who received only NAs, discontinued treatment for different 
+      reasons and were subsequently monitored. All had normal ALT and AST, undetectable 
+      DNA and absence of cirrhosis or significant comorbidities before stopping 
+      treatment. RESULTS: Twelve patients showed virologic relapse (54.54%). The mean 
+      interval between discontinuation and relapse was 6.38 months (+/- 1.9) (75% 
+      relapsed during the first 12 months after discontinuation). Five received 
+      adefovir, 1 lamivudine and adefovir, 1 tenofovir and 5 lamivudine alone. The mean 
+      treatment duration in this group was 38.5 months (+/- 4.5). The sustained response 
+      group had a higher mean age and longer treatment duration than patients with 
+      virologic relapse but these differences were not statistically significant. 
+      CONCLUSIONS: The results suggest that NA treatment can be stopped in selected 
+      patients with CHB as long as they are not cirrhotic, have completed a minimum 
+      period of treatment, have normal ALT and sustained undetectable DNA. These 
+      patients should be closely monitored during the first year and then indefinitely.
+CI  - Copyright (c) 2014 Elsevier Espana, S.L.U. and AEEH y AEG. All rights reserved.
+FAU - Martin Mateos, Rosa M
+AU  - Martin Mateos RM
+AD  - Servicio de gastroenterologia, Hospital Universitario Ramon y Cajal, IRYCIS, 
+      Madrid, Espana. Electronic address: rosam.martinma@salud.madrid.org.
+FAU - Moreira Vicente, Victor F
+AU  - Moreira Vicente VF
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana; Departamento de medicina. Universidad de Alcala, Madrid, Espana.
+FAU - Tavio Hernandez, Eduardo
+AU  - Tavio Hernandez E
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Cuno Roldan, Jose Luis
+AU  - Cuno Roldan JL
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Tellez Villajos, Luis
+AU  - Tellez Villajos L
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Aicart Ramos, Marta
+AU  - Aicart Ramos M
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Arribas Anta, Julia
+AU  - Arribas Anta J
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Zaera de la Fuente, Celia
+AU  - Zaera de la Fuente C
+AD  - Servicio de gastroenterologia. Hospital Universitario Ramon y Cajal, Madrid, 
+      Espana.
+FAU - Albillos Martinez, Agustin
+AU  - Albillos Martinez A
+AD  - Servicio de gastroenterologia, Hospital Universitario Ramon y Cajal, IRYCIS, 
+      Madrid, Espana; Departamento de medicina. Universidad de Alcala, Madrid, Espana; 
+      CIBERehd, Instituto de Salud Carlos III, Madrid, Espana.
+LA  - spa
+PT  - Journal Article
+PT  - Observational Study
+TT  -  inverted question markEs posible suspender el tratamiento con antivirales orales en los pacientes con 
+      hepatitis cronica B antigeno e negativa? Experiencia y nuevas expectativas.
+DEP - 20150127
+PL  - Spain
+TA  - Gastroenterol Hepatol
+JT  - Gastroenterologia y hepatologia
+JID - 8406671
+RN  - 0 (Antiviral Agents)
+RN  - 0 (DNA, Viral)
+RN  - 0 (Hepatitis B e Antigens)
+RN  - 0 (Nucleotides)
+RN  - EC 2.6.1.1 (Aspartate Aminotransferases)
+RN  - EC 2.6.1.2 (Alanine Transaminase)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Alanine Transaminase/*blood
+MH  - Antiviral Agents/*therapeutic use
+MH  - Aspartate Aminotransferases/blood
+MH  - DNA, Viral/isolation & purification
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Hepatitis B e Antigens/*immunology
+MH  - Hepatitis B virus/genetics/immunology/isolation & purification
+MH  - Hepatitis B, Chronic/*drug therapy/immunology
+MH  - Humans
+MH  - Liver Cirrhosis/drug therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Nucleotides/*therapeutic use
+MH  - Recurrence
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Antivirales orales
+OT  - HBeAg-negative chronic hepatitis B
+OT  - Hepatitis cronica B
+OT  - Nucleos(t)ide analogues
+OT  - Rebote virologico
+OT  - virological relapse
+EDAT- 2015/02/01 06:00
+MHDA- 2016/11/02 06:00
+CRDT- 2015/02/01 06:00
+PHST- 2014/09/24 00:00 [received]
+PHST- 2014/11/30 00:00 [revised]
+PHST- 2014/12/01 00:00 [accepted]
+PHST- 2015/02/01 06:00 [entrez]
+PHST- 2015/02/01 06:00 [pubmed]
+PHST- 2016/11/02 06:00 [medline]
+AID - S0210-5705(14)00319-7 [pii]
+AID - 10.1016/j.gastrohep.2014.12.001 [doi]
+PST - ppublish
+SO  - Gastroenterol Hepatol. 2015 May;38(5):305-12. doi: 
+      10.1016/j.gastrohep.2014.12.001. Epub 2015 Jan 27.

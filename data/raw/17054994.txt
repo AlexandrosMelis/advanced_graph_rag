@@ -1,0 +1,81 @@
+PMID- 17054994
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070103
+LR  - 20061120
+IS  - 0022-4804 (Print)
+IS  - 0022-4804 (Linking)
+VI  - 136
+IP  - 2
+DP  - 2006 Dec
+TI  - Does frozen section alter surgical management of multinodular thyroid disease?
+PG  - 179-81
+AB  - BACKGROUND: Frozen section (FS) evaluation during thyroid surgery is often used 
+      to guide intraoperative management. We sought to determine the utility of FS in 
+      patients undergoing thyroidectomy for multinodular thyroid disease. METHODS: From 
+      May 1994 through November 2004, 236 patients with multinodular goiter underwent 
+      thyroidectomy at our institution. Patient data were retrospectively analyzed to 
+      see if a frozen section was performed during the procedure and whether it changed 
+      the patient's outcome. RESULTS: Of the 236 patients, 135 (57%) had 
+      intra-operative FS. There were no differences between patients who had FS 
+      analysis and those who did not with regard to age, gender, and the incidence of 
+      malignancy. Of the patients who had FS, 4/135 (3%) were subsequently diagnosed 
+      with thyroid cancer on permanent histology. Three of these FS were misread as 
+      benign. Therefore, the sensitivity of FS for the diagnosis of thyroid cancer was 
+      only 25%. Importantly, in none of the 135 patients did FS alter the 
+      intraoperative management. CONCLUSION: While FS was commonly used in patients 
+      undergoing thyroidectomy at our institution, in no patient over the last decade 
+      did FS correctly alter the intraoperative management. Given the time required to 
+      perform FS and the cost associated with it, we believe that routine FS should not 
+      be performed in these patients.
+FAU - Olson, Sarah
+AU  - Olson S
+AD  - Department of Surgery, Section of Endocrine Surgery, University of Wisconsin, 
+      Madison, Wisconsin 58792, USA.
+FAU - Cheema, Yusra
+AU  - Cheema Y
+FAU - Harter, Josephine
+AU  - Harter J
+FAU - Starling, James
+AU  - Starling J
+FAU - Chen, Herbert
+AU  - Chen H
+LA  - eng
+PT  - Journal Article
+DEP - 20061019
+PL  - United States
+TA  - J Surg Res
+JT  - The Journal of surgical research
+JID - 0376340
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Papillary/epidemiology/pathology/surgery
+MH  - Female
+MH  - *Frozen Sections
+MH  - Goiter, Nodular/epidemiology/*pathology/*surgery
+MH  - Humans
+MH  - Incidence
+MH  - Intraoperative Care/*methods
+MH  - Lymphoma/epidemiology/pathology/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Thyroid Neoplasms/epidemiology/pathology/surgery
+MH  - *Thyroidectomy
+MH  - Treatment Outcome
+EDAT- 2006/10/24 09:00
+MHDA- 2007/01/04 09:00
+CRDT- 2006/10/24 09:00
+PHST- 2006/01/11 00:00 [received]
+PHST- 2006/05/24 00:00 [revised]
+PHST- 2006/07/17 00:00 [accepted]
+PHST- 2006/10/24 09:00 [pubmed]
+PHST- 2007/01/04 09:00 [medline]
+PHST- 2006/10/24 09:00 [entrez]
+AID - S0022-4804(06)00396-9 [pii]
+AID - 10.1016/j.jss.2006.07.030 [doi]
+PST - ppublish
+SO  - J Surg Res. 2006 Dec;136(2):179-81. doi: 10.1016/j.jss.2006.07.030. Epub 2006 Oct 
+      19.

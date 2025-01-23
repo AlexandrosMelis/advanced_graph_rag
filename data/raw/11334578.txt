@@ -1,0 +1,68 @@
+PMID- 11334578
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010628
+LR  - 20201125
+IS  - 0212-6567 (Print)
+IS  - 1578-1275 (Electronic)
+IS  - 0212-6567 (Linking)
+VI  - 27
+IP  - 6
+DP  - 2001 Apr 15
+TI  - [Is there awareness of pharmaceutical expenditure in the reformed primary care 
+      system?].
+PG  - 408-11
+AB  - OBJECTIVE: To evaluate the effectiveness of feeding information on pharmacy back 
+      to primary care doctors in order to create awareness (knowledge) of 
+      pharmaceutical expenditure (PE). DESIGN: Retrospective cross-sectional study, 
+      through personal interview. SETTING: Reformed PC, Sabadell, Barcelona. 
+      PARTICIPANTS: The 80 PC doctors working with primary care teams. INTERVENTIONS: 
+      As the personal feed-back on PE, each doctor was asked for the PE generated 
+      during 1997 and the mean cost of prescriptions to active and pensioner patients. 
+      The statistical test used was the t test to compare means for paired data, with p 
+      < 0.05 the required level of significance. RESULTS: Out of the total doctors 
+      interviewed (80), 71 replies were obtained for the annual PE and 76 for the mean 
+      cost of prescriptions, for both active and pensioner patients. Significant 
+      differences were found between the annual PE in reality and doctors' estimates: 
+      around twelve million pesetas. The differences between the real mean costs of 
+      prescription and the estimates were also significant. CONCLUSIONS: In view of the 
+      results, it is concluded that there is no awareness of PE among the doctors in 
+      the reformed PC in our area. This poses a question over the efficacy of feed-back 
+      of pharmacy information in order to create this awareness. This information needs 
+      to be more frequent and richer in content, and to be complemented by other 
+      measures.
+FAU - Mengibar Torres, F
+AU  - Mengibar Torres F
+AD  - CAP Can Rull, Direccion de Atencion Primaria Sabadell, Institut Catala de la 
+      Salut, Barcelona.
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TT  -  inverted question markExiste conciencia de gasto farmaceutico en la atencion primaria reformada?
+PL  - Spain
+TA  - Aten Primaria
+JT  - Atencion primaria
+JID - 9111075
+SB  - IM
+MH  - Cross-Sectional Studies
+MH  - *Drug Costs
+MH  - *Health Care Reform
+MH  - Health Care Surveys
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - *Primary Health Care
+MH  - Retrospective Studies
+PMC - PMC7676013
+EDAT- 2001/05/04 10:00
+MHDA- 2001/06/29 10:01
+PMCR- 2013/04/05
+CRDT- 2001/05/04 10:00
+PHST- 2001/05/04 10:00 [pubmed]
+PHST- 2001/06/29 10:01 [medline]
+PHST- 2001/05/04 10:00 [entrez]
+PHST- 2013/04/05 00:00 [pmc-release]
+AID - S0212-6567(01)78822-1 [pii]
+AID - 10.1016/s0212-6567(01)78822-1 [doi]
+PST - ppublish
+SO  - Aten Primaria. 2001 Apr 15;27(6):408-11. doi: 10.1016/s0212-6567(01)78822-1.

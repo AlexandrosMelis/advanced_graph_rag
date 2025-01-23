@@ -1,0 +1,81 @@
+PMID- 26085176
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160104
+LR  - 20150929
+IS  - 1438-9010 (Electronic)
+IS  - 1438-9010 (Linking)
+VI  - 187
+IP  - 10
+DP  - 2015 Oct
+TI  - MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?
+PG  - 924-32
+LID - 10.1055/s-0035-1553207 [doi]
+AB  - OBJECTIVE: To date, no prospective comparative study of the diagnostic value of 
+      STIR versus T1-weighted (T1w) sequences at both 1.5 T and 3 T has been performed 
+      with special focus on the detectability of bone metastases. MATERIALS AND 
+      METHODS: 212 oncological patients had a whole-body MRI at 1.5 T and/or at 3 T. 
+      The standard protocol comprised STIR and T1w sequences. All patients who showed 
+      typical signs of bone metastases were included in the study. Evaluation of the 
+      images was performed by the calculation of the number of metastases by three 
+      independent readers and by visual assessment on a 4-point scale. RESULTS: 86 
+      patients fulfilled the inclusion criteria. The total number of metastases was 
+      significantly higher on T1w than on STIR images at both field strengths (p < 
+      0.05). T1w revealed a sensitivity of 99.72% (3 T) and 100.00% (1.5 T) versus STIR 
+      with 70.99 % (3 T) and 79.34 % (1.5 T). In 53% (38/72) of all patients, STIR 
+      detected fewer bone metastases in comparison with T1w at 3 T. At 1.5 T, STIR 
+      showed inferior results in 37.5 % (18/48) of all patients. Qualitative analysis 
+      indicated a significantly better lesion conspicuity, lesion delineation and an 
+      improved image quality on T1w compared to STIR imaging at both field strengths (p 
+      < 0.05) with similar results for T1w at 1.5 T and 3 T, but inferior results for 
+      STIR especially at 3 T. CONCLUSION: The whole-body MRI protocol for the detection 
+      of bone metastases could safely be limited to the T1w sequence in adults, 
+      especially at 3 T. There is no need for an additional STIR sequence. These 
+      initial results will have a major impact on the department's workflow if 
+      confirmed by larger studies as they will help reduce examination time and 
+      therefore save financial resources. KEY POINTS: In a routine MR protocol, T1w 
+      imaging is sufficient for the detection of bone metastases. In case of 
+      differential diagnostic problems, other appropriate sequences can be added to the 
+      protocol. STIR is inferior to T1w in the detection of metastases, especially at 3 
+      T.
+CI  - (c) Georg Thieme Verlag KG Stuttgart . New York.
+FAU - Ohlmann-Knafo, S
+AU  - Ohlmann-Knafo S
+FAU - Tarnoki, A D
+AU  - Tarnoki AD
+FAU - Tarnoki, D L
+AU  - Tarnoki DL
+FAU - Pickuth, D
+AU  - Pickuth D
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20150617
+PL  - Germany
+TA  - Rofo
+JT  - RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin
+JID - 7507497
+SB  - IM
+MH  - Aged
+MH  - Bone Neoplasms/*diagnosis/*secondary
+MH  - Bone and Bones/pathology
+MH  - Female
+MH  - Humans
+MH  - *Image Enhancement
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Sensitivity and Specificity
+MH  - Spinal Neoplasms/*diagnosis/*secondary
+MH  - Spine/pathology
+MH  - Whole Body Imaging/*methods
+EDAT- 2015/06/19 06:00
+MHDA- 2016/01/05 06:00
+CRDT- 2015/06/19 06:00
+PHST- 2015/06/19 06:00 [entrez]
+PHST- 2015/06/19 06:00 [pubmed]
+PHST- 2016/01/05 06:00 [medline]
+AID - 10.1055/s-0035-1553207 [doi]
+PST - ppublish
+SO  - Rofo. 2015 Oct;187(10):924-32. doi: 10.1055/s-0035-1553207. Epub 2015 Jun 17.

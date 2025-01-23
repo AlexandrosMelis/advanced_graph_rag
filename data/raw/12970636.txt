@@ -1,0 +1,79 @@
+PMID- 12970636
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031007
+LR  - 20181130
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 143
+IP  - 2
+DP  - 2003 Aug
+TI  - Does early discharge with nurse home visits affect adequacy of newborn metabolic 
+      screening?
+PG  - 213-8
+AB  - OBJECTIVE: To examine the impact of early discharge on newborn metabolic 
+      screening. STUDY DESIGN: Metabolic screening results were obtained from the 
+      Alabama State Lab for all infants born at our hospital between 8/1/97, and 
+      1/31/99, and were matched with an existing database of early discharge infants. 
+      An early newborn discharge was defined as a discharge between 24 and 47 hours of 
+      age. Metabolic screening tests included phenylketonuria (PKU), hypothyroidism, 
+      and congenital adrenal hyperplasia (CAH). Early discharge and traditional stay 
+      infants were compared to determine the percentage of newborns screened and the 
+      timing of the first adequate specimen. RESULTS: The state laboratory received 
+      specimens from 3860 infants; 1324 were on early discharge newborns and 2536 
+      infants in the traditional stay group. At least one filter paper test (PKU, 
+      hypothyroidism, and CAH) was collected on 99.2% of early discharge infants and 
+      96.0% of traditional stay infants (P<.0001). Early discharge infants had a higher 
+      rate of initial filter paper specimens being inadequate (22.9%) compared with 
+      traditional stay infants (14.3%, P<.0001) but had a higher rate of repeat 
+      specimens when the initial specimen was inadequate (85.0% early discharge vs 
+      75.3% traditional stay, P=.002). The early discharge group was more likely to 
+      have an adequate specimen within the first 9 days of life (1001, 98.8% early 
+      discharge vs 2016, 96.7% traditional stay, P=.0005). CONCLUSIONS: In this well 
+      established early discharge program with nurse home visits, newborn metabolic 
+      screening is not compromised by early discharge.
+FAU - Wall, Terry C
+AU  - Wall TC
+AD  - Department of Pediatrics, Division of General Pediatrics, University of Alabama 
+      at Birmingham, 1616 6th Avenue South, Suite 201, Birmingham, AL 35233, USA. 
+      twall@peds.uab.edu
+FAU - Brumfield, Cynthia G
+AU  - Brumfield CG
+FAU - Cliver, Suzanne P
+AU  - Cliver SP
+FAU - Hou, Jinrong
+AU  - Hou J
+FAU - Ashworth, Carolyn S
+AU  - Ashworth CS
+FAU - Norris, M Jean
+AU  - Norris MJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+SB  - IM
+MH  - Alabama
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Medical Indigency
+MH  - Metabolic Diseases/*diagnosis
+MH  - Metabolism, Inborn Errors/diagnosis
+MH  - Neonatal Screening/*statistics & numerical data
+MH  - Nursing Homes/statistics & numerical data
+MH  - *Patient Discharge
+MH  - Prospective Studies
+EDAT- 2003/09/13 05:00
+MHDA- 2003/10/08 05:00
+CRDT- 2003/09/13 05:00
+PHST- 2003/09/13 05:00 [pubmed]
+PHST- 2003/10/08 05:00 [medline]
+PHST- 2003/09/13 05:00 [entrez]
+AID - S0022-3476(03)00247-6 [pii]
+AID - 10.1067/S0022-3476(03)00247-6 [doi]
+PST - ppublish
+SO  - J Pediatr. 2003 Aug;143(2):213-8. doi: 10.1067/S0022-3476(03)00247-6.

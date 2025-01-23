@@ -1,0 +1,83 @@
+PMID- 19542542
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091207
+LR  - 20090915
+IS  - 1460-2350 (Electronic)
+IS  - 0268-1161 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2009 Oct
+TI  - Is there a uniform basal endometrial gene expression profile during the 
+      implantation window in women who became pregnant in a subsequent ICSI cycle?
+PG  - 2549-57
+LID - 10.1093/humrep/dep222 [doi]
+AB  - BACKGROUND: To understand which genes are really involved in the implantation 
+      process, we planned to study the gene basal expression profile during the window 
+      of implantation (WOI) of patients who became pregnant in a subsequent ICSI cycle. 
+      METHODS: Women attending their first ICSI cycle at ANDROS Day Surgery for severe 
+      male factor infertility were included in the study. An endometrial biopsy was 
+      performed during the WOI, in one of the last two cycles before the ICSI cycle. 
+      Forty-seven selected gene profiles were analyzed using Low Density Array 
+      technology. Only biopsies from women who subsequently became pregnant were 
+      evaluated, to exclude any bias regarding embryo viability and embryo transfer 
+      difficulties. RESULTS: Fifteen patients were included in the analysis as they 
+      became pregnant after ICSI procedure. Four of 47 selected genes were excluded 
+      from the analysis. Of the 43 genes analyzed, only 6 genes (VEGFA, PLA2G2A, ALPL, 
+      LIF, NNMT and STC1) showed a statistically uniform expression among patients who 
+      subsequently became pregnant. For all the other genes analyzed there were 
+      considerable differences in their expression levels amongst women who 
+      subsequently became pregnant. CONCLUSIONS: Our data suggest that very few genes, 
+      which change their expression level during the WOI, show a quantitative 
+      homogeneous expression in endometrially-receptive patients. In conclusion, in 
+      this study only six genes showed a homogeneous expression, and are probably 
+      involved in embryo implantation mechanisms.
+FAU - Allegra, A
+AU  - Allegra A
+AD  - Andros Day Surgery, Reproductive Medicine Unit, Palermo, Italy. 
+      allegra@centroandros.it
+FAU - Marino, A
+AU  - Marino A
+FAU - Coffaro, F
+AU  - Coffaro F
+FAU - Lama, A
+AU  - Lama A
+FAU - Rizza, G
+AU  - Rizza G
+FAU - Scaglione, P
+AU  - Scaglione P
+FAU - Sammartano, F
+AU  - Sammartano F
+FAU - Santoro, A
+AU  - Santoro A
+FAU - Volpes, A
+AU  - Volpes A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090620
+PL  - England
+TA  - Hum Reprod
+JT  - Human reproduction (Oxford, England)
+JID - 8701199
+SB  - IM
+MH  - Adult
+MH  - Embryo Implantation/*genetics
+MH  - Endometrium/metabolism
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Pregnancy
+MH  - *Sperm Injections, Intracytoplasmic
+EDAT- 2009/06/23 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/06/23 09:00
+PHST- 2009/06/23 09:00 [entrez]
+PHST- 2009/06/23 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - dep222 [pii]
+AID - 10.1093/humrep/dep222 [doi]
+PST - ppublish
+SO  - Hum Reprod. 2009 Oct;24(10):2549-57. doi: 10.1093/humrep/dep222. Epub 2009 Jun 
+      20.

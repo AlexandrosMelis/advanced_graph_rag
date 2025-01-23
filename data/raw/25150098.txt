@@ -1,0 +1,101 @@
+PMID- 25150098
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160802
+LR  - 20221207
+IS  - 2047-4881 (Electronic)
+IS  - 2047-4873 (Linking)
+VI  - 22
+IP  - 11
+DP  - 2015 Nov
+TI  - Can common carotid intima media thickness serve as an indicator of both 
+      cardiovascular phenotype and risk among black Africans?
+PG  - 1442-51
+LID - 10.1177/2047487314547656 [doi]
+AB  - BACKGROUND: It is not known whether common carotid intima media thickness (CIMT) 
+      can serve as a surrogate marker of cardiovascular risk among black Africans. 
+      Therefore, we examined whether CIMT differed significantly among individuals with 
+      distinct cardiovascular phenotype and correlated significantly with traditional 
+      cardiovascular risk factors in a black African population. METHODS: CIMT was 
+      measured in 456 subjects with three distinct cardiovascular phenotypes - 175 
+      consecutive Nigerian African stroke patients, 161 hypertensive patients without 
+      stroke and 120 normotensive non-smoking adults. For each pair of cardiovascular 
+      phenotypes, c-statistics were obtained for CIMT and traditional vascular risk 
+      factors (including age, gender, weight, waist circumference, smoking, alcohol, 
+      systolic and diastolic blood pressures, fasting plasma glucose, fasting total 
+      cholesterol). Pearson's correlation coefficients were calculated to quantify 
+      bivariate relationships. FINDINGS: Bilaterally, CIMT was significantly different 
+      among the three cardiovascular phenotypes (right: p < 0.001, F = 33.8; left: 
+      p < 0.001, F = 48.6). CIMT had a higher c-statistic for differentiating stroke 
+      versus normotension (c = 0.78 right; 0.82 left, p < 0.001) and hypertension 
+      versus normotension (c = 0.65 right; 0.71 left, p < 0.001) than several 
+      traditional vascular risk factors. Bilaterally, combining all subjects, CIMT was 
+      the only factor that correlated significantly (right: 0.12 </= r </= 0.41, 
+      0.018 </= p < 0.0001; left: 0.18 </= r </= 0.41, 0.005 </= p < 0.0001) to all the 
+      traditional cardiovascular risk factors assessed. CONCLUSION: Our findings 
+      support CIMT as a significant indicator of both cardiovascular risk and phenotype 
+      among adult black Africans. However, specific thresholds need to be defined based 
+      on prospective studies.
+CI  - (c) The European Society of Cardiology 2014.
+FAU - Owolabi, M O
+AU  - Owolabi MO
+AD  - Department of Medicine, University College Hospital, Ibadan, Nigeria College of 
+      Medicine, University of Ibadan, Nigeria mayowaowolabi@yahoo.com.
+FAU - Agunloye, A M
+AU  - Agunloye AM
+AD  - College of Medicine, University of Ibadan, Nigeria Department of Radiology, 
+      University College Hospital, Ibadan, Nigeria.
+FAU - Umeh, E O
+AU  - Umeh EO
+AD  - Department of Radiology, University College Hospital, Ibadan, Nigeria.
+FAU - Akpa, O M
+AU  - Akpa OM
+AD  - College of Medicine, University of Ibadan, Nigeria Department of Epidemiology and 
+      Medical Statistics, College of Medicine, University of Ibadan, Nigeria.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140822
+PL  - England
+TA  - Eur J Prev Cardiol
+JT  - European journal of preventive cardiology
+JID - 101564430
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *Black People
+MH  - Carotid Artery Diseases/*diagnostic imaging/ethnology
+MH  - Carotid Artery, Common/*diagnostic imaging
+MH  - *Carotid Intima-Media Thickness
+MH  - Case-Control Studies
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Hypertension/*diagnostic imaging/ethnology
+MH  - Male
+MH  - Middle Aged
+MH  - Nigeria/epidemiology
+MH  - Phenotype
+MH  - Predictive Value of Tests
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Stroke/*diagnostic imaging/ethnology
+OTO - NOTNLM
+OT  - Carotid intima media thickness
+OT  - cardiovascular risk marker
+OT  - hypertension
+OT  - stroke
+OT  - surrogate marker
+EDAT- 2014/08/26 06:00
+MHDA- 2016/08/03 06:00
+CRDT- 2014/08/24 06:00
+PHST- 2014/04/28 00:00 [received]
+PHST- 2014/07/27 00:00 [accepted]
+PHST- 2014/08/24 06:00 [entrez]
+PHST- 2014/08/26 06:00 [pubmed]
+PHST- 2016/08/03 06:00 [medline]
+AID - 2047487314547656 [pii]
+AID - 10.1177/2047487314547656 [doi]
+PST - ppublish
+SO  - Eur J Prev Cardiol. 2015 Nov;22(11):1442-51. doi: 10.1177/2047487314547656. Epub 
+      2014 Aug 22.

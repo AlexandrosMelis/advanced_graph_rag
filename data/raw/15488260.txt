@@ -1,0 +1,83 @@
+PMID- 15488260
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050223
+LR  - 20221207
+IS  - 0165-0327 (Print)
+IS  - 0165-0327 (Linking)
+VI  - 82
+IP  - 2
+DP  - 2004 Oct 15
+TI  - Is the type of remission after a major depressive episode an important risk 
+      factor to relapses in a 4-year follow up?
+PG  - 291-6
+AB  - BACKGROUND: Rates of relapse and predictive relapse factors were studied over 
+      more than 4 years in a sample of Spanish outpatients with DSM-III-R criteria for 
+      unipolar major depressive episode. METHODS: A final sample of 139 outpatient was 
+      followed monthly in a naturalistic study. The Structured Clinical Interview for 
+      DSM-III-R was used. Phases of evolution were recorded using the Hamilton 
+      Depression Rating Scale, applying the Frank criteria. Survival analysis, 
+      Kaplan-Meier product limit and proportional hazards models were used. RESULTS: A 
+      higher rate of relapses was observed in the partial remission group (91.4%) 
+      compared to the complete remission one (51.3%). The four factors with predictive 
+      relapse value were: "partial remission versus complete remission", "the intensity 
+      of clinical symptoms", "the age" and "the number of previous depressive 
+      episodes". The existence of partial remission was the most powerful predictive 
+      factor. LIMITATIONS: The decreasing sample size during the follow-up and the 
+      difficulty in warranting the treatment compliance. CONCLUSIONS: At medium term, 
+      relapse rates for a major depressive episode are high. Partial remission after a 
+      depressive episode seems to be an important predictive factor for relapses in a 
+      4-year follow-up. CLINICAL RELEVANCE: Not reaching complete remission is a strong 
+      risk factor for relapses in a 4-year follow up study.
+FAU - Pintor, Luis
+AU  - Pintor L
+AD  - Instituto Clinico de Psiquiatria y Psicologia, Hospital Clinico y Provincial de 
+      Barcelona, C/Villarroel-170, 08036 Barcelona, Spain. lpintor@clinic.ub.es
+FAU - Torres, Xavier
+AU  - Torres X
+FAU - Navarro, Victor
+AU  - Navarro V
+FAU - Matrai, Silvia
+AU  - Matrai S
+FAU - Gasto, Cristobal
+AU  - Gasto C
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - J Affect Disord
+JT  - Journal of affective disorders
+JID - 7906073
+RN  - 0 (Antidepressive Agents)
+RN  - 0 (Serotonin Uptake Inhibitors)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Antidepressive Agents/therapeutic use
+MH  - Depressive Disorder, Major/diagnosis/drug therapy/*epidemiology/psychology
+MH  - Diagnostic and Statistical Manual of Mental Disorders
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Personality Inventory
+MH  - Prospective Studies
+MH  - Recurrence
+MH  - Risk Factors
+MH  - Selective Serotonin Reuptake Inhibitors/therapeutic use
+MH  - Spain
+MH  - Survival Analysis
+EDAT- 2004/10/19 09:00
+MHDA- 2005/02/24 09:00
+CRDT- 2004/10/19 09:00
+PHST- 2003/05/30 00:00 [received]
+PHST- 2003/11/18 00:00 [revised]
+PHST- 2003/11/19 00:00 [accepted]
+PHST- 2004/10/19 09:00 [pubmed]
+PHST- 2005/02/24 09:00 [medline]
+PHST- 2004/10/19 09:00 [entrez]
+AID - S0165032703003240 [pii]
+AID - 10.1016/j.jad.2003.11.008 [doi]
+PST - ppublish
+SO  - J Affect Disord. 2004 Oct 15;82(2):291-6. doi: 10.1016/j.jad.2003.11.008.

@@ -1,0 +1,75 @@
+PMID- 9278754
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19971016
+LR  - 20190920
+IS  - 1043-3074 (Print)
+IS  - 1043-3074 (Linking)
+VI  - 19
+IP  - 6
+DP  - 1997 Sep
+TI  - Are head and neck specific quality of life measures necessary?
+PG  - 474-80
+AB  - BACKGROUND: The purpose of this study was to determine whether head and 
+      neck-specific health status domains are distinct from those assessed by general 
+      measures of quality-of-life (QOL). METHODS: Cross-sectional study of 55 head and 
+      neck cancer patients in tertiary academic center was made. Three head and 
+      neck-specific measures,-including the Head & Neck Survey (H&NS); a brief, 
+      multi-item test which generates domain scores; and a general health measure,-were 
+      administered. RESULTS: The H&NS was highly reliable and more strongly correlated 
+      to the specific measures than to the general measure. Eating/swallowing (ES) and 
+      speech/communication (SC) were not well correlated with general health domains. 
+      Head and neck pain was highly correlated to general bodily pain (0.88, p < 
+      .0001). Despite correlations to some general health domains, appearance (AP) was 
+      not fully reflected by any other domain. CONCLUSIONS: Head and neck-specific QOL 
+      measures are necessary and should include domains that reflect ES, SC, and AP.
+FAU - Gliklich, R E
+AU  - Gliklich RE
+AD  - Department of Otolaryngology, Massachusetts Eye and Ear Infirmary, Boston, USA.
+FAU - Goldsmith, T A
+AU  - Goldsmith TA
+FAU - Funk, G F
+AU  - Funk GF
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Head Neck
+JT  - Head & neck
+JID - 8902541
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Attitude to Health
+MH  - Carcinoma, Squamous Cell/psychology/*surgery
+MH  - Communication
+MH  - Cross-Sectional Studies
+MH  - Deglutition
+MH  - Eating
+MH  - Emotions
+MH  - Face
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Head and Neck Neoplasms/psychology/*surgery
+MH  - Health Status
+MH  - Humans
+MH  - Life Style
+MH  - Male
+MH  - Mental Health
+MH  - Middle Aged
+MH  - Pain/psychology
+MH  - Pain Management
+MH  - *Quality of Life
+MH  - Reproducibility of Results
+MH  - Role
+MH  - Social Adjustment
+MH  - Speech
+EDAT- 1997/09/01 00:00
+MHDA- 2000/06/20 09:00
+CRDT- 1997/09/01 00:00
+PHST- 1997/09/01 00:00 [pubmed]
+PHST- 2000/06/20 09:00 [medline]
+PHST- 1997/09/01 00:00 [entrez]
+AID - 10.1002/(SICI)1097-0347(199709)19:6<474::AID-HED3>3.0.CO;2-W [pii]
+AID - 10.1002/(sici)1097-0347(199709)19:6<474::aid-hed3>3.0.co;2-w [doi]
+PST - ppublish
+SO  - Head Neck. 1997 Sep;19(6):474-80. doi: 
+      10.1002/(sici)1097-0347(199709)19:6<474::aid-hed3>3.0.co;2-w.

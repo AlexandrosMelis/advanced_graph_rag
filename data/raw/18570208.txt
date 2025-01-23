@@ -1,0 +1,74 @@
+PMID- 18570208
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090611
+LR  - 20161124
+IS  - 1469-0705 (Electronic)
+IS  - 0960-7692 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2008 Nov
+TI  - Is severe macrosomia manifested at 11-14 weeks of gestation?
+PG  - 740-3
+LID - 10.1002/uog.5310 [doi]
+AB  - OBJECTIVE: To determine the association between fetal biometry in the first or 
+      early second trimester and severe macrosomia at delivery. METHODS: This 
+      case-control study included 30 term severely macrosomic neonates; 90 
+      appropriate-for-gestational age (AGA) neonates served as controls. All 
+      pregnancies underwent nuchal translucency (NT) screening at 11-14 weeks' 
+      gestation. Pregnancies were dated by accurate last menstrual period consistent 
+      with crown-rump length (CRL) measurements at the time of screening, early 
+      pregnancy CRL or date of fertilization. The association between birth weight and 
+      the difference between the measured and the expected CRL at the time of NT 
+      screening was analyzed. RESULTS: The difference between measured and expected 
+      CRL, expressed both in mm and in days of gestation, was statistically greater in 
+      the severely macrosomic neonates compared with controls (mean, 6.66 +/- 4.78 mm 
+      vs. 1.17 +/- 4.6 mm, P < 0.0001 and 3 +/- 2.2 days vs. 0.5 +/- 2.3 days, P < 
+      0.0001, respectively). Furthermore, there were significant correlations between 
+      the extent of macrosomia and the discrepancy between expected and measured fetal 
+      size at the time of NT screening (r = 0.47, P < 0.01 and r = 0.48, P < 0.01, 
+      respectively). CONCLUSION: Severe macrosomia apparently manifests as early as 
+      11-14 weeks' gestation.
+CI  - (c) 2008 ISUOG. Published by John Wiley & Sons, Ltd.
+FAU - Hackmon, R
+AU  - Hackmon R
+AD  - Lenox Hill Hospital, Department of Obstetrics and Gynecology, New York, NY, USA. 
+      rhackmon@fhcrc.org
+FAU - Le Scale, K B
+AU  - Le Scale KB
+FAU - Horani, J
+AU  - Horani J
+FAU - Ferber, A
+AU  - Ferber A
+FAU - Divon, M Y
+AU  - Divon MY
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Ultrasound Obstet Gynecol
+JT  - Ultrasound in obstetrics & gynecology : the official journal of the International 
+      Society of Ultrasound in Obstetrics and Gynecology
+JID - 9108340
+SB  - IM
+MH  - Biometry
+MH  - Case-Control Studies
+MH  - Crown-Rump Length
+MH  - Female
+MH  - Fetal Macrosomia/*diagnostic imaging/physiopathology
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Nuchal Translucency Measurement/*methods
+MH  - Pregnancy
+MH  - Pregnancy Trimester, First
+MH  - Pregnancy Trimester, Second
+MH  - Retrospective Studies
+MH  - Severity of Illness Index
+EDAT- 2008/06/24 09:00
+MHDA- 2009/06/12 09:00
+CRDT- 2008/06/24 09:00
+PHST- 2008/06/24 09:00 [pubmed]
+PHST- 2009/06/12 09:00 [medline]
+PHST- 2008/06/24 09:00 [entrez]
+AID - 10.1002/uog.5310 [doi]
+PST - ppublish
+SO  - Ultrasound Obstet Gynecol. 2008 Nov;32(6):740-3. doi: 10.1002/uog.5310.

@@ -1,0 +1,66 @@
+PMID- 8422202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19930212
+LR  - 20190812
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 153
+IP  - 1
+DP  - 1993 Jan 11
+TI  - Metered-dose inhalers. Do health care providers know what to teach?
+PG  - 81-5
+AB  - OBJECTIVE: The specific aim of this investigation was to evaluate the proficiency 
+      of health care providers and patients in the proper use of metered-dose inhalers. 
+      DESIGN, SETTING, AND PARTICIPANTS: Health care providers, which include house 
+      staff, nurses, and respiratory care practitioners who provide care to patients 
+      with asthma in the primary general medicine clinic or the pulmonary medicine 
+      clinic of a university-county hospital in which patients were referred, were 
+      surveyed and assigned a performance score regarding the knowledge base of the 
+      appropriate use of metered-dose inhalers. Patients who attended the primary care 
+      general medicine and pulmonary subspecialty clinic were also assessed as to their 
+      proficiency in the use of metered-dose inhalers. RESULTS: A significant 
+      percentage of patients had a poor understanding of the technique used with the 
+      metered-dose inhaler. House staff and nursing staff were also less proficient in 
+      the proper use of the metered-dose inhaler. The respiratory care practitioners 
+      were the most knowledgeable of the health care providers. CONCLUSIONS: This study 
+      confirms that a large percentage of patients use metered-dose inhalers 
+      improperly. It also demonstrates a significant lack of understanding by health 
+      care providers of the proper use of metered-dose inhalers. Furthermore, this 
+      study supports the use of respiratory care practitioners in the outpatient 
+      setting, since they were the most proficient among all the health care providers 
+      in the proper use of metered-dose inhalers.
+FAU - Interiano, B
+AU  - Interiano B
+AD  - Department of Medicine, Baylor College of Medicine, Houston, TX.
+FAU - Guntupalli, K K
+AU  - Guntupalli KK
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+SB  - IM
+CIN - Arch Intern Med. 1993 Oct 25;153(20):2385, 2389. doi: 
+      10.1001/archinte.153.20.2385. PMID: 8215744
+MH  - Asthma/drug therapy
+MH  - Hospital Bed Capacity, 500 and over
+MH  - Humans
+MH  - Internship and Residency
+MH  - *Nebulizers and Vaporizers
+MH  - Nursing Staff, Hospital
+MH  - Outpatient Clinics, Hospital
+MH  - Patient Education as Topic/*standards
+MH  - Respiratory Therapy
+MH  - Respiratory Therapy Department, Hospital
+MH  - Texas
+EDAT- 1993/01/11 00:00
+MHDA- 1993/01/11 00:01
+CRDT- 1993/01/11 00:00
+PHST- 1993/01/11 00:00 [pubmed]
+PHST- 1993/01/11 00:01 [medline]
+PHST- 1993/01/11 00:00 [entrez]
+AID - 10.1001/archinte.153.1.81 [doi]
+PST - ppublish
+SO  - Arch Intern Med. 1993 Jan 11;153(1):81-5. doi: 10.1001/archinte.153.1.81.

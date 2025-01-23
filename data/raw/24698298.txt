@@ -1,0 +1,113 @@
+PMID- 24698298
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141218
+LR  - 20170901
+IS  - 1872-7727 (Electronic)
+IS  - 0720-048X (Linking)
+VI  - 83
+IP  - 6
+DP  - 2014 Jun
+TI  - MR arthrography of the shoulder: do we need local anesthesia?
+PG  - 980-983
+LID - S0720-048X(14)00144-2 [pii]
+LID - 10.1016/j.ejrad.2014.03.008 [doi]
+AB  - PURPOSE: To assess pain intensity with and without subcutaneous local anesthesia 
+      prior to intraarticular administration of contrast medium for magnetic resonance 
+      arthrography (MRa) of the shoulder. MATERIALS AND METHODS: This single-center 
+      study was conducted after an IRB waiver of authorization, between January 2010 
+      and December 2012. All patients provided written, informed consent for the 
+      procedure. Our prospectively populated institutional database was searched, based 
+      on our inclusion criteria. There were 249 outpatients (178 men and 71 women; mean 
+      age, 44.4 years +/- 14.6; range, 15-79) who underwent MRa and were enrolled in this 
+      study. Patients were excluded if they had received surgery of the shoulder before 
+      MRa, had undergone repeated MRa of the same shoulder, and/or had undergone MRa of 
+      both shoulders on the same day. Patients were randomly assigned into one of three 
+      groups. Patients in group A (n=61) received skin infiltration with local 
+      anesthesia. Patients in control group B (n=92) and group C (n=96) did not receive 
+      local anesthesia. Pain levels were immediately assessed after the injection for 
+      MRa using a horizontal visual analog scale (VAS) that ranged from 0 to 10. To 
+      compare the pain scores of the three groups for male and female patients, a 
+      two-way analysis of variance was used. A p-value equal to or less than 0.05 was 
+      considered to indicate a significant result. RESULTS: Patients who received local 
+      anesthesia (group A) showed a mean pain level on the VAS of 2.6 +/- 2.3. In 
+      patients who did not receive local anesthetics (groups B and C), a mean pain 
+      level on the VAS of 2.6 +/- 2.2 and 2.7 +/- 2.4 were detected, respectively. Between 
+      the three groups, no statistically significant difference in pain intensity was 
+      detected (p=.960). There were significant differences in subjective pain 
+      perception between men and women (p=.009). Moreover, the sex difference in all 
+      three groups was equal (p=.934). CONCLUSION: Local anesthesia is not required to 
+      lower a patient's pain intensity when applying intra-articular contrast media for 
+      MR arthrography of the shoulder. This could result in reduced costs and a reduced 
+      risk of adverse reactions, without an impact on patient comfort.
+CI  - Copyright (c) 2014 Elsevier Ireland Ltd. All rights reserved.
+FAU - Spick, Claudio
+AU  - Spick C
+AD  - Department of Biomedical Imaging and Image-guided Therapy, Medical University of 
+      Vienna (AKH), Waehringer-Guertel 18-20, 1090 Vienna, Austria. Electronic address: 
+      claudio.spick@meduniwien.ac.at.
+FAU - Szolar, Dieter H M
+AU  - Szolar DHM
+AD  - Diagnostikum Graz-Sudwest, Weblinger Guertel 25, 8054 Graz, Austria.
+FAU - Reittner, Pia
+AU  - Reittner P
+AD  - Diagnostikum Graz-Sudwest, Weblinger Guertel 25, 8054 Graz, Austria.
+FAU - Preidler, Klaus W
+AU  - Preidler KW
+AD  - Diagnostikum Graz-Sudwest, Weblinger Guertel 25, 8054 Graz, Austria.
+FAU - Tillich, Manfred
+AU  - Tillich M
+AD  - Diagnostikum Graz-Sudwest, Weblinger Guertel 25, 8054 Graz, Austria.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20140324
+PL  - Ireland
+TA  - Eur J Radiol
+JT  - European journal of radiology
+JID - 8106411
+RN  - 0 (Anesthetics, Local)
+RN  - 0 (Contrast Media)
+RN  - 0 (Organometallic Compounds)
+RN  - 15G12L5X8K (gadobenic acid)
+RN  - 6HG8UB2MUY (Meglumine)
+RN  - 98PI200987 (Lidocaine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anesthetics, Local/administration & dosage
+MH  - Contrast Media/administration & dosage/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Injections, Intra-Articular/adverse effects
+MH  - Lidocaine/*administration & dosage
+MH  - Magnetic Resonance Imaging/*adverse effects/*methods
+MH  - Male
+MH  - Meglumine/administration & dosage/adverse effects/*analogs & derivatives
+MH  - Middle Aged
+MH  - Organometallic Compounds/*administration & dosage/*adverse effects
+MH  - Pain Measurement/drug effects
+MH  - Shoulder Pain/*diagnosis/*etiology
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Arthrography
+OT  - Local anesthesia
+OT  - MR arthrography
+OT  - Pain
+OT  - Shoulder
+EDAT- 2014/04/05 06:00
+MHDA- 2014/12/19 06:00
+CRDT- 2014/04/05 06:00
+PHST- 2013/10/03 00:00 [received]
+PHST- 2013/12/31 00:00 [revised]
+PHST- 2014/03/07 00:00 [accepted]
+PHST- 2014/04/05 06:00 [entrez]
+PHST- 2014/04/05 06:00 [pubmed]
+PHST- 2014/12/19 06:00 [medline]
+AID - S0720-048X(14)00144-2 [pii]
+AID - 10.1016/j.ejrad.2014.03.008 [doi]
+PST - ppublish
+SO  - Eur J Radiol. 2014 Jun;83(6):980-983. doi: 10.1016/j.ejrad.2014.03.008. Epub 2014 
+      Mar 24.

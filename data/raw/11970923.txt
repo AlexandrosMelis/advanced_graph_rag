@@ -1,0 +1,73 @@
+PMID- 11970923
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020524
+LR  - 20190501
+IS  - 1468-2044 (Electronic)
+IS  - 0003-9888 (Print)
+IS  - 0003-9888 (Linking)
+VI  - 86
+IP  - 5
+DP  - 2002 May
+TI  - Convulsions and retinal haemorrhage: should we look further?
+PG  - 334-5
+AB  - BACKGROUND AND AIMS: The prevalence of retinal haemorrhages after convulsions is 
+      not well established. As these haemorrhages are considered characteristic of 
+      child abuse, we investigated their occurrence after convulsive episodes to see 
+      whether the finding of haemorrhage should prompt further investigation. METHODS: 
+      Prospective study of 153 children (aged 2 months to 2 years), seen in the 
+      emergency department after a convulsive episode. After a thorough history and 
+      physical examination, a retinal examination was performed by an ophthalmologist. 
+      If findings were positive, further investigation was undertaken to rule out 
+      systemic disorder or child abuse. RESULTS: One child was found with unilateral 
+      retinal haemorrhages following an episode of a simple febrile convulsion. A 
+      thorough investigation uncovered no other reason for this finding. CONCLUSION: 
+      Retinal haemorrhages following a convulsive episode are rare. Such a finding 
+      should trigger an extensive search for other reasons, including child abuse.
+FAU - Mei-Zahav, M
+AU  - Mei-Zahav M
+AD  - Division of Paediatric Emergency Medicine, Department of Paediatrics, Sapir 
+      Medical Center, Kfar Saba, Sackler School of Medicine, Tel Aviv University, 
+      Israel. meir.mei-zahav@sickkids.ca
+FAU - Uziel, Y
+AU  - Uziel Y
+FAU - Raz, J
+AU  - Raz J
+FAU - Ginot, N
+AU  - Ginot N
+FAU - Wolach, B
+AU  - Wolach B
+FAU - Fainmesser, P
+AU  - Fainmesser P
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Arch Dis Child
+JT  - Archives of disease in childhood
+JID - 0372434
+SB  - IM
+MH  - Child Abuse/*diagnosis
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Ophthalmoscopy
+MH  - Physical Examination
+MH  - Prospective Studies
+MH  - Referral and Consultation
+MH  - Retinal Hemorrhage/*etiology
+MH  - Seizures/*complications
+PMC - PMC1751108
+EDAT- 2002/04/24 10:00
+MHDA- 2002/05/25 10:01
+PMCR- 2005/05/01
+CRDT- 2002/04/24 10:00
+PHST- 2002/04/24 10:00 [pubmed]
+PHST- 2002/05/25 10:01 [medline]
+PHST- 2002/04/24 10:00 [entrez]
+PHST- 2005/05/01 00:00 [pmc-release]
+AID - 10.1136/adc.86.5.334 [doi]
+PST - ppublish
+SO  - Arch Dis Child. 2002 May;86(5):334-5. doi: 10.1136/adc.86.5.334.

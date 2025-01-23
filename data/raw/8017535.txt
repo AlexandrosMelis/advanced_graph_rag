@@ -1,0 +1,77 @@
+PMID- 8017535
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940722
+LR  - 20220410
+IS  - 0090-0036 (Print)
+IS  - 1541-0048 (Electronic)
+IS  - 0090-0036 (Linking)
+VI  - 84
+IP  - 7
+DP  - 1994 Jul
+TI  - Substance use and HIV-related sexual behaviors among US high school students: are 
+      they related?
+PG  - 1116-20
+AB  - OBJECTIVES: This study was undertaken to examine whether use of alcohol, 
+      cigarettes, marijuana, cocaine, and other illicit drugs is related to the 
+      likelihood of sexual behaviors that increase risk for human immunodeficiency 
+      virus (HIV) infection among youth. METHODS: The 1990 national Youth Risk Behavior 
+      Survey was used to collect self-reported information about a broad range of 
+      health risk behaviors from a representative sample of 11,631 high school students 
+      in the United States. RESULTS: Students who reported no substance use were least 
+      likely to report having had sexual intercourse, having had four or more sex 
+      partners, and not having used a condom at last sexual intercourse. Adjusted for 
+      age, sex, and race/ethnicity, odds ratios for each of these sexual risk behaviors 
+      were greatest among students who had used marijuana, cocaine, or other illicit 
+      drugs. Students who had used only alcohol or cigarettes had smaller but still 
+      significant increases in the likelihood of having had sexual intercourse and of 
+      having had four or more sex partners. CONCLUSIONS: HIV prevention programs for 
+      youth should recognize that substance use may be an important indicator of risk 
+      for HIV infection and acquired immunodeficiency syndrome through its association 
+      with unsafe sexual behaviors.
+FAU - Lowry, R
+AU  - Lowry R
+AD  - Division of Adolescent and School Health Centers for Disease Control and 
+      Prevention, Atlanta, GA 30333.
+FAU - Holtzman, D
+AU  - Holtzman D
+FAU - Truman, B I
+AU  - Truman BI
+FAU - Kann, L
+AU  - Kann L
+FAU - Collins, J L
+AU  - Collins JL
+FAU - Kolbe, L J
+AU  - Kolbe LJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Public Health
+JT  - American journal of public health
+JID - 1254074
+SB  - IM
+MH  - Adolescent
+MH  - *Adolescent Behavior
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - HIV Infections/*psychology
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Male
+MH  - Odds Ratio
+MH  - Risk-Taking
+MH  - *Sexual Behavior
+MH  - Substance-Related Disorders/*epidemiology
+MH  - United States/epidemiology
+PMC - PMC1614756
+EDAT- 1994/07/01 00:00
+MHDA- 1994/07/01 00:01
+PMCR- 1996/07/01
+CRDT- 1994/07/01 00:00
+PHST- 1994/07/01 00:00 [pubmed]
+PHST- 1994/07/01 00:01 [medline]
+PHST- 1994/07/01 00:00 [entrez]
+PHST- 1996/07/01 00:00 [pmc-release]
+AID - 10.2105/ajph.84.7.1116 [doi]
+PST - ppublish
+SO  - Am J Public Health. 1994 Jul;84(7):1116-20. doi: 10.2105/ajph.84.7.1116.

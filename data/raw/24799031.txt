@@ -1,0 +1,104 @@
+PMID- 24799031
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141204
+LR  - 20181202
+IS  - 1873-4499 (Electronic)
+IS  - 0899-7071 (Linking)
+VI  - 38
+IP  - 4
+DP  - 2014 Jul-Aug
+TI  - Is diffusion-weighted imaging a significant indicator of the development of 
+      vascularization in hypovascular hepatocellular lesions?
+PG  - 458-463
+LID - S0899-7071(14)00082-5 [pii]
+LID - 10.1016/j.clinimag.2014.03.013 [doi]
+AB  - OBJECTIVE: The objective was to evaluate the efficacy of diffusion-weighted 
+      imaging (DWI) in predicting the development of vascularization in hypovascular 
+      hepatocellular lesions (HHLs). MATERIALS AND METHODS: Forty-two HHLs that were 
+      diagnosed by computed tomographic (CT) arteriography were evaluated 
+      retrospectively. The lesion on DWI was classified as isointense, hypointense, or 
+      hyperintense. Follow-up studies that included intravenous dynamic CT or magnetic 
+      resonance imaging were performed. RESULTS: The 730-day cumulative developments of 
+      vascularization in hypointense, isointense, and hyperintense lesions were 17%, 
+      30%, and 40%, respectively. The differences among these developments were not 
+      statistically significant. CONCLUSION: The signal intensity on DWI showed no 
+      significant difference in the development of vascularization.
+CI  - Copyright (c) 2014 Elsevier Inc. All rights reserved.
+FAU - Takara, Kenichi
+AU  - Takara K
+AD  - Department of Radiology, Tokyo Medical University.
+FAU - Saito, Kazuhiro
+AU  - Saito K
+AD  - Department of Radiology, Tokyo Medical University. Electronic address: 
+      saito-k@tokyo-med.ac.jp.
+FAU - Saguchi, Toru
+AU  - Saguchi T
+AD  - Department of Radiology, Tokyo Medical University.
+FAU - Sugimoto, Katsutoshi
+AU  - Sugimoto K
+AD  - Department of Gastroenterology and Hepatology, Tokyo Medical University.
+FAU - Taira, Junichi
+AU  - Taira J
+AD  - Department of Gastroenterology and Hepatology, Tokyo Medical University.
+FAU - Imai, Yasuharu
+AU  - Imai Y
+AD  - Department of Gastroenterology and Hepatology, Tokyo Medical University.
+FAU - Moriyasu, Fuminori
+AU  - Moriyasu F
+AD  - Department of Gastroenterology and Hepatology, Tokyo Medical University.
+FAU - Akata, Soichi
+AU  - Akata S
+AD  - Department of Radiology, Tokyo Medical University.
+FAU - Tokuuye, Koichi
+AU  - Tokuuye K
+AD  - Department of Radiology, Tokyo Medical University.
+LA  - eng
+PT  - Journal Article
+DEP - 20140330
+PL  - United States
+TA  - Clin Imaging
+JT  - Clinical imaging
+JID - 8911831
+RN  - 0 (Contrast Media)
+RN  - K2I13DR72L (Gadolinium DTPA)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/*diagnostic imaging/pathology
+MH  - Contrast Media
+MH  - *Diffusion Magnetic Resonance Imaging
+MH  - Female
+MH  - Gadolinium DTPA
+MH  - Hepatitis B, Chronic/diagnosis
+MH  - Hepatitis C, Chronic/diagnosis
+MH  - Humans
+MH  - Liver Diseases, Alcoholic/diagnosis
+MH  - Liver Neoplasms/*diagnostic imaging/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Neovascularization, Pathologic/*diagnostic imaging
+MH  - Non-alcoholic Fatty Liver Disease/diagnosis
+MH  - Reproducibility of Results
+MH  - Retrospective Studies
+MH  - *Tomography, X-Ray Computed
+OTO - NOTNLM
+OT  - Development of vascularization
+OT  - Diffusion-weighted imaging
+OT  - Gd-EOB-DTPA
+OT  - Hepatocellular carcinoma
+OT  - Hypovascular hepatocellular nodule
+EDAT- 2014/05/07 06:00
+MHDA- 2014/12/15 06:00
+CRDT- 2014/05/07 06:00
+PHST- 2013/11/04 00:00 [received]
+PHST- 2014/03/16 00:00 [revised]
+PHST- 2014/03/24 00:00 [accepted]
+PHST- 2014/05/07 06:00 [entrez]
+PHST- 2014/05/07 06:00 [pubmed]
+PHST- 2014/12/15 06:00 [medline]
+AID - S0899-7071(14)00082-5 [pii]
+AID - 10.1016/j.clinimag.2014.03.013 [doi]
+PST - ppublish
+SO  - Clin Imaging. 2014 Jul-Aug;38(4):458-463. doi: 10.1016/j.clinimag.2014.03.013. 
+      Epub 2014 Mar 30.

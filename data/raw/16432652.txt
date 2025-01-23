@@ -1,0 +1,89 @@
+PMID- 16432652
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061006
+LR  - 20181113
+IS  - 1432-2218 (Electronic)
+IS  - 0930-2794 (Linking)
+VI  - 20
+IP  - 3
+DP  - 2006 Mar
+TI  - Transgastric endoscopic splenectomy: is it possible?
+PG  - 522-5
+AB  - BACKGROUND: We have previously reported the feasibility of diagnostic and 
+      therapeutic peritoneoscopy including liver biopsy, gastrojejunostomy, and tubal 
+      ligation by an oral transgastric approach. We present results of per-oral 
+      transgastric splenectomy in a porcine model. The goal of this study was to 
+      determine the technical feasibility of per-oral transgastric splenectomy using a 
+      flexible endoscope. METHODS: We performed acute experiments on 50-kg pigs. All 
+      animals were fed liquids for 3 days prior to procedure. The procedures were 
+      performed under general anesthesia with endotracheal intubation. The flexible 
+      endoscope was passed per orally into the stomach and puncture of the gastric wall 
+      was performed with a needle knife. The puncture was extended to create a 1.5-cm 
+      incision using a pull-type sphincterotome, and a double-channel endoscope was 
+      advanced into the peritoneal cavity. The peritoneal cavity was insufflated with 
+      air through the endoscope. The spleen was visualized. The splenic vessels were 
+      ligated with endoscopic loops and clips, and then mesentery was dissected using 
+      electrocautery. RESULTS: Endoscopic splenectomy was performed on six pigs. There 
+      were no complications during gastric incision and entrance into the peritoneal 
+      cavity. Visualization of the spleen and other intraperitoneal organs was very 
+      good. Ligation of the splenic vessels and mobilization of the spleen were 
+      achieved using commercially available devices and endoscopic accessories. 
+      CONCLUSIONS: Transgastric endoscopic splenectomy in a porcine model appears 
+      technically feasible. Additional long-term survival experiments are planned.
+FAU - Kantsevoy, S V
+AU  - Kantsevoy SV
+AD  - Division of Gastroenterology, Johns Hopkins Hospital, Baltimore, MD 21205, USA.
+FAU - Hu, B
+AU  - Hu B
+FAU - Jagannath, S B
+AU  - Jagannath SB
+FAU - Vaughn, C A
+AU  - Vaughn CA
+FAU - Beitler, D M
+AU  - Beitler DM
+FAU - Chung, S S C
+AU  - Chung SS
+FAU - Cotton, P B
+AU  - Cotton PB
+FAU - Gostout, C J
+AU  - Gostout CJ
+FAU - Hawes, R H
+AU  - Hawes RH
+FAU - Pasricha, P J
+AU  - Pasricha PJ
+FAU - Magee, C A
+AU  - Magee CA
+FAU - Pipitone, L J
+AU  - Pipitone LJ
+FAU - Talamini, M A
+AU  - Talamini MA
+FAU - Kalloo, A N
+AU  - Kalloo AN
+LA  - eng
+PT  - Journal Article
+DEP - 20060121
+PL  - Germany
+TA  - Surg Endosc
+JT  - Surgical endoscopy
+JID - 8806653
+SB  - IM
+MH  - Animals
+MH  - Endoscopy/*methods
+MH  - Models, Animal
+MH  - Spleen/blood supply
+MH  - Splenectomy/*methods
+MH  - Stomach/surgery
+MH  - Swine
+EDAT- 2006/01/25 09:00
+MHDA- 2006/10/07 09:00
+CRDT- 2006/01/25 09:00
+PHST- 2005/04/15 00:00 [received]
+PHST- 2005/07/29 00:00 [accepted]
+PHST- 2006/01/25 09:00 [pubmed]
+PHST- 2006/10/07 09:00 [medline]
+PHST- 2006/01/25 09:00 [entrez]
+AID - 10.1007/s00464-005-0263-x [doi]
+PST - ppublish
+SO  - Surg Endosc. 2006 Mar;20(3):522-5. doi: 10.1007/s00464-005-0263-x. Epub 2006 Jan 
+      21.

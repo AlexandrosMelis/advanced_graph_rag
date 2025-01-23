@@ -1,0 +1,77 @@
+PMID- 24827404
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150720
+LR  - 20220330
+IS  - 1708-0428 (Electronic)
+IS  - 0960-8923 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2014 Oct
+TI  - Is resected stomach volume related to weight loss after laparoscopic sleeve 
+      gastrectomy?
+PG  - 1656-61
+LID - 10.1007/s11695-014-1250-x [doi]
+AB  - BACKGROUND: Laparoscopic sleeve gastrectomy (LSG) was initially performed as the 
+      first stage of biliopancreatic diversion with duodenal switch for the treatment 
+      of super-obese or high-risk obese patients but is now most commonly performed as 
+      a standalone operation. The aim of this prospective study was to investigate 
+      outcomes after LSG according to resected stomach volume. METHODS: Between May 
+      2011 and April 2013, LSG was performed in 102 consecutive patients undergoing 
+      bariatric surgery. Two patients were excluded, and data from the remaining 100 
+      patients were analyzed in this study. Patients were divided into three groups 
+      according to the following resected stomach volume: 700-1,200 mL (group A, 
+      n = 21), 1,200-1,700 mL (group B, n = 62), and >1,700 mL (group C, n = 17). Mean 
+      values were compared among the groups by analysis of variance. RESULTS: The mean 
+      percentage excess body weight loss (%EBWL) at 3, 6, 12, and 24 months after 
+      surgery was 37.68 +/- 10.97, 50.97 +/- 13.59, 62.35 +/- 11.31, and 67.59 +/- 9.02 %, 
+      respectively. There were no significant differences in mean %EBWL among the three 
+      groups. Resected stomach volume was greater in patients with higher preoperative 
+      body mass index and was positively associated with resected stomach weight. 
+      CONCLUSIONS: Mean %EBWL after LSG was not significantly different among three 
+      groups of patients divided according to resected stomach volume. Resected stomach 
+      volume was significantly greater in patients with higher preoperative body mass 
+      index.
+FAU - Singh, Jagat Pal
+AU  - Singh JP
+AD  - Department of Minimal Access and Bariatric Surgery, ILS Hospital, DD-6, Sector-I, 
+      Salt Lake City, Kolkata, 700 064, India.
+FAU - Tantia, Om
+AU  - Tantia O
+FAU - Chaudhuri, Tamonas
+AU  - Chaudhuri T
+FAU - Khanna, Shashi
+AU  - Khanna S
+FAU - Patil, Prateek H
+AU  - Patil PH
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Obes Surg
+JT  - Obesity surgery
+JID - 9106714
+SB  - IM
+MH  - Adult
+MH  - Bariatric Surgery/*methods
+MH  - Body Mass Index
+MH  - Comorbidity
+MH  - Female
+MH  - Gastrectomy/*methods
+MH  - Humans
+MH  - Laparoscopy/methods
+MH  - Male
+MH  - Middle Aged
+MH  - Obesity, Morbid/physiopathology/*surgery
+MH  - Prospective Studies
+MH  - Stomach/*pathology
+MH  - Treatment Outcome
+MH  - *Weight Loss
+EDAT- 2014/05/16 06:00
+MHDA- 2015/07/21 06:00
+CRDT- 2014/05/16 06:00
+PHST- 2014/05/16 06:00 [entrez]
+PHST- 2014/05/16 06:00 [pubmed]
+PHST- 2015/07/21 06:00 [medline]
+AID - 10.1007/s11695-014-1250-x [doi]
+PST - ppublish
+SO  - Obes Surg. 2014 Oct;24(10):1656-61. doi: 10.1007/s11695-014-1250-x.

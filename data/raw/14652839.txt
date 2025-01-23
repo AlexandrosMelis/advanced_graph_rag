@@ -1,0 +1,68 @@
+PMID- 14652839
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040122
+LR  - 20041117
+IS  - 1078-5884 (Print)
+IS  - 1078-5884 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2004 Jan
+TI  - Does the sequence of clamp application during open abdominal aortic aneurysm 
+      surgery influence distal embolisation?
+PG  - 61-4
+AB  - BACKGROUND: Embolisation of atherosclerotic debris during abdominal aortic 
+      aneurysm (AAA) repair is responsible for significant peri-operative morbidity. 
+      Reports have suggested that preferential clamping of the distal vessel(s) before 
+      the proximal aorta may decrease the number of emboli passing distally and hence 
+      reduce complications. METHODS: Forty patients undergoing AAA repair were 
+      randomised to have either first clamping of the proximal aorta or the iliac 
+      vessels. Emboli passing through the Superficial Femoral Arteries were detected 
+      with a Transcranial Doppler ultrasound system. RESULTS: There was no difference 
+      between the two groups in the number of emboli detected (p=0.49) and no 
+      significant correlation between number of emboli and dissection time (r=0.0008). 
+      However, there was a significantly higher number of emboli in the patient 
+      sub-group that were current smokers (p=0.034). CONCLUSIONS: There appears to be 
+      no difference in the numbers of emboli detected when the first vascular clamp is 
+      applied to the proximal aorta or iliacs.
+FAU - Webster, S E
+AU  - Webster SE
+AD  - Department of Vascular Surgery, Leicester Royal Infirmary, UK.
+FAU - Smith, J
+AU  - Smith J
+FAU - Thompson, M M
+AU  - Thompson MM
+FAU - Bell, P R F
+AU  - Bell PR
+FAU - Naylor, A R
+AU  - Naylor AR
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Eur J Vasc Endovasc Surg
+JT  - European journal of vascular and endovascular surgery : the official journal of 
+      the European Society for Vascular Surgery
+JID - 9512728
+SB  - IM
+MH  - Aged
+MH  - Aortic Aneurysm, Abdominal/*surgery
+MH  - Embolism/*etiology
+MH  - Female
+MH  - Humans
+MH  - *Ligation
+MH  - Male
+MH  - Middle Aged
+MH  - Surgical Instruments
+MH  - Vascular Surgical Procedures/adverse effects/*methods
+EDAT- 2003/12/04 05:00
+MHDA- 2004/01/24 05:00
+CRDT- 2003/12/04 05:00
+PHST- 2003/12/04 05:00 [pubmed]
+PHST- 2004/01/24 05:00 [medline]
+PHST- 2003/12/04 05:00 [entrez]
+AID - S1078588403004696 [pii]
+AID - 10.1016/j.ejvs.2003.09.010 [doi]
+PST - ppublish
+SO  - Eur J Vasc Endovasc Surg. 2004 Jan;27(1):61-4. doi: 10.1016/j.ejvs.2003.09.010.

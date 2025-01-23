@@ -1,0 +1,78 @@
+PMID- 19923859
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100420
+LR  - 20191210
+IS  - 1423-0216 (Electronic)
+IS  - 1021-7401 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2010
+TI  - Can T-cell deficiency affect spatial learning ability following toluene exposure?
+PG  - 132-4
+LID - 10.1159/000258697 [doi]
+AB  - OBJECTIVE: The present studywas designed to investigate the possible role of T 
+      cells in spatial learning ability in mouse after toluene exposure. METHOD: 
+      Eight-week-old male wild-type (WT) and nude mice of BALB/c strain were exposed to 
+      toluene (0, 9 and 90 ppm) in a nose-only exposure chamber for 30 min per day for 
+      3 consecutive days and then once per week for 4 weeks. Twenty-four hours after 
+      the completion of exposure, we examined the spatial learning ability in each 
+      mouse using the Morris water maze apparatus. RESULTS: In the acquisition phase, a 
+      longer escape latency was observed in nude mice exposed to 90 ppm toluene on days 
+      3 and 4 when compared with corresponding WT mice. However, the effect of toluene 
+      on the escape latency was not significant in nude mice. In the probe trial, WT 
+      mice exposed to 90 ppm toluene showed poor retention memory compared with the 
+      control group. In the reversal phase, we did not find any significant difference 
+      between groups. CONCLUSION: These results indicate that T-cell deficiency may 
+      affect spatial learning performance following toluene exposure.
+CI  - Copyright 2009 S. Karger AG, Basel.
+FAU - Win-Shwe, Tin-Tin
+AU  - Win-Shwe TT
+AD  - Research Center for Environmental Risk, National Institute for Environmental 
+      Studies, Tsukuba, Japan. tin.tin.win.shwe @ nies.go.jp
+FAU - Nakajima, Daisuke
+AU  - Nakajima D
+FAU - Fujimaki, Hidekazu
+AU  - Fujimaki H
+LA  - eng
+PT  - Journal Article
+DEP - 20091117
+PL  - Switzerland
+TA  - Neuroimmunomodulation
+JT  - Neuroimmunomodulation
+JID - 9422763
+RN  - 0 (Neurotoxins)
+RN  - 0 (Solvents)
+RN  - 3FPU23BG52 (Toluene)
+SB  - IM
+MH  - Animals
+MH  - Astrocytes/immunology/metabolism
+MH  - Disease Models, Animal
+MH  - Immune Tolerance/drug effects/immunology
+MH  - Immunity, Cellular/drug effects/immunology
+MH  - Immunity, Innate/drug effects/immunology
+MH  - Learning Disabilities/*chemically induced/immunology/physiopathology
+MH  - Male
+MH  - Maze Learning/drug effects
+MH  - Memory Disorders/*chemically induced/immunology/physiopathology
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Microglia/immunology/metabolism
+MH  - Neuroimmunomodulation/*drug effects/immunology
+MH  - Neurotoxins/toxicity
+MH  - Solvents/toxicity
+MH  - T-Lymphocytes/*drug effects/immunology
+MH  - Toluene/*toxicity
+EDAT- 2009/11/20 06:00
+MHDA- 2010/04/21 06:00
+CRDT- 2009/11/20 06:00
+PHST- 2009/05/08 00:00 [received]
+PHST- 2009/07/31 00:00 [accepted]
+PHST- 2009/11/20 06:00 [entrez]
+PHST- 2009/11/20 06:00 [pubmed]
+PHST- 2010/04/21 06:00 [medline]
+AID - 000258697 [pii]
+AID - 10.1159/000258697 [doi]
+PST - ppublish
+SO  - Neuroimmunomodulation. 2010;17(2):132-4. doi: 10.1159/000258697. Epub 2009 Nov 
+      17.

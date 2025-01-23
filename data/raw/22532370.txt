@@ -1,0 +1,103 @@
+PMID- 22532370
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121024
+LR  - 20161125
+IS  - 1097-0096 (Electronic)
+IS  - 0091-2751 (Linking)
+VI  - 40
+IP  - 6
+DP  - 2012 Jul-Aug
+TI  - Are increased carotid artery pulsatility and resistance indexes early signs of 
+      vascular abnormalities in young obese males?
+PG  - 335-40
+LID - 10.1002/jcu.21927 [doi]
+AB  - PURPOSE: To provide insight into the factors by which obesity in itself may 
+      directly lead to early arterial damage, we aimed to determine early sonographic 
+      markers of obesity-related vascular dysfunction in young obese males. METHODS: 
+      Thirty-five young obese males and 23 age-matched healthy male volunteers were 
+      recruited into the study. Common carotid artery pulsatility index and resistance 
+      index were calculated from blood flow velocities curves obtained by pulsed 
+      Doppler ultrasonography. RESULTS: The mean pulsatility index, resistance index, 
+      body mass index, waist circumference, systolic and diastolic blood pressure, 
+      homeostasis model assessment for insulin resistance, plasma fasting glucose, 
+      insulin, C-peptide, triglycerides, low-density lipoprotein cholesterol, and 
+      high-sensitivity C-reactive protein were statistically higher in obese subjects 
+      than in healthy controls. CONCLUSIONS: Our results suggest that depressed vessel 
+      compliance and increased vascular resistance are features of young, obese, 
+      normotensive subjects independently of and in addition to cardiovascular risk 
+      factors. As changes in arterial wall properties may be incipient in young obese 
+      subjects, future studies will be required to demonstrate whether early 
+      intervention such as diet and exercise in this population can improve vascular 
+      functions.
+CI  - Copyright (c) 2012 Wiley Periodicals, Inc.
+FAU - Ozari, H Onur
+AU  - Ozari HO
+AD  - Division of Internal Medicine, GATA Haydarpasa Training Hospital, Tibbiye Caddesi 
+      TR-34668 Uskudar-Istanbul, Turkey.
+FAU - Oktenli, Cagatay
+AU  - Oktenli C
+FAU - Celik, Serkan
+AU  - Celik S
+FAU - Tangi, Fatih
+AU  - Tangi F
+FAU - Ipcioglu, Osman
+AU  - Ipcioglu O
+FAU - Terekeci, Hakan M
+AU  - Terekeci HM
+FAU - Top, Cihan
+AU  - Top C
+FAU - Uzun, Mehmet
+AU  - Uzun M
+FAU - Sanisoglu, Yavuz S
+AU  - Sanisoglu YS
+FAU - Nalbant, Selim
+AU  - Nalbant S
+LA  - eng
+PT  - Journal Article
+DEP - 20120425
+PL  - United States
+TA  - J Clin Ultrasound
+JT  - Journal of clinical ultrasound : JCU
+JID - 0401663
+RN  - 0 (Blood Glucose)
+RN  - 0 (C-Peptide)
+RN  - 0 (Insulin)
+RN  - 0 (Lipoproteins, LDL)
+RN  - 0 (Triglycerides)
+RN  - 9007-41-4 (C-Reactive Protein)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Blood Flow Velocity
+MH  - Blood Glucose/analysis
+MH  - Blood Pressure
+MH  - Body Mass Index
+MH  - C-Peptide/blood
+MH  - C-Reactive Protein/metabolism
+MH  - Carotid Arteries/*diagnostic imaging/*physiopathology
+MH  - Case-Control Studies
+MH  - Humans
+MH  - Insulin/blood
+MH  - Insulin Resistance
+MH  - Lipoproteins, LDL/blood
+MH  - Male
+MH  - Obesity/*complications
+MH  - Pulsatile Flow
+MH  - Statistics, Nonparametric
+MH  - Triglycerides/blood
+MH  - *Ultrasonography, Doppler, Pulsed
+MH  - Vascular Resistance
+MH  - Waist Circumference
+EDAT- 2012/04/26 06:00
+MHDA- 2012/10/25 06:00
+CRDT- 2012/04/26 06:00
+PHST- 2011/01/24 00:00 [received]
+PHST- 2012/03/19 00:00 [accepted]
+PHST- 2012/04/26 06:00 [entrez]
+PHST- 2012/04/26 06:00 [pubmed]
+PHST- 2012/10/25 06:00 [medline]
+AID - 10.1002/jcu.21927 [doi]
+PST - ppublish
+SO  - J Clin Ultrasound. 2012 Jul-Aug;40(6):335-40. doi: 10.1002/jcu.21927. Epub 2012 
+      Apr 25.

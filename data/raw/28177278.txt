@@ -1,0 +1,76 @@
+PMID- 28177278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170517
+LR  - 20181202
+IS  - 0301-0430 (Print)
+IS  - 0301-0430 (Linking)
+VI  - 87 (2017)
+IP  - 5
+DP  - 2017 May
+TI  - Does spontaneous remission occur in polyarteritis nodosa? .
+PG  - 255-260
+LID - 10.5414/CN108972 [doi]
+AB  - BACKGROUND: Polyarteritis nodosa (PAN) is a systemic vasculitis involving mainly 
+      medium-sized arteries and, rarely, small-sized arteries. The diagnosis is 
+      principally based on clinical exams, biopsy of an affected organ, and/or 
+      arteriography of renal or mesenteric arteries. Once diagnosed, immunosuppressive 
+      agents, such as glucocorticoids and cyclophosphamide, are generally introduced as 
+      soon as possible. Whether spontaneous remission of PAN occurs is therefore 
+      largely unknown. PRESENTATION: We describe the case of a 51-year-old woman who 
+      presented with a 4-day-history of intense pain in her left flank, hypertension, 
+      fever, microscopic hematuria, and acute renal failure. Contrast-enhanced renal 
+      ultrasound strongly suggested bilateral renal infarction. Medical history and an 
+      extensive workup allowed to exclude systemic embolism, recreational drug abuse, 
+      cardiac arrhythmias, and thrombophilia. A possible diagnosis of PAN was 
+      considered; however, within 2 weeks of admission, spontaneous remission of her 
+      clinical and biological symptoms occurred without the use of any 
+      immunosuppressive treatment. Finally, 3 months later, renal arteriography 
+      confirmed the diagnosis of PAN. The patient remains free of symptoms 1 year after 
+      initial presentation. CONCLUSION: This case illustrates the importance of 
+      considering PAN in the differential diagnosis of renal infarction with 
+      inflammatory syndrome and shows that spontaneous remission of renal PAN can 
+      occur. .
+FAU - Beyaert, Simon
+AU  - Beyaert S
+FAU - Pruijm, Menno
+AU  - Pruijm M
+FAU - Qanadli, Salah Dine
+AU  - Qanadli SD
+FAU - Vollenweider, Peter
+AU  - Vollenweider P
+FAU - Halfon, Matthieu
+AU  - Halfon M
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Germany
+TA  - Clin Nephrol
+JT  - Clinical nephrology
+JID - 0364441
+RN  - 0 (Glucocorticoids)
+RN  - 0 (Immunosuppressive Agents)
+RN  - 8N3DW7272P (Cyclophosphamide)
+SB  - IM
+MH  - Cyclophosphamide/therapeutic use
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Glucocorticoids/therapeutic use
+MH  - Humans
+MH  - Immunosuppressive Agents/therapeutic use
+MH  - Infarction/diagnosis
+MH  - Kidney/blood supply
+MH  - Middle Aged
+MH  - Polyarteritis Nodosa/diagnosis/drug therapy/*physiopathology
+MH  - Remission, Spontaneous
+EDAT- 2017/02/09 06:00
+MHDA- 2017/05/18 06:00
+CRDT- 2017/02/09 06:00
+PHST- 2017/04/06 00:00 [accepted]
+PHST- 2017/02/09 06:00 [pubmed]
+PHST- 2017/05/18 06:00 [medline]
+PHST- 2017/02/09 06:00 [entrez]
+AID - 15190 [pii]
+AID - 10.5414/CN108972 [doi]
+PST - ppublish
+SO  - Clin Nephrol. 2017 May;87 (2017)(5):255-260. doi: 10.5414/CN108972.

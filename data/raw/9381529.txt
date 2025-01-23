@@ -1,0 +1,100 @@
+PMID- 9381529
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19971107
+LR  - 20190713
+IS  - 0041-1337 (Print)
+IS  - 0041-1337 (Linking)
+VI  - 64
+IP  - 7
+DP  - 1997 Oct 15
+TI  - Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses 
+      to minor and major histocompatibility antigens: does synergy exist?
+PG  - 1055-65
+AB  - BACKGROUND: Using murine models, we have shown that the lysosomotropic amine, 
+      chloroquine, is effective in the prevention of graft-versus-host disease (GVHD) 
+      mediated by donor T cells reactive with recipient minor histocompatibility 
+      antigens (MiHCs). Because lysosomotropic amines can suppress major 
+      histocompatibility complex (MHC) class II antigen presentation, their mechanism 
+      of action is potentially different from current immune suppressant drugs used to 
+      control GVHD such as cyclosporine. METHODS: We investigated the use of 
+      cyclosporine and the lysosomotropic amines chloroquine and hydroxychloroquine in 
+      combination for additive or synergistic immunosuppression on T-cell responses in 
+      vitro to MiHC and MHC in mice. RESULTS: We found that similar concentrations of 
+      chloroquine and hydroxychloroquine suppress the T-cell response to MiHC in mice 
+      (C57BL/6 anti-BALB.B) and that lysosomotropic amines in combination with 
+      cyclosporine result in synergistic suppression of a proliferative response to 
+      MiHC. Similar suppression and synergy appear to be present in an alloreactive 
+      response (C57BL/6 anti-BALB/c). Direct inhibition by chloroquine of T-cell 
+      proliferative responses induced by anti-CD3epsilon in the absence of 
+      antigen-presenting cells is present at higher concentrations than that required 
+      to suppress responses to MiHC or MHC. Chloroquine appears to induce decreased 
+      T-cell viability at high concentrations. This effect does not appear to be due to 
+      decreased T-cell production of interleukin-2 or interferon-gamma. At lower 
+      concentrations (<25 microg/ml), chloroquine can also decrease the ability of 
+      antigen-presenting cells to stimulate an a C57BL/6 anti-BALB/c T-cell response 
+      and can inhibit MHC class II expression after activation with lipopolysaccharide. 
+      CONCLUSIONS: Lysosomotropic amines in combination with cyclosporine appear to be 
+      synergistic in the suppression of T-cell proliferation to MiHC and MHC. Use of 
+      chloroquine in combination with cyclosporine may result in improved control of 
+      GVHD.
+FAU - Schultz, K R
+AU  - Schultz KR
+AD  - Department of Pediatrics, University of British Columbia and British Columbia's 
+      Children's Hospital, Vancouver, Canada.
+FAU - Bader, S
+AU  - Bader S
+FAU - Nelson, D
+AU  - Nelson D
+FAU - Wang, M D
+AU  - Wang MD
+FAU - HayGlass, K T
+AU  - HayGlass KT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Transplantation
+JT  - Transplantation
+JID - 0132144
+RN  - 0 (Histocompatibility Antigens Class II)
+RN  - 0 (Interleukin-2)
+RN  - 0 (Minor Histocompatibility Antigens)
+RN  - 11028-71-0 (Concanavalin A)
+RN  - 4QWG6N8QKH (Hydroxychloroquine)
+RN  - 82115-62-6 (Interferon-gamma)
+RN  - 83HN0GTJ6D (Cyclosporine)
+RN  - 886U3H6UFF (Chloroquine)
+SB  - IM
+MH  - Animals
+MH  - Cell Survival/drug effects
+MH  - Cells, Cultured
+MH  - Chloroquine/*pharmacology
+MH  - Concanavalin A
+MH  - Cyclosporine/*pharmacology
+MH  - Drug Synergism
+MH  - Female
+MH  - Graft vs Host Disease/*prevention & control
+MH  - Histocompatibility Antigens Class II/*immunology
+MH  - Hydroxychloroquine/*pharmacology
+MH  - Interferon-gamma/biosynthesis
+MH  - Interleukin-2/biosynthesis
+MH  - Kinetics
+MH  - Lymphocyte Activation/drug effects
+MH  - Lysosomes/drug effects/immunology/physiology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Inbred Strains
+MH  - Minor Histocompatibility Antigens/*immunology
+MH  - Spleen/immunology
+MH  - T-Lymphocytes/cytology/drug effects/*immunology
+EDAT- 1997/11/05 00:00
+MHDA- 1997/11/05 00:01
+CRDT- 1997/11/05 00:00
+PHST- 1997/11/05 00:00 [pubmed]
+PHST- 1997/11/05 00:01 [medline]
+PHST- 1997/11/05 00:00 [entrez]
+AID - 10.1097/00007890-199710150-00019 [doi]
+PST - ppublish
+SO  - Transplantation. 1997 Oct 15;64(7):1055-65. doi: 
+      10.1097/00007890-199710150-00019.

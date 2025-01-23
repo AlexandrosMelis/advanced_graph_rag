@@ -1,0 +1,71 @@
+PMID- 25034219
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20161230
+IS  - 1827-1715 (Electronic)
+IS  - 0026-4946 (Linking)
+VI  - 67
+IP  - 6
+DP  - 2015 Dec
+TI  - Does maternal obesity have an influence on feeding behavior of obese children?
+PG  - 481-7
+AB  - AIM: Although the pathogenesis of childhood obesity is multi factorial, maternal 
+      obesity and parenting have major roles. The aim of this study was to evaluate the 
+      influence of maternal obesity on feeding practices toward their obese school 
+      children. METHODS: Obese children and adolescents referred to the pediatric 
+      endocrinology department were enrolled consecutively. Height and weight of all 
+      children and their mothers were measured. Maternal feeding practices were 
+      measured using an adapted version of the Child Feeding Questionnaire (CFQ). 
+      Answers were compared between obese (Body Mass Index [BMI] >/= 30 kg/m2) and 
+      non-obese mothers. RESULTS: A total of 491 obese subjects (292 girls, mean age 
+      12.0 +/- 2.8 years) and their mothers participated in this study. A direct 
+      correlation between children's BMI and their mothers' BMI was found (P<0.001) 
+      both in girls (r = 0.372) and boys (r = 0.337). While 64.4% of mothers were found 
+      obese in the study, only half of them consider themselves as obese. No difference 
+      were found in the scores of the subscales "perceived responsibility", 
+      "restriction", "concern for child's weight" and "monitoring" between obese and 
+      non-obese mothers. Child's BMI-SDS positively correlated with mothers' personal 
+      weight perception, concern for child's weight and restriction after adjustment 
+      for child's age (P < 0.001, P = 0.012 and P = 0.002, respectively). CONCLUSION: 
+      Mothers' BMI highly correlate with children's BMI-z-scores. The degree of child's 
+      obesity increases mothers' concern and food restriction behavior. While mothers 
+      of obese children have a high prevalence of obesity, maternal obesity was found 
+      to have no significant influence on feeding behavior of obese school children.
+FAU - Cebeci, A N
+AU  - Cebeci AN
+AD  - Clinic of Pediatric Endocrinology, Goztepe Training and Research Hospital, 
+      Istanbul, Turkey - nurcancebeci@yahoo.com.
+FAU - Guven, A
+AU  - Guven A
+LA  - eng
+PT  - Journal Article
+DEP - 20140718
+PL  - Italy
+TA  - Minerva Pediatr
+JT  - Minerva pediatrica
+JID - 0400740
+SB  - IM
+MH  - Adolescent
+MH  - Body Mass Index
+MH  - Child
+MH  - Cross-Sectional Studies
+MH  - *Feeding Behavior
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mother-Child Relations
+MH  - *Mothers
+MH  - Obesity/*epidemiology
+MH  - Pediatric Obesity/*epidemiology
+MH  - Prevalence
+MH  - Surveys and Questionnaires
+EDAT- 2014/07/19 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2014/07/19 06:00
+PHST- 2014/07/19 06:00 [entrez]
+PHST- 2014/07/19 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - R15Y9999N00A140015 [pii]
+PST - ppublish
+SO  - Minerva Pediatr. 2015 Dec;67(6):481-7. Epub 2014 Jul 18.

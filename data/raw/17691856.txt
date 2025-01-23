@@ -1,0 +1,92 @@
+PMID- 17691856
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071018
+LR  - 20070813
+IS  - 1445-6354 (Electronic)
+IS  - 1445-6354 (Linking)
+VI  - 7
+IP  - 3
+DP  - 2007 Jul-Sep
+TI  - Midwives' competence: is it affected by working in a rural location?
+PG  - 764
+AB  - INTRODUCTION: Rising health care costs and the need to consolidate expertise in 
+      tertiary services have led to the centralisation of services. In the UK, the 
+      result has been that many rural maternity units have become midwife-led. A key 
+      consideration is that midwives have the skills to competently and confidently 
+      provide maternity services in rural areas, which may be geographically isolated 
+      and where the midwife may only see a small number of pregnant women each year. 
+      Our objective was to compare the views of midwives in rural and urban settings, 
+      regarding their competence and confidence with respect to 'competencies' 
+      identified as being those which all professionals should have in order to provide 
+      effective and safe care for low-risk women. METHOD: This was a comparative 
+      questionnaire survey involving a stratified sample of remote and rural maternity 
+      units and an ad hoc comparison group of three urban maternity units in Scotland. 
+      Questionnaires were sent to 82 midwives working in remote and rural areas and 107 
+      midwives working in urban hospitals with midwife-led units. RESULTS: The response 
+      rate from midwives in rural settings was considerably higher (85%) than from 
+      midwives in the urban areas (60%). Although the proportion of midwives who 
+      reported that they were competent was broadly similar in the two groups, there 
+      were some significant differences regarding specific competencies. Midwives in 
+      the rural group were more likely to report competence for breech delivery (p = 
+      0.001), while more urban midwives reported competence in skills such as 
+      intravenous fluid replacement (p <0.001) and initial and discharge examination of 
+      the newborn (p <0.001). Both groups reported facing barriers to continuing 
+      professional development; however, more of the rural group had attended an 
+      educational event within the last month (p <0.001). Lack of time was a greater 
+      barrier for urban midwives (p = 0.02), whereas distance to training was greater 
+      for rural midwives (p = 0.009). Lack of motivation or interest was significantly 
+      higher in urban units (p = 0.006). CONCLUSION: It is often assumed that midwives 
+      in rural areas where there are fewer deliveries, will be less competent and 
+      confident in their practice. Our exploratory study suggests that the issue of 
+      competence is far more complex and deserves further attention.
+FAU - Hundley, Vanora A
+AU  - Hundley VA
+AD  - NMAHP Research Unit, University of Stirling, Stirling, United Kingdom. 
+      vanora.hundley@stir.ac.uk
+FAU - Tucker, Janet S
+AU  - Tucker JS
+FAU - van Teijlingen, Edwin
+AU  - van Teijlingen E
+FAU - Kiger, Alice
+AU  - Kiger A
+FAU - Ireland, Jilly C
+AU  - Ireland JC
+FAU - Harris, Fiona
+AU  - Harris F
+FAU - Farmer, Jane
+AU  - Farmer J
+FAU - Caldow, Jan L
+AU  - Caldow JL
+FAU - Bryers, Helen
+AU  - Bryers H
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070810
+PL  - Australia
+TA  - Rural Remote Health
+JT  - Rural and remote health
+JID - 101174860
+SB  - IM
+MH  - *Attitude of Health Personnel
+MH  - Clinical Competence/*statistics & numerical data
+MH  - Education, Nursing, Continuing/statistics & numerical data
+MH  - Female
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Midwifery/*statistics & numerical data
+MH  - Pregnancy
+MH  - Rural Health Services/*statistics & numerical data
+MH  - Scotland
+MH  - Urban Health Services/statistics & numerical data
+EDAT- 2007/08/19 09:00
+MHDA- 2007/10/19 09:00
+CRDT- 2007/08/19 09:00
+PHST- 2007/08/19 09:00 [pubmed]
+PHST- 2007/10/19 09:00 [medline]
+PHST- 2007/08/19 09:00 [entrez]
+AID - 764 [pii]
+PST - ppublish
+SO  - Rural Remote Health. 2007 Jul-Sep;7(3):764. Epub 2007 Aug 10.

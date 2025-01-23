@@ -1,0 +1,85 @@
+PMID- 22349635
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120626
+LR  - 20211021
+IS  - 1439-099X (Electronic)
+IS  - 0179-7158 (Linking)
+VI  - 188
+IP  - 5
+DP  - 2012 May
+TI  - Do elderly patients benefit from surgery in addition to radiotherapy for 
+      treatment of metastatic spinal cord compression?
+PG  - 424-30
+LID - 10.1007/s00066-011-0058-z [doi]
+AB  - BACKGROUND: Treatment of elderly cancer patients has gained importance. One 
+      question regarding the treatment of metastatic spinal cord compression (MSCC) is 
+      whether elderly patients benefit from surgery in addition to radiotherapy? In 
+      attempting to answer this question, we performed a matched-pair analysis 
+      comparing surgery followed by radiotherapy to radiotherapy alone. PATIENTS AND 
+      METHODS: Data from 42 elderly (age > 65 years) patients receiving surgery plus 
+      radiotherapy (S + RT) were matched to 84 patients (1:2) receiving radiotherapy 
+      alone (RT). Groups were matched for ten potential prognostic factors and compared 
+      regarding motor function, local control, and survival. Additional matched-pair 
+      analyses were performed for the subgroups of patients receiving direct 
+      decompressive surgery plus stabilization of involved vertebrae (DDSS, n = 81) and 
+      receiving laminectomy (LE, n = 45). RESULTS: Improvement of motor function 
+      occurred in 21% after S + RT and 24% after RT (p = 0.39). The 1-year local 
+      control rates were 81% and 91% (p = 0.44), while the 1-year survival rates were 
+      46% and 39% (p = 0.71). In the matched-pair analysis of patients receiving DDSS, 
+      improvement of motor function occurred in 22% after DDSS + RT and 24% after RT 
+      alone (p = 0.92). The 1-year local control rates were 95% and 89% (p = 0.62), and 
+      the 1-year survival rates were 54% and 43% (p = 0.30). In the matched-pair 
+      analysis of patients receiving LE, improvement of motor function occurred in 20% 
+      after LE + RT and 23% after RT alone (p = 0.06). The 1-year local control rates 
+      were 50% and 92% (p = 0.33). The 1-year survival rates were 32% and 32% 
+      (p = 0.55). CONCLUSION: Elderly patients with MSCC did not benefit from surgery 
+      in addition to radiotherapy regarding functional outcome, local control of MSCC, 
+      or survival.
+FAU - Rades, D
+AU  - Rades D
+AD  - Department of Radiation Oncology, University of Lubeck, Ratzeburger Allee 160, 
+      23538, Lubeck, Germany. Rades.Dirk@gmx.net
+FAU - Huttenlocher, S
+AU  - Huttenlocher S
+FAU - Evers, J N
+AU  - Evers JN
+FAU - Bajrovic, A
+AU  - Bajrovic A
+FAU - Karstens, J H
+AU  - Karstens JH
+FAU - Rudat, V
+AU  - Rudat V
+FAU - Schild, S E
+AU  - Schild SE
+LA  - eng
+PT  - Journal Article
+DEP - 20120216
+PL  - Germany
+TA  - Strahlenther Onkol
+JT  - Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et 
+      al]
+JID - 8603469
+SB  - IM
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Matched-Pair Analysis
+MH  - *Neoplasms/complications/radiotherapy/surgery
+MH  - *Radiotherapy
+MH  - Spinal Cord Compression/*etiology/*surgery
+MH  - Survival Analysis
+MH  - Treatment Outcome
+EDAT- 2012/02/22 06:00
+MHDA- 2012/06/27 06:00
+CRDT- 2012/02/22 06:00
+PHST- 2011/09/14 00:00 [received]
+PHST- 2011/10/23 00:00 [accepted]
+PHST- 2012/02/22 06:00 [entrez]
+PHST- 2012/02/22 06:00 [pubmed]
+PHST- 2012/06/27 06:00 [medline]
+AID - 10.1007/s00066-011-0058-z [doi]
+PST - ppublish
+SO  - Strahlenther Onkol. 2012 May;188(5):424-30. doi: 10.1007/s00066-011-0058-z. Epub 
+      2012 Feb 16.

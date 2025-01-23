@@ -1,0 +1,116 @@
+PMID- 22825590
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130211
+LR  - 20221207
+IS  - 1464-3685 (Electronic)
+IS  - 0300-5771 (Linking)
+VI  - 41
+IP  - 4
+DP  - 2012 Aug
+TI  - Are behavioural risk factors to be blamed for the conversion from optimal blood 
+      pressure to hypertensive status in Black South Africans? A 5-year prospective 
+      study.
+PG  - 1114-23
+LID - 10.1093/ije/dys106 [doi]
+AB  - BACKGROUND: Longitudinal cohort studies in sub-Saharan Africa are urgently needed 
+      to understand cardiovascular disease development. We, therefore, explored health 
+      behaviours and conventional risk factors of African individuals with optimal 
+      blood pressure (BP) (</= 120/80 mm Hg), and their 5-year prediction for the 
+      development of hypertension. METHODS: The Prospective Urban Rural Epidemiology 
+      study in the North West Province, South Africa, started in 2005 and included 
+      African volunteers (n = 1994; aged > 30 years) from a sample of 6000 randomly 
+      selected households in rural and urban areas. RESULTS: At baseline, 48% of the 
+      participants were hypertensive (>/= 140/90 mmHg). Those with optimal BP (n = 478) 
+      were followed at a success rate of 70% for 5 years (213 normotensive, 68 
+      hypertensive, 57 deceased). Africans that became hypertensive smoked more than 
+      the normotensive individuals (68.2% vs 49.8%), and they also had a greater waist 
+      circumference [ratio of geometric means of 0.94 cm (95% CI: 0.86-0.99)] and 
+      greater amount of gamma-glutamyltransferase [0.74 U/l (95% CI: 0.62-0.88)] at 
+      baseline. The 5-year change in BP was independently explained by baseline 
+      gamma-glutamyltransferase [R(2) = 0.23, beta = 0.13 U/l (95% CI: 0.01-0.19)]. Alcohol 
+      intake also predicted central systolic BP and carotid cross-sectional wall area 
+      (CSWA) at follow-up. Waist circumference was another predictor of BP changes [beta = 
+      0.18 cm (95% CI: 0.05-0.24)] and CSWA. HIV infection was inversely associated 
+      with increased BP. CONCLUSIONS: During the 5 years, 24% of Africans with optimal 
+      BP developed hypertension. The surge in hypertension in Africa is largely 
+      explained by modifiable risk factors. Public health strategies should focus 
+      aggressively on lifestyle to prevent a catastrophic burden on the national health 
+      system.
+FAU - Schutte, Aletta E
+AU  - Schutte AE
+AD  - Hypertension in Africa Research Team, North-West University, Potchefstroom, South 
+      Africa. Alta.Schutte@nwu.ac.za
+FAU - Schutte, Rudolph
+AU  - Schutte R
+FAU - Huisman, Hugo W
+AU  - Huisman HW
+FAU - van Rooyen, Johannes M
+AU  - van Rooyen JM
+FAU - Fourie, Carla M T
+AU  - Fourie CM
+FAU - Malan, Nico T
+AU  - Malan NT
+FAU - Malan, Leone
+AU  - Malan L
+FAU - Mels, Catharina M C
+AU  - Mels CM
+FAU - Smith, Wayne
+AU  - Smith W
+FAU - Moss, Sarah J
+AU  - Moss SJ
+FAU - Towers, G Wayne
+AU  - Towers GW
+FAU - Kruger, H Salome
+AU  - Kruger HS
+FAU - Wentzel-Viljoen, Edelweiss
+AU  - Wentzel-Viljoen E
+FAU - Vorster, Hester H
+AU  - Vorster HH
+FAU - Kruger, Annamarie
+AU  - Kruger A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120723
+PL  - England
+TA  - Int J Epidemiol
+JT  - International journal of epidemiology
+JID - 7802871
+RN  - 0 (Biomarkers)
+RN  - 0 (Lipids)
+RN  - 9007-41-4 (C-Reactive Protein)
+RN  - AYI8EX34EU (Creatinine)
+RN  - EC 2.3.2.2 (gamma-Glutamyltransferase)
+SB  - IM
+MH  - Anthropometry
+MH  - Biomarkers/blood
+MH  - *Black People
+MH  - Blood Pressure/*physiology
+MH  - C-Reactive Protein/metabolism
+MH  - Chi-Square Distribution
+MH  - Creatinine/blood
+MH  - Female
+MH  - *Health Behavior
+MH  - Humans
+MH  - Hypertension/*epidemiology
+MH  - Linear Models
+MH  - Lipids/blood
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Prospective Studies
+MH  - Risk Factors
+MH  - South Africa/epidemiology
+MH  - gamma-Glutamyltransferase/blood
+EDAT- 2012/07/25 06:00
+MHDA- 2013/02/12 06:00
+CRDT- 2012/07/25 06:00
+PHST- 2012/07/25 06:00 [entrez]
+PHST- 2012/07/25 06:00 [pubmed]
+PHST- 2013/02/12 06:00 [medline]
+AID - dys106 [pii]
+AID - 10.1093/ije/dys106 [doi]
+PST - ppublish
+SO  - Int J Epidemiol. 2012 Aug;41(4):1114-23. doi: 10.1093/ije/dys106. Epub 2012 Jul 
+      23.

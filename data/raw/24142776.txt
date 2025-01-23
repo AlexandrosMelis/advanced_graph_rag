@@ -1,0 +1,85 @@
+PMID- 24142776
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140605
+LR  - 20140422
+IS  - 1531-4995 (Electronic)
+IS  - 0023-852X (Linking)
+VI  - 124
+IP  - 5
+DP  - 2014 May
+TI  - Steroids in aminoglycoside-containing ear drops: do they reduce cochlear 
+      toxicity?
+PG  - 1209-13
+LID - 10.1002/lary.24475 [doi]
+AB  - OBJECTIVES/HYPOTHESIS: To determine whether betamethasone (BM) reduces the 
+      cochlear toxicity of otic gentamicin (GM) if given together. STUDY DESIGN: 
+      Controlled animal study. METHODS: Thirty-four mice were assigned at random to 
+      receive intratympanic injections of either 0.1 % BM (11 mice), 0.3% GM (13 mice), 
+      or a combination of both (GM/BM) with benzalkonium chloride (10 mice) in the left 
+      ear (treated) and saline on the right (untreated). Six injections were given on 
+      alternate days. Auditory brainstem response thresholds were assessed at 1 month, 
+      2 months, and >2 months. RESULTS: There was a significantly greater degree of 
+      hearing loss in the BM-treated ears compared to the untreated ears (6.48 dB 
+      hearing loss, P = .007) and in the GM-treated ears compared to untreated ears 
+      (6.59 dB hearing loss, P = .010,). However, otic GM/BM and benzalkonium chloride 
+      did not cause significant additional hearing loss compared with the untreated 
+      ears (3.56 dB hearing loss, P = .242). CONCLUSIONS: Our data suggest that hearing 
+      loss caused by GM otic drops may be reduced by the inclusion of BM and 
+      benzalkonium chloride. Our finding that BM alone was associated with hearing loss 
+      suggests that the benzalkonium chloride may be the protective agent in 
+      combination otic drops.
+CI  - (c) 2013 The American Laryngological, Rhinological and Otological Society, Inc.
+FAU - Blakley, Brian W
+AU  - Blakley BW
+AD  - Department of Otolaryngology, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Alsaleh, Saad
+AU  - Alsaleh S
+FAU - Dewji, Zameel
+AU  - Dewji Z
+FAU - Qureshy, Kaiser
+AU  - Qureshy K
+FAU - Berard, Sylvie
+AU  - Berard S
+FAU - Xie, Ling
+AU  - Xie L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131213
+PL  - United States
+TA  - Laryngoscope
+JT  - The Laryngoscope
+JID - 8607378
+RN  - 0 (Aminoglycosides)
+RN  - 0 (Benzalkonium Compounds)
+RN  - 9842X06Q6M (Betamethasone)
+SB  - IM
+MH  - Aminoglycosides/*toxicity
+MH  - Animals
+MH  - Benzalkonium Compounds/pharmacology
+MH  - Betamethasone/*pharmacology
+MH  - Cochlea/*drug effects
+MH  - Evoked Potentials, Auditory, Brain Stem
+MH  - Injections
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Random Allocation
+OTO - NOTNLM
+OT  - Hearing
+OT  - aminoglycosides
+OT  - antioxidants
+OT  - auditory brainstem response
+OT  - ototoxicity
+EDAT- 2013/10/22 06:00
+MHDA- 2014/06/06 06:00
+CRDT- 2013/10/22 06:00
+PHST- 2013/04/25 00:00 [received]
+PHST- 2013/09/07 00:00 [revised]
+PHST- 2013/10/15 00:00 [accepted]
+PHST- 2013/10/22 06:00 [entrez]
+PHST- 2013/10/22 06:00 [pubmed]
+PHST- 2014/06/06 06:00 [medline]
+AID - 10.1002/lary.24475 [doi]
+PST - ppublish
+SO  - Laryngoscope. 2014 May;124(5):1209-13. doi: 10.1002/lary.24475. Epub 2013 Dec 13.

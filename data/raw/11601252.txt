@@ -1,0 +1,71 @@
+PMID- 11601252
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011204
+LR  - 20161124
+IS  - 0366-6999 (Print)
+IS  - 0366-6999 (Linking)
+VI  - 112
+IP  - 7
+DP  - 1999 Jul
+TI  - Is endothelin-1 an aggravating factor in the development of acute pancreatitis?
+PG  - 603-7
+AB  - OBJECTIVE: We have reported previously that cerulein-induced edematous 
+      pancreatitis would transform into hemorrhagic pancreatitis by administration of 
+      endothelin-1 in rats. In the present study, we tried to protect rat model from 
+      developing into hemorrhagic pancreatitis with BQ123 (an ETA receptor antagonist). 
+      METHODS: The rat model was made by 5-hour restraint water-immersion stress and 
+      two intraperitoneal injections of cerulein (40 micrograms/kg) at hourly interval. 
+      BQ123 (3 or 6 mg/kg) was administered intravenously 30 minutes before and 2 hours 
+      after the first cerulein injection. RESULTS: Acute hemorrhagic pancreatitis was 
+      induced in all rats treated with cerulin + stress. The score for pancreatic 
+      hemorrhage was 2.4 +/- 0.2 in this group. In the rats pretreated with BQ123, the 
+      score was reduced to 1.0 +/- 0.0, pancreas wet weight and serum amylase activity 
+      were significantly reduced, and histologic alterations in the pancreas lightened, 
+      also the local pancreatic blood flow improved without affecting the systemic 
+      blood pressure. CONCLUSIONS: These results suggest that endothelin-1 should play 
+      a role in aggravating the development of acute hemorrhagic pancreatitis, through 
+      its action on the pancreatic microcirculation.
+FAU - Liu, X
+AU  - Liu X
+AD  - Department of Gastroenterology, Chinese Academy of Medical Science, Peking Union 
+      Medical College Hospital, Beijing 100730, China.
+FAU - Nakano, I
+AU  - Nakano I
+FAU - Ito, T
+AU  - Ito T
+FAU - Kimura, T
+AU  - Kimura T
+FAU - Nawata, H
+AU  - Nawata H
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - China
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+RN  - 0 (Endothelin Receptor Antagonists)
+RN  - 0 (Endothelin-1)
+RN  - 0 (Peptides, Cyclic)
+RN  - 888Y08971B (Ceruletide)
+RN  - S2A8YZM151 (cyclo(Trp-Asp-Pro-Val-Leu))
+SB  - IM
+MH  - Acute Disease
+MH  - Animals
+MH  - Ceruletide
+MH  - *Endothelin Receptor Antagonists
+MH  - Endothelin-1/*metabolism
+MH  - Male
+MH  - Pancreatitis/chemically induced/*metabolism
+MH  - Peptides, Cyclic/*pharmacology
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+EDAT- 2001/10/17 10:00
+MHDA- 2002/01/05 10:01
+CRDT- 2001/10/17 10:00
+PHST- 2001/10/17 10:00 [pubmed]
+PHST- 2002/01/05 10:01 [medline]
+PHST- 2001/10/17 10:00 [entrez]
+PST - ppublish
+SO  - Chin Med J (Engl). 1999 Jul;112(7):603-7.

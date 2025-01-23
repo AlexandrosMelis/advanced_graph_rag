@@ -1,0 +1,96 @@
+PMID- 24599411
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150205
+LR  - 20220409
+IS  - 1534-4681 (Electronic)
+IS  - 1068-9265 (Linking)
+VI  - 21
+IP  - 7
+DP  - 2014 Jul
+TI  - Is gastric cancer different in Korea and the United States? Impact of tumor 
+      location on prognosis.
+PG  - 2332-9
+LID - 10.1245/s10434-014-3608-7 [doi]
+AB  - PURPOSE: To compare the characteristics and prognoses of gastric cancers by tumor 
+      location in Korean and U.S. subjects after curative-intent (R0) resection for 
+      gastric cancer (GC). METHODS: Data were collected for all patients who had 
+      undergone R0 resection at one U.S. institution (n = 567) and one South Korean 
+      institution (n = 1,620). Patients with gastroesophageal junction tumors or 
+      neoadjuvant therapy were excluded. Patient, surgical, and pathologic variables 
+      were compared by tumor location. Factors associated with disease-specific 
+      survival (DSS) were determined via multivariate analysis. RESULTS: In the Korean 
+      cohort, significantly more upper third GC (UTG) patients had undifferentiated, 
+      diffuse type, and advanced stage cancers compared to lower third GC (LTG) and 
+      middle third GC (MTG) patients. In the U.S. cohort, however, T stage was 
+      relatively evenly distributed among UTG, MTG, and LTG patients. The independent 
+      predictors of DSS in the Korean cohort were T stage, tumor size, retrieved and 
+      positive lymph node counts, and age, but in the U.S. cohort, the only independent 
+      predictors were T stage and positive lymph node count. Tumor size significantly 
+      affected DSS of Korean UTG patients but not U.S. UTG patients. CONCLUSIONS: There 
+      were significant differences in tumor characteristics by tumor location within 
+      and between both national cohorts. On the basis of these findings, further study 
+      to investigate the biological difference between the two countries is needed.
+FAU - Shim, Jung Ho
+AU  - Shim JH
+AD  - Department of Surgery, Seoul St. Mary's Hospital, College of Medicine, The 
+      Catholic University of Korea, Seoul, South Korea.
+FAU - Song, Kyo Young
+AU  - Song KY
+FAU - Jeon, Hae Myung
+AU  - Jeon HM
+FAU - Park, Cho Hyun
+AU  - Park CH
+FAU - Jacks, Lindsay M
+AU  - Jacks LM
+FAU - Gonen, Mithat
+AU  - Gonen M
+FAU - Shah, Manish A
+AU  - Shah MA
+FAU - Brennan, Murray F
+AU  - Brennan MF
+FAU - Coit, Daniel G
+AU  - Coit DG
+FAU - Strong, Vivian E
+AU  - Strong VE
+LA  - eng
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20140306
+PL  - United States
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+JID - 9420840
+SB  - IM
+MH  - Adenocarcinoma/classification/mortality/*pathology
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Staging
+MH  - Nomograms
+MH  - Prognosis
+MH  - Republic of Korea
+MH  - Retrospective Studies
+MH  - Stomach Neoplasms/*classification/mortality/*pathology
+MH  - Survival Rate
+MH  - Tomography, X-Ray Computed
+MH  - United States
+MH  - Young Adult
+EDAT- 2014/03/07 06:00
+MHDA- 2015/02/06 06:00
+CRDT- 2014/03/07 06:00
+PHST- 2013/11/23 00:00 [received]
+PHST- 2014/03/07 06:00 [entrez]
+PHST- 2014/03/07 06:00 [pubmed]
+PHST- 2015/02/06 06:00 [medline]
+AID - 10.1245/s10434-014-3608-7 [doi]
+PST - ppublish
+SO  - Ann Surg Oncol. 2014 Jul;21(7):2332-9. doi: 10.1245/s10434-014-3608-7. Epub 2014 
+      Mar 6.

@@ -1,0 +1,91 @@
+PMID- 19648304
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091113
+LR  - 20220321
+IS  - 0315-162X (Print)
+IS  - 0315-162X (Linking)
+VI  - 36
+IP  - 9
+DP  - 2009 Sep
+TI  - Does sonographic needle guidance affect the clinical outcome of intraarticular 
+      injections?
+PG  - 1892-902
+LID - 10.3899/jrheum.090013 [doi]
+AB  - OBJECTIVE: This randomized controlled study addressed whether sonographic needle 
+      guidance affected clinical outcomes of intraarticular (IA) joint injections. 
+      METHODS: In total, 148 painful joints were randomized to IA triamcinolone 
+      acetonide injection by conventional palpation-guided anatomic injection or 
+      sonographic image-guided injection enhanced with a one-handed control syringe 
+      (the reciprocating device). A one-needle, 2-syringe technique was used, where the 
+      first syringe was used to introduce the needle, aspirate any effusion, and 
+      anesthetize and dilate the IA space with lidocaine. After IA placement and 
+      synovial space dilation were confirmed, a syringe exchange was performed, and 
+      corticosteroid was injected with the second syringe through the indwelling IA 
+      needle. Baseline pain, procedural pain, pain at outcome (2 weeks), and changes in 
+      pain scores were measured with a 0-10 cm visual analog pain scale (VAS). RESULTS: 
+      Relative to conventional palpation-guided methods, sonographic guidance resulted 
+      in 43.0% reduction in procedural pain (p < 0.001), 58.5% reduction in absolute 
+      pain scores at the 2 week outcome (p < 0.001), 75% reduction in significant pain 
+      (VAS pain score > or = 5 cm; p < 0.001), 25.6% increase in the responder rate 
+      (reduction in VAS score > or = 50% from baseline; p < 0.01), and 62.0% reduction 
+      in the nonresponder rate (reduction in VAS score < 50% from baseline; p < 0.01). 
+      Sonography also increased detection of effusion by 200% and volume of aspirated 
+      fluid by 337%. CONCLUSION: Sonographic needle guidance significantly improves the 
+      performance and outcomes of outpatient IA injections in a clinically significant 
+      manner.
+FAU - Sibbitt, Wilmer L Jr
+AU  - Sibbitt WL Jr
+AD  - Department of Internal Medicine, Division of Rheumatology, University of New 
+      Mexico Health Sciences Center, Albuquerque, NM 87131, USA. wsibbitt@salud.unm.edu
+FAU - Peisajovich, Andres
+AU  - Peisajovich A
+FAU - Michael, Adrian A
+AU  - Michael AA
+FAU - Park, Kye S
+AU  - Park KS
+FAU - Sibbitt, Randy R
+AU  - Sibbitt RR
+FAU - Band, Philip A
+AU  - Band PA
+FAU - Bankhurst, Arthur D
+AU  - Bankhurst AD
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00651625
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20090731
+PL  - Canada
+TA  - J Rheumatol
+JT  - The Journal of rheumatology
+JID - 7501984
+RN  - 0 (Adrenal Cortex Hormones)
+RN  - F446C597KA (Triamcinolone Acetonide)
+SB  - IM
+MH  - Adrenal Cortex Hormones/*administration & dosage/therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Injections, Intra-Articular/*methods
+MH  - Joints/*diagnostic imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Outcome Assessment, Health Care
+MH  - Pain Measurement
+MH  - Treatment Outcome
+MH  - Triamcinolone Acetonide/*administration & dosage/therapeutic use
+MH  - Ultrasonography
+EDAT- 2009/08/04 09:00
+MHDA- 2009/11/17 06:00
+CRDT- 2009/08/04 09:00
+PHST- 2009/08/04 09:00 [entrez]
+PHST- 2009/08/04 09:00 [pubmed]
+PHST- 2009/11/17 06:00 [medline]
+AID - jrheum.090013 [pii]
+AID - 10.3899/jrheum.090013 [doi]
+PST - ppublish
+SO  - J Rheumatol. 2009 Sep;36(9):1892-902. doi: 10.3899/jrheum.090013. Epub 2009 Jul 
+      31.

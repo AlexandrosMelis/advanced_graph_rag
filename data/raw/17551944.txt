@@ -1,0 +1,69 @@
+PMID- 17551944
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071214
+LR  - 20161124
+IS  - 0091-2751 (Print)
+IS  - 0091-2751 (Linking)
+VI  - 35
+IP  - 7
+DP  - 2007 Sep
+TI  - Doppler examination of uteroplacental circulation in early pregnancy: can it 
+      predict adverse outcome?
+PG  - 382-6
+AB  - PURPOSE: To determine whether spectral Doppler measurements obtained from 
+      bilateral uterine, arcuate, radial, and spiral arteries in early gestation 
+      correlate with adverse pregnancy outcome. METHODS: One hundred five pregnant 
+      women underwent transvaginal Doppler sonographic examination of uteroplacental 
+      circulation at 6-12 weeks' gestation. Resistance index (RI) and pulsatility index 
+      (PI) of bilateral uterine, arcuate, radial, and spiral arteries were measured. 
+      Diameters of gestational sac (GS) and yolk sac, crown-rump length (CRL), GS-CRL 
+      difference, and GS/CRL ratio were also recorded. Correlation was made with 
+      pregnancy outcome. RESULTS: Sixteen women developed adverse pregnancy outcome. In 
+      these women, right uterine artery PI and RI were significantly higher than in 
+      women with normal obstetrical outcome. Spiral artery PI and RI values were also 
+      higher, but the difference was not statistically significant. GS-CRL difference, 
+      GS/CRL ratio, and yolk sac diameters were significantly lower in this group. 
+      CONCLUSION: Transvaginal Doppler examination can detect hemodynamic changes in 
+      uteroplacental circulation associated with subsequent adverse pregnancy outcome.
+CI  - (c) 2007 Wiley Periodicals, Inc.
+FAU - Ozkaya, Ummu
+AU  - Ozkaya U
+AD  - Department of Obstetrics and Gynecology, Kocaeli University, School of Medicine, 
+      Tupras Sitesi, Guney Mahallesi, 7 Sokak, No. 20, Kat. 2, Korfez Kocaeli 41780, 
+      Turkey.
+FAU - Ozkan, Sebiha
+AU  - Ozkan S
+FAU - Ozeren, Semih
+AU  - Ozeren S
+FAU - Corakci, Aydin
+AU  - Corakci A
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Clin Ultrasound
+JT  - Journal of clinical ultrasound : JCU
+JID - 0401663
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Placenta/blood supply/diagnostic imaging
+MH  - *Placental Circulation
+MH  - Predictive Value of Tests
+MH  - Pregnancy
+MH  - Pregnancy Complications/*diagnosis
+MH  - *Pregnancy Outcome
+MH  - *Pregnancy Trimester, First
+MH  - Ultrasonography, Doppler/*methods
+MH  - Ultrasonography, Interventional/*methods
+MH  - Uterus/blood supply/diagnostic imaging
+EDAT- 2007/06/07 09:00
+MHDA- 2007/12/15 09:00
+CRDT- 2007/06/07 09:00
+PHST- 2007/06/07 09:00 [pubmed]
+PHST- 2007/12/15 09:00 [medline]
+PHST- 2007/06/07 09:00 [entrez]
+AID - 10.1002/jcu.20370 [doi]
+PST - ppublish
+SO  - J Clin Ultrasound. 2007 Sep;35(7):382-6. doi: 10.1002/jcu.20370.

@@ -1,0 +1,56 @@
+PMID- 9446993
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980203
+LR  - 20151119
+IS  - 0250-832X (Print)
+IS  - 0250-832X (Linking)
+VI  - 26
+IP  - 1
+DP  - 1997 Jan
+TI  - Can dentists recognize manipulated digital radiographs?
+PG  - 67-9
+AB  - OBJECTIVES: To determine the ability of dentists to recognize digitally 
+      manipulated radiographs. METHODS: A poster was presented at the Annual Meeting of 
+      the German Society for Periodontology displaying the intra-oral radiographs of 12 
+      different patients. Half of the radiographs were subjected to digital 
+      manipulation to add or remove specific features. Dentists were asked to identify 
+      these radiographs by means of a questionnaire. RESULTS: Thirty-nine dentists 
+      submitted usable questionnaires. Statistical evaluation revealed a distribution 
+      of hits similar to the random distribution. None of the dentists detected all the 
+      six manipulated radiographs; three dentists had five correct, but there were five 
+      with only one. An authentic radiograph scored highest as a manipulation. 
+      CONCLUSIONS: Image manipulations which alter the diagnostic content of a 
+      radiograph are unlikely to be detected by dentists. Digital radiography requires 
+      additional measures for data protection.
+FAU - Visser, H
+AU  - Visser H
+AD  - Department of Periodontology, Dental School, Georg-August-University Gottingen, 
+      Germany.
+FAU - Kruger, W
+AU  - Kruger W
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Dentomaxillofac Radiol
+JT  - Dento maxillo facial radiology
+JID - 7609576
+MH  - *Clinical Competence
+MH  - Dentists
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Observer Variation
+MH  - Probability
+MH  - *Radiography, Dental, Digital
+MH  - Sensitivity and Specificity
+MH  - Surveys and Questionnaires
+EDAT- 1997/01/01 00:00
+MHDA- 1998/02/03 00:01
+CRDT- 1997/01/01 00:00
+PHST- 1997/01/01 00:00 [pubmed]
+PHST- 1998/02/03 00:01 [medline]
+PHST- 1997/01/01 00:00 [entrez]
+AID - 10.1038/sj.dmfr.4600204 [doi]
+PST - ppublish
+SO  - Dentomaxillofac Radiol. 1997 Jan;26(1):67-9. doi: 10.1038/sj.dmfr.4600204.

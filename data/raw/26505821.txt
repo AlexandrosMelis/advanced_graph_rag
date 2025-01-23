@@ -1,0 +1,106 @@
+PMID- 26505821
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160418
+LR  - 20220409
+IS  - 1945-7197 (Electronic)
+IS  - 0021-972X (Linking)
+VI  - 100
+IP  - 12
+DP  - 2015 Dec
+TI  - Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry 
+      in 370 Postmenopausal Women?
+PG  - 4662-8
+LID - 10.1210/jc.2015-2957 [doi]
+AB  - CONTEXT: The levels of bone formation and resorption can be assessed at the 
+      tissue level by bone histomorphometry on transiliac bone biopsies. Systemic 
+      biochemical markers of bone turnover reflect the overall bone formation and 
+      resorption at the level of the entire skeleton but cannot discriminate the 
+      different skeletal compartments. OBJECTIVE: Our aim was to investigate the 
+      correlations between the serum biochemical markers of formation and resorption 
+      with histomorphometric parameters. DESIGN: We performed post hoc analysis of a 
+      previous clinical study. SETTING: Patients were selected from the general 
+      population. PATIENTS: A total of 371 untreated postmenopausal osteoporotic women 
+      aged 50 to 84 years with a lumbar T-score </= -2.5 SD or </= -1 SD with at least one 
+      osteoporotic fracture. INTERVENTIONS: Transiliac bone biopsies were obtained 
+      after a double tetracycline labeling, and blood samples were collected. MAIN 
+      OUTCOME MEASURES: The static and dynamic parameters of formation and bone 
+      resorption were measured by histomorphometry. Serum biochemical markers of 
+      formation (bone alkaline phosphatase [ALP]; procollagen type I N-terminal 
+      propeptide [PINP]) and resorption (C-terminal crosslinking telopeptide of 
+      collagen type 1 [sCTX]) were assessed. RESULTS: The mean values of biochemical 
+      markers were: bone ALP, 15.0 +/- 5.2 ng/mL; PINP, 56.2 +/- 21.9 mug/mL; and sCTX, 0.58 
+      +/- 0.26 ng/mL. Bone ALP and PINP were significantly correlated with both the 
+      static and dynamic parameters of formation (0.21 </= r' </= 0.36; 0.01 >/= P >/= .0001). 
+      sCTX was significantly correlated with all resorption parameters (0.18 </= r' </= 
+      0.24; 0.02 >/= P >/= .0001). CONCLUSION: Bone turnover markers were significantly but 
+      modestly associated with bone turnover parameters measured in iliac cancellous 
+      bone. The iliac crest bone may not represent perfectly the whole bone turnover.
+FAU - Chavassieux, Pascale
+AU  - Chavassieux P
+AD  - Inserm UMR 1033 and Universite de Lyon, 69372 Lyon, France.
+FAU - Portero-Muzy, Nathalie
+AU  - Portero-Muzy N
+AD  - Inserm UMR 1033 and Universite de Lyon, 69372 Lyon, France.
+FAU - Roux, Jean-Paul
+AU  - Roux JP
+AD  - Inserm UMR 1033 and Universite de Lyon, 69372 Lyon, France.
+FAU - Garnero, Patrick
+AU  - Garnero P
+AD  - Inserm UMR 1033 and Universite de Lyon, 69372 Lyon, France.
+FAU - Chapurlat, Roland
+AU  - Chapurlat R
+AD  - Inserm UMR 1033 and Universite de Lyon, 69372 Lyon, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151027
+PL  - United States
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of clinical endocrinology and metabolism
+JID - 0375362
+RN  - 0 (Biomarkers)
+RN  - 0 (C-terminal cross-linking telopeptide of type II collagen, human)
+RN  - 0 (Collagen Type II)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (Procollagen)
+RN  - 0 (procollagen Type I N-terminal peptide)
+RN  - EC 3.1.3.1 (Alkaline Phosphatase)
+SB  - IM
+CIN - J Clin Endocrinol Metab. 2016 Feb;101(2):L17-8. doi: 10.1210/jc.2015-4219. PMID: 
+      26840107
+CIN - J Clin Endocrinol Metab. 2016 Feb;101(2):L19. doi: 10.1210/jc.2015-4341. PMID: 
+      26840108
+CIN - J Clin Endocrinol Metab. 2016 Feb;101(2):L24-5. doi: 10.1210/jc.2015-4112. PMID: 
+      26840111
+CIN - J Clin Endocrinol Metab. 2016 Feb;101(2):L26. doi: 10.1210/jc.2015-4237. PMID: 
+      26840112
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alkaline Phosphatase/genetics/metabolism
+MH  - Biomarkers/*metabolism
+MH  - *Bone Remodeling
+MH  - Bone Resorption/genetics
+MH  - Bone and Bones/*pathology
+MH  - Collagen Type II/genetics/metabolism
+MH  - Female
+MH  - Humans
+MH  - Ilium/chemistry/metabolism
+MH  - Kidney Function Tests
+MH  - Middle Aged
+MH  - Osteogenesis/genetics
+MH  - Osteoporosis/metabolism/pathology
+MH  - Osteoporotic Fractures/metabolism/pathology
+MH  - Peptide Fragments/genetics/metabolism
+MH  - Postmenopause/*metabolism
+MH  - Procollagen/genetics/metabolism
+EDAT- 2015/10/28 06:00
+MHDA- 2016/04/19 06:00
+CRDT- 2015/10/28 06:00
+PHST- 2015/10/28 06:00 [entrez]
+PHST- 2015/10/28 06:00 [pubmed]
+PHST- 2016/04/19 06:00 [medline]
+AID - 10.1210/jc.2015-2957 [doi]
+PST - ppublish
+SO  - J Clin Endocrinol Metab. 2015 Dec;100(12):4662-8. doi: 10.1210/jc.2015-2957. Epub 
+      2015 Oct 27.

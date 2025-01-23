@@ -1,0 +1,68 @@
+PMID- 12484580
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030124
+LR  - 20151119
+IS  - 0035-8843 (Print)
+IS  - 1478-7083 (Electronic)
+IS  - 0035-8843 (Linking)
+VI  - 84
+IP  - 6
+DP  - 2002 Nov
+TI  - Informed consent for total hip arthroplasty: does a written information sheet 
+      improve recall by patients?
+PG  - 404-8
+AB  - OBJECTIVE: To ascertain whether a written information sheet is acceptable to 
+      patients and improves recall of the consent interview. DESIGN: Prospective 
+      randomised controlled study using questionnaires, comparing a group of patients 
+      given information in a written sheet with appropriate explanation to a group 
+      given verbal information alone. SETTING: A specialist orthopaedic surgery unit. 
+      PATIENTS: The test group was 126 patients undergoing revision or primary total 
+      hip arthroplasty; 65 patients were given information verbally, 61 patients were 
+      given written information. OUTCOME MEASURE: Patients' recall of information 
+      given, tested with a questionnaire completed on admission (mean of 18 days 
+      later). RESULTS: The patients receiving written information scored significantly 
+      higher (48% correct answers) than the patients receiving verbal information (38% 
+      correct answers). CONCLUSIONS: Written information sheets contribute to the 
+      process of informed consent. As patients' recall of information is generally 
+      poor, the sheets may also be useful medicolegally, as a permanent record of what 
+      was discussed.
+FAU - Langdon, I J
+AU  - Langdon IJ
+AD  - University Department of Orthopaedic Surgery, Avon Orthopaedic Centre, Southmead 
+      Hospital, Bristol, UK. Ilana.Langdon@ruh-bath.swest.nhs.uk
+FAU - Hardin, R
+AU  - Hardin R
+FAU - Learmonth, I D
+AU  - Learmonth ID
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Ann R Coll Surg Engl
+JT  - Annals of the Royal College of Surgeons of England
+JID - 7506860
+SB  - IM
+MH  - *Arthroplasty, Replacement, Hip
+MH  - Female
+MH  - Humans
+MH  - Informed Consent/ethics/*legislation & jurisprudence
+MH  - Male
+MH  - *Mental Recall
+MH  - Patient Education as Topic/*methods
+MH  - Professional-Patient Relations
+MH  - Prospective Studies
+MH  - Surveys and Questionnaires
+PMC - PMC2504187
+EDAT- 2002/12/18 04:00
+MHDA- 2003/01/25 04:00
+PMCR- 2003/11/01
+CRDT- 2002/12/18 04:00
+PHST- 2002/12/18 04:00 [pubmed]
+PHST- 2003/01/25 04:00 [medline]
+PHST- 2002/12/18 04:00 [entrez]
+PHST- 2003/11/01 00:00 [pmc-release]
+AID - 10.1308/003588402760978201 [doi]
+PST - ppublish
+SO  - Ann R Coll Surg Engl. 2002 Nov;84(6):404-8. doi: 10.1308/003588402760978201.

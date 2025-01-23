@@ -1,0 +1,78 @@
+PMID- 19156007
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090923
+LR  - 20220330
+IS  - 1538-9235 (Electronic)
+IS  - 1040-5488 (Linking)
+VI  - 86
+IP  - 2
+DP  - 2009 Feb
+TI  - Can clinicians use the PHQ-9 to assess depression in people with vision loss?
+PG  - 139-45
+LID - 10.1097/OPX.0b013e318194eb47 [doi]
+AB  - PURPOSE: To investigate whether the Patient Health Questionnaire-9 (PHQ-9) 
+      possesses the essential psychometric characteristics to measure depressive 
+      symptoms in people with visual impairment. METHODS: The PHQ-9 scale was completed 
+      by 103 participants with low vision. These data were then assessed for fit to the 
+      Rasch model. RESULTS: The participants' mean +/- standard deviation (SD) age was 
+      74.7 +/- 12.2 years. Almost one half of them (n = 46; 44.7%) were considered to 
+      have severe vision impairment (presenting visual acuity <6/60 in the better eye). 
+      Disordered thresholds were evident initially. Collapsing the two middle 
+      categories produced ordered thresholds and fit to the Rasch model (chi = 10.1; 
+      degrees of freedom = 9; p = 0.34). The mean (SD) items and persons Fit Residual 
+      values were -0.31 (1.12) and -0.25 (0.78), respectively, where optimal fit of 
+      data to the Rasch model would have a mean = 0 and SD = 1. Unidimensionality was 
+      demonstrated confirming the construct validity of the PHQ-9 and there was no 
+      evidence of differential item functioning on a number of factors including visual 
+      disability. The person separation reliability value was 0.80 indicating that the 
+      PHQ-9 has satisfactory precision. There was a degree of mistargeting as expected 
+      in this largely non-clinically depressed sample. CONCLUSIONS: Our findings 
+      demonstrate that the PHQ-9, when scaled with Rasch analysis, forms a linear 
+      interval measurement of depressive symptoms suitable for use in a vision impaired 
+      population.
+FAU - Lamoureux, Ecosse L
+AU  - Lamoureux EL
+AD  - Singapore Eye Research Institute, Singapore National Eye Centre, Singapore. 
+      ecosse@unimelb.edu.au
+FAU - Tee, H Wen
+AU  - Tee HW
+FAU - Pesudovs, Konrad
+AU  - Pesudovs K
+FAU - Pallant, Julie F
+AU  - Pallant JF
+FAU - Keeffe, Jill E
+AU  - Keeffe JE
+FAU - Rees, Gwen
+AU  - Rees G
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - United States
+TA  - Optom Vis Sci
+JT  - Optometry and vision science : official publication of the American Academy of 
+      Optometry
+JID - 8904931
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Blindness/*complications/psychology
+MH  - Depression/*diagnosis/etiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Psychometrics/methods
+MH  - Severity of Illness Index
+MH  - *Surveys and Questionnaires
+MH  - Visual Acuity
+EDAT- 2009/01/22 09:00
+MHDA- 2009/09/24 06:00
+CRDT- 2009/01/22 09:00
+PHST- 2009/01/22 09:00 [entrez]
+PHST- 2009/01/22 09:00 [pubmed]
+PHST- 2009/09/24 06:00 [medline]
+AID - 00006324-200902000-00014 [pii]
+AID - 10.1097/OPX.0b013e318194eb47 [doi]
+PST - ppublish
+SO  - Optom Vis Sci. 2009 Feb;86(2):139-45. doi: 10.1097/OPX.0b013e318194eb47.

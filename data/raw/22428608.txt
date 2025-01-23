@@ -1,0 +1,73 @@
+PMID- 22428608
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121128
+LR  - 20120723
+IS  - 1651-1999 (Electronic)
+IS  - 0803-7051 (Linking)
+VI  - 21
+IP  - 4
+DP  - 2012 Aug
+TI  - Would corrected QT dispersion predict left ventricular hypertrophy in 
+      hypertensive patients?
+PG  - 249-54
+LID - 10.3109/08037051.2012.668663 [doi]
+AB  - AIMS: We explored whether QT corrected dispersion (QTcD) can identify left 
+      ventricular hypertrophy (LVH) in hypertensives. METHODS: We enrolled 100 
+      hypertensive patients (study group) and 30 normotensive subjects (control group). 
+      Echocardiography was performed to measure left ventricular mass and left 
+      ventricular mass index. Electrocardiogram was performed to measure QTcD. RESULTS: 
+      LVH was present in 42 patients (42%) of the study group, none among controls. 
+      Hypertensive patients had significantly greater indices of LVH and QTcD compared 
+      with controls (p <0.001 for all). Similarly, among hypertensive patients, those 
+      with LVH had a significantly greater QTcD compared with those without (p <0.001). 
+      Pearson's correlation coefficient test demonstrated strongly positive 
+      correlations between QTcD and the indices of LVH (p <0.001 for all). Analysis of 
+      the receiver operating characteristic curves identified 60 ms as the optimal 
+      cut-off value of QTcD that best predicts LVH in hypertensives. Using this value, 
+      QTcD was able to predict LVH with a sensitivity of 92.9% and specificity 98.2%. 
+      CONCLUSIONS: QTcD is significantly increased in hypertensive patients with LVH 
+      compared with those without, being strongly correlated with the indices of LVH. A 
+      QTcD cut-off value of 60 ms predicted LVH in hypertensive patients with a high 
+      sensitivity and specificity.
+FAU - Abdal-Barr, Mohamed G
+AU  - Abdal-Barr MG
+AD  - Cardiology Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+FAU - Safwat, Mina
+AU  - Safwat M
+FAU - Nammas, Wail
+AU  - Nammas W
+LA  - eng
+PT  - Journal Article
+DEP - 20120320
+PL  - England
+TA  - Blood Press
+JT  - Blood pressure
+JID - 9301454
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Cross-Sectional Studies
+MH  - Echocardiography
+MH  - Electrocardiography
+MH  - Female
+MH  - Humans
+MH  - Hypertension/complications/*physiopathology
+MH  - Hypertrophy, Left Ventricular/complications/*diagnosis/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Contraction/*physiology
+MH  - Predictive Value of Tests
+MH  - Risk Factors
+MH  - Sensitivity and Specificity
+MH  - Statistics, Nonparametric
+EDAT- 2012/03/21 06:00
+MHDA- 2012/12/10 06:00
+CRDT- 2012/03/21 06:00
+PHST- 2012/03/21 06:00 [entrez]
+PHST- 2012/03/21 06:00 [pubmed]
+PHST- 2012/12/10 06:00 [medline]
+AID - 10.3109/08037051.2012.668663 [doi]
+PST - ppublish
+SO  - Blood Press. 2012 Aug;21(4):249-54. doi: 10.3109/08037051.2012.668663. Epub 2012 
+      Mar 20.

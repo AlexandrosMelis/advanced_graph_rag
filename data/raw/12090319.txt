@@ -1,0 +1,81 @@
+PMID- 12090319
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030109
+LR  - 20190906
+IS  - 0301-1623 (Print)
+IS  - 0301-1623 (Linking)
+VI  - 33
+IP  - 1
+DP  - 2002
+TI  - Is there a need for pelvic CT scan in cases of renal cell carcinoma?
+PG  - 13-5
+AB  - OBJECTIVES: To determine the necessity of pelvic computed tomography (CT) in 
+      patients of renal cell carcinoma (RCC). MATERIALS AND METHODS: We reviewed the 
+      records of 400 patients of RCC, who underwent treatment at our institution 
+      between January 1988 and February 2001. These patients were evaluated 
+      pre-operatively with ultrasonograms (USG) and contrast enhanced CT scan of the 
+      abdomen and pelvis. USG or CT scans of these cases were reviewed for presence of 
+      pathology in the pelvis, which were classified into 3 categories viz; benign and 
+      likely to be insignificant, benign and likely to be significant; and malignant. 
+      RESULTS: Of the 400 cases, 114 were stage I, 68 were stage II, 99 were stage III 
+      and 119 were stage IV. In all patients, tumour was identified in the kidney on 
+      preoperative CT scan. Fourteen patients (3.5%) had an abnormality on pelvic CT. 
+      Five (1.25%) had category 1, three (0.75%) had category 2 and six (1.5%) had 
+      category 3 abnormality on pelvic CT. However, all these abnormalities in pelvis 
+      were detected prior to CT by other investigations (USG or plain x-ray). Of the 
+      six cases with malignant findings, two had superficial bladder cancer, one had 
+      RCC in a pelvic kidney and three had bone metastases in the pelvis. CONCLUSIONS: 
+      Pelvic CT does not offer additional information in the vast majority of cases 
+      with RCC and should be performed selectively. Thus the cost of diagnostic imaging 
+      in RCC can be reduced.
+FAU - Khaitan, Anurag
+AU  - Khaitan A
+AD  - Department of Urology, All India Institute of Medical Sciences, New Delhi.
+FAU - Gupta, Narmada P
+AU  - Gupta NP
+FAU - Hemal, Ashok K
+AU  - Hemal AK
+FAU - Dogra, P N
+AU  - Dogra PN
+FAU - Seth, Amlesh
+AU  - Seth A
+FAU - Aron, Monish
+AU  - Aron M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Netherlands
+TA  - Int Urol Nephrol
+JT  - International urology and nephrology
+JID - 0262521
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Biopsy, Needle
+MH  - Carcinoma, Renal Cell/*diagnostic imaging/pathology/*surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - India
+MH  - Kidney Neoplasms/*diagnostic imaging/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Needs Assessment
+MH  - Neoplasm Staging
+MH  - Nephrectomy
+MH  - Pelvis/diagnostic imaging
+MH  - Preoperative Care/methods
+MH  - Registries
+MH  - Retrospective Studies
+MH  - Tomography, X-Ray Computed/*statistics & numerical data
+MH  - *Unnecessary Procedures
+EDAT- 2002/07/02 10:00
+MHDA- 2003/01/10 04:00
+CRDT- 2002/07/02 10:00
+PHST- 2002/07/02 10:00 [pubmed]
+PHST- 2003/01/10 04:00 [medline]
+PHST- 2002/07/02 10:00 [entrez]
+AID - 10.1023/a:1014432331201 [doi]
+PST - ppublish
+SO  - Int Urol Nephrol. 2002;33(1):13-5. doi: 10.1023/a:1014432331201.

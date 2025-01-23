@@ -1,0 +1,81 @@
+PMID- 18243752
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080715
+LR  - 20080408
+IS  - 1278-3218 (Print)
+IS  - 1278-3218 (Linking)
+VI  - 12
+IP  - 2
+DP  - 2008 Mar
+TI  - [Should chest wall irradiation be included after mastectomy and negative node 
+      breast cancer?].
+PG  - 73-7
+LID - 10.1016/j.canrad.2007.12.004 [doi]
+AB  - PURPOSE: This study aims to evaluate local failure patterns in node negative 
+      breast cancer patients treated with post-mastectomy radiotherapy including 
+      internal mammary chain only. PATIENTS AND METHODS: Retrospective analysis of 92 
+      internal or central-breast node-negative tumours with mastectomy and external 
+      irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 
+      1998. RESULTS: Local recurrence rate was 5 % (five cases). Recurrence sites were 
+      the operative scare and chest wall. Factors associated with increased risk of 
+      local failure were age < or = 40 years and tumour size greater than 20mm, without 
+      statistical significance. CONCLUSION: Post-mastectomy radiotherapy should be 
+      discussed for a sub-group of node-negative patients with predictors factors of 
+      local failure such as age < or = 40 years and larger tumour size.
+FAU - Ben Ammar, C N
+AU  - Ben Ammar CN
+AD  - Service de radiotherapie-oncologie, institut Salah-Azaiz, boulevard du 9 avril, 
+      1006 Bab-Saadoun, Tunis, Tunisie. chiraz_ammar@yahoo.com
+FAU - Kochbati, L
+AU  - Kochbati L
+FAU - Chraeit, N
+AU  - Chraeit N
+FAU - Amrouche, A
+AU  - Amrouche A
+FAU - Gargouri, W
+AU  - Gargouri W
+FAU - Frikha, H
+AU  - Frikha H
+FAU - Besbes, M
+AU  - Besbes M
+FAU - Abdallah, M B
+AU  - Abdallah MB
+FAU - Maalej, M
+AU  - Maalej M
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+TT  - L'irradiation parietale est-elle justifiee apres mastectomie et curage negatif ?
+DEP - 20080220
+PL  - France
+TA  - Cancer Radiother
+JT  - Cancer radiotherapie : journal de la Societe francaise de radiotherapie 
+      oncologique
+JID - 9711272
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Breast Neoplasms/*prevention & control
+MH  - Female
+MH  - Humans
+MH  - *Mastectomy
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/*prevention & control
+MH  - Radiotherapy
+MH  - Retrospective Studies
+MH  - Thoracic Wall
+EDAT- 2008/02/05 09:00
+MHDA- 2008/07/17 09:00
+CRDT- 2008/02/05 09:00
+PHST- 2007/08/29 00:00 [received]
+PHST- 2007/11/13 00:00 [revised]
+PHST- 2007/12/12 00:00 [accepted]
+PHST- 2008/02/05 09:00 [pubmed]
+PHST- 2008/07/17 09:00 [medline]
+PHST- 2008/02/05 09:00 [entrez]
+AID - S1278-3218(07)00336-8 [pii]
+AID - 10.1016/j.canrad.2007.12.004 [doi]
+PST - ppublish
+SO  - Cancer Radiother. 2008 Mar;12(2):73-7. doi: 10.1016/j.canrad.2007.12.004. Epub 
+      2008 Feb 20.

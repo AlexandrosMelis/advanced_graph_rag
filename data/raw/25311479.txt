@@ -1,0 +1,99 @@
+PMID- 25311479
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151123
+LR  - 20150114
+IS  - 1470-2738 (Electronic)
+IS  - 0143-005X (Linking)
+VI  - 69
+IP  - 2
+DP  - 2015 Feb
+TI  - The inverse equity hypothesis: does it apply to coverage of cancer screening in 
+      middle-income countries?
+PG  - 149-55
+LID - 10.1136/jech-2014-204355 [doi]
+AB  - BACKGROUND: It is uncertain whether the inverse equity hypothesis-the idea that 
+      new health interventions are initially primarily accessed by the rich, but that 
+      inequalities narrow with diffusion to the poor-holds true for cancer screening in 
+      low and middle income countries (LMICs).This study examines the relationship 
+      between overall coverage and economic inequalities in coverage of cancer 
+      screening in four middle-income countries. METHODS: Secondary analyses of 
+      cross-sectional data from the WHO study on Global Ageing and Adult Health in 
+      China, Mexico, Russia and South Africa (2007-2010). Three regression-based 
+      methods were used to measure economic inequalities: (1) Adjusted OR; (2) Relative 
+      Index of Inequality (RII); and (3) Slope Index of Inequality. RESULTS: Coverage 
+      for breast cancer screening was 10.5% in South Africa, 19.3% in China, 33.8% in 
+      Russia and 43% in Mexico, and coverage for cervical cancer screening was 24% in 
+      South Africa, 27.2% in China, 63.7% in Mexico and 81.5% in Russia. Economic 
+      inequalities in screening participation were substantially lower or non-existent 
+      in countries with higher aggregate coverage, for both breast cancer screening 
+      (RII: 14.57 in South Africa, 4.90 in China, 2.01 in Mexico, 1.04 in Russia) and 
+      cervical cancer screening (RII: 3.60 in China, 2.47 in South Africa, 1.39 in 
+      Mexico, 1.12 in Russia). CONCLUSIONS: Economic inequalities in breast and 
+      cervical cancer screening are low in LMICs with high screening coverage. These 
+      findings are consistent with the inverse equity hypothesis and indicate that high 
+      levels of equity in cancer screening are feasible even in countries with high 
+      income inequality.
+CI  - Published by the BMJ Publishing Group Limited. For permission to use (where not 
+      already granted under a licence) please go to 
+      http://group.bmj.com/group/rights-licensing/permissions.
+FAU - Lee, John Tayu
+AU  - Lee JT
+AD  - Department of Primary Care and Public Health, School of Public Health, Imperial 
+      College London, London, UK.
+FAU - Huang, Zhilian
+AU  - Huang Z
+AD  - Department of Primary Care and Public Health, School of Public Health, Imperial 
+      College London, London, UK.
+FAU - Basu, Sanjay
+AU  - Basu S
+AD  - Prevention Research Center, Stanford University, Palo Alto, California, USA.
+FAU - Millett, Christopher
+AU  - Millett C
+AD  - Department of Primary Care and Public Health, School of Public Health, Imperial 
+      College London, London, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141013
+PL  - England
+TA  - J Epidemiol Community Health
+JT  - Journal of epidemiology and community health
+JID - 7909766
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Breast Neoplasms/*diagnosis
+MH  - China
+MH  - Cross-Cultural Comparison
+MH  - Cross-Sectional Studies
+MH  - Developing Countries/*economics/statistics & numerical data
+MH  - Early Detection of Cancer/*economics/statistics & numerical data
+MH  - Female
+MH  - Health Services Accessibility/*economics/statistics & numerical data
+MH  - Humans
+MH  - Mexico
+MH  - Middle Aged
+MH  - Regression Analysis
+MH  - Russia
+MH  - *Social Class
+MH  - South Africa
+MH  - Uterine Cervical Neoplasms/*diagnosis
+OTO - NOTNLM
+OT  - ACCESS TO HLTH CARE
+OT  - AGEING
+OT  - CANCER: BREAST
+OT  - CANCER: CERVIX
+OT  - Health inequalities
+EDAT- 2014/10/15 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2014/10/15 06:00
+PHST- 2014/10/15 06:00 [entrez]
+PHST- 2014/10/15 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+AID - jech-2014-204355 [pii]
+AID - 10.1136/jech-2014-204355 [doi]
+PST - ppublish
+SO  - J Epidemiol Community Health. 2015 Feb;69(2):149-55. doi: 
+      10.1136/jech-2014-204355. Epub 2014 Oct 13.

@@ -1,0 +1,82 @@
+PMID- 8847047
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961024
+LR  - 20061115
+IS  - 0172-6390 (Print)
+IS  - 0172-6390 (Linking)
+VI  - 42
+IP  - 6
+DP  - 1995 Nov-Dec
+TI  - Prognosis of well differentiated small hepatocellular carcinoma--is well 
+      differentiated hepatocellular carcinoma clinically early cancer?
+PG  - 923-30
+AB  - BACKGROUND/AIMS: The purpose of this study is to examine whether or not well 
+      differentiated (w-d) hepatocellular carcinoma (HCC) is indeed clinically early 
+      cancer. MATERIALS AND METHODS: Seventy six patients with solitary small HCCs up 
+      to 3 cm in diameter, who underwent hepatectomy, were observed for at least 2 
+      years for possible recurrence. These patients were divided into two groups: 10 
+      patients with w-d HCCs (Edmondson and Steiner's grade I) and 66 patients with 
+      less differentiated (l-d) HCCs (Edmondson and Steiner's grade I-II, II-III, and 
+      III). RESULTS: The histological analysis revealed that w-d HCCs had lower 
+      incidences of fibrous capsule formation (P<0.01), when compared to l-d HCCs. 
+      There were no significant differences in the incidence of intrahepatic 
+      metastasis, or portal vein invasion. In a resected specimen of w-d HCC, barium 
+      sulfate and gelatin were injected into portal vein and a transparent specimen was 
+      made. The transparent specimen showed that the portal vein in the tumor seemed to 
+      be intact. Microscopically, cancer cell infiltration into the fibrous frame of 
+      the portal tract was present. There were no significant differences in the 
+      disease free survival between the two groups. An analysis of tumor volume 
+      doubling time in recurrent foci suggested that minute cancerous foci had been 
+      present at the time of operation. CONCLUSIONS: W-d HCCs were clinically 
+      demonstrated not to be early cancer, because there was no significant difference 
+      in disease free survival between the patients with w-d and l-d HCCs.
+FAU - Shirabe, K
+AU  - Shirabe K
+AD  - Second Department of Surgery, Faculty of Medicine, Kyushu University, Fukuoka, 
+      Japan.
+FAU - Matsumata, T
+AU  - Matsumata T
+FAU - Adachi, E
+AU  - Adachi E
+FAU - Maeda, T
+AU  - Maeda T
+FAU - Shimada, M
+AU  - Shimada M
+FAU - Taketomi, A
+AU  - Taketomi A
+FAU - Sugimachi, K
+AU  - Sugimachi K
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Greece
+TA  - Hepatogastroenterology
+JT  - Hepato-gastroenterology
+JID - 8007849
+SB  - IM
+MH  - Carcinoma, Hepatocellular/*epidemiology/*pathology/surgery
+MH  - Case-Control Studies
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hepatectomy
+MH  - Humans
+MH  - Incidence
+MH  - Liver/*pathology
+MH  - Liver Neoplasms/*epidemiology/*pathology/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Recurrence, Local/epidemiology
+MH  - Portal Vein/pathology
+MH  - Prognosis
+MH  - Time Factors
+EDAT- 1995/11/01 00:00
+MHDA- 1995/11/01 00:01
+CRDT- 1995/11/01 00:00
+PHST- 1995/11/01 00:00 [pubmed]
+PHST- 1995/11/01 00:01 [medline]
+PHST- 1995/11/01 00:00 [entrez]
+PST - ppublish
+SO  - Hepatogastroenterology. 1995 Nov-Dec;42(6):923-30.

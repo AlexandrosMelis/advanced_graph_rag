@@ -1,0 +1,84 @@
+PMID- 17445978
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080226
+LR  - 20220311
+IS  - 0302-2838 (Print)
+IS  - 0302-2838 (Linking)
+VI  - 52
+IP  - 4
+DP  - 2007 Oct
+TI  - Is renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy 
+      possible? One-year results of a prospective study.
+PG  - 1170-8
+AB  - OBJECTIVE: To evaluate renal damage and impairment of renal function 1 yr after 
+      laparoscopic partial nephrectomy (LPN) with warm ischemia >30 min. METHODS: From 
+      July 2004 to June 2005, 18 patients underwent LPN with warm ischemia time >30 
+      min. Kidney damage markers (daily proteinuria and tubular enzymes) and renal 
+      function (serum creatinine, cystatin C, and creatinine clearances) were assessed 
+      on postoperative days 1 and 5 and at 12 mo. Glomerular filtration rate (GFR) was 
+      evaluated before surgery and at 3 mo. Renal scintigraphy was performed before the 
+      procedure, at 5 d and at 3 and 12 mo postoperatively. Statistical analysis was 
+      performed using the Student t test and logistic regression analysis. RESULTS: In 
+      terms of kidney damage and renal function markers, the statistical analysis 
+      demonstrated that at 1 yr there was complete return to the normal range and no 
+      statistical difference between the values at the various time points. The GFR was 
+      not significantly different before and 3 mo after surgery. In terms of 
+      scintigraphy of the operated kidney, the values were 48.35+/-3.82% (40-50%) 
+      before the procedure, 36.88+/-8.42 (16-50%) on postoperative day 5 (p=0.0001), 
+      40.56+/-8.96 (20-50%) at 3 mo (p=0.003), and 42.8+/-7.2% (20-50%) 1 yr after 
+      surgery (p=0.001). CONCLUSION: Our results demonstrate that kidney damage occurs 
+      during LPN when warm ischemia is >30 min. This damage is only partially 
+      reversible and efforts should be made to keep warm ischemia within 30 min.
+FAU - Porpiglia, Francesco
+AU  - Porpiglia F
+AD  - Department of Urology, University of Turin, San Luigi Hospital, Orbassano Torino, 
+      Italy. porpiglia@libero.it
+FAU - Renard, Julien
+AU  - Renard J
+FAU - Billia, Michele
+AU  - Billia M
+FAU - Musso, Francesca
+AU  - Musso F
+FAU - Volpe, Alessandro
+AU  - Volpe A
+FAU - Burruni, Rodolfo
+AU  - Burruni R
+FAU - Terrone, Carlo
+AU  - Terrone C
+FAU - Colla, Loredana
+AU  - Colla L
+FAU - Piccoli, Giorgina
+AU  - Piccoli G
+FAU - Podio, Valerio
+AU  - Podio V
+FAU - Scarpa, Roberto Mario
+AU  - Scarpa RM
+LA  - eng
+PT  - Journal Article
+DEP - 20070411
+PL  - Switzerland
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+SB  - IM
+CIN - Eur Urol. 2007 Oct;52(4):961-3. doi: 10.1016/j.eururo.2007.04.051. PMID: 17499424
+MH  - Humans
+MH  - Ischemia/*complications
+MH  - Kidney/*pathology
+MH  - Laparoscopy/*methods
+MH  - Nephrectomy/*methods
+MH  - Prospective Studies
+EDAT- 2007/04/21 09:00
+MHDA- 2008/02/27 09:00
+CRDT- 2007/04/21 09:00
+PHST- 2007/01/30 00:00 [received]
+PHST- 2007/04/05 00:00 [accepted]
+PHST- 2007/04/21 09:00 [pubmed]
+PHST- 2008/02/27 09:00 [medline]
+PHST- 2007/04/21 09:00 [entrez]
+AID - S0302-2838(07)00552-0 [pii]
+AID - 10.1016/j.eururo.2007.04.024 [doi]
+PST - ppublish
+SO  - Eur Urol. 2007 Oct;52(4):1170-8. doi: 10.1016/j.eururo.2007.04.024. Epub 2007 Apr 
+      11.

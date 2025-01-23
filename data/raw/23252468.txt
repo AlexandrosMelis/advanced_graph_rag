@@ -1,0 +1,83 @@
+PMID- 23252468
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131211
+LR  - 20171116
+IS  - 1526-4610 (Electronic)
+IS  - 0017-8748 (Linking)
+VI  - 53
+IP  - 2
+DP  - 2013 Feb
+TI  - Do episodic migraineurs selectively attend to headache-related visual stimuli?
+PG  - 356-64
+LID - 10.1111/head.12011 [doi]
+AB  - OBJECTIVE: To assess pain-related attentional biases among individuals with 
+      episodic migraine. BACKGROUND: Prior studies have examined whether chronic pain 
+      patients selectively attend to pain-related stimuli in the environment, but these 
+      studies have produced largely mixed findings and focused primarily on patients 
+      with chronic musculoskeletal pain. Limited research has implicated attentional 
+      biases among chronic headache patients, but no studies have been conducted among 
+      episodic migraineurs, who comprise the overwhelming majority of the migraine 
+      population. METHODS: This was a case-control, experimental study. Three hundred 
+      and eight participants (mean age = 19.2 years [standard deviation = 3.3]; 69.5% 
+      female; 36.4% minority), consisting of 84 episodic migraineurs, diagnosed in 
+      accordance with International Classification of Headache Disorders (2(nd) 
+      edition) criteria using a structured diagnostic interview, and 224 non-migraine 
+      controls completed a computerized dot probe task to assess attentional bias 
+      toward headache-related pictorial stimuli. The task consisted of 192 trials and 
+      utilized 2 emotional-neutral stimulus pairing conditions (headache-neutral and 
+      happy-neutral). RESULTS: No within-group differences for reaction time latencies 
+      to headache vs happy conditions were found among those with episodic migraine or 
+      among the non-migraine controls. Migraine status was unrelated to attentional 
+      bias indices for both headache (F [1,306] = 0.56, P = .45) and happy facial 
+      stimuli (F [1,306] = 0.37, P = .54), indicating a lack of between-group 
+      differences. Lack of within- and between-group differences was confirmed with 
+      repeated measures analysis of variance. CONCLUSIONS: In light of the large sample 
+      size and prior pilot testing of presented images, results suggest that episodic 
+      migraineurs do not differentially attend to headache-related facial stimuli. 
+      Given modest evidence of attentional biases among chronic headache samples, these 
+      findings suggest potential differences in attentional processing between chronic 
+      and episodic headache subforms.
+CI  - (c) 2012 American Headache Society.
+FAU - McDermott, Michael J
+AU  - McDermott MJ
+AD  - Department of Psychology, University of Mississippi, Oxford, MS 38677, USA.
+FAU - Peck, Kelly R
+AU  - Peck KR
+FAU - Walters, A Brooke
+AU  - Walters AB
+FAU - Smitherman, Todd A
+AU  - Smitherman TA
+LA  - eng
+PT  - Journal Article
+DEP - 20121218
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+SB  - IM
+MH  - Adolescent
+MH  - Attention/*physiology
+MH  - Bias
+MH  - Case-Control Studies
+MH  - Disability Evaluation
+MH  - Emotions/*physiology
+MH  - Female
+MH  - Headache/*etiology
+MH  - Humans
+MH  - Male
+MH  - Migraine Disorders/*complications/diagnosis
+MH  - Photic Stimulation/*adverse effects
+MH  - Reaction Time
+MH  - Surveys and Questionnaires
+MH  - Young Adult
+EDAT- 2012/12/21 06:00
+MHDA- 2013/12/16 06:00
+CRDT- 2012/12/21 06:00
+PHST- 2012/10/30 00:00 [accepted]
+PHST- 2012/12/21 06:00 [entrez]
+PHST- 2012/12/21 06:00 [pubmed]
+PHST- 2013/12/16 06:00 [medline]
+AID - 10.1111/head.12011 [doi]
+PST - ppublish
+SO  - Headache. 2013 Feb;53(2):356-64. doi: 10.1111/head.12011. Epub 2012 Dec 18.

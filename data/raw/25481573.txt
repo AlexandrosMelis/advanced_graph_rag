@@ -1,0 +1,83 @@
+PMID- 25481573
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160929
+LR  - 20250103
+IS  - 1873-5134 (Electronic)
+IS  - 0738-3991 (Linking)
+VI  - 98
+IP  - 3
+DP  - 2015 Mar
+TI  - Processing fluency effects: can the content and presentation of participant 
+      information sheets influence recruitment and participation for an antenatal 
+      intervention?
+PG  - 391-4
+LID - S0738-3991(14)00478-9 [pii]
+LID - 10.1016/j.pec.2014.11.005 [doi]
+AB  - OBJECTIVE: To assess the extent to which the title and font of participant 
+      information sheets (PISs) can influence pregnant women's and trainee midwives' 
+      perceptions of an antenatal intervention. METHODS: Pregnant women (n=35) and 
+      trainee midwives (n=36) were randomly presented with one of four PISs where the 
+      title and font of the PIS had been manipulated to create four experimental 
+      conditions (i.e., Double Fluent; Double Awkward; Fluent Title-Awkward Font; 
+      Awkward Title-Fluent Font). After reading the PIS, participants rated their 
+      perceptions of the intervention (i.e., Attractiveness, Complexity, Expected Risk, 
+      Required Effort) using five-point Likert scales. RESULTS: A 4x2 factorial 
+      multivariate analysis of variance revealed that pregnant women rated the Double 
+      Awkward condition as significantly more complex than the Double Fluent (p=.024) 
+      and Awkward Title-Fluent Font (p=.021) conditions. CONCLUSION: Font influenced 
+      pregnant women's ratings of intervention complexity. PRACTICE IMPLICATIONS: 
+      Results have implications for ethical recruitment, and in turn, the optimisation 
+      of corresponding interventions.
+CI  - Copyright (c) 2014 Elsevier Ireland Ltd. All rights reserved.
+FAU - Manley, Andrew J
+AU  - Manley AJ
+AD  - Research Institute for Sport, Physical Activity & Leisure, Leeds Beckett 
+      University, Leeds, UK. Electronic address: A.J.Manley@leedsbeckett.ac.uk.
+FAU - Lavender, Tina
+AU  - Lavender T
+AD  - The School of Nursing, Midwifery and Social Work, The University of Manchester, 
+      Manchester, UK.
+FAU - Smith, Debbie M
+AU  - Smith DM
+AD  - The School of Psychological Sciences, The University of Manchester, Manchester, 
+      UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20141120
+PL  - Ireland
+TA  - Patient Educ Couns
+JT  - Patient education and counseling
+JID - 8406280
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Midwifery
+MH  - Multivariate Analysis
+MH  - *Pamphlets
+MH  - *Patient Selection
+MH  - Pregnancy
+MH  - Pregnant People/*psychology
+MH  - Prenatal Care/methods
+MH  - *Reading
+OTO - NOTNLM
+OT  - Cognitive processes
+OT  - Intervention studies
+OT  - Judgement
+OT  - Participant recruitment
+OT  - Professional standards
+OT  - Research Ethics
+EDAT- 2014/12/08 06:00
+MHDA- 2016/09/30 06:00
+CRDT- 2014/12/08 06:00
+PHST- 2014/06/12 00:00 [received]
+PHST- 2014/10/19 00:00 [revised]
+PHST- 2014/11/11 00:00 [accepted]
+PHST- 2014/12/08 06:00 [entrez]
+PHST- 2014/12/08 06:00 [pubmed]
+PHST- 2016/09/30 06:00 [medline]
+AID - S0738-3991(14)00478-9 [pii]
+AID - 10.1016/j.pec.2014.11.005 [doi]
+PST - ppublish
+SO  - Patient Educ Couns. 2015 Mar;98(3):391-4. doi: 10.1016/j.pec.2014.11.005. Epub 
+      2014 Nov 20.

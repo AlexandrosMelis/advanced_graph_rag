@@ -1,0 +1,82 @@
+PMID- 11079675
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010102
+LR  - 20220316
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 36
+IP  - 5
+DP  - 2000 Nov 1
+TI  - Pulmonary valve replacement in adults late after repair of tetralogy of fallot: 
+      are we operating too late?
+PG  - 1670-5
+AB  - OBJECTIVES: The purpose of this study is to evaluate right ventricular (RV) 
+      volume and function after pulmonary valve replacement (PVR) and to address the 
+      issue of optimal surgical timing in these patients. BACKGROUND: Chronic pulmonary 
+      regurgitation (PR) following repair of tetralogy of Fallot (TOF) leads to RV 
+      dilation and an increased incidence of sudden cardiac death in adult patients. 
+      METHODS: We studied 25 consecutive adult patients who underwent PVR for 
+      significant PR late after repair of TOF. Radionuclide angiography was performed 
+      in all at a mean of 8.2 months (+/- 8 months) before PVR and repeated at a mean 
+      of 28.0 months (+/- 22.8 months) after the operation. Right ventricular (RV) 
+      end-systolic volume (RVESV), RV end-diastolic volume (RVEDV) and RV ejection 
+      fraction (RVEF) were measured. RESULTS: Mean RVEDV, RVESV and RVEF remained 
+      unchanged after PVR (227.1 ml versus 214.9 ml, p = 0.74; 157.4 ml versus 155.4 
+      ml, p = 0.94; 35.6% versus 34.7%, p = 0.78, respectively). Of the 10 patients 
+      with RVEF > or = 0.40 before PVR, 5 patients (50%) maintained a RVEF > or = 0.40 
+      following PVR, whereas only 2 out of 15 patients (13%) with pre-operative values 
+      <0.40 reached an RVEF > or = 0.40 postoperatively (p < 0.001). CONCLUSIONS: Right 
+      ventricular recovery following PVR for chronic significant pulmonary 
+      regurgitation after repair of TOF may be compromised in the adult population. In 
+      order to maintain adequate RV contractility, pulmonary valve implant in these 
+      patients should be considered before RV function deteriorates.
+FAU - Therrien, J
+AU  - Therrien J
+AD  - University of Toronto Congenital Cardiac Center for Adults, Ontario, Canada.
+FAU - Siu, S C
+AU  - Siu SC
+FAU - McLaughlin, P R
+AU  - McLaughlin PR
+FAU - Liu, P P
+AU  - Liu PP
+FAU - Williams, W G
+AU  - Williams WG
+FAU - Webb, G D
+AU  - Webb GD
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+SB  - IM
+CIN - J Am Coll Cardiol. 2001 Jun 1;37(7):2008-9. doi: 10.1016/s0735-1097(01)01256-6. 
+      PMID: 11401149
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - *Heart Valve Prosthesis
+MH  - Humans
+MH  - Male
+MH  - Pulmonary Valve
+MH  - Pulmonary Valve Insufficiency/etiology/mortality/physiopathology/*surgery
+MH  - Radionuclide Angiography
+MH  - Survival Rate
+MH  - Tetralogy of Fallot/*complications/mortality/physiopathology
+MH  - Time Factors
+MH  - Ventricular Function, Right
+EDAT- 2000/11/18 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/11/18 11:00
+PHST- 2000/11/18 11:00 [pubmed]
+PHST- 2001/02/28 10:01 [medline]
+PHST- 2000/11/18 11:00 [entrez]
+AID - S0735-1097(00)00930-X [pii]
+AID - 10.1016/s0735-1097(00)00930-x [doi]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2000 Nov 1;36(5):1670-5. doi: 10.1016/s0735-1097(00)00930-x.

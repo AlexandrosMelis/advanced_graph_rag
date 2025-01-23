@@ -1,0 +1,70 @@
+PMID- 18359123
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080814
+LR  - 20151119
+IS  - 0168-8510 (Print)
+IS  - 0168-8510 (Linking)
+VI  - 87
+IP  - 1
+DP  - 2008 Jul
+TI  - Is it better to be big? The reconfiguration of 21st century hospitals: responses 
+      to a hospital merger in Sweden.
+PG  - 92-9
+LID - 10.1016/j.healthpol.2008.02.001 [doi]
+AB  - OBJECTIVES: Swedish hospital mergers seem to stem from a conviction among policy 
+      makers that bigger hospitals lead to lower average costs and improved clinical 
+      outcomes. The effects of mergers in the form of multisited hospitals have not 
+      been systematically evaluated. The purpose of this article is to contribute to 
+      this area of knowledge by exploring responses to the merger of Blekinge Hospital. 
+      METHODS: The evaluation was guided by the philosophy of triangulation. A 
+      questionnaire was sent to 597 randomly selected employees, that is 24% of the 
+      health care staff. Four hundred ninety-eight employees answered the 
+      questionnaire, giving a response rate of 83%. Furthermore, interviews of 
+      different groups of stakeholders were conducted. RESULTS: A moderate increase of 
+      quality was assessed, which, a low proportion of the employees perceived had 
+      decisively or largely to do with the merger. The majority perceives economical 
+      incentives as the drivers of change, but, at the same time, only 10% of this 
+      group believes this target was reached completely or to a large extent. 
+      CONCLUSIONS: The employees believe the merger has neither generated economy of 
+      scale advantages nor substantial quality improvement. Instead, it seems more 
+      rewarding to promote cross-functional collaboration together with clinical 
+      specialisation. Needs for both integration and differentiation could thereby be 
+      fulfilled.
+FAU - Ahgren, Bengt
+AU  - Ahgren B
+AD  - Nordic School of Public Health, , SE-402 42 Goteborg, Sweden. bengt.ahgren@nhv.se
+LA  - eng
+PT  - Historical Article
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080321
+PL  - Ireland
+TA  - Health Policy
+JT  - Health policy (Amsterdam, Netherlands)
+JID - 8409431
+MH  - Administrative Personnel/psychology
+MH  - *Attitude of Health Personnel
+MH  - *Health Facility Merger
+MH  - History, 21st Century
+MH  - Hospitals, Public/*organization & administration/standards
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Quality Assurance, Health Care
+MH  - State Medicine
+MH  - Surveys and Questionnaires
+MH  - Sweden
+EDAT- 2008/03/25 09:00
+MHDA- 2008/08/15 09:00
+CRDT- 2008/03/25 09:00
+PHST- 2007/08/26 00:00 [received]
+PHST- 2008/01/24 00:00 [revised]
+PHST- 2008/02/02 00:00 [accepted]
+PHST- 2008/03/25 09:00 [pubmed]
+PHST- 2008/08/15 09:00 [medline]
+PHST- 2008/03/25 09:00 [entrez]
+AID - S0168-8510(08)00036-5 [pii]
+AID - 10.1016/j.healthpol.2008.02.001 [doi]
+PST - ppublish
+SO  - Health Policy. 2008 Jul;87(1):92-9. doi: 10.1016/j.healthpol.2008.02.001. Epub 
+      2008 Mar 21.

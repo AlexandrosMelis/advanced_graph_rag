@@ -1,0 +1,187 @@
+PMID- 23792130
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140106
+LR  - 20211021
+IS  - 1527-3792 (Electronic)
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 190
+IP  - 6
+DP  - 2013 Dec
+TI  - Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in 
+      enlarged prostates?
+PG  - 2020-2025
+LID - S0022-5347(13)04619-3 [pii]
+LID - 10.1016/j.juro.2013.05.118 [doi]
+AB  - PURPOSE: Patients with an enlarged prostate and suspicion of prostate cancer pose 
+      a diagnostic dilemma. The prostate cancer detection rate of systematic 12-core 
+      transrectal ultrasound guided biopsy is between 30% and 40%. For prostates 
+      greater than 40 cc this decreases to 30% or less. Magnetic resonance-ultrasound 
+      fusion biopsy has shown superior prostate cancer detection rates. We defined the 
+      detection rate of magnetic resonance-ultrasound fusion biopsy in men with an 
+      enlarged prostate gland. MATERIALS AND METHODS: We retrospectively analyzed the 
+      records of patients who underwent multiparametric prostate magnetic resonance 
+      imaging followed by magnetic resonance-ultrasound fusion biopsy at our 
+      institution. Whole prostate volumes were calculated using magnetic resonance 
+      imaging reconstructions. Detection rates were analyzed with respect to age, 
+      prostate specific antigen and whole prostate volumes. Multivariable logistic 
+      regression was used to assess these parameters as independent predictors of 
+      prostate cancer detection. RESULTS: We analyzed 649 patients with a mean+/-SD age 
+      of 61.8+/-7.9 years and a median prostate specific antigen of 6.65 ng/ml (IQR 
+      4.35-11.0). Mean whole prostate volume was 58.7+/-34.3 cc. The overall detection 
+      rate of the magnetic resonance-ultrasound fusion platform was 55%. For prostates 
+      less than 40 cc the detection rate was 71.1% compared to 57.5%, 46.9%, 46.9% 
+      33.3%, 36.4% and 30.4% for glands 40 to 54.9, 55 to 69.9, 70 to 84.9, 85 to 99.9, 
+      100 to 114.9 and 115 cc or greater, respectively (p<0.0001). Multivariable 
+      logistic regression showed a significant inverse association of magnetic 
+      resonance imaging volume with prostate cancer detection, controlling for age and 
+      prostate specific antigen. CONCLUSIONS: Transrectal ultrasound guided and fusion 
+      biopsy cancer detection rates decreased with increasing prostate volume. However, 
+      magnetic resonance-ultrasound fusion biopsy had a higher prostate cancer 
+      detection rate compared to that of transrectal ultrasound guided biopsy in the 
+      literature. Magnetic resonance-ultrasound fusion biopsy represents a promising 
+      solution for patients with suspicion of prostate cancer and an enlarged prostate.
+CI  - Copyright (c) 2013 American Urological Association Education and Research, Inc. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Walton Diaz, Annerleim
+AU  - Walton Diaz A
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Hoang, Anthony N
+AU  - Hoang AN
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Turkbey, Baris
+AU  - Turkbey B
+AD  - Molecular Imaging Program, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Hong, Cheng William
+AU  - Hong CW
+AD  - Center for Interventional Oncology, National Cancer Institute, National 
+      Institutes of Health, Bethesda, Maryland.
+FAU - Truong, Hong
+AU  - Truong H
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Sterling, Todd
+AU  - Sterling T
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Rais-Bahrami, Soroush
+AU  - Rais-Bahrami S
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Siddiqui, M Minhaj
+AU  - Siddiqui MM
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Stamatakis, Lambros
+AU  - Stamatakis L
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Vourganti, Srinivas
+AU  - Vourganti S
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Nix, Jeffrey
+AU  - Nix J
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Logan, Jennifer
+AU  - Logan J
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Harris, Colette
+AU  - Harris C
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Weintraub, Michael
+AU  - Weintraub M
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Chua, Celene
+AU  - Chua C
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Merino, Maria J
+AU  - Merino MJ
+AD  - Laboratory of Pathology, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Choyke, Peter
+AU  - Choyke P
+AD  - Molecular Imaging Program, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland.
+FAU - Wood, Bradford J
+AU  - Wood BJ
+AD  - Center for Interventional Oncology, National Cancer Institute, National 
+      Institutes of Health, Bethesda, Maryland.
+FAU - Pinto, Peter A
+AU  - Pinto PA
+AD  - Urologic Oncology Branch, National Cancer Institute, National Institutes of 
+      Health, Bethesda, Maryland; Center for Interventional Oncology, National Cancer 
+      Institute, National Institutes of Health, Bethesda, Maryland. Electronic address: 
+      pintop@mail.nih.gov.
+LA  - eng
+GR  - Z01 BC010655-03/Intramural NIH HHS/United States
+GR  - ZIA CL040015-08/Intramural NIH HHS/United States
+GR  - ZID BC011242-08/Intramural NIH HHS/United States
+PT  - Journal Article
+DEP - 20130618
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+SB  - IM
+CIN - J Urol. 2013 Dec;190(6):2025. doi: 10.1016/j.juro.2013.05.129. PMID: 24050904
+CIN - J Urol. 2013 Dec;190(6):2025. doi: 10.1016/j.juro.2013.05.130. PMID: 24050909
+CIN - J Urol. 2015 Apr;193(4):1444-6. doi: 10.1016/j.juro.2014.10.122. PMID: 25582380
+MH  - Biopsy, Needle
+MH  - Humans
+MH  - *Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - *Multimodal Imaging
+MH  - Prostatic Hyperplasia/*diagnostic imaging/*pathology
+MH  - Prostatic Neoplasms/*diagnostic imaging/*pathology
+MH  - Retrospective Studies
+MH  - *Ultrasonography, Interventional
+PMC - PMC6301077
+MID - NIHMS895421
+OTO - NOTNLM
+OT  - BPH
+OT  - MP
+OT  - MR
+OT  - MR imaging
+OT  - MRI
+OT  - PCa
+OT  - TRUS
+OT  - US
+OT  - WP
+OT  - benign prostatic hyperplasia
+OT  - magnetic resonance
+OT  - magnetic resonance imaging
+OT  - multiparametric
+OT  - prostate
+OT  - prostate cancer
+OT  - prostatic hyperplasia
+OT  - prostatic neoplasms
+OT  - transrectal US
+OT  - ultrasonography
+OT  - ultrasound
+OT  - whole prostate
+COIS- Financial interest and/or other relationship with Philips Healthcare.
+EDAT- 2013/06/25 06:00
+MHDA- 2014/01/07 06:00
+PMCR- 2018/12/19
+CRDT- 2013/06/25 06:00
+PHST- 2013/05/30 00:00 [accepted]
+PHST- 2013/06/25 06:00 [entrez]
+PHST- 2013/06/25 06:00 [pubmed]
+PHST- 2014/01/07 06:00 [medline]
+PHST- 2018/12/19 00:00 [pmc-release]
+AID - S0022-5347(13)04619-3 [pii]
+AID - 10.1016/j.juro.2013.05.118 [doi]
+PST - ppublish
+SO  - J Urol. 2013 Dec;190(6):2020-2025. doi: 10.1016/j.juro.2013.05.118. Epub 2013 Jun 
+      18.

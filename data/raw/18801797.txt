@@ -1,0 +1,91 @@
+PMID- 18801797
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091215
+LR  - 20161124
+IS  - 1470-2738 (Electronic)
+IS  - 0143-005X (Linking)
+VI  - 63
+IP  - 2
+DP  - 2009 Feb
+TI  - Household and food shopping environments: do they play a role in socioeconomic 
+      inequalities in fruit and vegetable consumption? A multilevel study among Dutch 
+      adults.
+PG  - 113-20
+LID - 10.1136/jech.2008.078352 [doi]
+AB  - BACKGROUND: Fruit and vegetables are protective of a number of chronic diseases; 
+      however, their intakes have been shown to vary by socioeconomic position (SEP). 
+      Household and food shopping environmental factors are thought to contribute to 
+      these differences. To determine whether household and food shopping environmental 
+      factors are associated with fruit and vegetable (FV) intakes, and contribute to 
+      socioeconomic inequalities in FV consumption. METHODS: Cross-sectional data were 
+      obtained by a postal questionnaire among 4333 adults (23-85 years) living in 168 
+      neighbourhoods in the south-eastern Netherlands. Participants agreed/disagreed 
+      with a number of statements about the characteristics of their household and food 
+      shopping environments, including access, prices and quality. Education was used 
+      to characterise socioeconomic position (SEP). Main outcome measures were whether 
+      or not participants consumed fruit or vegetables on a daily basis. Multilevel 
+      logistic regression models examined between-area variance in FV consumption and 
+      associations between characteristics of the household and food shopping 
+      environments and FV consumption. RESULTS: Only a few household and food shopping 
+      environmental factors were significantly associated with fruit and vegetable 
+      consumption, and their prevalence was low. Participants who perceived FV to be 
+      expensive were more likely to consume them. There were significant socioeconomic 
+      inequalities in fruit and vegetable consumption (ORs of not consuming fruit and 
+      vegetables were 4.26 and 5.47 among the lowest-educated groups for fruit and 
+      vegetables, respectively); however, these were not explained by any household or 
+      food shopping environmental factors. CONCLUSIONS: Improving access to FV in the 
+      household and food shopping environments will only make a small contribution to 
+      improving population consumption levels, and may only have a limited effect in 
+      reducing socioeconomic inequalities in their consumption.
+FAU - Giskes, K
+AU  - Giskes K
+AD  - Department of Public Health, Erasmus Medical Centre, Rotterdam, the Netherlands. 
+      k.giskes@qut.edu.au
+FAU - van Lenthe, F J
+AU  - van Lenthe FJ
+FAU - Kamphuis, C B M
+AU  - Kamphuis CB
+FAU - Huisman, M
+AU  - Huisman M
+FAU - Brug, J
+AU  - Brug J
+FAU - Mackenbach, J P
+AU  - Mackenbach JP
+LA  - eng
+PT  - Journal Article
+DEP - 20080918
+PL  - England
+TA  - J Epidemiol Community Health
+JT  - Journal of epidemiology and community health
+JID - 7909766
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Commerce/statistics & numerical data
+MH  - Educational Status
+MH  - Environment
+MH  - Epidemiologic Methods
+MH  - *Feeding Behavior
+MH  - Food Supply/statistics & numerical data
+MH  - *Fruit
+MH  - Humans
+MH  - Middle Aged
+MH  - Netherlands
+MH  - Sex Factors
+MH  - *Social Class
+MH  - *Vegetables
+MH  - Young Adult
+EDAT- 2008/09/20 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2008/09/20 09:00
+PHST- 2008/09/20 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+PHST- 2008/09/20 09:00 [entrez]
+AID - jech.2008.078352 [pii]
+AID - 10.1136/jech.2008.078352 [doi]
+PST - ppublish
+SO  - J Epidemiol Community Health. 2009 Feb;63(2):113-20. doi: 
+      10.1136/jech.2008.078352. Epub 2008 Sep 18.

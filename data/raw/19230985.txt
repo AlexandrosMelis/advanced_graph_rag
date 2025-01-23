@@ -1,0 +1,76 @@
+PMID- 19230985
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090814
+LR  - 20090406
+IS  - 1872-8464 (Electronic)
+IS  - 0165-5876 (Linking)
+VI  - 73
+IP  - 5
+DP  - 2009 May
+TI  - Post-tonsillectomy late haemorrhage: is it a preferably night-time event?
+PG  - 713-6
+LID - 10.1016/j.ijporl.2009.01.011 [doi]
+AB  - AIM: To evaluate the relationship between the incidence of late 
+      post-tonsillectomy haemorrhage and its prevalence in a definite period of the 
+      day. STUDY DESIGN AND SETTING: This retrospective study was carried out in the 
+      Ear Nose Throat (ENT) Unit of Giannina Gaslini Institute, Genoa, Italy on 
+      children operated for adenotonsillectomy (AT) or tonsillectomy (T) between 
+      January 2003 and February 2008. We considered in the study all the 
+      post-tonsillectomy late haemorrhages irrespective of their severity and for each 
+      case we evaluated whether they recurred in the day-time (B) (between 9.00 a.m. 
+      and 9.00 p.m.) or in the night-time (A) (between 9.00 p.m. and 9.00 a.m.). 
+      Finally we considered the number of haemorrhages per hour in the whole day. 
+      RESULTS: Out of 3306 patients undergoing elective adenotonsillectomy or 
+      tonsillectomy, post-operative late haemorrhage occurred in 59 (1.78%). We noted 
+      that 42 episodes (71.2%) occurred in the night-time and 17 (28.8%) in the 
+      day-time. The average time from the operation was 8.4 days. A statistically 
+      significant difference (p=0.002) was found when comparing the frequencies of 
+      night-time and day-time haemorrhages. We did not observe any significant 
+      difference in the distribution per hour of the haemorrhages. CONCLUSIONS: The 
+      incidence of post-tonsillectomy late haemorrhage in our study population was 
+      1.78%. A statistically significant difference was found between night-time and 
+      day-time haemorrhages. Even though no significant distribution of haemorrhages 
+      per hour was observed, we underline that we recorded 32 (54.2%) events in 2 
+      periods of the day: from 10 p.m. to 1 a.m. and from 6 to 9 a.m.
+FAU - D'Agostino, Roberto
+AU  - D'Agostino R
+AD  - Department of Otolaryngology, Istituto G. Gaslini Largo G. Gaslini 5, Genova, 
+      Italy.
+FAU - Tarantino, Vincenzo
+AU  - Tarantino V
+FAU - Calevo, Maria Grazia
+AU  - Calevo MG
+LA  - eng
+PT  - Journal Article
+DEP - 20090223
+PL  - Ireland
+TA  - Int J Pediatr Otorhinolaryngol
+JT  - International journal of pediatric otorhinolaryngology
+JID - 8003603
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - *Circadian Rhythm
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Postoperative Hemorrhage/*epidemiology
+MH  - Prevalence
+MH  - Retrospective Studies
+MH  - *Tonsillectomy
+EDAT- 2009/02/24 09:00
+MHDA- 2009/08/15 09:00
+CRDT- 2009/02/24 09:00
+PHST- 2008/10/16 00:00 [received]
+PHST- 2009/01/08 00:00 [revised]
+PHST- 2009/01/12 00:00 [accepted]
+PHST- 2009/02/24 09:00 [entrez]
+PHST- 2009/02/24 09:00 [pubmed]
+PHST- 2009/08/15 09:00 [medline]
+AID - S0165-5876(09)00016-0 [pii]
+AID - 10.1016/j.ijporl.2009.01.011 [doi]
+PST - ppublish
+SO  - Int J Pediatr Otorhinolaryngol. 2009 May;73(5):713-6. doi: 
+      10.1016/j.ijporl.2009.01.011. Epub 2009 Feb 23.

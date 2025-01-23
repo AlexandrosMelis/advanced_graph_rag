@@ -1,0 +1,77 @@
+PMID- 12153648
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021008
+LR  - 20191106
+IS  - 0730-7659 (Print)
+IS  - 0730-7659 (Linking)
+VI  - 29
+IP  - 3
+DP  - 2002 Sep
+TI  - Does birth center care during a woman's first pregnancy have any impact on her 
+      future reproduction?
+PG  - 177-81
+AB  - BACKGROUND: Women's experiences of childbirth may affect their future 
+      reproduction, and the model of care affects their experiences, suggesting that a 
+      causal link may exist between model of care and future reproduction. The study 
+      objective was to examine whether the birth center model of care during a woman's 
+      first pregnancy affects whether or not she has a second baby, and on the spacing 
+      to the next birth. METHODS: Between October 1989 and July 1993, a total of 1860 
+      women at low medical risk in early pregnancy, who participated in a randomized 
+      controlled trial of in-hospital birth center care versus standard care, gave 
+      birth. The 1063 primiparas in the trial, 543 in the birth center group and 520 in 
+      the standard care group, were included in a secondary analysis in which women's 
+      personal identification codes were linked to the Swedish National Birth Register, 
+      which included information about their subsequent birth during the following 7 to 
+      10 years. Time to an event curves were constructed by means of the Kaplan Meier 
+      method. RESULTS: The observation period after the first birth was on average 8.8 
+      years in the birth center group and 8.7 years in the standard care group. No 
+      statistical difference was found between the groups in time to second birth, 
+      which was 2.85 and 2.82 years, respectively (median; log-rank 1.26; p=0.26). 
+      CONCLUSION: A woman's model of care, such as birth center care, during her first 
+      pregnancy does not seem to be a sufficiently important factor to affect 
+      subsequent reproduction in Sweden.
+FAU - Gottvall, Karin
+AU  - Gottvall K
+AD  - Department of Nursing, Karolinska Institutet, Stockholm, Sweden.
+FAU - Waldenstrom, Ulla
+AU  - Waldenstrom U
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Birth
+JT  - Birth (Berkeley, Calif.)
+JID - 8302042
+SB  - IM
+MH  - Adult
+MH  - Birth Intervals
+MH  - Birthing Centers/*organization & administration
+MH  - Continuity of Patient Care
+MH  - Delivery Rooms/*organization & administration
+MH  - Female
+MH  - Humans
+MH  - Maternal Health Services/*organization & administration
+MH  - *Models, Nursing
+MH  - Nurse Midwives
+MH  - Parity
+MH  - Patient Care Team
+MH  - Patient Satisfaction/*statistics & numerical data
+MH  - Pregnancy
+MH  - Registries
+MH  - *Reproduction
+MH  - Surveys and Questionnaires
+MH  - Sweden
+EDAT- 2002/08/03 10:00
+MHDA- 2002/10/09 04:00
+CRDT- 2002/08/03 10:00
+PHST- 2002/08/03 10:00 [pubmed]
+PHST- 2002/10/09 04:00 [medline]
+PHST- 2002/08/03 10:00 [entrez]
+AID - 185 [pii]
+AID - 10.1046/j.1523-536x.2002.00185.x [doi]
+PST - ppublish
+SO  - Birth. 2002 Sep;29(3):177-81. doi: 10.1046/j.1523-536x.2002.00185.x.

@@ -1,0 +1,104 @@
+PMID- 20736887
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110204
+LR  - 20101026
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 35
+IP  - 23
+DP  - 2010 Nov 1
+TI  - Is decompressive surgery effective for spinal cord sarcoidosis accompanied with 
+      compressive cervical myelopathy?
+PG  - E1290-7
+LID - 10.1097/BRS.0b013e3181e6d592 [doi]
+AB  - STUDY DESIGN: A retrospective multicenter study of series of 12 patients with 
+      spinal cord sarcoidosis who underwent surgery. OBJECTIVE: To evaluate the 
+      postoperative outcomes of patients with cervical spinal cord sarcoidosis 
+      accompanied with compressive myelopathy and effect of decompressive surgery on 
+      the prognosis of sarcoidosis. SUMMARY OF BACKGROUND DATA: Sarcoidosis is a 
+      chronic, multisystem noncaseating granulomatous disease. It is difficult to 
+      differentiate spinal cord sarcoidosis from cervical compressive myelopathy. There 
+      are no studies regarding the coexistence of compressive cervical myelopathy with 
+      cervical spinal cord sarcoidosis and the effect of decompressive surgery. 
+      METHODS: Nagoya Spine Group database included 1560 cases with cervical myelopathy 
+      treated with cervical laminectomy or laminoplasty from 2001 to 2005. A total of 
+      12 patients (0.08% of cervical myelopathy) were identified spinal cord 
+      sarcoidosis treated with decompressive surgery. As a control subject, 8 patients 
+      with spinal cord sarcoidosis without compressive lesion who underwent high-dose 
+      steroid therapy without surgery were recruited. RESULTS: In the surgery group, 
+      enhancing lesions on magnetic resonance imaging (MRI) were mostly seen at C5-C6, 
+      coincident with the maximum compression level in all cases. Postoperative 
+      recovery rates in the surgery group at 1 week and 4 weeks were -7.4% and -1.1%, 
+      respectively. Only 5 cases had showed clinical improvement, and the condition of 
+      these 5 patients had worsened again at averaged 7.4 weeks after surgery. 
+      Postoperative oral steroid therapy was initiated at an average of 6.4 weeks and 
+      the average initial dose was 54.0 mg in the surgery group, while 51.3 mg in the 
+      nonsurgery group. The recovery rate of the Japanese Orthopedic Association score, 
+      which increased after steroid therapy, was better in the nonsurgery group (62.5%) 
+      than in the surgery group (18.6%) with significant difference (P < 0.01). 
+      CONCLUSION: The effect of decompression for spinal cord sarcoidosis with 
+      compressive myelopathy was not evident. Early diagnosis for sarcoidosis from 
+      other organ and steroid therapy should be needed.
+FAU - Sakai, Yoshihito
+AU  - Sakai Y
+AD  - Department of Orthopaedic Surgery, Nagoya University School of Medicine, Aichi 
+      Prefecture, Japan. jsakai@ncgg.go.jp
+FAU - Matsuyama, Yukihiro
+AU  - Matsuyama Y
+FAU - Imagama, Shiro
+AU  - Imagama S
+FAU - Ito, Zenya
+AU  - Ito Z
+FAU - Wakao, Norimitsu
+AU  - Wakao N
+FAU - Ishiguro, Naoki
+AU  - Ishiguro N
+FAU - Watanabe, Hirohisa
+AU  - Watanabe H
+FAU - Kato, Fumihiko
+AU  - Kato F
+FAU - Yukawa, Yasutsugu
+AU  - Yukawa Y
+FAU - Ito, Keigo
+AU  - Ito K
+FAU - Suzuki, Kazuhiro
+AU  - Suzuki K
+FAU - Tsuboi, Akiko
+AU  - Tsuboi A
+FAU - Kanemura, Tokumi
+AU  - Kanemura T
+FAU - Yoshida, Go
+AU  - Yoshida G
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+RN  - 0 (Adrenal Cortex Hormones)
+SB  - IM
+MH  - Adrenal Cortex Hormones/therapeutic use
+MH  - Aged
+MH  - Cervical Vertebrae/*surgery
+MH  - Databases, Factual
+MH  - Decompression, Surgical
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Sarcoidosis/complications/drug therapy/*surgery
+MH  - Spinal Cord Compression/complications/drug therapy/*surgery
+MH  - Spinal Cord Diseases/drug therapy/*surgery
+MH  - Treatment Outcome
+EDAT- 2010/08/26 06:00
+MHDA- 2011/02/05 06:00
+CRDT- 2010/08/26 06:00
+PHST- 2010/08/26 06:00 [entrez]
+PHST- 2010/08/26 06:00 [pubmed]
+PHST- 2011/02/05 06:00 [medline]
+AID - 10.1097/BRS.0b013e3181e6d592 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2010 Nov 1;35(23):E1290-7. doi: 
+      10.1097/BRS.0b013e3181e6d592.

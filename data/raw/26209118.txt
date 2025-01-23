@@ -1,0 +1,106 @@
+PMID- 26209118
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160912
+LR  - 20181113
+IS  - 1432-1998 (Electronic)
+IS  - 0301-0449 (Linking)
+VI  - 45
+IP  - 13
+DP  - 2015 Dec
+TI  - Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell 
+      disease -- can it differentiate bone infarcts from acute osteomyelitis?
+PG  - 1981-7
+LID - 10.1007/s00247-015-3423-8 [doi]
+AB  - BACKGROUND: Children with sickle cell disease (SCD) are at risk of bone infarcts 
+      and acute osteomyelitis. The clinical differentiation between a bone infarct and 
+      acute osteomyelitis is a diagnostic challenge. Unenhanced T1-W fat-saturated MR 
+      images have been proposed as a potential tool to differentiate bone infarcts from 
+      osteomyelitis. OBJECTIVE: To evaluate the reliability of unenhanced T1-W 
+      fat-saturated MRI for differentiation between bone infarcts and acute 
+      osteomyelitis in children with SCD. MATERIALS AND METHODS: We retrospectively 
+      reviewed the records of 31 children (20 boys, 11 girls; mean age 10.6 years, 
+      range 1.1-17.9 years) with SCD and acute bone pain who underwent MR imaging 
+      including unenhanced T1-W fat-saturated images from 2005 to 2010. Complete 
+      clinical charts were reviewed by a pediatric hematologist with training in 
+      infectious diseases to determine a clinical standard to define the presence or 
+      absence of osteomyelitis. A pediatric radiologist reviewed all MR imaging and was 
+      blinded to clinical information. Based on the signal intensity in T1-W 
+      fat-saturated images, the children were further classified as positive for 
+      osteomyelitis (low bone marrow signal intensity) or positive for bone infarct 
+      (high bone marrow signal intensity). RESULTS: Based on the clinical standard, 5 
+      children were classified as positive for osteomyelitis and 26 children as 
+      positive for bone infarct (negative for osteomyelitis). The bone marrow signal 
+      intensity on T1-W fat-saturated imaging was not significant for the 
+      differentiation between bone infarct and osteomyelitis (P = 0.56). None of the 
+      additional evaluated imaging parameters on unenhanced MRI proved reliable in 
+      differentiating these diagnoses. CONCLUSION: The bone marrow signal intensity on 
+      unenhanced T1-W fat-saturated MR images is not a reliable criterion to 
+      differentiate bone infarcts from osteomyelitis in children.
+FAU - Delgado, Jorge
+AU  - Delgado J
+AD  - Department of Radiology, The Children's Hospital of Philadelphia, 34th Street & 
+      Civic Center Boulevard, Philadelphia, PA, 19104, USA. 
+      jorge.delgado.londono@gmail.com.
+FAU - Bedoya, Maria A
+AU  - Bedoya MA
+AD  - Department of Radiology, The Children's Hospital of Philadelphia, 34th Street & 
+      Civic Center Boulevard, Philadelphia, PA, 19104, USA.
+FAU - Green, Abby M
+AU  - Green AM
+AD  - Division of Oncology, The Children's Hospital of Philadelphia, Philadelphia, PA, 
+      USA.
+FAU - Jaramillo, Diego
+AU  - Jaramillo D
+AD  - Department of Radiology, The Children's Hospital of Philadelphia, 34th Street & 
+      Civic Center Boulevard, Philadelphia, PA, 19104, USA.
+AD  - The Perelman School of Medicine at the University of Pennsylvania, Philadelphia, 
+      PA, USA.
+FAU - Ho-Fung, Victor
+AU  - Ho-Fung V
+AD  - Department of Radiology, The Children's Hospital of Philadelphia, 34th Street & 
+      Civic Center Boulevard, Philadelphia, PA, 19104, USA.
+AD  - The Perelman School of Medicine at the University of Pennsylvania, Philadelphia, 
+      PA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20150725
+PL  - Germany
+TA  - Pediatr Radiol
+JT  - Pediatric radiology
+JID - 0365332
+SB  - IM
+MH  - Acute Disease
+MH  - Adolescent
+MH  - Anemia, Sickle Cell/*pathology
+MH  - Bone and Bones/*blood supply
+MH  - Child
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Osteomyelitis/*diagnosis
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Bone infarction
+OT  - Children
+OT  - Magnetic resonance imaging
+OT  - Osteomyelitis
+OT  - Sickle cell disease
+EDAT- 2015/07/26 06:00
+MHDA- 2016/09/13 06:00
+CRDT- 2015/07/26 06:00
+PHST- 2015/01/13 00:00 [received]
+PHST- 2015/06/19 00:00 [accepted]
+PHST- 2015/05/14 00:00 [revised]
+PHST- 2015/07/26 06:00 [entrez]
+PHST- 2015/07/26 06:00 [pubmed]
+PHST- 2016/09/13 06:00 [medline]
+AID - 10.1007/s00247-015-3423-8 [pii]
+AID - 10.1007/s00247-015-3423-8 [doi]
+PST - ppublish
+SO  - Pediatr Radiol. 2015 Dec;45(13):1981-7. doi: 10.1007/s00247-015-3423-8. Epub 2015 
+      Jul 25.

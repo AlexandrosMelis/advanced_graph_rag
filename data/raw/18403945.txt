@@ -1,0 +1,84 @@
+PMID- 18403945
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080821
+LR  - 20220318
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 20
+IP  - 5
+DP  - 2008 May
+TI  - Does laparoscopic antireflux surgery improve quality of life in patients whose 
+      gastro-oesophageal reflux disease is well controlled with medical therapy?
+PG  - 430-5
+LID - 10.1097/MEG.0b013e3282f47995 [doi]
+AB  - OBJECTIVE: Both medical therapy and laparoscopic antireflux surgery have been 
+      shown to improve quality of life in gastro-oesophageal reflux disease. Although 
+      patients with poor symptom control or side effects on medical therapy might be 
+      expected to have improved quality of life after surgery, our aim was to 
+      determine, for the first time, whether patients whose symptoms are well 
+      controlled on medical therapy but who decide to undergo surgery (patient 
+      preference) would experience improved quality of life. METHODS: Retrospective 
+      analysis of our patient database (1998-2003, n=313) identified 60 patients who 
+      underwent laparoscopic antireflux surgery for the indication of patient 
+      preference. Two generic quality-of-life questionnaires (Short Form 36 and 
+      Psychological General Well-Being index) and a gastrointestinal symptom 
+      questionnaire (Gastrointestinal Symptom Rating Scale) were completed 
+      preoperatively, while on medical therapy, and 6 months after surgery. RESULTS: 
+      Thirty-eight patients completed all three questionnaires at both time intervals: 
+      31 males, seven females; mean age 42 (15-66) years. Preoperative scores while on 
+      medical therapy were significantly improved after surgery: Short Form 36 median 
+      physical composite scores 52.0 and 54.0 (P=0.034) and mental composite scores 
+      51.0 and 56.0 (P=0.020); Psychological General Well-Being median total scores 
+      78.0 and 90.0 (P=0.0001); Gastrointestinal Symptom Rating Scale median total 
+      scores 2.13 and 1.73 (P=0.0007) and reflux scores 2.50 and 1.00 (P<0.0001). 
+      CONCLUSION: Laparoscopic antireflux surgery significantly improved quality of 
+      life in reflux patients whose symptoms were well controlled on medical therapy. 
+      Although on the basis of a noncomparative trial with a relatively short follow-up 
+      period, we believe such patients should be considered for laparoscopic antireflux 
+      surgery.
+FAU - Gillies, Richard S
+AU  - Gillies RS
+AD  - Department of Upper Gastrointestinal Surgery, Royal Berkshire Hospital, Reading, 
+      UK. rgillies@doctors.org.uk
+FAU - Stratford, Jane M
+AU  - Stratford JM
+FAU - Booth, Michael I
+AU  - Booth MI
+FAU - Dehn, Thomas C B
+AU  - Dehn TC
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (Proton Pump Inhibitors)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Gastroesophageal Reflux/drug therapy/psychology/*surgery
+MH  - Humans
+MH  - Laparoscopy/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Satisfaction
+MH  - Proton Pump Inhibitors/therapeutic use
+MH  - Psychometrics
+MH  - *Quality of Life
+MH  - Retrospective Studies
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+EDAT- 2008/04/12 09:00
+MHDA- 2008/08/22 09:00
+CRDT- 2008/04/12 09:00
+PHST- 2008/04/12 09:00 [pubmed]
+PHST- 2008/08/22 09:00 [medline]
+PHST- 2008/04/12 09:00 [entrez]
+AID - 00042737-200805000-00010 [pii]
+AID - 10.1097/MEG.0b013e3282f47995 [doi]
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 2008 May;20(5):430-5. doi: 
+      10.1097/MEG.0b013e3282f47995.

@@ -1,0 +1,73 @@
+PMID- 21164063
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110325
+LR  - 20190101
+IS  - 1535-2900 (Electronic)
+IS  - 1079-2082 (Linking)
+VI  - 68
+IP  - 1
+DP  - 2011 Jan 1
+TI  - Is there a role for fondaparinux in perioperative bridging?
+PG  - 36-42
+LID - 10.2146/ajhp100133 [doi]
+AB  - PURPOSE: A possible role for fondaparinux as a bridging agent in the 
+      perioperative setting is explored. SUMMARY: Anticoagulation guidelines provide 
+      minimal direction on the perioperative use of fondaparinux. Fondaparinux's 
+      extended half-life of 17-21 hours complicates its use as a perioperative bridging 
+      therapy. The ideal time for discontinuation before surgery is an issue, 
+      particularly in surgeries with a high bleeding risk or in which neuraxial 
+      anesthesia is used. Guidance for perioperative bridging with fondaparinux must be 
+      derived from pharmacokinetic data, surgical prophylaxis trials, case reports, and 
+      anesthesia guidelines. Published trials used fondaparinux sodium 2.5 mg daily for 
+      venous thromboembolism prophylaxis in surgical patients, and the majority avoided 
+      its use before surgery in patients receiving neuraxial anesthesia. Three case 
+      reports cited the use of fondaparinux sodium as perioperative bridge therapy; one 
+      used a 2.5-mg dose, and the other two used a full treatment dose of 7.5 mg. 
+      Furthermore, professional anesthesia guidelines conflict in their recommendations 
+      regarding the timing of drug administration with neuraxial catheter use. For 
+      these reasons, it may be optimal to avoid fondaparinux use before surgery. In 
+      some instances, the use of low-molecular-weight heparin or inpatient use of i.v. 
+      unfractionated heparin is not possible, is contraindicated, or has limited 
+      efficacy, such as a patient with history of heparin-induced thrombocytopenia or 
+      antithrombin III deficiency. Fondaparinux may have a role in bridge therapy for 
+      these patients. CONCLUSION: The role of fondaparinux in perioperative bridge 
+      therapy has not been established, and there are some important limitations to its 
+      use as a routine bridging agent.
+FAU - Garwood, Candice L
+AU  - Garwood CL
+AD  - Department of Pharmacy Practice, Eugene Applebaum College of Pharmacy and Health 
+      Sciences, Wayne State University, 259 Mack Avenue, Detroit, MI 48201, USA. 
+      cgarwood@wayne.edu
+FAU - Gortney, Justine Schuller
+AU  - Gortney JS
+FAU - Corbett, Tia L
+AU  - Corbett TL
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Am J Health Syst Pharm
+JT  - American journal of health-system pharmacy : AJHP : official journal of the 
+      American Society of Health-System Pharmacists
+JID - 9503023
+RN  - 0 (Anticoagulants)
+RN  - 0 (Polysaccharides)
+RN  - J177FOW5JL (Fondaparinux)
+SB  - IM
+MH  - Anticoagulants/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Fondaparinux
+MH  - Humans
+MH  - Perioperative Care/*methods
+MH  - Polysaccharides/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Practice Guidelines as Topic
+MH  - Surgical Procedures, Operative
+EDAT- 2010/12/18 06:00
+MHDA- 2011/03/26 06:00
+CRDT- 2010/12/18 06:00
+PHST- 2010/12/18 06:00 [entrez]
+PHST- 2010/12/18 06:00 [pubmed]
+PHST- 2011/03/26 06:00 [medline]
+AID - 68/1/36 [pii]
+AID - 10.2146/ajhp100133 [doi]
+PST - ppublish
+SO  - Am J Health Syst Pharm. 2011 Jan 1;68(1):36-42. doi: 10.2146/ajhp100133.

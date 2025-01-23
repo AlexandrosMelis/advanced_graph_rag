@@ -1,0 +1,71 @@
+PMID- 7547656
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19951113
+LR  - 20131121
+IS  - 0146-521X (Print)
+IS  - 0146-521X (Linking)
+VI  - 20
+IP  - 3
+DP  - 1995 May-Jun
+TI  - Does continuous intravenous infusion of low-concentration epinephrine impair 
+      uterine blood flow in pregnant ewes?
+PG  - 206-11
+AB  - BACKGROUND AND OBJECTIVES: Bolus intravenous injection of epinephrine can 
+      decrease uterine blood flow. This study examined the effects of intravenous 
+      infusion of epinephrine on uterine blood flow in the gravid ewe. METHODS: 
+      Maternal and fetal vascular catheters and a maternal electromagnetic uterine 
+      artery flow probe were implanted in 10 near-term gravid ewes. After recovery, 
+      saline, 0.125% bupivacaine, 0.125% bupivacaine with 1:200,000 epinephrine, 0.125% 
+      bupivacaine with 1:400,000 epinephrine, and 0.125% bupivacaine with 1:800,000 
+      epinephrine were infused into the maternal superior vena cava. Drugs were infused 
+      at 10 mL/h for 30 minutes and then at 20 mL/h for an additional 30 minutes. 
+      Animals also received an intravenous bolus of epinephrine 15 micrograms. 
+      Throughout all infusions, maternal heart rate, systemic and pulmonary blood 
+      pressures, uterine blood flow, cardiac output, and acid-base balance were 
+      measured, as well as fetal heart rate, blood pressure, and acid-base balance. 
+      RESULTS: Epinephrine 15 micrograms decreased uterine blood flow to 68 +/- 14% of 
+      baseline (mean +/- SD). Infusion of all solutions had no effect on any measured 
+      hemodynamic variable. CONCLUSIONS: In gravid ewes, intravenous infusion of < or = 
+      1.67 micrograms/min epinephrine altered neither maternal hemodynamics nor uterine 
+      blood flow. To the extent that sheep data can be extrapolated to humans, these 
+      results suggest that continuous intravenous infusion of epinephrine in local 
+      anesthetic solutions is safe if the epidural catheter should enter a blood vessel 
+      during the infusion.
+FAU - Norris, M C
+AU  - Norris MC
+AD  - Department of Anesthesiology, Jefferson Medical College, Thomas Jefferson 
+      University, Philadelphia, Pennsylvania, USA.
+FAU - Grieco, W
+AU  - Grieco W
+FAU - Arkoosh, V A
+AU  - Arkoosh VA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Reg Anesth
+JT  - Regional anesthesia
+JID - 7707549
+RN  - YKH834O4BH (Epinephrine)
+SB  - IM
+MH  - Anesthesia, Obstetrical/methods
+MH  - Animals
+MH  - Dose-Response Relationship, Drug
+MH  - Epinephrine/*pharmacology
+MH  - Female
+MH  - Fetus/drug effects
+MH  - Hemodynamics/drug effects
+MH  - Infusions, Intravenous
+MH  - Pregnancy
+MH  - Pregnancy, Animal/blood/drug effects/*physiology
+MH  - Sheep
+MH  - Uterus/*blood supply/drug effects
+EDAT- 1995/05/01 00:00
+MHDA- 1995/05/01 00:01
+CRDT- 1995/05/01 00:00
+PHST- 1995/05/01 00:00 [pubmed]
+PHST- 1995/05/01 00:01 [medline]
+PHST- 1995/05/01 00:00 [entrez]
+PST - ppublish
+SO  - Reg Anesth. 1995 May-Jun;20(3):206-11.

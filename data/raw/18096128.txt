@@ -1,0 +1,74 @@
+PMID- 18096128
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080205
+LR  - 20161124
+IS  - 1879-1883 (Electronic)
+IS  - 0002-9610 (Linking)
+VI  - 195
+IP  - 2
+DP  - 2008 Feb
+TI  - Cervical spine fractures in geriatric blunt trauma patients with low-energy 
+      mechanism: are clinical predictors adequate?
+PG  - 170-3
+AB  - BACKGROUND: Studies have identified clinical predictors to guide radiologic 
+      evaluation of the cervical spine in geriatric patients. We hypothesized that 
+      clinical predictors are not adequate in the identification of cervical spine 
+      fractures in geriatric blunt trauma patients with low-energy mechanism. METHODS: 
+      A retrospective case-control study was performed on geriatric blunt trauma 
+      patients sustaining low-energy trauma from January 2000 to January 2006. A data 
+      form including 8 clinical predictors was completed for each group. RESULTS: There 
+      were 35 study and 64 control patients identified. Both groups were similar in age 
+      (study 83.6 vs control 81.2) and injury severity score (study 9.06 vs control 
+      9.61). Only neck tenderness exceeded the expected occurrence in the presence of a 
+      cervical spine injury (chi(2) = 18.1, P = .001) in just 45.5% of the study group. 
+      CONCLUSIONS: Clinical predictors appear inadequate for the evaluation of the 
+      cervical spine in geriatric trauma patients with low-energy mechanism.
+FAU - Schrag, Sherwin P
+AU  - Schrag SP
+AD  - Division of Trauma/Surgical Critical Care, St. Luke's Hospital and University of 
+      Pennsylvania Trauma Network, 801 Ostrum St., Bethlehem, PA 18015, USA.
+FAU - Toedter, Lori J
+AU  - Toedter LJ
+FAU - McQuay, Nathaniel Jr
+AU  - McQuay N Jr
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Surg
+JT  - American journal of surgery
+JID - 0370473
+SB  - IM
+MH  - Accidental Falls
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Case-Control Studies
+MH  - Cervical Vertebrae/*diagnostic imaging/*injuries
+MH  - Female
+MH  - *Geriatric Assessment
+MH  - Humans
+MH  - Incidence
+MH  - Injury Severity Score
+MH  - Male
+MH  - Physical Examination
+MH  - Predictive Value of Tests
+MH  - Probability
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Spinal Fractures/*diagnostic imaging/epidemiology
+MH  - Tomography, X-Ray Computed
+MH  - Wounds, Nonpenetrating/*diagnostic imaging/epidemiology
+EDAT- 2007/12/22 09:00
+MHDA- 2008/02/06 09:00
+CRDT- 2007/12/22 09:00
+PHST- 2007/05/24 00:00 [received]
+PHST- 2007/09/25 00:00 [revised]
+PHST- 2007/09/25 00:00 [accepted]
+PHST- 2007/12/22 09:00 [pubmed]
+PHST- 2008/02/06 09:00 [medline]
+PHST- 2007/12/22 09:00 [entrez]
+AID - S0002-9610(07)00829-X [pii]
+AID - 10.1016/j.amjsurg.2007.09.029 [doi]
+PST - ppublish
+SO  - Am J Surg. 2008 Feb;195(2):170-3. doi: 10.1016/j.amjsurg.2007.09.029.

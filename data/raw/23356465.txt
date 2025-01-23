@@ -1,0 +1,94 @@
+PMID- 23356465
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130730
+LR  - 20190211
+IS  - 0022-0167 (Print)
+IS  - 0022-0167 (Linking)
+VI  - 60
+IP  - 1
+DP  - 2013 Jan
+TI  - Uniformity of evidence-based treatments in practice? Therapist effects in the 
+      delivery of cognitive processing therapy for PTSD.
+PG  - 31-41
+LID - 10.1037/a0031294 [doi]
+AB  - OBJECTIVE: Various factors contribute to the effective implementation of 
+      evidence-based treatments (EBTs). In this study, cognitive processing therapy 
+      (CPT) was administered in a Veterans Affairs (VA) posttraumatic stress disorder 
+      (PTSD) specialty clinic in which training and supervision were provided following 
+      VA implementation guidelines. The aim was to (a) estimate the proportion of 
+      variability in outcome attributable to therapists and (b) identify 
+      characteristics of those therapists who produced better outcomes. METHOD: We used 
+      an archival database of veterans (n = 192) who completed 12 sessions of CPT by 
+      therapists (n = 25) who were trained by 2 nationally recognized trainers, 1 of 
+      whom also provided weekly group supervision. Multilevel modeling was used to 
+      estimate therapist effects, with therapists treated as a random factor. The 
+      supervisor was asked to retrospectively rate each therapist in terms of perceived 
+      effectiveness based on supervision interactions. Using single case study design, 
+      the supervisor was interviewed to determine what criteria she used to rate the 
+      therapists and emerging themes were coded. RESULTS: When initial level of 
+      severity on the PTSD Checklist (PCL; McDonald & Calhoun, 2010; Weathers, Litz, 
+      Herman, Huska, & Keane, 1993) was taken into account, approximately 12% of the 
+      variability in the PCL at the end of treatment was due to therapists. The 
+      trainer, blind to the results, identified the following characteristics and 
+      actions of effective therapists: effectively addressing patient avoidance, 
+      language used in supervision, flexible interpersonal style, and ability to 
+      develop a strong therapeutic alliance. CONCLUSIONS: This study adds to the 
+      growing body of literature documenting the importance of the individual therapist 
+      as an important factor in the change process.
+CI  - PsycINFO Database Record (c) 2013 APA, all rights reserved.
+FAU - Laska, Kevin M
+AU  - Laska KM
+AD  - Bedford VA Medical Center.
+FAU - Smith, Tracey L
+AU  - Smith TL
+AUID- ORCID: 0000-0001-5338-9142
+AD  - Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine.
+FAU - Wislocki, Andrew P
+AU  - Wislocki AP
+AD  - Department of Counseling Psychology, School of Education, University of 
+      Wisconsin-Madison.
+FAU - Minami, Takuya
+AU  - Minami T
+AD  - Department of Counseling Psychology, School of Education, University of 
+      Wisconsin-Madison.
+FAU - Wampold, Bruce E
+AU  - Wampold BE
+AD  - Department of Counseling Psychology, School of Education, University of 
+      Wisconsin-Madison.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Couns Psychol
+JT  - Journal of counseling psychology
+JID - 2985124R
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Clinical Competence/*statistics & numerical data
+MH  - Cognitive Behavioral Therapy/*methods
+MH  - Evidence-Based Practice/*methods
+MH  - Female
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Male
+MH  - Middle Aged
+MH  - Severity of Illness Index
+MH  - Stress Disorders, Post-Traumatic/*therapy
+MH  - Treatment Outcome
+MH  - United States
+MH  - United States Department of Veterans Affairs
+MH  - Veterans
+MH  - Wisconsin
+MH  - Young Adult
+EDAT- 2013/01/30 06:00
+MHDA- 2013/07/31 06:00
+CRDT- 2013/01/30 06:00
+PHST- 2013/01/30 06:00 [entrez]
+PHST- 2013/01/30 06:00 [pubmed]
+PHST- 2013/07/31 06:00 [medline]
+AID - 2013-02249-002 [pii]
+AID - 10.1037/a0031294 [doi]
+PST - ppublish
+SO  - J Couns Psychol. 2013 Jan;60(1):31-41. doi: 10.1037/a0031294.

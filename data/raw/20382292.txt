@@ -1,0 +1,97 @@
+PMID- 20382292
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100505
+LR  - 20220331
+IS  - 1532-821X (Electronic)
+IS  - 0003-9993 (Print)
+IS  - 0003-9993 (Linking)
+VI  - 91
+IP  - 4
+DP  - 2010 Apr
+TI  - Knee extensor strength, dynamic stability, and functional ambulation: are they 
+      related in Parkinson's disease?
+PG  - 589-95
+LID - 10.1016/j.apmr.2009.11.026 [doi]
+AB  - OBJECTIVE: To evaluate the relationship between knee extensor strength, postural 
+      stability, functional ambulation, and disease severity in Parkinson's disease 
+      (PD). DESIGN: A cohort study. SETTING: University research laboratory. 
+      PARTICIPANTS: Patients (N=44) with idiopathic PD. INTERVENTION: Not applicable. 
+      MAIN OUTCOME MEASURES: Participants were evaluated on their isokinetic knee 
+      extensor strength. Additionally, participants completed an assessment of their 
+      postural stability (Functional Reach Test for static stability and a dynamic 
+      postural stability assessment as measured by the center of pressure-center of 
+      mass moment arm during gait initiation). Participants also underwent an 
+      evaluation of their functional ambulation as measured by a 6-minute walk test. 
+      Lastly, participants were evaluated by a neurologist specially trained in 
+      movement disorders to assess neurologic status and disease severity using the 
+      Unified Parkinson's Disease Rating Scale and the Hoehn and Yahr disability score. 
+      RESULTS: Knee extensor strength positively correlated with dynamic postural 
+      stability and negatively correlated with disease severity. Further, dynamic 
+      postural stability was negatively correlated to disease severity and positively 
+      correlated with functional ambulation in this cohort of patients with PD (P<.05). 
+      The results also suggest that the Functional Reach Test may be a valuable 
+      assessment tool to examine postural stability in PD. CONCLUSIONS: These findings 
+      suggest a malleable relationship between knee extensor strength, dynamic 
+      stability, and disease severity in PD. Although strength is only one piece of the 
+      puzzle in the functional outcome of PD, these findings may assist clinicians in 
+      designing appropriate interventions aimed at increasing function and decreasing 
+      fall risk in PD.
+CI  - Copyright 2010 American Congress of Rehabilitation Medicine. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Nocera, Joe R
+AU  - Nocera JR
+AD  - Brain Rehabilitation Research Center, Malcom Randall Veterans Affairs Medical 
+      Center, Gainesville, FL, USA. jnocera@ufl.edu
+FAU - Buckley, Thomas
+AU  - Buckley T
+FAU - Waddell, Dwight
+AU  - Waddell D
+FAU - Okun, Michael S
+AU  - Okun MS
+FAU - Hass, Chris J
+AU  - Hass CJ
+LA  - eng
+GR  - P30 AG028740/AG/NIA NIH HHS/United States
+GR  - T32 DC008768/DC/NIDCD NIH HHS/United States
+GR  - T32DC008768/DC/NIDCD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arch Phys Med Rehabil
+JT  - Archives of physical medicine and rehabilitation
+JID - 2985158R
+SB  - IM
+MH  - Aged
+MH  - Cohort Studies
+MH  - Humans
+MH  - *Knee
+MH  - Middle Aged
+MH  - *Muscle Strength
+MH  - Muscle, Skeletal/physiopathology
+MH  - Parkinson Disease/*physiopathology
+MH  - Physical Therapy Modalities
+MH  - *Postural Balance
+MH  - Severity of Illness Index
+MH  - *Walking
+PMC - PMC3607197
+MID - NIHMS446944
+COIS- No commercial party having a direct financial interest in the results of the 
+      research supporting this article has or will confer a benefit on the authors or 
+      on any organization with which the authors are associated.
+EDAT- 2010/04/13 06:00
+MHDA- 2010/05/06 06:00
+PMCR- 2013/03/25
+CRDT- 2010/04/13 06:00
+PHST- 2009/08/22 00:00 [received]
+PHST- 2009/11/17 00:00 [revised]
+PHST- 2009/11/20 00:00 [accepted]
+PHST- 2010/04/13 06:00 [entrez]
+PHST- 2010/04/13 06:00 [pubmed]
+PHST- 2010/05/06 06:00 [medline]
+PHST- 2013/03/25 00:00 [pmc-release]
+AID - S0003-9993(09)00996-4 [pii]
+AID - 10.1016/j.apmr.2009.11.026 [doi]
+PST - ppublish
+SO  - Arch Phys Med Rehabil. 2010 Apr;91(4):589-95. doi: 10.1016/j.apmr.2009.11.026.

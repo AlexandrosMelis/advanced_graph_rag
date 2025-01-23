@@ -1,0 +1,96 @@
+PMID- 26452334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171010
+LR  - 20171010
+IS  - 1749-4486 (Electronic)
+IS  - 1749-4478 (Linking)
+VI  - 41
+IP  - 5
+DP  - 2016 Oct
+TI  - Measurement of head and neck paragangliomas: is volumetric analysis worth the 
+      effort? A method comparison study.
+PG  - 571-8
+LID - 10.1111/coa.12562 [doi]
+AB  - OBJECTIVES: The aim of this study was to assess the reproducibility of different 
+      measurement methods and define the most workable technique for measuring head and 
+      neck paragangliomas, to determine the best method for evaluating tumour growth. 
+      The evaluation of tumour growth is vital for a 'wait-and-scan' policy, a 
+      management strategy that became increasingly important. STUDY DESIGN: Method 
+      comparison study. SETTING AND PARTICIPANTS: Thirty tumours, including carotid 
+      body, vagal body, jugulotympanic tumours and conglomerates of multiple tumours, 
+      were measured in duplicate, using linear dimensions, manual area tracing and an 
+      automated segmentation method. MAIN OUTCOME MEASURES: Reproducibility was 
+      assessed using the Bland-Altman method. RESULTS: The smallest detectable 
+      difference using the linear dimension method was 11% for carotid body and 27% for 
+      vagal body tumours, compared with 17% and 20% for the manual area tracing method. 
+      Due to the irregular shape of paragangliomas in the temporal bone and 
+      conglomerates, the manual area tracing method showed better results in these 
+      tumours (26% and 8% versus 54% and 47%). The linear dimension method was 
+      significantly faster (median 4.27 versus 18.46 minutes, P < 0.001). The automatic 
+      segmentation method yielded smallest detectable differences between 39% and 75%, 
+      and although fast (2.19 +/- 1.49 minutes), it failed technically. CONCLUSIONS: Due 
+      to a relatively good reproducibility, fast and easy application, we found the 
+      linear dimension method to be the most pragmatic approach for evaluation of 
+      growth of carotid and vagal body paragangliomas. For jugulotympanic tumours, the 
+      preferred method is manual area tracing. However, volumetric changes of these 
+      tumours may be of less clinical importance than changes in relation to 
+      surrounding anatomical structures.
+CI  - (c) 2015 John Wiley & Sons Ltd.
+FAU - Heesterman, B L
+AU  - Heesterman BL
+AD  - Department of Otolaryngology, Leiden University Medical Center, Leiden, the 
+      Netherlands. b.l.heesterman@lumc.nl.
+FAU - Verbist, B M
+AU  - Verbist BM
+AD  - Department of Radiology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - van der Mey, A G L
+AU  - van der Mey AG
+AD  - Department of Otolaryngology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Bayley, J P
+AU  - Bayley JP
+AD  - Department of Human Genetics, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Corssmit, E P M
+AU  - Corssmit EP
+AD  - Department of Endocrinology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Hes, F J
+AU  - Hes FJ
+AD  - Department of Clinical Genetics, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Jansen, J C
+AU  - Jansen JC
+AD  - Department of Otolaryngology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20160211
+PL  - England
+TA  - Clin Otolaryngol
+JT  - Clinical otolaryngology : official journal of ENT-UK ; official journal of 
+      Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery
+JID - 101247023
+SB  - IM
+MH  - Female
+MH  - Head and Neck Neoplasms/diagnostic imaging/*pathology
+MH  - Humans
+MH  - Image Interpretation, Computer-Assisted
+MH  - Magnetic Resonance Angiography
+MH  - Male
+MH  - Paraganglioma/diagnostic imaging/*pathology
+MH  - Reproducibility of Results
+MH  - Tumor Burden
+EDAT- 2015/10/11 06:00
+MHDA- 2017/10/11 06:00
+CRDT- 2015/10/11 06:00
+PHST- 2015/10/05 00:00 [accepted]
+PHST- 2015/10/11 06:00 [entrez]
+PHST- 2015/10/11 06:00 [pubmed]
+PHST- 2017/10/11 06:00 [medline]
+AID - 10.1111/coa.12562 [doi]
+PST - ppublish
+SO  - Clin Otolaryngol. 2016 Oct;41(5):571-8. doi: 10.1111/coa.12562. Epub 2016 Feb 11.

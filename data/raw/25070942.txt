@@ -1,0 +1,123 @@
+PMID- 25070942
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150309
+LR  - 20220310
+IS  - 1537-6613 (Electronic)
+IS  - 0022-1899 (Linking)
+VI  - 211
+IP  - 2
+DP  - 2015 Jan 15
+TI  - Can mass drug administration lead to the sustainable control of schistosomiasis?
+PG  - 283-9
+LID - 10.1093/infdis/jiu416 [doi]
+AB  - BACKGROUND: In the Philippines, the current national control strategy for 
+      schistosomiasis is annual mass drug administration (MDA) with 40 mg/kg of 
+      praziquantel in all schistosomiasis-endemic villages with a prevalence >/=10%. 
+      METHODS: A cross-sectional survey of schistosomiasis was conducted in 2012 on 18 
+      221 individuals residing in 22 schistosomiasis-endemic villages in the province 
+      of Northern Samar. The prevalence of schistosomiasis, intensity of Schistosoma 
+      infection, and morbidity of disease were assessed. RESULTS: Despite an active 
+      schistosomiasis-control program in Northern Samar for >30 years, which included a 
+      MDA campaign in the last 5 years, the mean prevalence of schistosomiasis among 10 
+      435 evaluated subjects was 27.1% (95% confidence interval [CI], 26.3%-28.0%), and 
+      the geometric mean intensity of infection among 2832 evaluated subjects was 17.2 
+      eggs per gram of feces (95% CI, 16.4-18.1). Ultrasonography revealed high levels 
+      of schistosomiasis-induced morbidity in the schistosomiasis-endemic communities. 
+      Left lobe liver enlargement (>/=70 mm) was evident in 89.3% of subjects. 
+      Twenty-five percent of the study population had grade II/III liver parenchyma 
+      fibrosis, and 13.3% had splenomegaly (>/=100 mm). CONCLUSIONS: MDA on its own was 
+      insufficient to control the prevalence of schistosomiasis, intensity of 
+      Schistosoma infection, or morbidity of the disease. Alternative control measures 
+      will be needed to complement the existing national MDA program.
+CI  - (c) The Author 2014. Published by Oxford University Press on behalf of the 
+      Infectious Diseases Society of America. All rights reserved. For Permissions, 
+      please e-mail: journals.permissions@oup.com.
+FAU - Ross, Allen G P
+AU  - Ross AG
+AD  - Griffith Health Institute, Griffith University, Gold Coast Campus, Queensland, 
+      Australia.
+FAU - Olveda, Remigio M
+AU  - Olveda RM
+AD  - Department of Health, Research Institute for Tropical Medicine, Manila.
+FAU - Chy, Delia
+AU  - Chy D
+AD  - Municipal Medical Officer of Health, Palapag, The Philippines.
+FAU - Olveda, David U
+AU  - Olveda DU
+AD  - Griffith Health Institute, Griffith University, Gold Coast Campus, Queensland, 
+      Australia.
+FAU - Li, Yuesheng
+AU  - Li Y
+AD  - QIMR Berghofer Medical Research Institute, Brisbane, Australia Hunan Institute of 
+      Parasitic Diseases, WHO Collaborating Center for Research and Control of 
+      Schistosomiasis in the Lake Region, Yueyang, China.
+FAU - Harn, Donald A
+AU  - Harn DA
+AD  - Department of Infectious Diseases, College of Veterinary Medicine and Center for 
+      Tropical and Emerging Global Diseases, University of Georgia.
+FAU - Gray, Darren J
+AU  - Gray DJ
+AD  - School of Population Health, University of Queensland, Brisbane.
+FAU - McManus, Donald P
+AU  - McManus DP
+AD  - Municipal Medical Officer of Health, Palapag, The Philippines.
+FAU - Tallo, Veronica
+AU  - Tallo V
+AD  - Department of Health, Research Institute for Tropical Medicine, Manila.
+FAU - Chau, Thao N P
+AU  - Chau TN
+AD  - Discipline of Public Health, Flinders University, Adelaide, Australia.
+FAU - Williams, Gail M
+AU  - Williams GM
+AD  - School of Population Health, University of Queensland, Brisbane.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140728
+PL  - United States
+TA  - J Infect Dis
+JT  - The Journal of infectious diseases
+JID - 0413675
+RN  - 0 (Anthelmintics)
+RN  - 6490C9U457 (Praziquantel)
+SB  - IM
+CIN - J Infect Dis. 2015 Mar 1;211(5):848-9. doi: 10.1093/infdis/jiu506. PMID: 25205633
+CIN - J Infect Dis. 2015 Mar 1;211(5):849-50. doi: 10.1093/infdis/jiu507. PMID: 
+      25205635
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Animals
+MH  - Anthelmintics/*administration & dosage
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - Drug Therapy/methods
+MH  - Female
+MH  - Health Services Research
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Philippines/epidemiology
+MH  - Praziquantel/*administration & dosage
+MH  - Prevalence
+MH  - Rural Population
+MH  - Schistosomiasis/*drug therapy/*prevention & control
+MH  - Young Adult
+OTO - NOTNLM
+OT  - control
+OT  - elimination
+OT  - mass drug administration (MDA)
+OT  - schistosomiasis
+EDAT- 2014/07/30 06:00
+MHDA- 2015/03/10 06:00
+CRDT- 2014/07/30 06:00
+PHST- 2014/07/30 06:00 [entrez]
+PHST- 2014/07/30 06:00 [pubmed]
+PHST- 2015/03/10 06:00 [medline]
+AID - jiu416 [pii]
+AID - 10.1093/infdis/jiu416 [doi]
+PST - ppublish
+SO  - J Infect Dis. 2015 Jan 15;211(2):283-9. doi: 10.1093/infdis/jiu416. Epub 2014 Jul 
+      28.

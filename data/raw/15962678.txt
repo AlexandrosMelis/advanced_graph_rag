@@ -1,0 +1,73 @@
+PMID- 15962678
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050715
+LR  - 20071115
+IS  - 0125-2208 (Print)
+IS  - 0125-2208 (Linking)
+VI  - 88
+IP  - 2
+DP  - 2005 Feb
+TI  - Does preloading with colloids prevent hemodynamic changes when neurosurgical 
+      patients are subsequently changed to the seated position?
+PG  - 247-51
+AB  - OBJECTIVE: This prospective, randomized, double-blind study was designed to 
+      determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg 
+      before positioning whether it can prevent hemodynamic changes during seated 
+      positioning or not. MATERIAL AND METHOD: The authors studied 20 patients by 
+      randomly dividing them into 2 groups. The control group was given crystalloid as 
+      maintenance and deposit replacement but the study group was given extra colloids 
+      10 ml/Kg 30 minutes before starting general anesthesia. Both groups were 
+      monitored and given anesthesia, balanced technique. Systolic and diastolic blood 
+      pressures, heart rate, central venous pressure (CVP) at different time intervals 
+      in the sitting position for 30 minutes were recorded. Statistical analysis was 
+      done by Student t-test, Chi-square test and ANOVA (p-value < 0. 05 considered 
+      significant). RESULTS: The results showed that systolic blood pressure at 15, 20, 
+      30 minutes and CVP at 15, 25, 30 minutes after positioning in the study group was 
+      maintained significantly compared to the control group and there were no 
+      significant changes in diastolic blood pressure and heart rate. There were no 
+      other complications during the sitting period. CONCLUSION: It is concluded that 
+      preloading colloid fluid prior to repositioning could prevent the decrease of 
+      systolic blood pressure and central venous pressure during sitting positioning 
+      without other complications.
+FAU - Akavipat, Phuping
+AU  - Akavipat P
+AD  - Department of Anesthesiology, Prasat Neurological Institute, 312 Rajvithee Rd, 
+      Rajthevee, Bangkok 10400, Thailand. ppakvp@hotmail.com
+FAU - Metta, Paungpaga
+AU  - Metta P
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Thailand
+TA  - J Med Assoc Thai
+JT  - Journal of the Medical Association of Thailand = Chotmaihet thangphaet
+JID - 7507216
+RN  - 0 (Plasma Substitutes)
+RN  - 9015-56-9 (Polygeline)
+SB  - IM
+MH  - Adult
+MH  - Blood Pressure/drug effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Fluid Therapy/*methods
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Neurosurgical Procedures
+MH  - Plasma Substitutes/*administration & dosage
+MH  - Polygeline/*administration & dosage
+MH  - Posture/*physiology
+MH  - Preoperative Care
+MH  - Prospective Studies
+EDAT- 2005/06/21 09:00
+MHDA- 2005/07/16 09:00
+CRDT- 2005/06/21 09:00
+PHST- 2005/06/21 09:00 [pubmed]
+PHST- 2005/07/16 09:00 [medline]
+PHST- 2005/06/21 09:00 [entrez]
+PST - ppublish
+SO  - J Med Assoc Thai. 2005 Feb;88(2):247-51.

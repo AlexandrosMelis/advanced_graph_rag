@@ -1,0 +1,76 @@
+PMID- 22522271
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120606
+LR  - 20131121
+IS  - 1175-8716 (Electronic)
+IS  - 0028-8446 (Linking)
+VI  - 125
+IP  - 1353
+DP  - 2012 Apr 20
+TI  - Is late-night salivary cortisol a better screening test for possible cortisol 
+      excess than standard screening tests in obese patients with Type 2 diabetes?
+PG  - 47-58
+AB  - AIM: To compare the performance, in terms of specificity for cortisol excess, of 
+      late-night salivary cortisol with 24-hour urine-free cortisol (24hr UFC) and 
+      overnight 1mg dexamethasone suppression test (1mg DST) in a group of obese T2DM 
+      patients. METHODS: Forty obese patients with T2DM without clinical features of 
+      Cushing's syndrome were recruited. Plasma, urinary and salivary cortisol were 
+      measured directly by an enzyme-linked immunosorbent assay using monoclonal 
+      antibodies. The specificities of the three tests using various cutoffs were 
+      calculated and compared, employing the assumption that none of the patients had 
+      hypercortisolism. RESULTS: The patients had a mean age and BMI of 56 years (range 
+      31-75) and 37 kg/m(2) (31-56) respectively. All 40 provided late-night salivary 
+      cortisol samples. Thirty-eight patients completed all three tests. Two patients 
+      only completed two screening tests. The specificities of late-night salivary 
+      cortisol (cutoff 10 nmol/L), 24hr UFC (400 nmol) and 1mg DST (50 nmol/L) were 70% 
+      (95% CI 53-83%), 90% (76-97%) and 72% (55-85%) respectively. The specificity of 
+      late-night salivary cortisol was significantly less than 24 hr UFC (P=0.039) but 
+      not 1mg DST (P>0.99). CONCLUSION: Late-night salivary cortisol has a poor 
+      specificity for cortisol excess in obese patients with T2DM with 24 hr UFC 
+      showing significantly better specificity in our population.
+FAU - Ellis, Elna
+AU  - Ellis E
+AD  - Christchurch Hospital, Christchurch, New Zealand.
+FAU - Chin, Paul K L
+AU  - Chin PK
+FAU - Hunt, Penelope J
+AU  - Hunt PJ
+FAU - Lunt, Helen
+AU  - Lunt H
+FAU - Lewis, John G
+AU  - Lewis JG
+FAU - Soule, Steven G
+AU  - Soule SG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20120420
+PL  - New Zealand
+TA  - N Z Med J
+JT  - The New Zealand medical journal
+JID - 0401067
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Cushing Syndrome/*diagnosis/metabolism
+MH  - Diabetes Mellitus, Type 2/*complications
+MH  - Female
+MH  - Humans
+MH  - Hydrocortisone/*analysis/blood/urine
+MH  - Male
+MH  - Middle Aged
+MH  - Obesity/*complications
+MH  - Saliva/*chemistry
+MH  - Time Factors
+MH  - Urinalysis
+EDAT- 2012/04/24 06:00
+MHDA- 2012/06/07 06:00
+CRDT- 2012/04/24 06:00
+PHST- 2012/04/24 06:00 [entrez]
+PHST- 2012/04/24 06:00 [pubmed]
+PHST- 2012/06/07 06:00 [medline]
+PST - epublish
+SO  - N Z Med J. 2012 Apr 20;125(1353):47-58.

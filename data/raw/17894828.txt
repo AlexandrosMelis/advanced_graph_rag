@@ -1,0 +1,85 @@
+PMID- 17894828
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080416
+LR  - 20221207
+IS  - 0742-3071 (Print)
+IS  - 0742-3071 (Linking)
+VI  - 24
+IP  - 12
+DP  - 2007 Dec
+TI  - Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 
+      1 diabetes: does a relationship exist?
+PG  - 1449-54
+AB  - AIMS: An association has been described between elevated serum 
+      angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia 
+      (SH). To ascertain whether this reported association could be replicated in a 
+      different country, it was re-examined in 300 individuals with Type 1 diabetes. 
+      METHODS: People with Type 1 diabetes, none of whom was taking renin-angiotensin 
+      system blocking drugs, were recruited. Participants recorded the frequency with 
+      which they had experienced SH. Glycated haemoglobin (HbA(1c)) and serum ACE were 
+      measured. The difference in the incidence of SH between different quartiles of 
+      ACE activity and the relationship between serum ACE and SH were examined using 
+      non-parametric statistical tests and a negative binomial model. RESULTS: Data 
+      were obtained from 300 patients [158 male; HbA(1c) median (range) 8.2% 
+      (5.2-12.8%), median age 36 years (16-88); duration of diabetes 14.5 years 
+      (2-49)]. The incidence of SH was 0.93 episodes per patient year. The mean 
+      incidence of SH in the top and bottom quartiles of ACE activity was 0.5 and 1.7 
+      episodes per patient year, respectively, but this difference was not 
+      statistically significant (P = 0.075). Spearman's test showed a very weak, 
+      although statistically significant, association between serum ACE level and SH 
+      incidence (r = 0.115, P = 0.047). The binomial model also showed a statistically 
+      significant (P = 0.002), but clinically weak, relationship between serum ACE and 
+      SH. CONCLUSIONS: The present survey showed a weak relationship between serum ACE 
+      and the frequency of SH, the clinical relevance of which is unclear. This limits 
+      the proposed role for serum ACE as an index of risk for SH.
+FAU - Zammitt, N N
+AU  - Zammitt NN
+AD  - Department of Diabetes, Royal Infirmary of Edinburgh, Edinburgh, UK.
+FAU - Geddes, J
+AU  - Geddes J
+FAU - Warren, R E
+AU  - Warren RE
+FAU - Marioni, R
+AU  - Marioni R
+FAU - Ashby, J P
+AU  - Ashby JP
+FAU - Frier, B M
+AU  - Frier BM
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070926
+PL  - England
+TA  - Diabet Med
+JT  - Diabetic medicine : a journal of the British Diabetic Association
+JID - 8500858
+RN  - 0 (Glycated Hemoglobin A)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Chromatography, High Pressure Liquid
+MH  - Diabetes Mellitus, Type 1/*blood
+MH  - Female
+MH  - Glycated Hemoglobin/*analysis
+MH  - Humans
+MH  - Hypoglycemia/*enzymology
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Peptidyl-Dipeptidase A/*blood
+MH  - Spectrophotometry
+EDAT- 2007/09/27 09:00
+MHDA- 2008/04/17 09:00
+CRDT- 2007/09/27 09:00
+PHST- 2007/09/27 09:00 [pubmed]
+PHST- 2008/04/17 09:00 [medline]
+PHST- 2007/09/27 09:00 [entrez]
+AID - DME2263 [pii]
+AID - 10.1111/j.1464-5491.2007.02263.x [doi]
+PST - ppublish
+SO  - Diabet Med. 2007 Dec;24(12):1449-54. doi: 10.1111/j.1464-5491.2007.02263.x. Epub 
+      2007 Sep 26.

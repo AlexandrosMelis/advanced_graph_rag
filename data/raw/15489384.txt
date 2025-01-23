@@ -1,0 +1,91 @@
+PMID- 15489384
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20041202
+LR  - 20181113
+IS  - 0022-3050 (Print)
+IS  - 1468-330X (Electronic)
+IS  - 0022-3050 (Linking)
+VI  - 75
+IP  - 11
+DP  - 2004 Nov
+TI  - Does reducing spasticity translate into functional benefit? An exploratory 
+      meta-analysis.
+PG  - 1547-51
+AB  - BACKGROUND: Spasticity and loss of function in an affected arm are common after 
+      stroke. Although botulinum toxin is used to reduce spasticity, its functional 
+      benefits are less easily demonstrated. This paper reports an exploratory 
+      meta-analysis to investigate the relationship between reduced arm spasticity and 
+      improved arm function. METHOD: Individual data from stroke patients in two 
+      randomised controlled trials of intra-muscular botulinum toxin were pooled. The 
+      Modified Ashworth Scale (elbow, wrist, fingers) was used to calculate a 
+      "Composite Spasticity Index". Data from the arm section of the Barthel Activities 
+      of Daily Living Index (dressing, grooming, and feeding) and three subjective 
+      measures (putting arm through sleeve, cleaning palm, cutting fingernails) were 
+      summed to give a "Composite Functional Index". Change scores and the time of 
+      maximum change were also calculated. RESULTS: Maximum changes in both composite 
+      measures occurred concurrently in 47 patients. In 26 patients the improvement in 
+      spasticity preceded the improvement in function with 18 showing the reverse. 
+      There was a definite relationship between the maximum change in spasticity and 
+      the maximum change in arm function, independent of treatment (rho = -0.2822, p = 
+      0.0008, n = 137). There was a clear relationship between the changes in 
+      spasticity and in arm function in patients treated with botulinum toxin (Dysport) 
+      at 500 or 1000 units (rho = -0.5679, p = 0.0090, n = 22; rho = -0.4430, p = 
+      0.0018, n = 47), but not in those treated with placebo or 1500 units. 
+      CONCLUSIONS: Using a targeted meta-analytic approach, it is possible to 
+      demonstrate that reducing spasticity in the arm is associated with a significant 
+      improvement in arm function.
+FAU - Francis, H P
+AU  - Francis HP
+AD  - Ipsen Limited, 190 Bath Road, Slough, SL1 3XE, Berkshire, UK. 
+      hilary.francis@ipsen.com
+FAU - Wade, D T
+AU  - Wade DT
+FAU - Turner-Stokes, L
+AU  - Turner-Stokes L
+FAU - Kingswell, R S
+AU  - Kingswell RS
+FAU - Dott, C S
+AU  - Dott CS
+FAU - Coxon, E A
+AU  - Coxon EA
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PL  - England
+TA  - J Neurol Neurosurg Psychiatry
+JT  - Journal of neurology, neurosurgery, and psychiatry
+JID - 2985191R
+RN  - 0 (Neuromuscular Agents)
+RN  - EC 3.4.24.69 (Botulinum Toxins, Type A)
+SB  - IM
+MH  - Activities of Daily Living/*classification
+MH  - Aged
+MH  - Arm/innervation
+MH  - Botulinum Toxins, Type A/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Injections, Intramuscular
+MH  - Male
+MH  - Middle Aged
+MH  - Motor Activity/drug effects
+MH  - Muscle Spasticity/*drug therapy
+MH  - Neuromuscular Agents/*therapeutic use
+MH  - Randomized Controlled Trials as Topic
+MH  - Stroke/*complications
+MH  - Stroke Rehabilitation
+PMC - PMC1738826
+EDAT- 2004/10/19 09:00
+MHDA- 2004/12/16 09:00
+PMCR- 2007/11/01
+CRDT- 2004/10/19 09:00
+PHST- 2004/10/19 09:00 [pubmed]
+PHST- 2004/12/16 09:00 [medline]
+PHST- 2004/10/19 09:00 [entrez]
+PHST- 2007/11/01 00:00 [pmc-release]
+AID - 75/11/1547 [pii]
+AID - 10.1136/jnnp.2003.025551 [doi]
+PST - ppublish
+SO  - J Neurol Neurosurg Psychiatry. 2004 Nov;75(11):1547-51. doi: 
+      10.1136/jnnp.2003.025551.

@@ -1,0 +1,99 @@
+PMID- 20577124
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101207
+LR  - 20171116
+IS  - 1473-5598 (Electronic)
+IS  - 0263-6352 (Linking)
+VI  - 28
+IP  - 9
+DP  - 2010 Sep
+TI  - Is leptin involved in phagocytic NADPH oxidase overactivity in obesity? Potential 
+      clinical implications.
+PG  - 1944-50
+LID - 10.1097/HJH.0b013e32833c21af [doi]
+AB  - OBJECTIVES: Hyperleptinemia and oxidative stress play a major role in the 
+      development of cardiovascular diseases in obesity. This study aimed to 
+      investigate whether there is a relationship between plasma levels of leptin and 
+      phagocytic nicotinamide adenine dinucleotide phosphate (NADPH) oxidase activity, 
+      and its potential relevance in the vascular remodeling in obese patients. 
+      METHODS: The study was performed in 164 obese and 94 normal-weight individuals 
+      (controls). NADPH oxidase activity was evaluated by luminescence in phagocytic 
+      cells. Levels of leptin were quantified by ELISA in plasma samples. Carotid 
+      intima-media thickness (cIMT) was measured by ultrasonography. In addition, we 
+      performed in-vitro experiments in human peripheral blood mononuclear cells and 
+      murine macrophages. RESULTS: Phagocytic NADPH oxidase activity and leptin levels 
+      were enhanced (P < 0.05) in obese patients compared with controls. NADPH oxidase 
+      activity positively correlated with leptin in obese patients. This association 
+      remained significant in a multivariate analysis. cIMT was higher (P < 0.05) in 
+      obese patients compared with controls. In addition, cIMT also correlated 
+      positively with leptin and NADPH oxidase activity in obese patients. In-vitro 
+      studies showed that leptin induced NADPH oxidase activation. Inhibition of the 
+      leptin-induced NADPH oxidase activity by wortmannin and bisindolyl maleimide 
+      suggested a direct involvement of the phosphatidylinositol 3-kinase and protein 
+      kinase C pathways, respectively. Finally, leptin-induced NADPH oxidase activation 
+      promoted macrophage proliferation. CONCLUSIONS: These findings show that 
+      phagocytic NADPH oxidase activity is increased in obesity and is related to 
+      preclinical atherosclerosis in this condition. We also suggest that 
+      hyperleptinemia may contribute to phagocytic NADPH oxidase overactivity in 
+      obesity.
+FAU - Fortuno, Ana
+AU  - Fortuno A
+AD  - Division of Cardiovascular Sciences, Centre for Applied Medical Research, 
+      Pamplona, Spain. afortuno@unav.es
+FAU - Bidegain, Julen
+AU  - Bidegain J
+FAU - Baltanas, Ana
+AU  - Baltanas A
+FAU - Moreno, Maria U
+AU  - Moreno MU
+FAU - Montero, Laura
+AU  - Montero L
+FAU - Landecho, Manuel F
+AU  - Landecho MF
+FAU - Beloqui, Oscar
+AU  - Beloqui O
+FAU - Diez, Javier
+AU  - Diez J
+FAU - Zalba, Guillermo
+AU  - Zalba G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - J Hypertens
+JT  - Journal of hypertension
+JID - 8306882
+RN  - 0 (Leptin)
+RN  - 11062-77-4 (Superoxides)
+RN  - EC 1.6.3.- (NADPH Oxidases)
+SB  - IM
+MH  - Animals
+MH  - Atherosclerosis/etiology/pathology
+MH  - Carotid Arteries/pathology
+MH  - Case-Control Studies
+MH  - Cell Line
+MH  - Cell Proliferation/drug effects
+MH  - Female
+MH  - Humans
+MH  - In Vitro Techniques
+MH  - Leptin/*blood/pharmacology
+MH  - Macrophages/cytology/drug effects
+MH  - Male
+MH  - Mice
+MH  - Middle Aged
+MH  - NADPH Oxidases/*blood
+MH  - Obesity/*blood/complications/*enzymology/pathology
+MH  - Oxidative Stress
+MH  - Phagocytes/enzymology
+MH  - Superoxides/blood
+MH  - Tunica Intima/pathology
+EDAT- 2010/06/26 06:00
+MHDA- 2010/12/14 06:00
+CRDT- 2010/06/26 06:00
+PHST- 2010/06/26 06:00 [entrez]
+PHST- 2010/06/26 06:00 [pubmed]
+PHST- 2010/12/14 06:00 [medline]
+AID - 10.1097/HJH.0b013e32833c21af [doi]
+PST - ppublish
+SO  - J Hypertens. 2010 Sep;28(9):1944-50. doi: 10.1097/HJH.0b013e32833c21af.

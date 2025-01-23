@@ -1,0 +1,74 @@
+PMID- 9427037
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980305
+LR  - 20071114
+IS  - 0258-851X (Print)
+IS  - 0258-851X (Linking)
+VI  - 11
+IP  - 5
+DP  - 1997 Sep-Oct
+TI  - Are endothelial cell patterns of astrocytomas indicative of grade?
+PG  - 371-5
+AB  - BACKGROUND: The most common primary brain tumors in children and adults are of 
+      astrocytic origin. Classic histologic grading schemes for astrocytomas have 
+      included evaluating the presence or absence of nuclear abnormalities, mitoses, 
+      vascular endothelial proliferation, and tumor necrosis. MATERIALS AND METHODS: We 
+      evaluated the vascular pattern of 17 astrocytoma surgical specimens (seven from 
+      children and 10 from adults), and four normal brains obtained at autopsy, 
+      utilizing antibody to glial fibrillary acidic protein (GFAP) and von Willebrand 
+      factor (vWF) utilizing confocal microscopy. A modified WHO classification was 
+      used. RESULTS: All tumor cases showed cells positive for GFAP. Control tissues 
+      showed a few, widely separated vessels. Pilocytic astrocytomas (four cases) 
+      showed lacy clusters of small-to-medium sized vessels, with intact vessel wall 
+      integrity. Diffuse, low grade astrocytoma (three cases) showed a staining pattern 
+      similar to control tissue; intermediate grade (one case), anaplastic astrocytoma 
+      (three cases) and gliobastoma multiforme (six cases) showed an increased vessel 
+      density with multiple small vessels (glomeruloid clusters), some with prominent 
+      intimal hyperplasia, loss of vessel wall integrity, and with numerous 
+      vWF-positive single cells/microvessels within the tumor substance. CONCLUSIONS: 
+      Evaluation of astrocytomas utilizing antibody to vWF and confocal microscopy aids 
+      in the grading of these neoplasms.
+FAU - Selby, D M
+AU  - Selby DM
+AD  - Department of Pathology, Children's National Medical Center, Washington, DC 
+      20010, USA.
+FAU - Woodard, C A
+AU  - Woodard CA
+FAU - Henry, M L
+AU  - Henry ML
+FAU - Bernstein, J J
+AU  - Bernstein JJ
+LA  - eng
+GR  - CA48956/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - Greece
+TA  - In Vivo
+JT  - In vivo (Athens, Greece)
+JID - 8806809
+RN  - 0 (Glial Fibrillary Acidic Protein)
+RN  - 0 (von Willebrand Factor)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Astrocytoma/*blood supply/classification/metabolism/*pathology
+MH  - Child, Preschool
+MH  - Endothelium, Vascular/*pathology
+MH  - Female
+MH  - Fluorescent Antibody Technique, Indirect
+MH  - Glial Fibrillary Acidic Protein/metabolism
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - von Willebrand Factor/metabolism
+EDAT- 1998/01/14 00:00
+MHDA- 1998/01/14 00:01
+CRDT- 1998/01/14 00:00
+PHST- 1998/01/14 00:00 [pubmed]
+PHST- 1998/01/14 00:01 [medline]
+PHST- 1998/01/14 00:00 [entrez]
+PST - ppublish
+SO  - In Vivo. 1997 Sep-Oct;11(5):371-5.

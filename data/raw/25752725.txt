@@ -1,0 +1,105 @@
+PMID- 25752725
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160502
+LR  - 20200109
+IS  - 1778-3585 (Electronic)
+IS  - 0924-9338 (Linking)
+VI  - 30
+IP  - 5
+DP  - 2015 Jul
+TI  - Schizophrenia patients with high intelligence: A clinically distinct sub-type of 
+      schizophrenia?
+PG  - 628-32
+LID - S0924-9338(15)00072-3 [pii]
+LID - 10.1016/j.eurpsy.2015.02.007 [doi]
+AB  - BACKGROUND: Schizophrenia patients are typically found to have low IQ both pre- 
+      and post-onset, in comparison to the general population. However, a subgroup of 
+      patients displays above average IQ pre-onset. The nature of these patients' 
+      illness and its relationship to typical schizophrenia is not well understood. The 
+      current study sought to investigate the symptom profile of high-IQ schizophrenia 
+      patients. METHODS: We identified 29 schizophrenia patients of exceptionally high 
+      pre-morbid intelligence (mean estimated pre-morbid intelligence quotient (IQ) of 
+      120), of whom around half also showed minimal decline (less than 10 IQ points) 
+      from their estimated pre-morbid IQ. We compared their symptom scores (SAPS, SANS, 
+      OPCRIT, MADRS, GAF, SAI-E) with a comparison group of schizophrenia patients of 
+      typical IQ using multinomial logistic regression. RESULTS: The patients with very 
+      high pre-morbid IQ had significantly lower scores on negative and disorganised 
+      symptoms than typical patients (RRR=0.019; 95% CI=0.001, 0.675, P=0.030), and 
+      showed better global functioning and insight (RRR=1.082; 95% CI=1.020, 1.148; 
+      P=0.009). Those with a minimal post-onset IQ decline also showed higher levels of 
+      manic symptoms (RRR=8.213; 95% CI=1.042, 64.750, P=0.046). CONCLUSIONS: These 
+      findings provide evidence for the existence of a high-IQ variant of schizophrenia 
+      that is associated with markedly fewer negative symptoms than typical 
+      schizophrenia, and lends support to the idea of a psychosis spectrum or continuum 
+      over boundaried diagnostic categories.
+CI  - Copyright (c) 2015 Elsevier Masson SAS. All rights reserved.
+FAU - Cernis, E
+AU  - Cernis E
+AD  - Department of Psychosis Studies, Institute of Psychiatry, King's College London, 
+      Box P063, De Crespigny Park, London, United Kingdom, SE5 8AF. Electronic address: 
+      Emma.cernis@hmc.ox.ac.uk.
+FAU - Vassos, E
+AU  - Vassos E
+AD  - Department of Psychosis Studies, Institute of Psychiatry, King's College London, 
+      Box P063, De Crespigny Park, London, United Kingdom, SE5 8AF.
+FAU - Brebion, G
+AU  - Brebion G
+AD  - Unit of Research and Development, Parc Sanitari Sant Joan de Deu and CIBERSAM, 
+      Barcelona, Spain.
+FAU - McKenna, P J
+AU  - McKenna PJ
+AD  - Benito Menni CASM, and CIBERSAM, Barcelona, Spain.
+FAU - Murray, R M
+AU  - Murray RM
+AD  - Department of Psychosis Studies, Institute of Psychiatry, King's College London, 
+      Box P063, De Crespigny Park, London, United Kingdom, SE5 8AF.
+FAU - David, A S
+AU  - David AS
+AD  - Department of Psychosis Studies, Institute of Psychiatry, King's College London, 
+      Box P063, De Crespigny Park, London, United Kingdom, SE5 8AF.
+FAU - MacCabe, J H
+AU  - MacCabe JH
+AD  - Department of Psychosis Studies, Institute of Psychiatry, King's College London, 
+      Box P063, De Crespigny Park, London, United Kingdom, SE5 8AF.
+LA  - eng
+GR  - Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150306
+PL  - England
+TA  - Eur Psychiatry
+JT  - European psychiatry : the journal of the Association of European Psychiatrists
+JID - 9111820
+SB  - IM
+MH  - Adult
+MH  - *Cognition
+MH  - Female
+MH  - Humans
+MH  - *Intelligence
+MH  - Intelligence Tests
+MH  - Male
+MH  - Middle Aged
+MH  - Neuropsychological Tests
+MH  - Schizophrenia/*classification/*physiopathology
+MH  - Schizophrenic Psychology
+OTO - NOTNLM
+OT  - Cognitive function
+OT  - IQ
+OT  - Psychosis
+OT  - Schizophrenia
+OT  - Superphrenia
+EDAT- 2015/03/11 06:00
+MHDA- 2016/05/03 06:00
+CRDT- 2015/03/11 06:00
+PHST- 2014/11/06 00:00 [received]
+PHST- 2015/02/09 00:00 [revised]
+PHST- 2015/02/11 00:00 [accepted]
+PHST- 2015/03/11 06:00 [entrez]
+PHST- 2015/03/11 06:00 [pubmed]
+PHST- 2016/05/03 06:00 [medline]
+AID - S0924-9338(15)00072-3 [pii]
+AID - 10.1016/j.eurpsy.2015.02.007 [doi]
+PST - ppublish
+SO  - Eur Psychiatry. 2015 Jul;30(5):628-32. doi: 10.1016/j.eurpsy.2015.02.007. Epub 
+      2015 Mar 6.

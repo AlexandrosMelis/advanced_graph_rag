@@ -1,0 +1,112 @@
+PMID- 22154448
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120508
+LR  - 20181201
+IS  - 1769-6623 (Electronic)
+IS  - 0750-7658 (Linking)
+VI  - 31
+IP  - 1
+DP  - 2012 Jan
+TI  - [Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky 
+      technique?].
+PG  - 53-9
+LID - 10.1016/j.annfar.2011.08.020 [doi]
+AB  - BACKGROUND: To study the risks of haemodynamic instability, and the possible 
+      occurrence of spinal haematoma, meningitis and epidural abscess when epidural 
+      analgesia is performed for cytoreductive surgery and hyperthermic intraperitoneal 
+      chemotherapy (HIPEC). METHODS: We retrospectively analyzed the data of 35 
+      patients treated by HIPEC with oxaliplatin or cisplatin. An epidural catheter was 
+      inserted before induction of general anaesthesia. Postoperatively, a continuous 
+      epidural infusion of ropivacain, then a patient-controlled epidural analgesia 
+      were started. RESULTS: The epidural catheter was used peroperatively before HIPEC 
+      in 12 subjects (34%), and after HIPEC in 23 subjects (66%). The median dose of 
+      ropivacain given peroperatively in the epidural catheter was 40 mg (30-75). 
+      Norepinephrin was used in two subjects (6%) peroperatively (median infusion rate 
+      0.325 mug/kg per minute [0.32-0.33]), and in four subjects (11%) in the 
+      postoperative 24 hours. No spinal haematoma, meningitis or epidural abscess were 
+      noted. Five subjects (14%) had a thrombopenia or a prothrombin time less than 60% 
+      before catheter removal. Two subjects (6%) had a leukopenia before catheter 
+      removal. No thrombopenia or blood coagulation disorders were recorded the day of 
+      catheter removal. CONCLUSION: In this series of 35 patients, the use of epidural 
+      analgesia for HIPEC does not seem to be associated with a worse risk of 
+      haemodynamic instability, spinal haematoma, meningitis or epidural abscess. HIPEC 
+      with platinum salt is not incompatible with the safety of epidural analgesia, 
+      with an optimized fluid management peroperatively and the following of 
+      perimedullary anesthesia practice guidelines.
+CI  - Copyright (c) 2011 Societe francaise d'anesthesie et de reanimation (Sfar). 
+      Published by Elsevier SAS. All rights reserved.
+FAU - Desgranges, F-P
+AU  - Desgranges FP
+AD  - Departement d'anesthesie-reanimation, centre regional de lutte contre le cancer 
+      Leon-Berard, Lyon, France. fp_desgranges@yahoo.fr
+FAU - Steghens, A
+AU  - Steghens A
+FAU - Rosay, H
+AU  - Rosay H
+FAU - Meeus, P
+AU  - Meeus P
+FAU - Stoian, A
+AU  - Stoian A
+FAU - Daunizeau, A-L
+AU  - Daunizeau AL
+FAU - Pouderoux-Martin, S
+AU  - Pouderoux-Martin S
+FAU - Piriou, V
+AU  - Piriou V
+LA  - fre
+PT  - Journal Article
+TT  - Analgesie peridurale pour le traitement chirurgical des carcinoses peritoneales : 
+      une pratique a risque ?
+DEP - 20111206
+PL  - France
+TA  - Ann Fr Anesth Reanim
+JT  - Annales francaises d'anesthesie et de reanimation
+JID - 8213275
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Organoplatinum Compounds)
+RN  - 0 (Vasoconstrictor Agents)
+RN  - 04ZR38536J (Oxaliplatin)
+RN  - Q20Q21Q62J (Cisplatin)
+RN  - X4W3ENH1CV (Norepinephrine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Analgesia, Epidural/adverse effects/*methods
+MH  - Analgesia, Patient-Controlled
+MH  - Anesthesia, General
+MH  - Antineoplastic Agents/administration & dosage/therapeutic use
+MH  - Carcinoma/drug therapy/*surgery
+MH  - Cisplatin/therapeutic use
+MH  - Combined Modality Therapy
+MH  - Epidural Abscess/epidemiology/etiology
+MH  - Female
+MH  - Hematoma, Epidural, Spinal/epidemiology/etiology
+MH  - Hemodynamics/physiology
+MH  - Humans
+MH  - Hyperthermia, Induced
+MH  - Male
+MH  - Meningitis/epidemiology/etiology
+MH  - Middle Aged
+MH  - Norepinephrine/therapeutic use
+MH  - Organoplatinum Compounds/therapeutic use
+MH  - Oxaliplatin
+MH  - Peritoneal Neoplasms/drug therapy/*surgery
+MH  - Retrospective Studies
+MH  - Risk
+MH  - Safety
+MH  - Thrombocytopenia/etiology
+MH  - Vasoconstrictor Agents/therapeutic use
+EDAT- 2011/12/14 06:00
+MHDA- 2012/05/09 06:00
+CRDT- 2011/12/14 06:00
+PHST- 2011/02/25 00:00 [received]
+PHST- 2011/08/25 00:00 [accepted]
+PHST- 2011/12/14 06:00 [entrez]
+PHST- 2011/12/14 06:00 [pubmed]
+PHST- 2012/05/09 06:00 [medline]
+AID - S0750-7658(11)00406-0 [pii]
+AID - 10.1016/j.annfar.2011.08.020 [doi]
+PST - ppublish
+SO  - Ann Fr Anesth Reanim. 2012 Jan;31(1):53-9. doi: 10.1016/j.annfar.2011.08.020. 
+      Epub 2011 Dec 6.

@@ -1,0 +1,79 @@
+PMID- 11034241
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010308
+LR  - 20190921
+IS  - 1068-9265 (Print)
+IS  - 1068-9265 (Linking)
+VI  - 7
+IP  - 9
+DP  - 2000 Oct
+TI  - Is routine intraoperative frozen-section examination of sentinel lymph nodes in 
+      breast cancer worthwhile?
+PG  - 651-5
+AB  - BACKGROUND: Routine intraoperative frozen section (FS) of sentinel lymph nodes 
+      (SLN) can detect metastatic disease, allowing immediate axillary dissection and 
+      avoiding the need for reoperation. Routine FS is also costly, increases operative 
+      time, and is subject to false-negative results. We examined the benefit of 
+      routine intraoperative FS among the first 1000 patients at Memorial Sloan 
+      Kettering Cancer Center who had SLN biopsy for breast cancer. METHODS: We 
+      performed SLN biopsy with intraoperative FS in 890 consecutive breast cancer 
+      patients, none of whom had a back-up axillary dissection planned in advance. 
+      Serial sections and immunohistochemical staining for cytokeratins were performed 
+      on all SLN that proved negative on FS. The sensitivity of FS was determined as a 
+      function of (1) tumor size and (2) volume of metastatic disease in the SLN, and 
+      the benefit of FS was defined as the avoidance of a reoperative axillary 
+      dissection. RESULTS: The sensitivity of FS ranged from 40% for patients with Tla 
+      to 76% for patients with T2 cancers. The volume of SLN metastasis was highly 
+      correlated with tumor size, and FS was far more effective in detecting 
+      macrometastatic disease (sensitivity 92%) than micrometastases (sensitivity 17%). 
+      The benefit of FS in avoiding reoperative axillary dissection ranged from 4% for 
+      Tla (6 of 143) to 38% for T2 (45 of 119) cancers. CONCLUSIONS: In breast cancer 
+      patients having SLN biopsy, the failure of routine intraoperative FS is largely 
+      the failure to detect micrometastatic disease. The benefit of routine 
+      intraoperative FS increases with tumor size. Routine FS may not be indicated in 
+      patients with the smallest invasive cancers.
+FAU - Weiser, M R
+AU  - Weiser MR
+AD  - Department of Surgery, Memorial Sloan-Kettering Cancer Center, New York, New York 
+      10021, USA.
+FAU - Montgomery, L L
+AU  - Montgomery LL
+FAU - Susnik, B
+AU  - Susnik B
+FAU - Tan, L K
+AU  - Tan LK
+FAU - Borgen, P I
+AU  - Borgen PI
+FAU - Cody, H S
+AU  - Cody HS
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+JID - 9420840
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Breast Neoplasms/*pathology
+MH  - Female
+MH  - Frozen Sections/*standards
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Intraoperative Period
+MH  - Lymphatic Metastasis
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Sensitivity and Specificity
+MH  - Sentinel Lymph Node Biopsy/*standards
+EDAT- 2000/10/18 11:00
+MHDA- 2001/03/10 10:01
+CRDT- 2000/10/18 11:00
+PHST- 2000/10/18 11:00 [pubmed]
+PHST- 2001/03/10 10:01 [medline]
+PHST- 2000/10/18 11:00 [entrez]
+AID - 10.1007/s10434-000-0651-3 [doi]
+PST - ppublish
+SO  - Ann Surg Oncol. 2000 Oct;7(9):651-5. doi: 10.1007/s10434-000-0651-3.

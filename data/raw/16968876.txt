@@ -1,0 +1,102 @@
+PMID- 16968876
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070201
+LR  - 20220317
+IS  - 0923-7534 (Print)
+IS  - 0923-7534 (Linking)
+VI  - 17
+IP  - 11
+DP  - 2006 Nov
+TI  - Is a patient's self-reported health-related quality of life a prognostic factor 
+      for survival in non-small-cell lung cancer patients? A multivariate analysis of 
+      prognostic factors of EORTC study 08975.
+PG  - 1698-704
+AB  - BACKGROUND: The aim of this prognostic factor analysis was to investigate if a 
+      patient's self-reported health-related quality of life (HRQOL) provided 
+      independent prognostic information for survival in non-small cell lung cancer 
+      (NSCLC) patients. PATIENTS AND METHODS: Pretreatment HRQOL was measured in 391 
+      advanced NSCLC patients using the EORTC QLQ-C30 and the EORTC Lung Cancer module 
+      (QLQ-LC13). The Cox proportional hazards regression model was used for both 
+      univariate and multivariate analyses of survival. In addition, a bootstrap 
+      validation technique was used to assess the stability of the outcomes. RESULTS: 
+      The final multivariate Cox regression model retained four parameters as 
+      independent prognostic factors for survival: male gender with a hazard ratio (HR) 
+      = 1.32 (95% CI 1.03-1.69; P = 0.03); performance status (0 to 1 versus 2) with HR 
+      = 1.63 (95% CI 1.04-2.54; P = 0.032); patient's self-reported score of pain with 
+      HR= 1.11 (95% CI 1.07-1.16; P < 0.001) and dysphagia with HR = 1.12 (95% CI 
+      1.04-1.21; P = 0.003). A 10-point shift worse in the scale measuring pain and 
+      dysphagia translated into an 11% and 12% increased in the likelihood of death 
+      respectively. A risk group categorization was also developed. CONCLUSION: The 
+      results suggest that patients' self-reported HRQOL provide independent prognostic 
+      information for survival. This finding supports the collection of such data in 
+      routine clinical practice.
+FAU - Efficace, F
+AU  - Efficace F
+AD  - European Organisation for Research and Treatment of Cancer (EORTC), EORTC Data 
+      Center, Brussels, Belgium. f.efficace@fondazioneime.org
+FAU - Bottomley, A
+AU  - Bottomley A
+FAU - Smit, E F
+AU  - Smit EF
+FAU - Lianes, P
+AU  - Lianes P
+FAU - Legrand, C
+AU  - Legrand C
+FAU - Debruyne, C
+AU  - Debruyne C
+FAU - Schramel, F
+AU  - Schramel F
+FAU - Smit, H J
+AU  - Smit HJ
+FAU - Gaafar, R
+AU  - Gaafar R
+FAU - Biesma, B
+AU  - Biesma B
+FAU - Manegold, C
+AU  - Manegold C
+FAU - Coens, C
+AU  - Coens C
+FAU - Giaccone, G
+AU  - Giaccone G
+FAU - Van Meerbeeck, J
+AU  - Van Meerbeeck J
+CN  - EORTC Lung Cancer Group and Quality of Life Unit
+LA  - eng
+GR  - 5U10 CA11488-35/CA/NCI NIH HHS/United States
+GR  - CA11488-31/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+DEP - 20060912
+PL  - England
+TA  - Ann Oncol
+JT  - Annals of oncology : official journal of the European Society for Medical 
+      Oncology
+JID - 9007735
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Non-Small-Cell Lung/*diagnosis
+MH  - Europe
+MH  - Female
+MH  - *Health Status
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Prognosis
+MH  - *Quality of Life
+MH  - Regression Analysis
+MH  - Survival Analysis
+EDAT- 2006/09/14 09:00
+MHDA- 2007/02/03 09:00
+CRDT- 2006/09/14 09:00
+PHST- 2006/09/14 09:00 [pubmed]
+PHST- 2007/02/03 09:00 [medline]
+PHST- 2006/09/14 09:00 [entrez]
+AID - S0923-7534(19)38070-6 [pii]
+AID - 10.1093/annonc/mdl183 [doi]
+PST - ppublish
+SO  - Ann Oncol. 2006 Nov;17(11):1698-704. doi: 10.1093/annonc/mdl183. Epub 2006 Sep 
+      12.

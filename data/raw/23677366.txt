@@ -1,0 +1,97 @@
+PMID- 23677366
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130708
+LR  - 20220409
+IS  - 1535-1386 (Electronic)
+IS  - 0021-9355 (Linking)
+VI  - 95
+IP  - 10
+DP  - 2013 May 15
+TI  - Do oblique views add value in the diagnosis of spondylolysis in adolescents?
+PG  - e65
+LID - 10.2106/JBJS.L.00824 [doi]
+AB  - BACKGROUND: Anteroposterior, lateral, and right and left oblique lumbar spine 
+      radiographs are often a standard part of the evaluation of children who are 
+      clinically suspected of having spondylolysis. Recent concerns regarding radiation 
+      exposure and costs have brought the value of oblique radiographs into question. 
+      The purpose of the present study was to determine the diagnostic value of oblique 
+      views in the diagnosis of spondylolysis. METHODS: Radiographs of fifty 
+      adolescents with L5 spondylolysis without spondylolisthesis and fifty controls 
+      were retrospectively reviewed. All controls were confirmed not to have 
+      spondylolysis on the basis of computed tomographic scanning, magnetic resonance 
+      imaging, or bone scanning. Anteroposterior, lateral, and right and left oblique 
+      radiographs of the lumbar spine were arranged into two sets of slides: one 
+      showing four views (anteroposterior, lateral, right oblique, and left oblique) 
+      and one showing two views (anteroposterior and lateral only). The slides were 
+      randomly presented to four pediatric spine surgeons for diagnosis, with four-view 
+      slides being presented first, followed by two-view slides. The slides for twenty 
+      random patients were later reanalyzed in order to calculate of intra-rater 
+      agreement. A power analysis demonstrated that this study was adequately powered. 
+      Inter-rater and intra-rater agreement were assessed on the basis of the 
+      percentage of overall agreement and intraclass correlation coefficients (ICCs). 
+      PCXMC software was used to generate effective radiation doses. Study charges were 
+      determined from radiology billing data. RESULTS: There was no significant 
+      difference in sensitivity and specificity between four-view and two-view 
+      radiographs in the diagnosis of spondylolysis. The sensitivity was 0.59 for 
+      two-view studies and 0.53 for four-view studies (p = 0.33). The specificity was 
+      0.96 for two-view studies and 0.94 for four-view studies (p = 0.60). Inter-rater 
+      agreement, intra-rater agreement, and agreement with gold-standard ICC values 
+      were in the moderate range and also demonstrated no significant differences. 
+      Percent overall agreement was 78% for four-view studies and 82% for two-view 
+      studies. The radiation effective dose was 1.26 mSv for four-view studies and 0.72 
+      mSv for two-view studies (difference, 0.54 mSv). The charge for four-view studies 
+      was $145 more than that for two-view studies. CONCLUSIONS: There is no difference 
+      in sensitivity and specificity between four-view and two-view studies. Although 
+      oblique views have long been considered standard practice by some, our data could 
+      not identify a diagnostic benefit that might outweigh the additional cost and 
+      radiation exposure.
+FAU - Beck, Nicholas A
+AU  - Beck NA
+AD  - Division of Orthopaedic Surgery, The Children's Hospital of Philadelphia, 34th 
+      and Civic Center Boulevard, Philadelphia, PA 19104, USA.
+FAU - Miller, Robert
+AU  - Miller R
+FAU - Baldwin, Keith
+AU  - Baldwin K
+FAU - Zhu, X
+AU  - Zhu X
+FAU - Spiegel, David
+AU  - Spiegel D
+FAU - Drummond, Denis
+AU  - Drummond D
+FAU - Sankar, Wudbhav N
+AU  - Sankar WN
+FAU - Flynn, John M
+AU  - Flynn JM
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PL  - United States
+TA  - J Bone Joint Surg Am
+JT  - The Journal of bone and joint surgery. American volume
+JID - 0014030
+SB  - IM
+MH  - Adolescent
+MH  - Case-Control Studies
+MH  - Cohort Studies
+MH  - Hospital Costs
+MH  - Humans
+MH  - Lumbar Vertebrae/*diagnostic imaging
+MH  - Observer Variation
+MH  - Philadelphia
+MH  - Radiation Dosage
+MH  - Radiography
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Spondylolysis/*diagnostic imaging/economics
+EDAT- 2013/05/17 06:00
+MHDA- 2013/07/09 06:00
+CRDT- 2013/05/17 06:00
+PHST- 2013/05/17 06:00 [entrez]
+PHST- 2013/05/17 06:00 [pubmed]
+PHST- 2013/07/09 06:00 [medline]
+AID - 1684781 [pii]
+AID - 10.2106/JBJS.L.00824 [doi]
+PST - ppublish
+SO  - J Bone Joint Surg Am. 2013 May 15;95(10):e65. doi: 10.2106/JBJS.L.00824.

@@ -1,0 +1,93 @@
+PMID- 26923375
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170105
+LR  - 20220310
+IS  - 0975-0711 (Electronic)
+IS  - 0254-8860 (Linking)
+VI  - 35
+IP  - 1
+DP  - 2016 Jan
+TI  - Is non-invasive diagnosis of esophageal varices in patients with compensated 
+      hepatic cirrhosis possible by duplex Doppler ultrasonography?
+PG  - 60-6
+LID - 10.1007/s12664-016-0630-7 [doi]
+AB  - BACKGROUND AND AIM: Esophageal varices are present in 30% to 40% of patients in 
+      compensated cirrhosis (Child-Pugh class A) and in 60% to 85% of patients in 
+      decompensated cirrhosis (Child-Pugh classes B and C). It is important to identify 
+      patients with compensated cirrhosis at risk for esophageal varix development. We 
+      evaluated the accuracy of a duplex Doppler ultrasonographic index for predicting 
+      the presence or absence of esophageal varices in patients with compensated 
+      hepatic cirrhosis (Child-Pugh class A) by using endoscopy as the reference 
+      standard. METHODS: Fifty-six enrolled patients underwent duplex Doppler 
+      ultrasonography followed by screening endoscopy. Mean portal vein velocity (PVV), 
+      splenic index (SI), splenoportal index (SPI), hepatic and splenic arterial 
+      resistive, and pulsatility indices (hepatic artery resistive index [HARI], 
+      hepatic artery pulsatility index [HAPI], splenic artery resistive index [SARI], 
+      splenic artery pulsatility index [SAPI]) were recorded. Univariate logistic 
+      regression analysis was followed by receiver operating characteristic (ROC) curve 
+      construction for the indices that were significant. RESULTS: The indices HARI, 
+      HAPI, SARI, SAPI were not helpful (p > 0.05). Mean PVV, SI, and SPI were all 
+      predictive of the presence of esophageal varices (p < 0.05) and SPI was found to 
+      be the most accurate parameter. Of the various cut-off levels of SPI evaluated, a 
+      cut-off value of SPI at 5.0, offered the highest diagnostic accuracy (88%). For 
+      the 28 patients with SPI <5.0, the absence of esophageal varices in 27 of them 
+      could be correctly diagnosed using only SPI without invasive screening endoscopy, 
+      with high negative predictive value (96%) and sensitivity (96%). Of the remaining 
+      28 patients with SPI >/=5.0, presence of esophageal varices could be similarly 
+      correctly diagnosed in 22 of them by using SPI without screening endoscopy, with 
+      high positive predictive value (79%) and specificity (82%). CONCLUSION: The SPI 
+      was accurate in predicting the presence or absence of esophageal varices in 
+      patients with compensated cirrhosis.
+FAU - Chakrabarti, Ritwik
+AU  - Chakrabarti R
+AD  - Military Hospital Tiruvananthapuram, Pangode, Tiruvananthapuram, 695 006, India.
+FAU - Sen, Debraj
+AU  - Sen D
+AD  - Indian Field Hospital Level II, UN Mission in South Sudan (UNMISS), C/O 56 APO, 
+      Malakal, Sudan. sendebraj@gmail.com.
+FAU - Khanna, Vikram
+AU  - Khanna V
+AD  - 92 Base Hospital, c/o 56 APO, Srinagar, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20160229
+PL  - India
+TA  - Indian J Gastroenterol
+JT  - Indian journal of gastroenterology : official journal of the Indian Society of 
+      Gastroenterology
+JID - 8409436
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Endosonography
+MH  - Esophageal and Gastric Varices/*diagnostic imaging/epidemiology/etiology
+MH  - Female
+MH  - Humans
+MH  - Liver Cirrhosis/*complications
+MH  - Male
+MH  - Middle Aged
+MH  - Prevalence
+MH  - Regression Analysis
+MH  - Sensitivity and Specificity
+MH  - Sex Distribution
+MH  - *Ultrasonography, Doppler, Duplex
+OTO - NOTNLM
+OT  - Compensated cirrhosis
+OT  - Duplex Doppler ultrasonography
+OT  - Esophageal varices
+OT  - Splenoportal index
+EDAT- 2016/03/01 06:00
+MHDA- 2017/01/06 06:00
+CRDT- 2016/03/01 06:00
+PHST- 2015/11/10 00:00 [received]
+PHST- 2016/01/28 00:00 [accepted]
+PHST- 2016/03/01 06:00 [entrez]
+PHST- 2016/03/01 06:00 [pubmed]
+PHST- 2017/01/06 06:00 [medline]
+AID - 10.1007/s12664-016-0630-7 [pii]
+AID - 10.1007/s12664-016-0630-7 [doi]
+PST - ppublish
+SO  - Indian J Gastroenterol. 2016 Jan;35(1):60-6. doi: 10.1007/s12664-016-0630-7. Epub 
+      2016 Feb 29.

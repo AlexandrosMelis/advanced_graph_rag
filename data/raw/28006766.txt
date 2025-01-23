@@ -1,0 +1,111 @@
+PMID- 28006766
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170208
+LR  - 20190212
+IS  - 1421-9778 (Electronic)
+IS  - 1015-8987 (Linking)
+VI  - 40
+IP  - 6
+DP  - 2016
+TI  - Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary 
+      Carcinoma? A Retrospective Cohort Study and Meta-Analysis.
+PG  - 1613-1625
+LID - 10.1159/000453211 [doi]
+AB  - BACKGROUND: Upper tract urinary carcinoma (UTUC) is a relatively uncommon but 
+      aggressive disease. The Ki-67 antigen is a classic marker of cellular 
+      proliferation, but there is still controversy regarding the significance and 
+      importance of Ki-67 in tumor progression. METHODS: In this study, we first 
+      detected Ki-67 expression in UTUC patients by immunohistochemistry (IHC). 
+      Subsequently, we quantitatively combined the results with those from the 
+      published literature in a meta-analysis after searching several databases. 
+      RESULTS: IHC results demonstrated that patients with muscle-invasive tumors 
+      (T2-T4) had higher Ki-67 expression than those with non-muscle-invasive tumors 
+      (Tis-T1), suggesting that high Ki-67 expression may be associated with the 
+      aggressive form of UTUC. Kaplan-Meier curves showed that patients with high Ki-67 
+      expression had significantly poorer cancer-specific survival (CSS) and 
+      disease-free survival (DFS). Furthermore, multivariate analysis suggested that 
+      Ki-67 expression was an independent prognostic factor for CSS (hazard ratio, 
+      HR=3.196) and DFS (HR=3.517) in UTUC patients. Then, a meta-analysis of the 
+      published literature investigating Ki-67 expression and its effects on UTUC 
+      prognosis was conducted. After searching the PubMed, Medline, Embase, Cochrane 
+      Library and Scopus databases, 12 articles met the eligibility criteria for this 
+      analysis. The eligible studies included a total of 1740 patients with a mean 
+      number of 82 patients per study (range, 38-475). The combined results showed that 
+      increased Ki-67 levels were associated with poor survival and disease 
+      progression, with a pooled HR estimate of 2.081 and 2.791, respectively. In 
+      subgroup analysis, the pooled HR was statistically significant for 
+      cancer-specific survival (HR=2.276), metastasis-free survival (HR=3.008) and 
+      disease-free survival (HR=6.336). CONCLUSIONS: In conclusion, high Ki-67 
+      expression was associated with poor survival in patients with UTUC, as well as a 
+      high risk of disease progression, although these findings need to be interpreted 
+      with caution. Large-scale, adequately designed, prospective trials are needed to 
+      further confirm the value of Ki-67 in prognosis of UTUC patients.
+CI  - (c) 2016 The Author(s) Published by S. Karger AG, Basel.
+FAU - Fan, Bo
+AU  - Fan B
+AD  - Graduate School, Dalian Medical University, Dalian, Liaoning, P.R. China.
+FAU - Zhang, Hongshuo
+AU  - Zhang H
+FAU - Jin, Huidan
+AU  - Jin H
+FAU - Gai, Yu
+AU  - Gai Y
+FAU - Wang, Honglong
+AU  - Wang H
+FAU - Zong, Huafeng
+AU  - Zong H
+FAU - Jin, Mingyu
+AU  - Jin M
+FAU - Yang, Hao
+AU  - Yang H
+FAU - Wan, Shuping
+AU  - Wan S
+FAU - Zhu, Jiabin
+AU  - Zhu J
+FAU - Xu, Siyao
+AU  - Xu S
+FAU - Wang, Jianbo
+AU  - Wang J
+FAU - Yang, Deyong
+AU  - Yang D
+FAU - Song, Xishuang
+AU  - Song X
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+DEP - 20161223
+PL  - Germany
+TA  - Cell Physiol Biochem
+JT  - Cellular physiology and biochemistry : international journal of experimental 
+      cellular physiology, biochemistry, and pharmacology
+JID - 9113221
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Ki-67 Antigen)
+SB  - IM
+MH  - Aged
+MH  - Biomarkers, Tumor/*metabolism
+MH  - Disease Progression
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Kaplan-Meier Estimate
+MH  - Ki-67 Antigen/*metabolism
+MH  - Male
+MH  - Multivariate Analysis
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Urologic Neoplasms/*metabolism/pathology/surgery
+EDAT- 2016/12/23 06:00
+MHDA- 2017/02/09 06:00
+CRDT- 2016/12/23 06:00
+PHST- 2016/11/09 00:00 [accepted]
+PHST- 2016/12/23 06:00 [pubmed]
+PHST- 2017/02/09 06:00 [medline]
+PHST- 2016/12/23 06:00 [entrez]
+AID - 000453211 [pii]
+AID - 10.1159/000453211 [doi]
+PST - ppublish
+SO  - Cell Physiol Biochem. 2016;40(6):1613-1625. doi: 10.1159/000453211. Epub 2016 Dec 
+      23.

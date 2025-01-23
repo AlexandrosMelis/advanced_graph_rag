@@ -1,0 +1,125 @@
+PMID- 24434052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140422
+LR  - 20141027
+IS  - 1878-0539 (Electronic)
+IS  - 1748-6815 (Linking)
+VI  - 67
+IP  - 3
+DP  - 2014 Mar
+TI  - Are we seeing the effects of public awareness campaigns? A 10-year analysis of 
+      Breslow thickness at presentation of malignant melanoma in the South West of 
+      England.
+PG  - 324-30
+LID - S1748-6815(13)00687-6 [pii]
+LID - 10.1016/j.bjps.2013.12.023 [doi]
+AB  - INTRODUCTION: The last 20 years has seen a marked improvement in skin cancer 
+      awareness campaigns. We sought to establish whether this has affected the 
+      presenting Breslow thickness of malignant melanoma in the South West. METHOD: 
+      This is a retrospective study looking at the first presentation of melanomas from 
+      2003 to 2011. Data was accessed using the local online melanoma database. 
+      RESULTS: A total of 2001 new melanomas presented from 2003 to 2012 (Male:Female = 
+      1:1.062). The average yearly number of melanomas was 200.1 (range = 138-312). The 
+      mean age was 62.5 years (range 12-99). Data was analysed using a Chi(2) test. For 
+      0-1 mm melanomas, there is a significant difference in the observed versus 
+      expected values over the 10 years (p = 0.0018). There is an increasing proportion 
+      of 0-1 mm (thin) melanomas presenting year on year, with a positive linear trend. 
+      This is very statistically significant (p < 0.0001). The 1-2 mm melanomas are 
+      decreasing in proportion with a negative linear trend (p = 0.0013). The 2-4 mm 
+      are also decreasing in proportion (p = 0.0253). There is no significant change in 
+      the thick >4 mm melanomas (p = 0.1456). CONCLUSION: The proportion of thin 0-1 mm 
+      melanomas presenting in South West England has significantly increased from 2003 
+      to 2012. There is no significant change in the thick >4 mm melanomas. This may be 
+      a result of increased public awareness due to effective public health campaigns 
+      which has significant prognostic and financial implications.
+CI  - Copyright (c) 2013 British Association of Plastic, Reconstructive and Aesthetic 
+      Surgeons. Published by Elsevier Ltd. All rights reserved.
+FAU - Armstrong, A
+AU  - Armstrong A
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK. Electronic address: acgarmstrong@doctors.net.uk.
+FAU - Powell, C
+AU  - Powell C
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Specialist Training Registrar in Plastic Surgery, 
+      Frenchay Hospital, Frenchay Park Rd, Bristol, South Gloucestershire BS16 1LE, UK.
+FAU - Powell, R
+AU  - Powell R
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Research Design Consultant, Research Design Service 
+      (RDS) South West, Royal Devon and Exeter Hospital, Barrack Road, Exeter, Devon 
+      EX2 5DW, UK.
+FAU - Hallam, N
+AU  - Hallam N
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Cancer Audit Facilitator, Royal Devon and Exeter 
+      Hospital, Barrack Road, Exeter, Devon EX2 5DW, UK.
+FAU - Taylor, J
+AU  - Taylor J
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Department of Radiology, Royal Devon and Exeter 
+      Hospital, Barrack Road, Exeter, Devon EX2 5DW, UK.
+FAU - Bird, J
+AU  - Bird J
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Research Fellow ENT Surgery, University Hospital 
+      Southampton NHS Foundation Trust, Tremona Road, Hampshire SO16 6YD, UK.
+FAU - Sarran, C
+AU  - Sarran C
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Heath Research Analyst, Met Office, Fitzroy Road, 
+      Exeter, Devon EX1 3PB, UK.
+FAU - Oliver, D
+AU  - Oliver D
+AD  - Department of Plastic Surgery, Royal Devon & Exeter Hospital, Barrack Road, 
+      Exeter, Devon EX2 5DW, UK; Consultant Plastic Surgeon, Department of Plastic 
+      Surgery, Royal Devon & Exeter Hospital, Barrack Road, Exeter, Devon EX2 5DW, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20131231
+PL  - Netherlands
+TA  - J Plast Reconstr Aesthet Surg
+JT  - Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+JID - 101264239
+SB  - IM
+CIN - J Plast Reconstr Aesthet Surg. 2014 Oct;67(10):1445-6. doi: 
+      10.1016/j.bjps.2014.05.034. PMID: 24931771
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Child
+MH  - England
+MH  - Female
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - *Health Promotion
+MH  - Humans
+MH  - Male
+MH  - Melanoma/*pathology/prevention & control
+MH  - Middle Aged
+MH  - Patient Acceptance of Health Care
+MH  - Retrospective Studies
+MH  - Skin Neoplasms/*pathology/prevention & control
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Breslow thickness
+OT  - Melanoma
+OT  - Patient education
+OT  - Public awareness
+OT  - Sun bed
+OT  - UV
+EDAT- 2014/01/18 06:00
+MHDA- 2014/04/23 06:00
+CRDT- 2014/01/18 06:00
+PHST- 2013/06/14 00:00 [received]
+PHST- 2013/12/07 00:00 [revised]
+PHST- 2013/12/20 00:00 [accepted]
+PHST- 2014/01/18 06:00 [entrez]
+PHST- 2014/01/18 06:00 [pubmed]
+PHST- 2014/04/23 06:00 [medline]
+AID - S1748-6815(13)00687-6 [pii]
+AID - 10.1016/j.bjps.2013.12.023 [doi]
+PST - ppublish
+SO  - J Plast Reconstr Aesthet Surg. 2014 Mar;67(3):324-30. doi: 
+      10.1016/j.bjps.2013.12.023. Epub 2013 Dec 31.

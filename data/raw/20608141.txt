@@ -1,0 +1,90 @@
+PMID- 20608141
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100813
+LR  - 20161020
+IS  - 1124-3562 (Print)
+IS  - 1124-3562 (Linking)
+VI  - 81
+IP  - 4
+DP  - 2009 Dec
+TI  - PSA repeatedly fluctuating levels are reassuring enough to avoid biopsy?
+PG  - 203-8
+AB  - INTRODUCTION: Prostate-specific antigen (PSA) levels can show wide fluctuations 
+      when repeatedly measured. Here we investigatewd if: (a) biopsy timing influences 
+      the prostate cancer (PC) detection rate in patients with fluctuating PSA 
+      (flu-PSA) in comparison with patients with steadily increasing PSA (si-PSA); (b) 
+      PSA slope estimated in patients with flu-PSA predicts a different risk of cancer 
+      detection; (c) flu-PSA and si-PSA patients develop PC in topographically 
+      different sites; (d) the behaviour of pre-operative PSA is an expression of a 
+      disease with defferent characteristics to the following radical prostatectomy. 
+      METHODS: The study involved 211 patients who underwent at least a second biopsy 
+      after a first negative prostate biopsy. PSA Slope, PSA velocity (PSAV) and PSA 
+      doubling time (PSADT) were estimated. Flu-PSA level was defined as a PSA series 
+      with at least one PSA value lower than the one immediately preceding it. RESULTS: 
+      82 patients had flu-PSA levels and 129 si-PSA levels. There were no significant 
+      differences between the two groups in terms of cancer detection, clinical or 
+      pathological stage, but the si-PSA group with cancer had a higher Gleason score. 
+      No difference was found for PSA Slope between flu-PSA patients with cancer and 
+      those without. CONCLUSIONS: Our study demonstrates no difference in PC detection 
+      rate at repeat biopsy between patients with flu or si-PSA levels. PSA Slope, PSAV 
+      and PSADT were not found helpful tools in cancer detection.
+FAU - Taverna, Gianluigi
+AU  - Taverna G
+AD  - Department of Urology Service, Istituto Clinico Humanitas IRCCS, Rozzano, Milan, 
+      Italy. gianluigi.taverna@humanitas.it
+FAU - Grizzi, Fabio
+AU  - Grizzi F
+FAU - Minuti, Francesco
+AU  - Minuti F
+FAU - Seveso, Mauro
+AU  - Seveso M
+FAU - Piccinelli, Alessandro
+AU  - Piccinelli A
+FAU - Giusti, Guido
+AU  - Giusti G
+FAU - Benetti, Alessio
+AU  - Benetti A
+FAU - Maugeri, Orazio
+AU  - Maugeri O
+FAU - Pasini, Luisa
+AU  - Pasini L
+FAU - Zandegiacomo, Silvia
+AU  - Zandegiacomo S
+FAU - Colombo, Piergiuseppe
+AU  - Colombo P
+FAU - Di Biccari, Sonia
+AU  - Di Biccari S
+FAU - Graziotti, Pierpaolo
+AU  - Graziotti P
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Italy
+TA  - Arch Ital Urol Androl
+JT  - Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa 
+      italiana di ecografia urologica e nefrologica
+JID - 9308247
+RN  - 0 (Biomarkers, Tumor)
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Biomarkers, Tumor/*blood
+MH  - *Biopsy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Prostate-Specific Antigen/*blood
+MH  - Prostatic Neoplasms/*diagnosis/immunology/pathology
+MH  - Reproducibility of Results
+EDAT- 2010/07/09 06:00
+MHDA- 2010/08/14 06:00
+CRDT- 2010/07/09 06:00
+PHST- 2010/07/09 06:00 [entrez]
+PHST- 2010/07/09 06:00 [pubmed]
+PHST- 2010/08/14 06:00 [medline]
+PST - ppublish
+SO  - Arch Ital Urol Androl. 2009 Dec;81(4):203-8.

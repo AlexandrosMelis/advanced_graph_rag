@@ -1,0 +1,99 @@
+PMID- 21431987
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120103
+LR  - 20161125
+IS  - 1534-4681 (Electronic)
+IS  - 1068-9265 (Linking)
+VI  - 18
+IP  - 9
+DP  - 2011 Sep
+TI  - Preoperative staging of patients with liver metastases of colorectal carcinoma. 
+      Does PET/CT really add something to multidetector CT?
+PG  - 2654-61
+LID - 10.1245/s10434-011-1670-y [doi]
+AB  - PURPOSE: This study was designed to determine prospectively whether the 
+      systematic use of PET/CT associated with conventional techniques could improve 
+      the accuracy of staging in patients with liver metastases of colorectal 
+      carcinoma. We also assessed the impact on the therapeutic strategy. METHODS: 
+      Between 2006 and 2008, 97 patients who were evaluated for resection of LMCRC were 
+      prospectively enrolled. Preoperative workup included multidetector-CT (MDCT) and 
+      PET/CT. In 11 patients with liver steatosis or iodinated contrast allergy, MR 
+      also was performed. Sixty-eight patients underwent laparotomy. Sensitivity, 
+      specificity, positive predictive value (PPV), and negative predictive values for 
+      hepatic and extrahepatic staging of MDCT and PET-CT were calculated. RESULTS: In 
+      a lesion-by-lesion analysis of the hepatic staging, the sensitivity of MDCT/RM 
+      was superior to PET/CT (89.2 vs. 55%, p < 0.001). On the extrahepatic staging, 
+      PET/CT was superior to MDCT/MR only for the detection of locoregional recurrence 
+      (p = 0.03) and recurrence in uncommon sites (p = 0.016). New findings in PET/CT 
+      resulted in a change in therapeutic strategy in 17 patients. However, additional 
+      information was correct only in eight cases and wrong in nine patients. 
+      CONCLUSIONS: PET/CT has a limited role in hepatic staging of LMCRC. Although 
+      PET-CT has higher sensitivity for the detection of extrahepatic disease in some 
+      anatomic locations, its results are hampered by its low PPV. PET/CT provided 
+      additional useful information in 8% of the cases but also incorrect and 
+      potentially harmful data in 9% of the staging. Our findings support a more 
+      selective use of PET/CT, basically in patients with high risk of local 
+      recurrence.
+FAU - Ramos, Emilio
+AU  - Ramos E
+AD  - Department of General Surgery, Hospital Universitario de Bellvitge, Barcelona, 
+      Spain. eramos@bellvitgehospital.cat
+FAU - Valls, Carlos
+AU  - Valls C
+FAU - Martinez, Laura
+AU  - Martinez L
+FAU - Llado, Laura
+AU  - Llado L
+FAU - Torras, Jaume
+AU  - Torras J
+FAU - Ruiz, Sandra
+AU  - Ruiz S
+FAU - Gamez, Cristina
+AU  - Gamez C
+FAU - Serrano, Teresa
+AU  - Serrano T
+FAU - Fabregat, Joan
+AU  - Fabregat J
+FAU - Rafecas, Antonio
+AU  - Rafecas A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110324
+PL  - United States
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+JID - 9420840
+RN  - 0 (Radiopharmaceuticals)
+RN  - 0Z5B2CJX4D (Fluorodeoxyglucose F18)
+SB  - IM
+MH  - Colorectal Neoplasms/diagnostic imaging/*pathology
+MH  - Female
+MH  - Fluorodeoxyglucose F18
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Liver Neoplasms/diagnostic imaging/*secondary
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/diagnostic imaging/*pathology
+MH  - Neoplasm Staging
+MH  - *Positron-Emission Tomography
+MH  - Preoperative Care
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Radiopharmaceuticals
+MH  - Sensitivity and Specificity
+MH  - Survival Rate
+MH  - *Tomography, X-Ray Computed
+EDAT- 2011/03/25 06:00
+MHDA- 2012/01/04 06:00
+CRDT- 2011/03/25 06:00
+PHST- 2010/12/09 00:00 [received]
+PHST- 2011/03/25 06:00 [entrez]
+PHST- 2011/03/25 06:00 [pubmed]
+PHST- 2012/01/04 06:00 [medline]
+AID - 10.1245/s10434-011-1670-y [doi]
+PST - ppublish
+SO  - Ann Surg Oncol. 2011 Sep;18(9):2654-61. doi: 10.1245/s10434-011-1670-y. Epub 2011 
+      Mar 24.

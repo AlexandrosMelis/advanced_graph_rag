@@ -1,0 +1,88 @@
+PMID- 24901580
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150921
+LR  - 20221207
+IS  - 1930-8264 (Electronic)
+IS  - 1930-8264 (Linking)
+VI  - 104
+IP  - 3
+DP  - 2014 May
+TI  - Is scintigraphy a guideline method in determining amputation levels in diabetic 
+      foot?
+PG  - 227-32
+LID - 10.7547/0003-0538-104.3.227 [doi]
+AB  - BACKGROUND: In this study, we aimed to evaluate the potential use of a 3-phase 
+      bone scintigraphy method to determine the level of amputation on treatment cost, 
+      morbidity and mortality, reamputation rates, and the duration of hospitalization 
+      in diabetic foot. METHODS: Thirty patients who were admitted to our clinic 
+      between September 2008 and July 2009, with diabetic foot were included. All 
+      patients were evaluated according to age, gender, diabetes duration, 3-phase bone 
+      scintigraphy, Doppler ultrasound, amputation/reamputation levels, and 
+      hospitalization periods. Patients underwent 3-phase bone scintigraphy using 
+      technetium-99m methylene diphosphonate, and the most distal site of the region 
+      displaying perfusion during the perfusion and early blood flow phase was marked 
+      as the amputation level. Amputation level was determined by 3-phase bone 
+      scintigraphy, Doppler ultrasound, and inspection of the infection-free clear 
+      region during surgery. RESULTS: The amputation levels of the patients were as 
+      follows: finger in six (20%), ray amputation in five (16.6%), transmetatarsal in 
+      one (3.3%), Lisfranc in two (6.6%), Chopart in seven (23.3%), Syme in one (3.3%), 
+      below-the-knee in six (20%), above the knee in one (3.3%), knee disarticulation 
+      in one (3.3%), and two patients underwent amputation at other centers. After 
+      primary amputation, reamputation was performed on seven patients, and one patient 
+      was treated with debridement for wound site problems. No mortality was 
+      encountered during study. CONCLUSIONS: We conclude that 3-phase bone scintigraphy 
+      prior to surgery could be a useful method to determine the amputation level in a 
+      diabetic foot. We conclude that further, comparative, more comprehensive, 
+      long-term, and controlled studies are required.
+FAU - Baykal, Yakup Barbaros
+AU  - Baykal YB
+FAU - Yaman, Emre
+AU  - Yaman E
+FAU - Burc, Halil
+AU  - Burc H
+FAU - Yorgancigil, Huseyin
+AU  - Yorgancigil H
+FAU - Atay, Tolga
+AU  - Atay T
+FAU - Yildiz, Mustafa
+AU  - Yildiz M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Podiatr Med Assoc
+JT  - Journal of the American Podiatric Medical Association
+JID - 8501423
+RN  - 971Z4W1S09 (Technetium Tc 99m Sestamibi)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Amputation, Surgical/*methods
+MH  - Cohort Studies
+MH  - Decision Making
+MH  - Diabetic Foot/*diagnostic imaging/physiopathology/*surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Imaging, Three-Dimensional/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Practice Guidelines as Topic
+MH  - Preoperative Care/methods
+MH  - Prospective Studies
+MH  - Radionuclide Imaging/methods
+MH  - Risk Assessment
+MH  - Sensitivity and Specificity
+MH  - Severity of Illness Index
+MH  - *Technetium Tc 99m Sestamibi
+MH  - Treatment Outcome
+MH  - Wound Healing/physiology
+EDAT- 2014/06/06 06:00
+MHDA- 2015/09/22 06:00
+CRDT- 2014/06/06 06:00
+PHST- 2014/06/06 06:00 [entrez]
+PHST- 2014/06/06 06:00 [pubmed]
+PHST- 2015/09/22 06:00 [medline]
+AID - 10.7547/0003-0538-104.3.227 [doi]
+PST - ppublish
+SO  - J Am Podiatr Med Assoc. 2014 May;104(3):227-32. doi: 10.7547/0003-0538-104.3.227.

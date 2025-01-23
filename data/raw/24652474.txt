@@ -1,0 +1,86 @@
+PMID- 24652474
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140909
+LR  - 20191210
+IS  - 1538-6724 (Electronic)
+IS  - 0031-9023 (Linking)
+VI  - 94
+IP  - 7
+DP  - 2014 Jul
+TI  - Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are 
+      we seeing the real picture?
+PG  - 968-76
+LID - 10.2522/ptj.20130398 [doi]
+AB  - BACKGROUND: Adhesive capsulitis is often difficult to diagnose in its early stage 
+      and to differentiate from other common shoulder disorders. OBJECTIVE: The aim of 
+      this study was to validate any or all of the 8 clinical identifiers of 
+      early-stage primary/idiopathic adhesive capsulitis established in an earlier 
+      Delphi study. DESIGN: This was a cross-sectional study. METHODS: Sixty-four 
+      patients diagnosed with early-stage adhesive capsulitis by a physical therapist 
+      or medical practitioner were included in the study. Eight active and 8 passive 
+      shoulder movements and visual analog scale pain scores for each movement were 
+      recorded prior to and immediately following an intra-articular injection of 
+      corticosteroid and local anesthetic. Using the local anesthetic as the reference 
+      standard, pain relief of >/=70% for passive external rotation was deemed a positive 
+      anesthetic response (PAR). RESULTS: Sixteen participants (25%) demonstrated a 
+      PAR. Univariate logistic regression identified that of the proposed identifiers, 
+      global loss of passive range of movement (odds ratio [OR]=0.26, P=.03), pain at 
+      the end of range of all measured active movements (OR=0.06, P=.02), and global 
+      loss of passive glenohumeral movements (OR=0.23, P=.02) were associated with a 
+      PAR. Following stepwise removal of the variables, pain at the end of range of all 
+      measured active movements remained the only identifier but was associated with 
+      reduced odds of a PAR. LIMITATIONS: The lack of a recognized reference standard 
+      for diagnosing early-stage adhesive capsulitis remains problematic in all related 
+      research. CONCLUSIONS: None of the clinical identifiers for early-stage adhesive 
+      capsulitis previously proposed by expert consensus have been validated in this 
+      study. Clinicians should be aware that commonly used clinical identifiers may not 
+      be applicable to this stage.
+CI  - (c) 2014 American Physical Therapy Association.
+FAU - Walmsley, Sarah
+AU  - Walmsley S
+AD  - S. Walmsley, MAppSc(Ortho Physio), Discipline of Physiotherapy, School of Health 
+      Sciences, Faculty of Health and Medicine, The University of Newcastle, University 
+      Drive, Callaghan, New South Wales 2308, Australia. sarah.walmsley@uon.edu.au.
+FAU - Osmotherly, Peter G
+AU  - Osmotherly PG
+AD  - P.G. Osmotherly, PhD, Discipline of Physiotherapy, School of Health Sciences, 
+      Faculty of Health and Medicine, The University of Newcastle.
+FAU - Rivett, Darren A
+AU  - Rivett DA
+AD  - D.A. Rivett, PhD, Discipline of Physiotherapy, School of Health Sciences, Faculty 
+      of Health and Medicine, The University of Newcastle.
+LA  - eng
+PT  - Journal Article
+PT  - Validation Study
+DEP - 20140320
+PL  - United States
+TA  - Phys Ther
+JT  - Physical therapy
+JID - 0022623
+RN  - 0 (Anesthetics, Local)
+SB  - IM
+MH  - Adult
+MH  - Anesthetics, Local
+MH  - Arthralgia/*etiology
+MH  - Bursitis/complications/*diagnosis/*physiopathology
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Movement
+MH  - Pain Measurement
+MH  - Range of Motion, Articular
+MH  - Rotation
+MH  - Shoulder Joint/*physiopathology
+EDAT- 2014/03/22 06:00
+MHDA- 2014/09/10 06:00
+CRDT- 2014/03/22 06:00
+PHST- 2014/03/22 06:00 [entrez]
+PHST- 2014/03/22 06:00 [pubmed]
+PHST- 2014/09/10 06:00 [medline]
+AID - ptj.20130398 [pii]
+AID - 10.2522/ptj.20130398 [doi]
+PST - ppublish
+SO  - Phys Ther. 2014 Jul;94(7):968-76. doi: 10.2522/ptj.20130398. Epub 2014 Mar 20.

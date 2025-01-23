@@ -1,0 +1,139 @@
+PMID- 27184293
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170324
+LR  - 20170324
+IS  - 1473-0502 (Print)
+IS  - 1473-0502 (Linking)
+VI  - 55
+IP  - 1
+DP  - 2016 Aug
+TI  - Does microbial contamination influence the success of the hematopoietic cell 
+      transplantation outcomes?
+PG  - 125-8
+LID - S1473-0502(16)30020-9 [pii]
+LID - 10.1016/j.transci.2016.05.001 [doi]
+AB  - INTRODUCTION: Microbial contamination can be a marker for faulty process and is 
+      assumed to play an important role in the collection of hematopoietic progenitor 
+      cell (HPC) and infusion procedure. We aimed to determine the microbial 
+      contamination rates and evaluate the success of hematopoietic cell 
+      transplantation (HCT) in patients who received contaminated products. 
+      PATIENTS-METHODS: We analyzed microbial contamination records of HPC grafts 
+      between 2012 and 2015, retrospectively. Contamination rates of autologous donors 
+      were evaluated for at three steps: at the end of mobilization, following 
+      processing with dimethyl sulfoxide, and just before stem cell infusion. Grafts of 
+      allogeneic donors were assessed only before HCT. RESULT: A total of 445 
+      mobilization procedures were carried out on 333 (167 autologous and 166 
+      allogeneic) donors. The microbiological contamination of peripheral blood 
+      (323/333 donations) and bone marrow (10/333 donations) products were analyzed. 
+      Bacterial contamination was detected in 18 of 1552 (1.15 %) culture bottles of 
+      333 donors. During the study period 248 patients underwent HCT and among these 
+      patients microbial contamination rate on sample basis was 1.3 % (16/1212). 
+      Microbial contamination detected in nine patients (7 autologous; 2 allogeneic). 
+      In 8 of 9 patients, a febrile neutropenic attack was observed. The median day for 
+      the neutropenic fever was 4 days (0-9). None of the patients died within the 
+      post-transplant 30 days who received contaminated products. CONCLUSION: The use 
+      of contaminated products with antibiotic prophylaxis may be safe in terms of the 
+      first day of fever, duration of fever, neutrophil, platelet engraftment and 
+      duration of hospitalization.
+CI  - Copyright (c) 2016 Elsevier Ltd. All rights reserved.
+FAU - Dal, Mehmet Sinan
+AU  - Dal MS
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey. Electronic address: 
+      dr.sinandal@gmail.com.
+FAU - Tekgunduz, Emre
+AU  - Tekgunduz E
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Cakar, Merih Kizil
+AU  - Cakar MK
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Kaya, Ali Hakan
+AU  - Kaya AH
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Namdarogu, Sinem
+AU  - Namdarogu S
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Batgi, Hikmetullah
+AU  - Batgi H
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Bekdemir, Filiz
+AU  - Bekdemir F
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Uncu Ulu, Bahar
+AU  - Uncu Ulu B
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Yigenoglu, Tugce Nur
+AU  - Yigenoglu TN
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Kilinc, Ali
+AU  - Kilinc A
+AD  - Ankara Oncology Education and Research Hospital, Therapeutic Apheresis Center, 
+      Ankara, Turkey.
+FAU - Iskender, Dicle
+AU  - Iskender D
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Ugur, Bilge
+AU  - Ugur B
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Kocubaba, Serife
+AU  - Kocubaba S
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+FAU - Iskender, Gulsen
+AU  - Iskender G
+AD  - Ankara Oncology Education and Research Hospital, Department of Clinical 
+      Microbiology and Infectious Diseases, Ankara, Turkey.
+FAU - Altuntas, Fevzi
+AU  - Altuntas F
+AD  - Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+      Transplantation Clinic, Ankara, Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20160506
+PL  - England
+TA  - Transfus Apher Sci
+JT  - Transfusion and apheresis science : official journal of the World Apheresis 
+      Association : official journal of the European Society for Haemapheresis
+JID - 101095653
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Allografts
+MH  - Autografts
+MH  - Female
+MH  - Hematologic Neoplasms/*microbiology/*therapy
+MH  - *Hematopoietic Stem Cell Mobilization
+MH  - *Hematopoietic Stem Cell Transplantation
+MH  - Hematopoietic Stem Cells/*microbiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+OTO - NOTNLM
+OT  - Hematopoietic cell transplantation
+OT  - Microbial contamination
+OT  - Stem cell products
+EDAT- 2016/05/18 06:00
+MHDA- 2017/03/25 06:00
+CRDT- 2016/05/18 06:00
+PHST- 2016/01/01 00:00 [received]
+PHST- 2016/04/29 00:00 [revised]
+PHST- 2016/05/02 00:00 [accepted]
+PHST- 2016/05/18 06:00 [entrez]
+PHST- 2016/05/18 06:00 [pubmed]
+PHST- 2017/03/25 06:00 [medline]
+AID - S1473-0502(16)30020-9 [pii]
+AID - 10.1016/j.transci.2016.05.001 [doi]
+PST - ppublish
+SO  - Transfus Apher Sci. 2016 Aug;55(1):125-8. doi: 10.1016/j.transci.2016.05.001. 
+      Epub 2016 May 6.

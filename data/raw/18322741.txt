@@ -1,0 +1,88 @@
+PMID- 18322741
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090423
+LR  - 20211020
+IS  - 1432-2218 (Electronic)
+IS  - 0930-2794 (Print)
+IS  - 0930-2794 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2009 Jan
+TI  - Does laparoscopic surgery decrease the risk of atrial fibrillation after foregut 
+      surgery?
+PG  - 204-8
+LID - 10.1007/s00464-008-9800-8 [doi]
+AB  - BACKGROUND: Atrial fibrillation, which occurs in 12% of all major foregut 
+      surgeries, can prolong hospital stay and increase morbidity. Minimally invasive 
+      techniques in foregut surgery have been suggested to cause less tissue trauma. We 
+      examined the factors associated with new-onset atrial fibrillation after foregut 
+      surgery at our institution. METHODS: We retrospectively examined the records of 
+      154 adult patients who underwent major foregut surgery which included 
+      esophagectomy, partial or total gastrectomy, redo Heller myotomy, redo or 
+      transthoracic fundoplications. Univariate and multivariate logistic regression 
+      analysis with standard modeling techniques were performed to determine risk 
+      factors for new-onset atrial fibrillation. RESULTS: Of the 154 patients, 14 
+      patients developed new-onset atrial fibrillation with a higher mean age of 67.1 
+      years (+/-8.8 years) versus 56.4 years (+/-14.1 years) (p = 0.006). Laparoscopic 
+      (p = 0.004) and nonthoracic surgeries (p = 0.01) were associated with lower risk 
+      of atrial fibrillation. Patients with atrial fibrillation had received more fluid 
+      (6.5 +/- 2.8 liters versus 5.3 +/- 2.0 liters) and had longer operations (370 +/- 
+      103 min versus 362 +/- 142 min), none of which were statistically significant. 
+      The average intensive care length of stay of patients was longer: 7.5 +/- 6.8 
+      days versus 4.0 +/- 7.1 days (p = 0.004). Multivariate analysis revealed an 
+      association of atrial fibrillation with age (OR 1.08, 95% CI 1.02-1.14, p = 
+      0.01), and laparoscopic surgery (OR 0.09, 95% CI 0.01-0.95, p = 0.04) after 
+      adjusting for surgery type. CONCLUSIONS: Laparoscopic surgery is associated with 
+      lower risk of atrial fibrillation in foregut surgery. Development of atrial 
+      fibrillation is associated with increased length of intensive care stay. We 
+      recommend a prospective trial to confirm our findings.
+FAU - Turaga, Kiran K
+AU  - Turaga KK
+AD  - Department of Surgery, Creighton University Medical Center, 601 N 30th street, 
+      Omaha, NE 68131, USA.
+FAU - Shah, Kinjal U
+AU  - Shah KU
+FAU - Neill, Erin O
+AU  - Neill EO
+FAU - Mittal, Sumeet K
+AU  - Mittal SK
+LA  - eng
+PT  - Journal Article
+DEP - 20080306
+PL  - Germany
+TA  - Surg Endosc
+JT  - Surgical endoscopy
+JID - 8806653
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Atrial Fibrillation/diagnosis/*epidemiology/prevention & control
+MH  - Cohort Studies
+MH  - Digestive System Surgical Procedures/*adverse effects
+MH  - Female
+MH  - Humans
+MH  - *Laparoscopy
+MH  - Length of Stay
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Risk Factors
+PMC - PMC7103156
+EDAT- 2008/03/07 09:00
+MHDA- 2009/04/25 09:00
+PMCR- 2020/03/29
+CRDT- 2008/03/07 09:00
+PHST- 2007/08/09 00:00 [received]
+PHST- 2008/01/24 00:00 [accepted]
+PHST- 2007/12/19 00:00 [revised]
+PHST- 2008/03/07 09:00 [pubmed]
+PHST- 2009/04/25 09:00 [medline]
+PHST- 2008/03/07 09:00 [entrez]
+PHST- 2020/03/29 00:00 [pmc-release]
+AID - 399 [pii]
+AID - 10.1007/s00464-008-9800-8 [doi]
+PST - ppublish
+SO  - Surg Endosc. 2009 Jan;23(1):204-8. doi: 10.1007/s00464-008-9800-8. Epub 2008 Mar 
+      6.

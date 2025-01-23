@@ -1,0 +1,114 @@
+PMID- 24315783
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140915
+LR  - 20151119
+IS  - 1873-6327 (Electronic)
+IS  - 0306-4603 (Linking)
+VI  - 39
+IP  - 3
+DP  - 2014 Mar
+TI  - Aripiprazole: a new risk factor for pathological gambling? A report of 8 case 
+      reports.
+PG  - 562-5
+LID - S0306-4603(13)00375-4 [pii]
+LID - 10.1016/j.addbeh.2013.11.005 [doi]
+AB  - OBJECTIVE: It is commonly accepted that pathological gambling results from the 
+      interaction of multiple risk factors. Among these, dopamine replacement therapy 
+      (DRT) prescribed for Parkinson disease can be cited. Another dopamine agonist, 
+      aripiprazole, could be a new risk factor. We decided to explore this potential 
+      adverse drug reaction (ADR). METHOD: Based on a cohort of 166 pathological 
+      gamblers starting treatment in our department, data of each of the 8 patients 
+      treated by aripiprazole at inclusion were analyzed. RESULTS: The patients 
+      involved were schizophrenic or bipolar, mostly young men with a history of 
+      addictive disorders and regular gambling prior to the prescription of 
+      aripiprazole. For each one of them, the causality of aripiprazole was considered, 
+      using an algorithm. The probability that pathological gambling is actually due to 
+      aripiprazole is "possible" in 7 cases out of 8, and "doubtful" in one. 
+      CONCLUSIONS: Adverse drug reactions were confronted with other already published 
+      case reports. Dopamine partial agonist mechanism of aripiprazole could explain 
+      the occurrence of pathological gambling.
+CI  - Copyright (c) 2013 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Gaboriau, L
+AU  - Gaboriau L
+AD  - Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+      Nantes cedex 1, France.
+FAU - Victorri-Vigneau, C
+AU  - Victorri-Vigneau C
+AD  - Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+      Nantes cedex 1, France; EA 4275 "Biostatistics, Pharmacoepidemiology and 
+      Subjective Measures in Health Sciences", Nantes University, 1, rue Gaston Veil, 
+      BP 53508, 44035 Nantes cedex 1, France.
+FAU - Gerardin, M
+AU  - Gerardin M
+AD  - Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+      Nantes cedex 1, France; EA 4275 "Biostatistics, Pharmacoepidemiology and 
+      Subjective Measures in Health Sciences", Nantes University, 1, rue Gaston Veil, 
+      BP 53508, 44035 Nantes cedex 1, France.
+FAU - Allain-Veyrac, G
+AU  - Allain-Veyrac G
+AD  - Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+      Nantes cedex 1, France.
+FAU - Jolliet-Evin, P
+AU  - Jolliet-Evin P
+AD  - Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+      Nantes cedex 1, France; EA 4275 "Biostatistics, Pharmacoepidemiology and 
+      Subjective Measures in Health Sciences", Nantes University, 1, rue Gaston Veil, 
+      BP 53508, 44035 Nantes cedex 1, France.
+FAU - Grall-Bronnec, M
+AU  - Grall-Bronnec M
+AD  - EA 4275 "Biostatistics, Pharmacoepidemiology and Subjective Measures in Health 
+      Sciences", Nantes University, 1, rue Gaston Veil, BP 53508, 44035 Nantes cedex 1, 
+      France; Addictology and Psychiatry Department, Nantes University Hospital, 85, 
+      rue Saint Jacques, 44093 Nantes cedex 1, France. Electronic address: 
+      marie.bronnec@chu-nantes.fr.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131110
+PL  - England
+TA  - Addict Behav
+JT  - Addictive behaviors
+JID - 7603486
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Piperazines)
+RN  - 0 (Quinolones)
+RN  - 82VFR53I78 (Aripiprazole)
+SB  - IM
+MH  - Adult
+MH  - Antipsychotic Agents/*therapeutic use
+MH  - Aripiprazole
+MH  - Bipolar Disorder/complications/*drug therapy
+MH  - Dopamine Agonists/*therapeutic use
+MH  - Female
+MH  - *Gambling/complications
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Piperazines/*therapeutic use
+MH  - Quinolones/*therapeutic use
+MH  - Risk Factors
+MH  - Schizophrenia/complications/*drug therapy
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Adverse drug reaction
+OT  - Aripiprazole
+OT  - Causality
+OT  - Dopamine partial agonist
+OT  - Pathological gambling
+EDAT- 2013/12/10 06:00
+MHDA- 2014/09/16 06:00
+CRDT- 2013/12/10 06:00
+PHST- 2013/08/02 00:00 [received]
+PHST- 2013/10/15 00:00 [revised]
+PHST- 2013/11/04 00:00 [accepted]
+PHST- 2013/12/10 06:00 [entrez]
+PHST- 2013/12/10 06:00 [pubmed]
+PHST- 2014/09/16 06:00 [medline]
+AID - S0306-4603(13)00375-4 [pii]
+AID - 10.1016/j.addbeh.2013.11.005 [doi]
+PST - ppublish
+SO  - Addict Behav. 2014 Mar;39(3):562-5. doi: 10.1016/j.addbeh.2013.11.005. Epub 2013 
+      Nov 10.

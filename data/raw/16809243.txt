@@ -1,0 +1,92 @@
+PMID- 16809243
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060727
+LR  - 20181201
+IS  - 0277-0903 (Print)
+IS  - 0277-0903 (Linking)
+VI  - 43
+IP  - 4
+DP  - 2006 May
+TI  - Is fetal gender associated with emergency department visits for asthma during 
+      pregnancy?
+PG  - 293-9
+AB  - BACKGROUND: To investigate if fetal gender (1) affects the risk of having an 
+      emergency department (ED) visit for asthma; and (2) is associated with adverse 
+      pregnancy outcomes among women who had at least one visit to the ED for asthma 
+      during pregnancy. METHODS: We linked two provincial administrative databases 
+      containing records on in-patient deliveries and ED visits. The study sample 
+      included women who delivered a live singleton baby between April 2003 and March 
+      2004. Pregnant women who made at least one ED visit for asthma were counted as 
+      cases and the rest of the women as control subjects. We performed a multivariable 
+      analysis using logistic regression to model the risk of having an ED visit for 
+      asthma, with fetal gender being one of the predictors. In addition, a series of 
+      multivariable logistic regressions were also constructed separately for cases and 
+      controls for the following adverse delivery outcomes: low birth weight baby, 
+      preterm delivery, and delivery via Caesarian section. RESULTS: Among 109,173 live 
+      singleton deliveries, 530 women had visited ED due to asthma during pregnancy. 
+      While having an ED visit for asthma was positively associated with teenage 
+      pregnancy, low income, and presence of pregnancy-induced hypertension, it was not 
+      associated with fetal gender (OR 1.01, 95% CI 0.85-1.19). Fetal gender was not a 
+      significant predictor of adverse pregnancy outcomes among women who had an asthma 
+      ED visit during pregnancy. CONCLUSION: Fetal gender does not affect the risk of 
+      having an ED visit for asthma during pregnancy, and it is not associated with 
+      adverse pregnancy outcomes among women who had an asthma-related ED during 
+      pregnancy.
+FAU - Baibergenova, Akerke
+AU  - Baibergenova A
+AD  - Department of Clinical Epidemiology and Biostatistics, McMaster University, 
+      Hamilton, Ontario, Canada. baibera@mcmaster.ca
+FAU - Thabane, Lehana
+AU  - Thabane L
+FAU - Akhtar-Danesh, Noori
+AU  - Akhtar-Danesh N
+FAU - Levine, Mitchell
+AU  - Levine M
+FAU - Gafni, Amiram
+AU  - Gafni A
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - J Asthma
+JT  - The Journal of asthma : official journal of the Association for the Care of 
+      Asthma
+JID - 8106454
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Ambulatory Care/*statistics & numerical data
+MH  - Asthma/diagnosis/*epidemiology/*therapy
+MH  - Case-Control Studies
+MH  - Chi-Square Distribution
+MH  - Emergency Service, Hospital/*statistics & numerical data
+MH  - Female
+MH  - Gestational Age
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Maternal Age
+MH  - Parity
+MH  - Pregnancy
+MH  - Pregnancy Complications/diagnosis/*epidemiology/*therapy
+MH  - Pregnancy Outcome
+MH  - Pregnancy, High-Risk
+MH  - Prenatal Care
+MH  - Probability
+MH  - Registries
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Sex Determination Analysis
+MH  - Sex Distribution
+MH  - Sex Factors
+EDAT- 2006/07/01 09:00
+MHDA- 2006/07/28 09:00
+CRDT- 2006/07/01 09:00
+PHST- 2006/07/01 09:00 [pubmed]
+PHST- 2006/07/28 09:00 [medline]
+PHST- 2006/07/01 09:00 [entrez]
+AID - V03536605M736820 [pii]
+AID - 10.1080/02770900600622984 [doi]
+PST - ppublish
+SO  - J Asthma. 2006 May;43(4):293-9. doi: 10.1080/02770900600622984.

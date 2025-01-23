@@ -1,0 +1,84 @@
+PMID- 23337545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130411
+LR  - 20130215
+IS  - 1536-3678 (Electronic)
+IS  - 1077-4114 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2013 Mar
+TI  - Is acute fibrinous and organizing pneumonia the expression of immune 
+      dysregulation?
+PG  - 139-43
+LID - 10.1097/MPH.0b013e31827e5782 [doi]
+AB  - INTRODUCTION: Acute fibrinous and organizing pneumonia (AFOP) is a recently 
+      described histologic pattern of diffuse pulmonary disease. In children, all cases 
+      reported to date have been fatal. In this study, we describe the first nonfatal 
+      AFOP in a child and review the literature. DESCRIPTION: A 10-year-old boy 
+      developed very severe aplastic anemia (VSAA) after being admitted to our hospital 
+      with a fulminant hepatic failure of unknown origin. A chest computed tomography 
+      scan revealed multiple lung nodules and a biopsy of a pulmonary lesion showed all 
+      the signs of AFOP. Infectious workup remained negative. We started 
+      immunosuppressive therapy with antithymocyte globulin and cyclosporine to treat 
+      VSAA. Subsequent chest computed tomography scans showed a considerable diminution 
+      of the lung lesions but the VSAA did not improve until we performed hematopoietic 
+      stem cell transplantation 5 months later. CONCLUSIONS: Aplastic anemia is 
+      associated with a variety of autoimmune syndromes. The sequence of events in our 
+      patient suggests that the hepatic failure, AFOP, and the VSAA may all have been 
+      part of an autoimmune syndrome. AFOP could be the result of immune dysregulation 
+      in this pediatric case with favorable outcome after immunosuppressive therapy and 
+      hematopoietic stem cell transplantation.
+FAU - Labarinas, Sonia
+AU  - Labarinas S
+AD  - Department of Pediatrics, Geneva University Hospital, Geneva, Switzerland. 
+      sonia.labarinas@hcuge.ch
+FAU - Gumy-Pause, Fabienne
+AU  - Gumy-Pause F
+FAU - Rougemont, Anne-Laure
+AU  - Rougemont AL
+FAU - Baerlocher, Gabriela
+AU  - Baerlocher G
+FAU - Leibundgut, Elisabeth O
+AU  - Leibundgut EO
+FAU - Porret, Naomi
+AU  - Porret N
+FAU - Schappi, Michela G
+AU  - Schappi MG
+FAU - Barazzone-Argiroffo, Constance
+AU  - Barazzone-Argiroffo C
+FAU - Passweg, Jakob
+AU  - Passweg J
+FAU - Merlini, Laura
+AU  - Merlini L
+FAU - Ozsahin, Hulya
+AU  - Ozsahin H
+FAU - Ansari, Marc
+AU  - Ansari M
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr Hematol Oncol
+JT  - Journal of pediatric hematology/oncology
+JID - 9505928
+RN  - 0 (Immunosuppressive Agents)
+SB  - IM
+MH  - Acute Disease
+MH  - Child
+MH  - Cryptogenic Organizing Pneumonia/etiology/*immunology/therapy
+MH  - Hematopoietic Stem Cell Transplantation
+MH  - Humans
+MH  - Immune System Diseases/*complications
+MH  - Immunosuppressive Agents/therapeutic use
+MH  - Male
+EDAT- 2013/01/23 06:00
+MHDA- 2013/04/12 06:00
+CRDT- 2013/01/23 06:00
+PHST- 2013/01/23 06:00 [entrez]
+PHST- 2013/01/23 06:00 [pubmed]
+PHST- 2013/04/12 06:00 [medline]
+AID - 10.1097/MPH.0b013e31827e5782 [doi]
+PST - ppublish
+SO  - J Pediatr Hematol Oncol. 2013 Mar;35(2):139-43. doi: 
+      10.1097/MPH.0b013e31827e5782.

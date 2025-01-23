@@ -1,0 +1,81 @@
+PMID- 8262881
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940127
+LR  - 20071115
+IS  - 0160-6689 (Print)
+IS  - 0160-6689 (Linking)
+VI  - 54
+IP  - 10
+DP  - 1993 Oct
+TI  - Body dysmorphic disorder: does it have a psychotic subtype?
+PG  - 389-95
+AB  - BACKGROUND: Although body dysmorphic disorder (BDD) is classified in DSM-III-R as 
+      a nonpsychotic somatoform disorder, controversy exists as to whether BDD can 
+      present with psychotic features. If it can, this raises the possibility that its 
+      DSM-III-R psychotic counterpart-delusional disorder, somatic type--may not be a 
+      separate disorder. The purpose of this study was to determine whether patients 
+      with nonpsychotic BDD (defined according to DSM-III-R criteria, i.e., with 
+      maintenance of some insight) were different from patients with psychotic BDD 
+      (those whose preoccupation was without insight and of delusional intensity). 
+      METHOD: Fifty consecutive patients meeting DSM-III-R criteria A and C for BDD 
+      were assessed with a semistructured interview and the Structured Clinical 
+      Interview for DSM-III-R (SCID). Family histories of psychiatric disorders were 
+      blindly assessed. The 24 patients with nonpsychotic BDD were compared with the 26 
+      patients with psychotic BDD with respect to demographics, phenomenology, course 
+      of illness, associated features, comorbid psychiatric disorders, family history, 
+      and treatment response. RESULTS: Patients with psychotic BDD displayed a 
+      significantly higher rate of lifetime DSM-III-R psychotic disorder diagnoses than 
+      patients with nonpsychotic BDD. However, the two groups did not differ 
+      significantly on most other variables examined. For instance, both psychotic and 
+      nonpsychotic patients displayed significant morbidity; high comorbidity with 
+      mood, anxiety, and psychoactive substance use disorders; and apparent 
+      preferential response to serotonin reuptake inhibitors rather than to 
+      non-serotonin reuptake blocking antidepressants or antipsychotics. CONCLUSION: 
+      Body dysmorphic disorder may have a closely related psychotic subtype that 
+      significantly overlaps with, or may even be the same disorder as, the BDD variant 
+      of delusional disorder, somatic type. Inclusion of a psychotic subtype for BDD 
+      should be considered for future editions of DSM.
+FAU - McElroy, S L
+AU  - McElroy SL
+AD  - Department of Psychiatry, University of Cincinnati College of Medicine, Ohio 
+      45267-0559.
+FAU - Phillips, K A
+AU  - Phillips KA
+FAU - Keck, P E Jr
+AU  - Keck PE Jr
+FAU - Hudson, J I
+AU  - Hudson JI
+FAU - Pope, H G Jr
+AU  - Pope HG Jr
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Body Image
+MH  - Comorbidity
+MH  - Delusions/classification/*diagnosis/epidemiology
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/epidemiology
+MH  - Middle Aged
+MH  - Psychiatric Status Rating Scales
+MH  - Somatoform Disorders/classification/*diagnosis/epidemiology
+MH  - Terminology as Topic
+MH  - Treatment Outcome
+EDAT- 1993/10/01 00:00
+MHDA- 2001/03/28 10:01
+CRDT- 1993/10/01 00:00
+PHST- 1993/10/01 00:00 [pubmed]
+PHST- 2001/03/28 10:01 [medline]
+PHST- 1993/10/01 00:00 [entrez]
+PST - ppublish
+SO  - J Clin Psychiatry. 1993 Oct;54(10):389-95.

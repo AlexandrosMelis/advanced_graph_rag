@@ -1,0 +1,84 @@
+PMID- 10732884
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000331
+LR  - 20221207
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 35
+IP  - 4
+DP  - 2000 Mar 15
+TI  - Does coronary angiography before emergency aortic surgery affect in-hospital 
+      mortality?
+PG  - 889-94
+AB  - OBJECTIVES: To study the relationship between coronary angiography and 
+      in-hospital mortality in patients undergoing emergency surgery of the aorta 
+      without a history of coronary revascularization or coronary angiography before 
+      the onset of symptoms. BACKGROUND: In the setting of acute ascending aortic 
+      dissection warranting emergency aortic repair, coronary angiography has been 
+      considered to be desirable, if not essential. The benefits of defining coronary 
+      anatomy have to be weighed against the risks of additional delay before surgical 
+      intervention. METHODS: Retrospective analysis of patient charts and the 
+      Cardiovascular Information Registry (CVIR) at the Cleveland Clinic Foundation. 
+      RESULTS: We studied 122 patients who underwent emergency surgery of the aorta 
+      between January 1982 and December 1997. Overall, in-hospital mortality was 18.0%, 
+      and there was no significant difference between those who had coronary 
+      angiography on the day of surgery compared with those who had not (No: 16%, n = 
+      81 vs. Yes: 22%, n = 41, p = 0.46). Multivariate analysis revealed that a history 
+      of myocardial infarction (MI) was the only predictor of in-hospital mortality 
+      (relative risk: 4.98 95% confidence interval: 1.48-16.75, p = 0.009); however, 
+      coronary angiography had no impact on in-hospital mortality in patients with a 
+      history of MI. Furthermore, coronary angiography did not significantly affect the 
+      incidence of coronary artery bypass grafting (CABG) during aortic surgery (17% 
+      vs. 25%, Yes vs. No). Operative reports revealed that 74% of all CABG procedures 
+      were performed because of coronary dissection, and not coronary artery disease. 
+      CONCLUSIONS: These data indicate that determination of coronary anatomy may not 
+      impact on survival in patients undergoing emergency surgery of the aorta and 
+      support the concept that once diagnosed, patients should proceed as quickly as 
+      possible to surgery.
+FAU - Penn, M S
+AU  - Penn MS
+AD  - Department of Cardiology, Cleveland Clinic Foundation, Ohio, USA. pennm@ccf.org
+FAU - Smedira, N
+AU  - Smedira N
+FAU - Lytle, B
+AU  - Lytle B
+FAU - Brener, S J
+AU  - Brener SJ
+LA  - eng
+GR  - HL-09911/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+SB  - IM
+MH  - Acute Disease
+MH  - Adult
+MH  - Aged
+MH  - Aortic Dissection/mortality/*surgery
+MH  - Aortic Aneurysm, Thoracic/mortality/*surgery
+MH  - Combined Modality Therapy
+MH  - Coronary Aneurysm/mortality/surgery
+MH  - *Coronary Angiography
+MH  - Coronary Artery Bypass
+MH  - *Emergencies
+MH  - Female
+MH  - *Hospital Mortality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Postoperative Complications/*mortality
+MH  - Retrospective Studies
+MH  - Survival Analysis
+EDAT- 2000/03/25 00:00
+MHDA- 2000/03/25 00:01
+CRDT- 2000/03/25 00:00
+PHST- 2000/03/25 00:00 [pubmed]
+PHST- 2000/03/25 00:01 [medline]
+PHST- 2000/03/25 00:00 [entrez]
+AID - S0735-1097(99)00638-5 [pii]
+AID - 10.1016/s0735-1097(99)00638-5 [doi]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2000 Mar 15;35(4):889-94. doi: 10.1016/s0735-1097(99)00638-5.

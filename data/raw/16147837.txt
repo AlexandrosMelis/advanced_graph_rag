@@ -1,0 +1,69 @@
+PMID- 16147837
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051221
+LR  - 20050908
+IS  - 1476-7058 (Print)
+IS  - 1476-4954 (Linking)
+VI  - 17
+IP  - 4
+DP  - 2005 Apr
+TI  - Is grandmultiparity an independent risk factor for adverse perinatal outcomes?
+PG  - 277-80
+AB  - OBJECTIVE: To compare maternal and neonatal outcomes among grandmultiparous women 
+      to those of multiparous women 30 years or older. METHODS: A database of the vast 
+      majority of maternal and newborn hospital discharge records linked to birth/death 
+      certificates was queried to obtain information on all multiparous women with a 
+      singleton delivery in the state of California from January 1, 1997 through 
+      December 31, 1998. Maternal and neonatal pregnancy outcomes of grandmultiparous 
+      women were compared to multiparous women who were 30 years or older at the time 
+      of their last birth. RESULTS: The study population included 25,512 
+      grandmultiparous and 265,060 multiparous women 30 years or older as controls. 
+      Grandmultiparous women were predominantly Hispanic (56%). After controlling for 
+      potential confounding factors, grandmultiparous women were at significantly 
+      higher risk for abruptio placentae (odds ratio OR: 1.3; 95% confidence intervals 
+      CI: 1.2-1.5), preterm delivery (OR: 1.3; 95% CI: 1.2-1.4), fetal macrosomia (OR: 
+      1.5; 95% CI: 1.4-1.6), neonatal death (OR: 1.5; 95% CI: 1.3-1.8), postpartum 
+      hemorrhage (OR: 1.2; 95% CI: 1.1-1.3) and blood transfusion (OR: 1.5; 95% CI: 
+      1.3-1.8). CONCLUSION: Grandmultiparous women had increased maternal and neonatal 
+      morbidity, and neonatal mortality even after controlling for confounders, 
+      suggesting a need for closer observation than regular multiparous patients during 
+      labor and delivery.
+FAU - Yasmeen, Shagufta
+AU  - Yasmeen S
+AD  - Department of Obstetrics & Gynecology, University of California Davis, USA. 
+      shagufta.yasmeen@ucdmc.ucdavis.edu
+FAU - Danielsen, Beate
+AU  - Danielsen B
+FAU - Moshesh, Malana
+AU  - Moshesh M
+FAU - Gilbert, William M
+AU  - Gilbert WM
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Matern Fetal Neonatal Med
+JT  - The journal of maternal-fetal & neonatal medicine : the official journal of the 
+      European Association of Perinatal Medicine, the Federation of Asia and Oceania 
+      Perinatal Societies, the International Society of Perinatal Obstetricians
+JID - 101136916
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - *Parity
+MH  - Pregnancy
+MH  - Pregnancy Complications/*etiology
+MH  - *Pregnancy Outcome
+MH  - Retrospective Studies
+MH  - Risk Factors
+EDAT- 2005/09/09 09:00
+MHDA- 2005/12/22 09:00
+CRDT- 2005/09/09 09:00
+PHST- 2005/09/09 09:00 [pubmed]
+PHST- 2005/12/22 09:00 [medline]
+PHST- 2005/09/09 09:00 [entrez]
+AID - R1106075L7W9073R [pii]
+AID - 10.1080/14767050500123798 [doi]
+PST - ppublish
+SO  - J Matern Fetal Neonatal Med. 2005 Apr;17(4):277-80. doi: 
+      10.1080/14767050500123798.

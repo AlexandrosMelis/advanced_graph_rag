@@ -1,0 +1,94 @@
+PMID- 21593045
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111207
+LR  - 20131121
+IS  - 1460-2350 (Electronic)
+IS  - 0268-1161 (Linking)
+VI  - 26
+IP  - 8
+DP  - 2011 Aug
+TI  - Do women with ovaries of polycystic morphology without any other features of PCOS 
+      benefit from short-term metformin co-treatment during IVF? A double-blind, 
+      placebo-controlled, randomized trial.
+PG  - 2178-84
+LID - 10.1093/humrep/der120 [doi]
+AB  - BACKGROUND: Women with ovaries of polycystic morphology (PCO), without any other 
+      features of polycystic ovary syndrome (PCOS), respond similarly to women with 
+      PCOS when stimulated with exogenous gonadotrophins, and both groups share various 
+      endocrinological disturbances underlying their pathology. In women with PCOS, 
+      metformin co-treatment during IVF has been shown to increase pregnancy rates and 
+      reduce the risk of ovarian hyperstimulation syndrome (OHSS). The aim of this 
+      study was to investigate whether metformin co-treatment before and during IVF can 
+      also increase the live birth rate (LBR) and lower severe OHSS rates for women 
+      with PCO, but no other manifestations of PCOS. METHODS: This study was a 
+      double-blind, multi-centre, randomized, placebo-controlled trial. The study 
+      population included 134 women with ovulatory PCO (and no evidence of clinical or 
+      biochemical hyperandrogenism) undergoing IVF treatment at three tertiary referral 
+      IVF units. The primary outcome was LBR. RESULTS: In total, 134 women were 
+      randomized, 69 to metformin and 65 to placebo. There were no statistically 
+      significant differences between the two groups in baseline characteristics. With 
+      regard to IVF outcome, no significant improvements were found in the metformin 
+      group when compared with the placebo group. In particular, there was no 
+      difference between the groups in rates of live birth [metformin n = 27 (39.1%), 
+      placebo n = 30 (46.2), (95% confidence interval 0.38, 1.49, odds ratio = 0.75)], 
+      clinical pregnancy [metformin n = 29 (42.0%), placebo n = 33 (50.8%)] or severe 
+      OHSS [metformin n = 6 (8.7%), placebo n = 5 (7.7%)]. CONCLUSIONS: There appears 
+      to be no benefit in metformin co-treatment before and during IVF in women with 
+      PCO without any other features of PCOS. Clinical Trials.gov: NCT01046032.
+FAU - Swanton, Alexander
+AU  - Swanton A
+AD  - Department of Gynaecology, Royal Berkshire Hospital, Reading RG1 5AN, UK. 
+      alex.swanton@royalberkshire.nhs.uk
+FAU - Lighten, Antony
+AU  - Lighten A
+FAU - Granne, Ingrid
+AU  - Granne I
+FAU - McVeigh, Enda
+AU  - McVeigh E
+FAU - Lavery, Stuart
+AU  - Lavery S
+FAU - Trew, Geoff
+AU  - Trew G
+FAU - Talmor, Alon
+AU  - Talmor A
+FAU - Raine-Fenning, Nick
+AU  - Raine-Fenning N
+FAU - Jayaprakasan, Kannamannadiar
+AU  - Jayaprakasan K
+FAU - Child, Tim
+AU  - Child T
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01046032
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110518
+PL  - England
+TA  - Hum Reprod
+JT  - Human reproduction (Oxford, England)
+JID - 8701199
+RN  - 0 (Placebos)
+RN  - 9100L32L2N (Metformin)
+SB  - IM
+MH  - Double-Blind Method
+MH  - Female
+MH  - Fertilization in Vitro
+MH  - Humans
+MH  - Live Birth
+MH  - Metformin/*therapeutic use
+MH  - Ovarian Hyperstimulation Syndrome/prevention & control
+MH  - Placebos
+MH  - Polycystic Ovary Syndrome/*drug therapy
+MH  - Pregnancy
+EDAT- 2011/05/20 06:00
+MHDA- 2011/12/13 00:00
+CRDT- 2011/05/20 06:00
+PHST- 2011/05/20 06:00 [entrez]
+PHST- 2011/05/20 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+AID - der120 [pii]
+AID - 10.1093/humrep/der120 [doi]
+PST - ppublish
+SO  - Hum Reprod. 2011 Aug;26(8):2178-84. doi: 10.1093/humrep/der120. Epub 2011 May 18.

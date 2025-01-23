@@ -1,0 +1,82 @@
+PMID- 20629769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110328
+LR  - 20240531
+IS  - 1369-7625 (Electronic)
+IS  - 1369-6513 (Print)
+IS  - 1369-6513 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2010 Dec
+TI  - Is primary angioplasty an acceptable alternative to thrombolysis? Quantitative 
+      and qualitative study of patient and carer satisfaction.
+PG  - 350-8
+LID - 10.1111/j.1369-7625.2009.00589.x [doi]
+AB  - OBJECTIVE: The National Infarct Angioplasty Project assessed the feasibility of 
+      establishing a comprehensive primary angioplasty service. We aimed to compare 
+      satisfaction at intervention hospitals offering angioplasty-based care and 
+      control hospitals offering thrombolysis-based care. DESIGN: Mixed methods, with 
+      postal survey of patients and their carers, supported by semi-structured 
+      interviews. SETTING AND PARTICIPANTS: Survey of 682 patients and 486 carers, and 
+      interviews with 33 patients and carers, in eight English hospitals. 
+      INTERVENTIONS: Primary angioplasty or thrombolysis. MAIN OUTCOME MEASURES: 
+      Satisfaction with treatment. RESULTS: Responses were received from 595/682 
+      patients (87%) and 418/486 carers (86%). Satisfaction with overall care was high 
+      at both intervention and control sites (78% vs. 71% patients rated their care as 
+      'excellent', P = 0.074). Patient satisfaction was higher at intervention sites 
+      for some aspects of care such as speed of treatment (80% vs. 67%'excellent', P = 
+      0.001). Convenience of visiting was rated lower at intervention sites by carers 
+      (12% vs. 1%'poor', P = 0.001). During interviews, carers reported that they 
+      accepted the added inconvenience of visiting primary angioplasty sites in the 
+      context of this life-saving treatment. Patient satisfaction with discharge and 
+      aftercare was lower in both treatment groups than for other aspects of care. 
+      CONCLUSIONS: Reorganization of care to offer a primary angioplasty service was 
+      acceptable to patients and their carers. Satisfaction levels were high regardless 
+      of the type of care received, with the exception of discharge and aftercare.
+CI  - (c) 2010 The Authors. Health Expectations (c) 2010 Blackwell Publishing Ltd.
+FAU - Sampson, Fiona C
+AU  - Sampson FC
+AD  - University of Sheffield, Sheffield, UK. f.c.sampson@sheffield.ac.uk
+FAU - O'Cathain, Alicia
+AU  - O'Cathain A
+FAU - Goodacre, Steve
+AU  - Goodacre S
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Health Expect
+JT  - Health expectations : an international journal of public participation in health 
+      care and health policy
+JID - 9815926
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Angioplasty
+MH  - Caregivers/*psychology
+MH  - England
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/*surgery
+MH  - *Patient Satisfaction
+MH  - *Thrombolytic Therapy
+MH  - Young Adult
+PMC - PMC5060554
+EDAT- 2010/07/16 06:00
+MHDA- 2011/03/29 06:00
+PMCR- 2010/12/01
+CRDT- 2010/07/16 06:00
+PHST- 2010/07/16 06:00 [entrez]
+PHST- 2010/07/16 06:00 [pubmed]
+PHST- 2011/03/29 06:00 [medline]
+PHST- 2010/12/01 00:00 [pmc-release]
+AID - HEX589 [pii]
+AID - 10.1111/j.1369-7625.2009.00589.x [doi]
+PST - ppublish
+SO  - Health Expect. 2010 Dec;13(4):350-8. doi: 10.1111/j.1369-7625.2009.00589.x.

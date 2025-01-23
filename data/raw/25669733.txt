@@ -1,0 +1,97 @@
+PMID- 25669733
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150529
+LR  - 20161125
+IS  - 1527-9995 (Electronic)
+IS  - 0090-4295 (Linking)
+VI  - 85
+IP  - 4
+DP  - 2015 Apr
+TI  - Can distal ureteral diameter predict reflux resolution after endoscopic 
+      injection?
+PG  - 896-9
+LID - S0090-4295(14)01397-1 [pii]
+LID - 10.1016/j.urology.2014.12.021 [doi]
+AB  - OBJECTIVE: To test the predictive value of distal ureteral diameter (UD) on 
+      reflux resolution after endoscopic injection in children with primary 
+      vesicoureteral reflux (VUR). MATERIALS AND METHODS: This was a retrospective 
+      review of patients diagnosed with primary VUR between 2009 and 2012 who were 
+      managed by endoscopic injection. Seventy preoperative and postoperative voiding 
+      cystourethrograms were reviewed. The largest UD within the false pelvis was 
+      measured. The UD was divided by the L1-L3 vertebral body distance to get the UD 
+      ratio (UDR). One radiologist interpreted the findings of voiding 
+      cystourethrography in all patients. Clinical outcome was defined as reflux 
+      resolution. RESULTS: Seventy patients were enrolled in this series (17 boys and 
+      53 girls). Mean age was 5.9 years (1.2-13 years). Grade III presented in 37 
+      patients (53%), and 33 patients (47%) were of grade IV. Mean distal UD was 5.5 mm 
+      (2.5-13 mm). Mean UDR was 37.8% (18%-70%). Macroplastique injection was performed 
+      in all. Subureteric injection was performed in 60 patients (86%), whereas 
+      intraureteric injection was performed in 10 patients. No postoperative 
+      complications were detected. The effect of grade, UD, and UDR on success after 
+      endoscopic injection was tested. UD and UDR were significant predictors of reflux 
+      resolution on logistic regression analysis (P <.007 and .001, respectively). 
+      CONCLUSION: UDR provides an objective measurement of VUR and appears as a 
+      predictive tool of success after endoscopic injection.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Helmy, Tamer
+AU  - Helmy T
+AD  - Pediatric Urology Department, Urology and Nephrology Center, Mansoura University, 
+      Mansoura, Egypt. Electronic address: drthelmy@yahoo.com.
+FAU - Sharaf, Doaa
+AU  - Sharaf D
+AD  - Pediatric Urology Department, Urology and Nephrology Center, Mansoura University, 
+      Mansoura, Egypt.
+FAU - AbdelHalim, Ahmed
+AU  - AbdelHalim A
+AD  - Pediatric Urology Department, Urology and Nephrology Center, Mansoura University, 
+      Mansoura, Egypt.
+FAU - Hafez, Ashraf
+AU  - Hafez A
+AD  - Pediatric Urology Department, Urology and Nephrology Center, Mansoura University, 
+      Mansoura, Egypt.
+FAU - Dawaba, Mohammed
+AU  - Dawaba M
+AD  - Pediatric Urology Department, Urology and Nephrology Center, Mansoura University, 
+      Mansoura, Egypt.
+LA  - eng
+PT  - Journal Article
+DEP - 20150207
+PL  - United States
+TA  - Urology
+JT  - Urology
+JID - 0366151
+RN  - 0 (Dimethylpolysiloxanes)
+RN  - 0 (Urological Agents)
+RN  - 63148-62-9 (baysilon)
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Child, Preschool
+MH  - Dimethylpolysiloxanes/*administration & dosage
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Lumbar Vertebrae/anatomy & histology/diagnostic imaging
+MH  - Male
+MH  - Predictive Value of Tests
+MH  - Radiography
+MH  - Retrospective Studies
+MH  - Ureter/*anatomy & histology/diagnostic imaging
+MH  - Ureteroscopy
+MH  - Urological Agents/*administration & dosage
+MH  - Vesico-Ureteral Reflux/diagnostic imaging/*drug therapy
+EDAT- 2015/02/12 06:00
+MHDA- 2015/05/30 06:00
+CRDT- 2015/02/12 06:00
+PHST- 2014/10/18 00:00 [received]
+PHST- 2014/12/08 00:00 [revised]
+PHST- 2014/12/16 00:00 [accepted]
+PHST- 2015/02/12 06:00 [entrez]
+PHST- 2015/02/12 06:00 [pubmed]
+PHST- 2015/05/30 06:00 [medline]
+AID - S0090-4295(14)01397-1 [pii]
+AID - 10.1016/j.urology.2014.12.021 [doi]
+PST - ppublish
+SO  - Urology. 2015 Apr;85(4):896-9. doi: 10.1016/j.urology.2014.12.021. Epub 2015 Feb 
+      7.

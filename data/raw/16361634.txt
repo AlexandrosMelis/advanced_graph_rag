@@ -1,0 +1,95 @@
+PMID- 16361634
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060203
+LR  - 20071114
+IS  - 0732-183X (Print)
+IS  - 0732-183X (Linking)
+VI  - 23
+IP  - 36
+DP  - 2005 Dec 20
+TI  - Women with synchronous primary cancers of the endometrium and ovary: do they have 
+      Lynch syndrome?
+PG  - 9344-50
+AB  - PURPOSE: Lynch syndrome (hereditary nonpolyposis colorectal cancer; HNPCC) is an 
+      autosomal-dominant cancer predisposition syndrome that increases risk for 
+      multiple cancers, including colon, endometrial, and ovarian cancer. Revised 
+      Bethesda Criteria recommend that patients with two HNPCC-associated cancers 
+      undergo molecular evaluation to determine whether they have a mismatch repair 
+      (MMR) defect associated with HNPCC. The purpose of our study was to determine the 
+      likelihood of MMR defects (MSH2, MSH6, MLH1) in women with synchronous 
+      endometrial and ovarian cancer. PATIENTS AND METHODS: Between 1989 and 2004, 102 
+      women with synchronous endometrial and ovarian cancers were identified; 59 
+      patients had tumor blocks available for analysis. Patients were divided into risk 
+      groups based on family history: high (met Amsterdam criteria), medium (personal 
+      history or first-degree relative with an HNPCC-associated cancer), and low (all 
+      others). Protein expression for MSH2, MSH6, and MLH1 was evaluated by 
+      immunohistochemistry. Microsatellite instability and MLH1 promoter methylation 
+      analyses were performed on a subset of cases. RESULTS: Median age was 50 years. 
+      Two patients met Amsterdam criteria for HNPCC. Five additional patients, all 
+      medium-risk, had molecular findings consistent with a germline mutation of either 
+      MSH2 or MLH1. None of the low-risk patients had molecular results consistent with 
+      a germline mutation. CONCLUSION: Overall, 7% of women in our cohort met either 
+      clinical or molecular criteria for Lynch syndrome. All of these women had a prior 
+      history or a first-degree relative with an HNPCC-associated cancer. Limiting 
+      genetic evaluation to women with synchronous endometrial and ovarian cancer who 
+      have a family history suggestive of HNPCC may appropriately identify women with 
+      Lynch syndrome.
+FAU - Soliman, Pamela T
+AU  - Soliman PT
+AD  - Department of Gynecologic Oncology, University of Texas M.D. Anderson Cancer 
+      Center, Houston, TX 77030, USA.
+FAU - Broaddus, Russell R
+AU  - Broaddus RR
+FAU - Schmeler, Kathleen M
+AU  - Schmeler KM
+FAU - Daniels, Molly S
+AU  - Daniels MS
+FAU - Gonzalez, Delia
+AU  - Gonzalez D
+FAU - Slomovitz, Brian M
+AU  - Slomovitz BM
+FAU - Gershenson, David M
+AU  - Gershenson DM
+FAU - Lu, Karen H
+AU  - Lu KH
+LA  - eng
+GR  - 1P50CA098258-01/CA/NCI NIH HHS/United States
+GR  - N01-CN-05127/CN/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of 
+      Clinical Oncology
+JID - 8309333
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Base Pair Mismatch
+MH  - Cohort Studies
+MH  - Colorectal Neoplasms, Hereditary Nonpolyposis/*genetics/pathology
+MH  - DNA Methylation
+MH  - DNA Repair
+MH  - Endometrial Neoplasms/*genetics/pathology
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Microsatellite Repeats
+MH  - Middle Aged
+MH  - Neoplasms, Multiple Primary/*genetics/pathology
+MH  - Ovarian Neoplasms/*genetics/pathology
+MH  - Pedigree
+MH  - Risk Factors
+EDAT- 2005/12/20 09:00
+MHDA- 2006/02/04 09:00
+CRDT- 2005/12/20 09:00
+PHST- 2005/12/20 09:00 [pubmed]
+PHST- 2006/02/04 09:00 [medline]
+PHST- 2005/12/20 09:00 [entrez]
+AID - 23/36/9344 [pii]
+AID - 10.1200/JCO.2005.03.5915 [doi]
+PST - ppublish
+SO  - J Clin Oncol. 2005 Dec 20;23(36):9344-50. doi: 10.1200/JCO.2005.03.5915.

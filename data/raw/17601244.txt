@@ -1,0 +1,78 @@
+PMID- 17601244
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070906
+LR  - 20080610
+IS  - 1661-8157 (Print)
+IS  - 1661-8157 (Linking)
+VI  - 96
+IP  - 22
+DP  - 2007 May 30
+TI  - [Are there associations of health status, disease activity and damage in SLE 
+      patients?---Results of a study of a cohort of a Swiss specialized outpatient 
+      clinic].
+PG  - 895-9
+AB  - AIM: To study the relationship between self assessed health status of patients 
+      with Systemic Lupus Erythematosus (SLE), lupus activity, damage, patients' age 
+      and disease duration in a cohort of a Swiss specialized outpatient clinic. 
+      PATIENTS AND METHODS: A cross sectional study of 38 patients fulfilling the 
+      classification criteria for SLE. The patients visited a rheumatology outpatient 
+      clinic in Switzerland between January 2002 and December 2004. The last assessment 
+      during this period was used for the study. The assessment included, besides 
+      demographic data, the measurement of disease activity using the BILAG index, the 
+      measurement of disease damage using the SLICC/ACR damage index (SDI), as well as 
+      the patient's self assessed health status using the patient's questionnaire 
+      Medical Outcome Survey Short Form 36 (SF-36). RESULTS: A total of 36 women and 2 
+      men were included in the study (median age: 43 yrs, median disease duration: 11 
+      yrs). Increased disease activity (total BILAG) was shown to be significantly 
+      correlated with reduced physical function. A greater damage (total SDI) 
+      correlated significantly with reduced role function due to emotional limitations. 
+      Neither age nor disease duration showed any significant correlation with health 
+      status in this study. CONCLUSION: The present study, which is based on 
+      internationally accepted assessment tools for SLE patients, shows a significant 
+      relationship between increased disease activity and reduced physical function. 
+      This result emphasizes the importance of optimizing treatment aiming at reducing 
+      disease activity.
+FAU - Marx, C
+AU  - Marx C
+AD  - Psychiatrische Poliklinik, Universitatsspital Zurich.
+FAU - Morgeli, H P
+AU  - Morgeli HP
+FAU - Buchi, S
+AU  - Buchi S
+FAU - Stoll, T
+AU  - Stoll T
+LA  - ger
+PT  - English Abstract
+PT  - Journal Article
+TT  - Gibt es Zusammenhange von Lebensqualitat/Gesundheitszustand und 
+      Krankheitsaktivitat resp. Krankheitsschadigung bei SLE-Patienten? Resultate einer 
+      Kohortenstudie eines Schweizer Rheumatologen.
+PL  - Switzerland
+TA  - Praxis (Bern 1994)
+JT  - Praxis
+JID - 101468093
+SB  - IM
+MH  - Activities of Daily Living/psychology
+MH  - Adult
+MH  - Ambulatory Care
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Lupus Erythematosus, Systemic/diagnosis/epidemiology/*psychology
+MH  - Male
+MH  - Middle Aged
+MH  - Quality of Life/*psychology
+MH  - *Severity of Illness Index
+MH  - *Sickness Impact Profile
+MH  - Statistics as Topic
+MH  - Switzerland
+EDAT- 2007/07/03 09:00
+MHDA- 2007/09/07 09:00
+CRDT- 2007/07/03 09:00
+PHST- 2007/07/03 09:00 [pubmed]
+PHST- 2007/09/07 09:00 [medline]
+PHST- 2007/07/03 09:00 [entrez]
+AID - 10.1024/1661-8157.96.22.895 [doi]
+PST - ppublish
+SO  - Praxis (Bern 1994). 2007 May 30;96(22):895-9. doi: 10.1024/1661-8157.96.22.895.

@@ -1,0 +1,90 @@
+PMID- 17403428
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070420
+LR  - 20070403
+IS  - 1097-6868 (Electronic)
+IS  - 0002-9378 (Linking)
+VI  - 196
+IP  - 4
+DP  - 2007 Apr
+TI  - Recurrent spontaneous abortion and skewed X-inactivation: is there an 
+      association?
+PG  - 384.e1-6; discussion 384.e6-8
+AB  - OBJECTIVE: The purpose of this study was to determine whether there is an 
+      association between skewed X-inactivation and recurrent spontaneous abortion in a 
+      large, well-defined sample of women with recurrent loss. STUDY DESIGN: 
+      X-chromosome inactivation patterns were compared in 5 groups of women. Group 1 
+      (recurrent spontaneous abortion) consisted of 357 women with 2 or more 
+      spontaneous losses. In group 2 (infertility), there were 349 subjects from 
+      infertility practices recruited at the time of a positive serum beta-human 
+      chorionic gonadotropin. Group 3 (spontaneous abortion) women (n = 81) were 
+      recruited at the time of an ultrasound diagnosis of an embryonic demise or an 
+      anembryonic gestation. Groups 4 (primiparous) and 5 (multiparous) were healthy 
+      pregnant subjects previously enrolled in another study to determine the incidence 
+      and cause of pregnancy complications, such as preeclampsia and intrauterine 
+      growth restriction. The Primiparous group included 114 women in their first 
+      pregnancy, whereas the Multiparous group consisted of 79 women with 2 or more 
+      pregnancies but without pregnancy loss. RESULTS: The rate of extreme skewing (90% 
+      or greater) in the recurrent spontaneous abortion population was 8.6%, and not 
+      statistically different from any of the other groups, except the Primiparous 
+      group (1.0%, P < .01). The incidence of X-inactivation skewing of 90% or greater 
+      was no different whether there had been at least 1 live birth (9.9%), or no 
+      previous live births and at least 3 losses (5.6%, P > .05). When age and skewing 
+      of 90% or greater are compared, subjects with extreme skewing have a mean age of 
+      2 years older than those without extreme skewing (P < .05). CONCLUSION: Skewed 
+      X-inactivation is not associated with recurrent spontaneous abortion but is 
+      associated with increasing maternal age.
+FAU - Hogge, W Allen
+AU  - Hogge WA
+AD  - Department of Obstetrics, Gynecology, and Reproductive Sciences, University of 
+      Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+FAU - Prosen, Tracy L
+AU  - Prosen TL
+FAU - Lanasa, Mark C
+AU  - Lanasa MC
+FAU - Huber, Heather A
+AU  - Huber HA
+FAU - Reeves, Matthew F
+AU  - Reeves MF
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Am J Obstet Gynecol
+JT  - American journal of obstetrics and gynecology
+JID - 0370476
+SB  - IM
+MH  - Abortion, Habitual/epidemiology/*genetics
+MH  - Abortion, Spontaneous/epidemiology/*genetics
+MH  - Adult
+MH  - Aneuploidy
+MH  - Case-Control Studies
+MH  - Cohort Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - *Genetic Predisposition to Disease
+MH  - Humans
+MH  - Incidence
+MH  - Parity
+MH  - Pregnancy
+MH  - Pregnancy Outcome
+MH  - Probability
+MH  - Prospective Studies
+MH  - Reference Values
+MH  - Risk Assessment
+MH  - Statistics, Nonparametric
+MH  - X Chromosome Inactivation/*genetics
+EDAT- 2007/04/04 09:00
+MHDA- 2007/04/21 09:00
+CRDT- 2007/04/04 09:00
+PHST- 2006/11/10 00:00 [received]
+PHST- 2006/12/11 00:00 [accepted]
+PHST- 2007/04/04 09:00 [pubmed]
+PHST- 2007/04/21 09:00 [medline]
+PHST- 2007/04/04 09:00 [entrez]
+AID - S0002-9378(06)02429-X [pii]
+AID - 10.1016/j.ajog.2006.12.012 [doi]
+PST - ppublish
+SO  - Am J Obstet Gynecol. 2007 Apr;196(4):384.e1-6; discussion 384.e6-8. doi: 
+      10.1016/j.ajog.2006.12.012.

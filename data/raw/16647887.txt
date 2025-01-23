@@ -1,0 +1,71 @@
+PMID- 16647887
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060601
+LR  - 20071114
+IS  - 1097-6868 (Electronic)
+IS  - 0002-9378 (Linking)
+VI  - 194
+IP  - 5
+DP  - 2006 May
+TI  - Are women who are treated for hypothyroidism at risk for pregnancy complications?
+PG  - e1-3
+AB  - OBJECTIVE: The purpose of this study was to investigate the outcomes that are 
+      associated with pregnancy and treated hypothyroidism. STUDY DESIGN: This was a 
+      retrospective cohort study of all women who received prenatal care and were 
+      delivered at the University of California, San Francisco, between 1989 and 2001. 
+      All patients with hypothyroidism diagnosed before pregnancy or early in pregnancy 
+      were identified. Maternal, fetal, and obstetric outcomes were then collected and 
+      analyzed for women with hypothyroidism and compared with women without 
+      hypothyroidism. RESULTS: Among 20,499 deliveries, there were 419 women (2.1%) who 
+      were treated for hypothyroidism during the study period. Hypothyroidism was more 
+      common among women > or =35 years old, white women, and women without Medicaid 
+      insurance. Treated hypothyroidism was not associated with any increase in 
+      maternal, fetal, or neonatal complications. In addition, hypothyroidism did not 
+      affect mode of delivery. CONCLUSION: Compared with patients without 
+      hypothyroidism, patients with treated hypothyroidism are not at any increased 
+      risk for perinatal morbidity.
+FAU - Tan, Tina O
+AU  - Tan TO
+AD  - Division of Maternal-Fetal Medicine, Department of Obstetrics, Gynecology and 
+      Reproductive Sciences, University of California, San Francisco, CA 94143, USA. 
+      tant@obgyn.ucsf.edu
+FAU - Cheng, Yvonne W
+AU  - Cheng YW
+FAU - Caughey, Aaron B
+AU  - Caughey AB
+LA  - eng
+GR  - HD01262/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20060421
+PL  - United States
+TA  - Am J Obstet Gynecol
+JT  - American journal of obstetrics and gynecology
+JID - 0370476
+SB  - IM
+MH  - Adult
+MH  - Age Distribution
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Hypothyroidism/*complications/*drug therapy/epidemiology
+MH  - Pregnancy
+MH  - Pregnancy Complications/*etiology
+MH  - Prevalence
+MH  - Retrospective Studies
+MH  - Risk Assessment
+EDAT- 2006/05/02 09:00
+MHDA- 2006/06/02 09:00
+CRDT- 2006/05/02 09:00
+PHST- 2005/08/31 00:00 [received]
+PHST- 2005/10/25 00:00 [revised]
+PHST- 2005/11/15 00:00 [accepted]
+PHST- 2006/05/02 09:00 [pubmed]
+PHST- 2006/06/02 09:00 [medline]
+PHST- 2006/05/02 09:00 [entrez]
+AID - S0002-9378(05)02559-7 [pii]
+AID - 10.1016/j.ajog.2005.11.028 [doi]
+PST - ppublish
+SO  - Am J Obstet Gynecol. 2006 May;194(5):e1-3. doi: 10.1016/j.ajog.2005.11.028. Epub 
+      2006 Apr 21.

@@ -1,0 +1,79 @@
+PMID- 23719685
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131023
+LR  - 20211021
+IS  - 1439-099X (Electronic)
+IS  - 0179-7158 (Linking)
+VI  - 189
+IP  - 9
+DP  - 2013 Sep
+TI  - Does high-dose radiotherapy benefit palliative lung cancer patients?: An 
+      intradepartmental comparison of two dose regimens.
+PG  - 771-6
+LID - 10.1007/s00066-013-0360-z [doi]
+AB  - BACKGROUND AND PURPOSE: The present analysis compares two palliative treatment 
+      concepts for lung cancer in terms of overall survival. PATIENTS AND METHODS: 
+      Survival data from 207 patients were used in a retrospective analysis. All 
+      patients received palliative treatment comprising either 25 Gy applied in 
+      5 fractions or 50 Gy in 20 fractions. A subgroup analysis was performed to 
+      compare patients with a good-fair vs. poor overall condition. RESULTS: Median 
+      survival times were 21 weeks (range 6-26 weeks) for patients treated with 25 Gy 
+      in 5 fractions and 23 weeks (range 14.5-31.5 weeks) for patients treated with 
+      50 Gy in 20 fractions (95 % confidence interval, CI; p = 0.334). For patients 
+      with a good-fair overall condition, median survival times were 30 weeks 
+      (21.8-39.2 weeks) for 25 Gy in 5 fractions and 28 weeks (14.2-41.8 weeks) for 
+      50 Gy in 20 fractions (CI 95 %, p = 0.694). In patients with a poor overall 
+      condition, these values were 18 weeks (14.5-21.5 weeks) and 21 weeks 
+      (13.0-29.0 weeks), respectively (CI 95 %, p = 0.248). CONCLUSION: The palliative 
+      treatment concept of 25 Gy applied in 5 fractions is sufficient for radiation of 
+      lung cancer, given that there was no obvious survival improvement in patients 
+      treated with the higher total dose regimen.
+FAU - Schroder, C
+AU  - Schroder C
+AD  - Klinik fur Strahlentherapie und Radioonkologie, Ruppiner Kliniken GmbH, 
+      Neuruppin, Germany. Christina.schroeder@med.uni-giessen.de
+FAU - Ivo, M
+AU  - Ivo M
+FAU - Buchali, A
+AU  - Buchali A
+LA  - eng
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+DEP - 20130531
+PL  - Germany
+TA  - Strahlenther Onkol
+JT  - Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et 
+      al]
+JID - 8603469
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Bronchial Neoplasms/*mortality/*radiotherapy
+MH  - *Dose Fractionation, Radiation
+MH  - Dose-Response Relationship, Radiation
+MH  - Female
+MH  - Germany/epidemiology
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Palliative Care/*methods/*statistics & numerical data
+MH  - Risk Factors
+MH  - Survival Analysis
+MH  - Survival Rate
+MH  - Treatment Outcome
+EDAT- 2013/05/31 06:00
+MHDA- 2013/10/24 06:00
+CRDT- 2013/05/31 06:00
+PHST- 2012/12/18 00:00 [received]
+PHST- 2013/03/25 00:00 [accepted]
+PHST- 2013/05/31 06:00 [entrez]
+PHST- 2013/05/31 06:00 [pubmed]
+PHST- 2013/10/24 06:00 [medline]
+AID - 10.1007/s00066-013-0360-z [doi]
+PST - ppublish
+SO  - Strahlenther Onkol. 2013 Sep;189(9):771-6. doi: 10.1007/s00066-013-0360-z. Epub 
+      2013 May 31.

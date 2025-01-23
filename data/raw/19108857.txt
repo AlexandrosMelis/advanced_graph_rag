@@ -1,0 +1,87 @@
+PMID- 19108857
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100427
+LR  - 20140930
+IS  - 0035-3787 (Print)
+IS  - 0035-3787 (Linking)
+VI  - 165
+IP  - 12
+DP  - 2009 Dec
+TI  - [Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller 
+      syndrome: a causative link?].
+PG  - 1111-6
+LID - 10.1016/j.neurol.2008.08.014 [doi]
+AB  - INTRODUCTION: Tuberculosis continues to be a public health problem in emerging 
+      countries with a recent evidence of increased incidence of extrapulmonary 
+      localization in developed countries probably linked to HIV. To our knowledge the 
+      occurrence of cerebro-mediastinal tuberculosis in an immuno-competent child has 
+      not been previously described; moreover the child we describe has a probable 
+      Say-Barber-Miller syndrome. We discuss a putative causative link between this 
+      syndrome and the occurrence of tuberculosis. CASE REPORT: A seven-year-old girl 
+      presented to our department with a history of infantile encephalopathy since 
+      birth characterized by a facial dysmorphy (evocative of a bird face), 
+      microcephaly, and mental retardation, and with recurrent infections. The child 
+      had complained of back pain for several months; the parents reported anorexia, 
+      loss of weight. Spinal and cerebral MRI showed a mediastinal mass involving the 
+      spine and cerebral lesions evocative of tuberculomas. The tuberculin interdermal 
+      reaction was positive. Culture of a vertebral biopsy was positive for Koch 
+      bacillus. Anti-tuberculosis treatment improved general and local status. An 
+      extensive immunological work-up was normal. CONCLUSION: [corrected] This 
+      observation is exceptional in many aspects: very early age of onset of 
+      extrapulmonary tuberculosis, no immune deficit, association with a rare 
+      congenital neurological syndrome. We discuss the possible link between this 
+      entity and the occurrence of tuberculosis.
+FAU - Kechaou, I
+AU  - Kechaou I
+AD  - Service de neurologie pediatrique, institut national de neurologie, 1007 La 
+      Rabta, Tunis, Tunisie.
+FAU - Rouissi, A
+AU  - Rouissi A
+FAU - Kraoua, I
+AU  - Kraoua I
+FAU - Regayeg, A
+AU  - Regayeg A
+FAU - Turki, I
+AU  - Turki I
+FAU - Ben Hamouda, M
+AU  - Ben Hamouda M
+FAU - Gouider-Khouja, N
+AU  - Gouider-Khouja N
+LA  - fre
+PT  - Case Reports
+PT  - English Abstract
+PT  - Journal Article
+TT  - Tuberculose cerebromediastinale chez un enfant atteint de syndrome de 
+      Say-Barber-Miller probable : un lien de causalite ?
+PL  - France
+TA  - Rev Neurol (Paris)
+JT  - Revue neurologique
+JID - 2984779R
+SB  - IM
+MH  - Anorexia/etiology
+MH  - Body Dysmorphic Disorders/pathology
+MH  - Child
+MH  - Consanguinity
+MH  - Diagnosis, Differential
+MH  - Face/*abnormalities
+MH  - Female
+MH  - Humans
+MH  - Intellectual Disability/genetics
+MH  - Male
+MH  - Pedigree
+MH  - Syndrome
+MH  - Tuberculoma/diagnosis
+EDAT- 2008/12/26 09:00
+MHDA- 2010/04/28 06:00
+CRDT- 2008/12/26 09:00
+PHST- 2008/05/16 00:00 [received]
+PHST- 2008/07/16 00:00 [revised]
+PHST- 2008/08/21 00:00 [accepted]
+PHST- 2008/12/26 09:00 [entrez]
+PHST- 2008/12/26 09:00 [pubmed]
+PHST- 2010/04/28 06:00 [medline]
+AID - S0035-3787(08)00596-1 [pii]
+AID - 10.1016/j.neurol.2008.08.014 [doi]
+PST - ppublish
+SO  - Rev Neurol (Paris). 2009 Dec;165(12):1111-6. doi: 10.1016/j.neurol.2008.08.014.

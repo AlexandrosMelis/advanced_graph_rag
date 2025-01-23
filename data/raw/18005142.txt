@@ -1,0 +1,80 @@
+PMID- 18005142
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080826
+LR  - 20090202
+IS  - 1526-4610 (Electronic)
+IS  - 0017-8748 (Linking)
+VI  - 48
+IP  - 6
+DP  - 2008 Jun
+TI  - Does early migraine treatment shorten time to headache peak and reduce its 
+      severity?
+PG  - 914-20
+AB  - OBJECTIVE: To explore whether early treatment would shorten the duration of 
+      headache from headache onset to its peak and reduce headache severity at peak. 
+      BACKGROUND: Prior clinical studies almost exclusively focused on headache relief 
+      after dosing. No data are available on whether early intervention affects the 
+      duration from headache onset to peak and headache severity at peak. METHODS: 
+      Adult migraineurs were enrolled in this observational study from multi-site 
+      headache clinics. Patients recorded their migraine experiences via an electronic 
+      diary over 1 month. Patients reported the time and pain severity at onset, 
+      dosing, and peak. We used a linear mixed model to evaluate the impact of the 
+      timing of treatment and to adjust for covariates and correlation of observations 
+      within subjects. RESULTS: A total of 182 patients reported 970 migraine episodes, 
+      620 of which were treated before headaches progressed to peak. Mean time from 
+      headache onset to peak varied from 1.9 hours to 8.9 hours for patients treated 
+      within 15 minutes of onset and those who waited for 4 or more hours, 
+      respectively. However, early intervention was not associated with reduced 
+      headache severity at peak. In multivariate analysis, early treatment, use of 
+      triptans, and mild migraine headache in the past 3 months were significantly 
+      associated with shorter time from onset to headache peak. A separate model 
+      indicated that the timing of medication was not associated with the duration 
+      between dosing and headache peak, but use of triptans shortened the time from 
+      dosing to headache peak. CONCLUSIONS: Early treatment and use of triptans may 
+      lead to shorter duration from migraine headache onset to its peak but did not 
+      alleviate headache severity at peak. This could result in decreased migraine 
+      burden by reducing total migraine headache duration.
+FAU - Hu, X Henry
+AU  - Hu XH
+AD  - Global Outcomes Research, Global Human Health, Merck & Co., Inc., Whitehouse 
+      Station, NJ, USA.
+FAU - Ng-Mak, Daisy
+AU  - Ng-Mak D
+FAU - Cady, Roger
+AU  - Cady R
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20071113
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Tryptamines)
+SB  - IM
+MH  - Adult
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Multivariate Analysis
+MH  - *Severity of Illness Index
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Tryptamines/*administration & dosage/*therapeutic use
+EDAT- 2007/11/17 09:00
+MHDA- 2008/08/30 09:00
+CRDT- 2007/11/17 09:00
+PHST- 2007/11/17 09:00 [pubmed]
+PHST- 2008/08/30 09:00 [medline]
+PHST- 2007/11/17 09:00 [entrez]
+AID - HED955 [pii]
+AID - 10.1111/j.1526-4610.2007.00955.x [doi]
+PST - ppublish
+SO  - Headache. 2008 Jun;48(6):914-20. doi: 10.1111/j.1526-4610.2007.00955.x. Epub 2007 
+      Nov 13.

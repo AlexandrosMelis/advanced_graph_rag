@@ -1,0 +1,81 @@
+PMID- 8916748
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961218
+LR  - 20220318
+IS  - 0959-8138 (Print)
+IS  - 1468-5833 (Electronic)
+IS  - 0959-8138 (Linking)
+VI  - 313
+IP  - 7066
+DP  - 1996 Nov 9
+TI  - Do socioeconomic differences in mortality persist after retirement? 25 year 
+      follow up of civil servants from the first Whitehall study.
+PG  - 1177-80
+AB  - OBJECTIVE: To assess the risk of death associated with work based and non-work 
+      based measures of socioeconomic status before and after retirement age. DESIGN: 
+      Follow up study of mortality in relation to employment grade and car ownership 
+      over 25 years. SETTING: The first Whitehall study. SUBJECTS: 18,133 male civil 
+      servants aged 40-69 years who attended a screening examination between 1967 and 
+      1970. MAIN OUTCOME MEASURE: Death. RESULTS: Grade of employment was a strong 
+      predictor of mortality before retirement. For men dying at ages 40-64 the lowest 
+      employment grade had 3.12 times the mortality of the highest grade (95% 
+      confidence interval 2.4 to 4.1). After retirement the ability of grade to predict 
+      mortality declined (rate ratio 1.86; 1.6 to 2.2). A non-work based measure of 
+      socioeconomic status (car ownership) predicted mortality less well than 
+      employment grade before retirement but its ability to predict mortality declined 
+      less after retirement. Using a relative index of inequality that was sensitive to 
+      the distribution among socioeconomic groups showed employment grade and car 
+      ownership to have independent associations with mortality that were of equal 
+      magnitude after retirement. The absolute difference in death rates between the 
+      lowest and highest employment grades increased with age from 12.9 per 1000 person 
+      years at ages 40-64 to 38.3 per 1000 at ages 70-89. CONCLUSIONS: Socioeconomic 
+      differences in mortality persist beyond retirement age and in magnitude increase 
+      with age. Social differentials in mortality based on an occupational status 
+      measure seem to decrease to a greater degree after retirement than those based on 
+      a non-work measure. This suggests that alongside other socioeconomic factors work 
+      itself may play an important part in generating social inequalities in health in 
+      men of working age.
+FAU - Marmot, M G
+AU  - Marmot MG
+AD  - Department of Epidemiology and Public Health, University College, London Medical 
+      School.
+FAU - Shipley, M J
+AU  - Shipley MJ
+LA  - eng
+GR  - G8802774/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+SB  - IM
+CIN - BMJ. 1997 Apr 12;314(7087):1130. doi: 10.1136/bmj.314.7087.1130. PMID: 9133913
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Cause of Death
+MH  - England/epidemiology
+MH  - Follow-Up Studies
+MH  - *Government
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Mortality
+MH  - Retirement/*statistics & numerical data
+MH  - Social Class
+MH  - *Socioeconomic Factors
+MH  - Survival Rate
+PMC - PMC2352486
+EDAT- 1996/11/09 00:00
+MHDA- 1996/11/09 00:01
+PMCR- 1996/11/09
+CRDT- 1996/11/09 00:00
+PHST- 1996/11/09 00:00 [pubmed]
+PHST- 1996/11/09 00:01 [medline]
+PHST- 1996/11/09 00:00 [entrez]
+PHST- 1996/11/09 00:00 [pmc-release]
+AID - 10.1136/bmj.313.7066.1177 [doi]
+PST - ppublish
+SO  - BMJ. 1996 Nov 9;313(7066):1177-80. doi: 10.1136/bmj.313.7066.1177.

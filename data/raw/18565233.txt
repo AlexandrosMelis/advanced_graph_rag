@@ -1,0 +1,110 @@
+PMID- 18565233
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080728
+LR  - 20211020
+IS  - 1475-2840 (Electronic)
+IS  - 1475-2840 (Linking)
+VI  - 7
+DP  - 2008 Jun 19
+TI  - Does the lipid-lowering peroxisome proliferator-activated receptors ligand 
+      bezafibrate prevent colon cancer in patients with coronary artery disease?
+PG  - 18
+LID - 10.1186/1475-2840-7-18 [doi]
+AB  - BACKGROUND: Epidemiologic studies have suggested that hypertriglyceridemia and 
+      insulin resistance are related to the development of colon cancer. Nuclear 
+      peroxisome proliferator-activated receptors (PPAR), which play a central role in 
+      lipid and glucose metabolism, had been hypothesized as being involved in colon 
+      cancerogenesis. In animal studies the lipid-lowering PPAR ligand bezafibrate 
+      suppressed colonic tumors. However, the effect of bezafibrate on colon cancer 
+      development in humans is unknown. Therefore, we proposed to investigate a 
+      possible preventive effect of bezafibrate on the development of colon cancer in 
+      patients with coronary artery disease during a 6-year follow-up. METHODS: Our 
+      population included 3011 patients without any cancer diagnosis who were enrolled 
+      in the randomized, double blind Bezafibrate Infarction Prevention (BIP) Study. 
+      The patients received either 400 mg of bezafibrate retard (1506 patients) or 
+      placebo (1505 patients) once a day. Cancer incidence data were obtained by 
+      matching a subject's identification numbers with the National Cancer Registry. 
+      Each matched record was checked for correct identification. RESULTS: Development 
+      of new cancer (all types) was recorded in 177 patients: in 79 (5.25%) patients 
+      from the bezafibrate group vs. 98 (6.51%) from the placebo group. Development of 
+      colon cancer was recorded in 25 patients: in 8 (0.53%) patients from the 
+      bezafibrate group vs. 17 (1.13%) from the placebo group, (Fisher's exact test: 
+      one side p = 0.05; two side p = 0.07). A difference in the incidence of cancer 
+      was only detectable after a 4 year lag and progressively increased with continued 
+      follow-up. On multivariable analysis the colon cancer risk in patients who 
+      received bezafibrate tended to be lower with a hazard ratio of 0.47 and 95% 
+      confidence interval 0.2-1.1. CONCLUSION: Our data, derived from patients with 
+      coronary artery disease, support the hypothesis regarding a possible preventive 
+      effect of bezafibrate on the development of colon cancer.
+FAU - Tenenbaum, Alexander
+AU  - Tenenbaum A
+AD  - Cardiac Rehabilitation Institute, Chaim Sheba Medical Center, Tel-Hashomer, 
+      affiliated with Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, 
+      Israel. altenen@post.tau.ac.il
+FAU - Boyko, Valentina
+AU  - Boyko V
+FAU - Fisman, Enrique Z
+AU  - Fisman EZ
+FAU - Goldenberg, Ilan
+AU  - Goldenberg I
+FAU - Adler, Yehuda
+AU  - Adler Y
+FAU - Feinberg, Micha S
+AU  - Feinberg MS
+FAU - Motro, Michael
+AU  - Motro M
+FAU - Tanne, David
+AU  - Tanne D
+FAU - Shemesh, Joseph
+AU  - Shemesh J
+FAU - Schwammenthal, Ehud
+AU  - Schwammenthal E
+FAU - Behar, Solomon
+AU  - Behar S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080619
+PL  - England
+TA  - Cardiovasc Diabetol
+JT  - Cardiovascular diabetology
+JID - 101147637
+RN  - 0 (Hypolipidemic Agents)
+RN  - 0 (Ligands)
+RN  - 0 (Peroxisome Proliferator-Activated Receptors)
+RN  - Y9449Q51XH (Bezafibrate)
+SB  - IM
+MH  - Aged
+MH  - Bezafibrate/*therapeutic use
+MH  - Colonic Neoplasms/*prevention & control
+MH  - Coronary Artery Disease/*prevention & control
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Hypolipidemic Agents/*therapeutic use
+MH  - Incidence
+MH  - Kaplan-Meier Estimate
+MH  - Ligands
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Peroxisome Proliferator-Activated Receptors/*antagonists & inhibitors
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC2440374
+EDAT- 2008/06/21 09:00
+MHDA- 2008/07/29 09:00
+PMCR- 2008/06/19
+CRDT- 2008/06/21 09:00
+PHST- 2008/06/07 00:00 [received]
+PHST- 2008/06/19 00:00 [accepted]
+PHST- 2008/06/21 09:00 [pubmed]
+PHST- 2008/07/29 09:00 [medline]
+PHST- 2008/06/21 09:00 [entrez]
+PHST- 2008/06/19 00:00 [pmc-release]
+AID - 1475-2840-7-18 [pii]
+AID - 10.1186/1475-2840-7-18 [doi]
+PST - epublish
+SO  - Cardiovasc Diabetol. 2008 Jun 19;7:18. doi: 10.1186/1475-2840-7-18.

@@ -1,0 +1,84 @@
+PMID- 11888773
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020509
+LR  - 20190513
+IS  - 1010-7940 (Print)
+IS  - 1010-7940 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2002 Mar
+TI  - Stage I non-small cell lung carcinoma: really an early stage?
+PG  - 514-9
+AB  - OBJECTIVE: We review our results on surgical treatment of patients with stage I 
+      non-small cell lung carcinoma and we attempted to clarify the prognostic 
+      significance of some surgical--pathologic variables. METHODS: From 1993 to 1999, 
+      667 patients received curative lung resection and complete hilar and mediastinal 
+      lymphadenectomy for non-small cell lung cancer. Of these, there were 436 Stage I 
+      disease (65%), of whom 144 T1N0 and 292 T2N0. No patients had pre- or 
+      postoperative radio- or chemotherapy. Prognostic significance of the following 
+      independent variables was tested using univariate (log-rank) and multivariate 
+      (Cox proportional-hazards) analysis: type of resection (sublobar vs lobectomy vs 
+      pneumonectomy), histology (squamous cell vs adenocarcinoma), tumour size (<or=3cm 
+      vs >3cm), histologic vascular invasion, visceral pleura involvement, positive 
+      bronchial resection margin, general T status. RESULTS: Overall 5-year survival 
+      was 63%. In both univariate and multivariate survival analysis, significant 
+      prognostic factors were histology (adenocarcinoma 65% vs squamous cell carcinoma 
+      51%), tumour size (<or=3cm 67% vs >3cm 46%), and the presence of negative 
+      resection margin. Five-year survival by general T status was 66% in T1N0 vs 55% 
+      in T2N0 disease (P=0.19). CONCLUSIONS: Despite advances in early diagnosis and 
+      surgical technique, 5-year survival of stage I non-small cell lung carcinoma 
+      remains low as compared to survival of other solid organ neoplasm. Tumour size 
+      <or=3cm, adenocarcinoma histologic type and negative bronchial resection margins 
+      were associated with a more favourable outcome in our patient population. More 
+      effective multimodality treatments are needed to increase survival rates.
+FAU - Rena, Ottavio
+AU  - Rena O
+AD  - Department of Thoracic Surgery, University of Torino, San Giovanni Battista 
+      Hospital, v. Genova 3, 10126 Turin, Italy. ottavio.rena@tiscalinet.it
+FAU - Oliaro, Alberto
+AU  - Oliaro A
+FAU - Cavallo, Antonio
+AU  - Cavallo A
+FAU - Filosso, Pier Luigi
+AU  - Filosso PL
+FAU - Donati, Giovanni
+AU  - Donati G
+FAU - Di Marzio, Paolo
+AU  - Di Marzio P
+FAU - Maggi, Giuliano
+AU  - Maggi G
+FAU - Ruffini, Enrico
+AU  - Ruffini E
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Eur J Cardiothorac Surg
+JT  - European journal of cardio-thoracic surgery : official journal of the European 
+      Association for Cardio-thoracic Surgery
+JID - 8804069
+SB  - IM
+MH  - Carcinoma, Non-Small-Cell Lung/mortality/*pathology/surgery
+MH  - Female
+MH  - Humans
+MH  - Lung/pathology
+MH  - Lung Neoplasms/mortality/*pathology/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/epidemiology
+MH  - Neoplasm Staging
+MH  - Prognosis
+MH  - Proportional Hazards Models
+MH  - Retrospective Studies
+MH  - Survival Rate
+EDAT- 2002/03/13 10:00
+MHDA- 2002/05/10 10:01
+CRDT- 2002/03/13 10:00
+PHST- 2002/03/13 10:00 [pubmed]
+PHST- 2002/05/10 10:01 [medline]
+PHST- 2002/03/13 10:00 [entrez]
+AID - S1010794001011538 [pii]
+AID - 10.1016/s1010-7940(01)01153-8 [doi]
+PST - ppublish
+SO  - Eur J Cardiothorac Surg. 2002 Mar;21(3):514-9. doi: 
+      10.1016/s1010-7940(01)01153-8.

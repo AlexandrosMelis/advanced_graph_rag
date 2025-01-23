@@ -1,0 +1,105 @@
+PMID- 27884344
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170705
+LR  - 20180919
+IS  - 1095-8673 (Electronic)
+IS  - 0022-4804 (Linking)
+VI  - 206
+IP  - 2
+DP  - 2016 Dec
+TI  - Do resident's leadership skills relate to ratings of technical skill?
+PG  - 466-471
+LID - S0022-4804(16)30311-0 [pii]
+LID - 10.1016/j.jss.2016.08.050 [doi]
+AB  - BACKGROUND: This study sought to compare general surgery research residents' 
+      survey information regarding self-efficacy ratings to their observed performance 
+      during a simulated small bowel repair. Their observed performance ratings were 
+      based on their leadership skills in directing their assistant. METHODS: 
+      Participants were given 15 min to perform a bowel repair using bovine intestines 
+      with standardized injuries. Operative assistants were assigned to help assist 
+      with the repair. Before the procedure, participants were asked to rate their 
+      expected skills decay, task difficulty, and confidence in addressing the small 
+      bowel injury. Interactions were coded to identify the number of instructions 
+      given by the participants to the assistant during the repair. Statistical 
+      analyses assessed the relationship between the number of directional instructions 
+      and participants' perceptions self-efficacy measures. Directional instructions 
+      were defined as any dialog by the participant who guided the assistant to perform 
+      an action. RESULTS: Thirty-six residents (58.3% female) participated in the 
+      study. Participants who rated lower levels of decay in their intraoperative 
+      decision-making and small bowel repair skills were noted to use their assistant 
+      more by giving more instructions. Similarly, a higher number of instructions 
+      correlated with lower perceived difficulty in selecting the correct suture, 
+      suture pattern, and completing the entire surgical task. CONCLUSIONS: General 
+      surgery research residents' intraoperative leadership skills showed significant 
+      correlations to their perceptions of skill decay and task difficulty during a 
+      bowel repair. Evaluating resident's directional instructions may provide an 
+      additional individualized intraoperative assessment metric. Further evaluation 
+      relating to operative performance outcomes is warranted.
+CI  - Copyright A(c) 2016 Elsevier Inc. All rights reserved.
+FAU - Gannon, Samantha J
+AU  - Gannon SJ
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Law, Katherine E
+AU  - Law KE
+AD  - Department of Industrial and Systems Engineering, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+FAU - Ray, Rebecca D
+AU  - Ray RD
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Nathwani, Jay N
+AU  - Nathwani JN
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - DiMarco, Shannon M
+AU  - DiMarco SM
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - D'Angelo, Anne-Lise D
+AU  - D'Angelo AD
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Pugh, Carla M
+AU  - Pugh CM
+AD  - Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin; 
+      Department of Industrial and Systems Engineering, University of 
+      Wisconsin-Madison, Madison, Wisconsin. Electronic address: pugh@surgery.wisc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20160819
+PL  - United States
+TA  - J Surg Res
+JT  - The Journal of surgical research
+JID - 0376340
+SB  - IM
+MH  - Animals
+MH  - Cattle
+MH  - *Clinical Competence
+MH  - Clinical Decision-Making
+MH  - Female
+MH  - General Surgery/*education/standards
+MH  - Humans
+MH  - Internship and Residency/*standards
+MH  - *Interprofessional Relations
+MH  - Intestines/*surgery
+MH  - *Leadership
+MH  - Male
+MH  - Midwestern United States
+MH  - *Self Efficacy
+OTO - NOTNLM
+OT  - Bowel repair
+OT  - Education
+OT  - Nontechnical skill
+OT  - Simulation
+OT  - Technical skill
+EDAT- 2016/11/26 06:00
+MHDA- 2017/07/06 06:00
+CRDT- 2016/11/26 06:00
+PHST- 2016/02/05 00:00 [received]
+PHST- 2016/07/31 00:00 [revised]
+PHST- 2016/08/10 00:00 [accepted]
+PHST- 2016/11/26 06:00 [entrez]
+PHST- 2016/11/26 06:00 [pubmed]
+PHST- 2017/07/06 06:00 [medline]
+AID - S0022-4804(16)30311-0 [pii]
+AID - 10.1016/j.jss.2016.08.050 [doi]
+PST - ppublish
+SO  - J Surg Res. 2016 Dec;206(2):466-471. doi: 10.1016/j.jss.2016.08.050. Epub 2016 
+      Aug 19.

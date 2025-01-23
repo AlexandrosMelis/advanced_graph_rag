@@ -1,0 +1,78 @@
+PMID- 21123461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110225
+LR  - 20230318
+IS  - 1938-3207 (Electronic)
+IS  - 0002-9165 (Linking)
+VI  - 93
+IP  - 2
+DP  - 2011 Feb
+TI  - Are adult body circumferences associated with height? Relevance to normative 
+      ranges and circumferential indexes.
+PG  - 302-7
+LID - 10.3945/ajcn.110.005132 [doi]
+AB  - BACKGROUND: Weight scales as height squared, which is an observation that forms 
+      the basis of body mass index (weight/height(2)). If, and how, circumferences, 
+      including waist circumference (WC) and hip circumference (HC), scale to height 
+      remains unclear, but this is an important consideration when developing normative 
+      ranges or applying WC/height and HC/height as risk indexes. OBJECTIVE: The study 
+      aim was to examine the scaling of weight, WC, and HC to height in NHANES 
+      (National Health and Nutrition Examination Survey) III participants. DESIGN: 
+      Subjects were adult non-Hispanic white, non-Hispanic black, and Mexican American 
+      men (n = 7422) and nonpregnant women (n = 7999) who had complete demographic and 
+      anthropometric data. In addition to height, allometric models were developed for 
+      each measure that controlled for age, race, and self-reported health status. 
+      RESULTS: After adjustment for age and race, weight scaled to height in men and 
+      women with mean (+/-SEE) powers of 2.29 +/- 0.11 and 1.80 +/- 0.07, respectively (both 
+      P < 0.001). Although univariate circumference-height models were weak or 
+      nonsignificant, when adjusted for age and race WC and HC scaled to height with 
+      powers of 0.76 +/- 0.08 and 0.45 +/- 0.05, respectively, in men and 0.80 +/- 0.05 and 
+      0.53 +/- 0.04, respectively, in women (all P < 0.001). Age- and race-adjusted 
+      incremental increases in circumferences ranged from 0.2 to 0.5 cm per centimeter 
+      increase in height. Both WC/height and HC/height scaled negatively to height in 
+      men and women, and WC/HC scaled negatively to height in women only (all P < 
+      0.001). Health status-adjusted models were similar. CONCLUSIONS: Circumferences 
+      and related ratios scale significantly to height, notably after adjustment for 
+      age and race, across subjects who are representative of the US population. These 
+      observations have implications for the clinical and epidemiologic use of these 
+      anthropometric measures and indexes.
+FAU - Heymsfield, Steven B
+AU  - Heymsfield SB
+AD  - Pennington Biomedical Research Center, Baton Rouge, LA 70808, USA. 
+      steven.heymsfield@pbrc.edu
+FAU - Heo, Moonseong
+AU  - Heo M
+FAU - Pietrobelli, Angelo
+AU  - Pietrobelli A
+LA  - eng
+PT  - Journal Article
+DEP - 20101201
+PL  - United States
+TA  - Am J Clin Nutr
+JT  - The American journal of clinical nutrition
+JID - 0376027
+SB  - IM
+MH  - Adult
+MH  - Anthropometry
+MH  - *Body Height
+MH  - Body Weight
+MH  - Female
+MH  - Hip/*anatomy & histology
+MH  - Humans
+MH  - Male
+MH  - Nutrition Surveys
+MH  - Obesity/*diagnosis
+MH  - Reference Values
+MH  - *Waist Circumference
+EDAT- 2010/12/03 06:00
+MHDA- 2011/02/26 06:00
+CRDT- 2010/12/03 06:00
+PHST- 2010/12/03 06:00 [entrez]
+PHST- 2010/12/03 06:00 [pubmed]
+PHST- 2011/02/26 06:00 [medline]
+AID - S0002-9165(23)02067-1 [pii]
+AID - 10.3945/ajcn.110.005132 [doi]
+PST - ppublish
+SO  - Am J Clin Nutr. 2011 Feb;93(2):302-7. doi: 10.3945/ajcn.110.005132. Epub 2010 Dec 
+      1.

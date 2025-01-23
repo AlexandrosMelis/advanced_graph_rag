@@ -1,0 +1,100 @@
+PMID- 23177368
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130530
+LR  - 20191210
+IS  - 1532-3080 (Electronic)
+IS  - 0960-9776 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2013 Feb
+TI  - Does immediate breast reconstruction compromise the delivery of adjuvant 
+      chemotherapy?
+PG  - 64-9
+LID - S0960-9776(12)00209-3 [pii]
+LID - 10.1016/j.breast.2012.10.008 [doi]
+AB  - BACKGROUND: Immediate breast reconstruction (IBR) provides psychological benefit 
+      to many early breast cancer patients however concerns persist regarding its 
+      potential impact on chemotherapy delivery. We investigated the association 
+      between IBR, complications and adjuvant chemotherapy delivery. METHOD: 
+      Retrospective analysis of patients in an academic breast service, who underwent 
+      mastectomy, with or without reconstruction, and received adjuvant chemotherapy. 
+      RESULTS: Comparisons were made between 107 patients who received IBR and 113 who 
+      received mastectomy alone. Those receiving IBR were on average younger, with 
+      lower body mass index (BMI) and better prognoses. Overall complication rates were 
+      comparable (mastectomy alone: 45.1% versus IBR: 35.5%, p = 0.2). There was more 
+      return to surgery in the IBR group with 11.5% of tissue expanders requiring 
+      removal, whilst more seromas occurred in the mastectomy group. There was no 
+      significant difference in the median time to chemotherapy. CONCLUSION: We found 
+      no evidence that IBR compromised the delivery of adjuvant chemotherapy, although 
+      there was a significant incidence of implant infection.
+CI  - Copyright (c) 2012 Elsevier Ltd. All rights reserved.
+FAU - Chang, Rachel Jui-Chi
+AU  - Chang RJ
+AD  - Department of Surgery, The University of Melbourne, Australia. 
+      rachelchang2010@gmail.com
+FAU - Kirkpatrick, Katharine
+AU  - Kirkpatrick K
+FAU - De Boer, Richard H
+AU  - De Boer RH
+FAU - Bruce Mann, G
+AU  - Bruce Mann G
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121122
+PL  - Netherlands
+TA  - Breast
+JT  - Breast (Edinburgh, Scotland)
+JID - 9213011
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Taxoids)
+RN  - 80168379AG (Doxorubicin)
+RN  - 8N3DW7272P (Cyclophosphamide)
+RN  - Q20Q21Q62J (Cisplatin)
+RN  - U3P01618RT (Fluorouracil)
+RN  - YL5FZ2Y5U1 (Methotrexate)
+RN  - AC protocol
+RN  - CMF protocol
+RN  - TAC protocol
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Antineoplastic Agents/*administration & dosage
+MH  - Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+MH  - Breast Neoplasms/*drug therapy/surgery
+MH  - Chemotherapy, Adjuvant
+MH  - Cisplatin/therapeutic use
+MH  - Cyclophosphamide/therapeutic use
+MH  - Doxorubicin/therapeutic use
+MH  - Female
+MH  - Fluorouracil/therapeutic use
+MH  - Humans
+MH  - Incidence
+MH  - Kaplan-Meier Estimate
+MH  - Logistic Models
+MH  - Mammaplasty/*methods
+MH  - *Mastectomy
+MH  - Methotrexate/therapeutic use
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Postoperative Complications/epidemiology/etiology/prevention & control
+MH  - Retrospective Studies
+MH  - Taxoids/therapeutic use
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2012/11/28 06:00
+MHDA- 2013/06/01 06:00
+CRDT- 2012/11/27 06:00
+PHST- 2012/03/24 00:00 [received]
+PHST- 2012/06/20 00:00 [revised]
+PHST- 2012/10/13 00:00 [accepted]
+PHST- 2012/11/27 06:00 [entrez]
+PHST- 2012/11/28 06:00 [pubmed]
+PHST- 2013/06/01 06:00 [medline]
+AID - S0960-9776(12)00209-3 [pii]
+AID - 10.1016/j.breast.2012.10.008 [doi]
+PST - ppublish
+SO  - Breast. 2013 Feb;22(1):64-9. doi: 10.1016/j.breast.2012.10.008. Epub 2012 Nov 22.

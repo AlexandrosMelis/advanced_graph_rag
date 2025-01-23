@@ -1,0 +1,91 @@
+PMID- 27989969
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170915
+LR  - 20181202
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 98
+DP  - 2017 Feb
+TI  - Does the Simultaneous Use of a Neuroendoscope Influence the Incidence of 
+      Ventriculoperitoneal Shunt Infection?
+PG  - 171-175
+LID - S1878-8750(16)31081-6 [pii]
+LID - 10.1016/j.wneu.2016.10.092 [doi]
+AB  - BACKGROUND: The relationship between the use of an endoscope during 
+      ventriculoperitoneal shunt (VPS) procedures and infection remains poorly defined. 
+      In this study, we sought to analyze whether the simultaneous use of an endoscope 
+      could in fact increase the infection rate associated with VPS procedures. 
+      METHODS: This study included 438 VPS procedures, 49 in which an endoscope was 
+      used (11.2%) and 389 in which an endoscope was not used (88.8%). The infection 
+      rates in these 2 main groups were calculated and compared. Subsequently, 4 new 
+      groups were created, composed of patients with a shunt inserted for the first 
+      time (groups 1A and 1B) and patients with a shunt reviewed or inserted for a 
+      second time (groups 2A and 2B). Groups 1A and 2A comprised patients in whom an 
+      endoscope was used simultaneously with VPS surgery, and groups 1B and 2B 
+      comprised patients in whom an endoscope was not used. These groups were compared 
+      to determine the infection rate. RESULTS: The overall infection rate was 18.5%, 
+      including 22.4% in the groups in which an endoscope was used and 18% in those in 
+      which an endoscope was not used (P = 0.449). Groups 1A and 1B and groups 2A and 
+      2B were matched for possible intervening risk factors. The infection rate was 
+      28.6% in group 1A and 16.2% in group 1B (P = 0.27), and 20% in group 2A and 19.8% 
+      in group 2B (P = 0.977). CONCLUSIONS: In the present study, the use of an 
+      endoscope during VPS procedures did not increase the risk of surgical infection.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+FAU - Giannetti, Alexandre Varella
+AU  - Giannetti AV
+AD  - Department of Surgery, School of Medicine, Federal University of Minas Gerais, 
+      Belo Horizonte, Minas Gerais, Brazil; Neurosurgery Service, Hospital das 
+      Clinicas, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais, 
+      Brazil. Electronic address: agjg@terra.com.br.
+FAU - Pimenta, Fabiana Guerra
+AU  - Pimenta FG
+AD  - Infection Control Service, Hospital das Clinicas, Federal University of Minas 
+      Gerais, Belo Horizonte, Minas Gerais, Brazil.
+FAU - Clemente, Wanessa Trindade
+AU  - Clemente WT
+AD  - Department of Internal Medicine, School of Medicine, Federal University of Minas 
+      Gerais, Belo Horizonte, Minas Gerais, Brazil; Infection Control Service, Hospital 
+      das Clinicas, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais, 
+      Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20161027
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+CIN - World Neurosurg. 2017 Aug;104:1029-1030. doi: 10.1016/j.wneu.2017.03.083. PMID: 
+      28732421
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Neuroendoscopes/adverse effects/*statistics & numerical data
+MH  - Retrospective Studies
+MH  - Surgical Wound Infection/*diagnosis/*epidemiology
+MH  - *Ventriculoperitoneal Shunt/adverse effects
+OTO - NOTNLM
+OT  - Hydrocephalus
+OT  - Infection
+OT  - Neuroendoscopy
+OT  - Ventriculoperitoneal shunt
+EDAT- 2016/12/19 06:00
+MHDA- 2017/09/16 06:00
+CRDT- 2016/12/20 06:00
+PHST- 2016/06/26 00:00 [received]
+PHST- 2016/10/19 00:00 [revised]
+PHST- 2016/10/20 00:00 [accepted]
+PHST- 2016/12/19 06:00 [pubmed]
+PHST- 2017/09/16 06:00 [medline]
+PHST- 2016/12/20 06:00 [entrez]
+AID - S1878-8750(16)31081-6 [pii]
+AID - 10.1016/j.wneu.2016.10.092 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2017 Feb;98:171-175. doi: 10.1016/j.wneu.2016.10.092. Epub 2016 
+      Oct 27.

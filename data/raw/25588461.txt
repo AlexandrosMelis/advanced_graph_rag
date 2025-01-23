@@ -1,0 +1,92 @@
+PMID- 25588461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151120
+LR  - 20220409
+IS  - 1878-3627 (Electronic)
+IS  - 0922-6028 (Linking)
+VI  - 33
+IP  - 2
+DP  - 2015
+TI  - Can transcranial direct current stimulation be useful in differentiating 
+      unresponsive wakefulness syndrome from minimally conscious state patients?
+PG  - 159-76
+LID - 10.3233/RNN-140448 [doi]
+AB  - PURPOSE: Disorders of consciousness (DOC) diagnosis relies on the presence or 
+      absence of purposeful motor responsiveness, which characterizes the minimally 
+      conscious state (MCS) and the unresponsive wakefulness syndrome (UWS), 
+      respectively. Functional neuroimaging studies have raised the question of 
+      possible residual conscious awareness also in clinically-defined UWS patients. 
+      The aim of our study was to identify electrophysiological parameters, by means of 
+      a transcranial magnetic stimulation approach, which might potentially express the 
+      presence of residual networks sustaining fragmentary behavioral patterns, even 
+      when no conscious behavior can be observed. METHODS: We enrolled 25 severe DOC 
+      patients, following post-anoxic or traumatic brain injury and 20 healthy 
+      individuals (HC) as control group. Baseline electrophysiological evaluation 
+      evidenced, in comparison to HC, a partial preservation of cortical effective 
+      connectivity and excitability in clinically defined MCS, whereas these components 
+      were absent in clinically defined UWS. Then, we applied an anodal transcranial 
+      direct current stimulation (a-tDCS) protocol over the orbitofrontal cortex. 
+      RESULT: a-tDCS was able to boost cortical connectivity and excitability in all 
+      HC, MCS, and to unmask such excitability/connectivity in some UWS patients. 
+      CONCLUSION: a-tDCS could be useful in identifying residual connectivity markers 
+      in clinically-defined UWS, who may lack of purposeful behavior as a result of a 
+      motor-output failure.
+FAU - Naro, Antonino
+AU  - Naro A
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+FAU - Calabro, Rocco Salvatore
+AU  - Calabro RS
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+FAU - Russo, Margherita
+AU  - Russo M
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+FAU - Leo, Antonino
+AU  - Leo A
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+FAU - Pollicino, Patrizia
+AU  - Pollicino P
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+FAU - Quartarone, Angelo
+AU  - Quartarone A
+AD  - Department of Neurosciences, University of Messina, Italy.
+FAU - Bramanti, Placido
+AU  - Bramanti P
+AD  - IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Restor Neurol Neurosci
+JT  - Restorative neurology and neuroscience
+JID - 9005499
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Consciousness Disorders/*diagnosis/physiopathology
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neural Pathways/physiopathology
+MH  - Persistent Vegetative State/*diagnosis/physiopathology
+MH  - Prefrontal Cortex/physiopathology
+MH  - Transcranial Direct Current Stimulation/*methods
+OTO - NOTNLM
+OT  - Disorders of consciousness
+OT  - cortical connectivity
+OT  - cortical excitability
+OT  - minimally conscious state
+OT  - transcranial direct current stimulation
+OT  - transcranial magnetic stimulation
+OT  - unresponsive wakefulness syndrome
+EDAT- 2015/01/16 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2015/01/16 06:00
+PHST- 2015/01/16 06:00 [entrez]
+PHST- 2015/01/16 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+AID - 251G823226543056 [pii]
+AID - 10.3233/RNN-140448 [doi]
+PST - ppublish
+SO  - Restor Neurol Neurosci. 2015;33(2):159-76. doi: 10.3233/RNN-140448.

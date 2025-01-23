@@ -1,0 +1,100 @@
+PMID- 26686513
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160923
+LR  - 20181113
+IS  - 1435-702X (Electronic)
+IS  - 0721-832X (Linking)
+VI  - 254
+IP  - 2
+DP  - 2016 Feb
+TI  - Cycloplegic autorefraction in young adults: is it mandatory?
+PG  - 395-8
+LID - 10.1007/s00417-015-3246-1 [doi]
+AB  - PURPOSE: The precise correction of refractive error is especially important in 
+      young adults. It is unclear whether cycloplegic refraction is necessary in this 
+      age group. The purpose of this study was to compare the non-cycloplegic and 
+      cycloplegic spherical equivalent (SE) refractive error measured in young adults. 
+      METHODS: This was a prospective study of 1400 eyes (n = 700) of enlisted soldiers 
+      aged 18 to 21 years who were consecutively evaluated in an outpatient army 
+      ophthalmology clinic. One drop of cyclopentolate 1 % was installed twice 10 min 
+      apart, and cycloplegic refraction was performed in both eyes 40 min later using 
+      an auto-refractor. The difference between non-cycloplegic and cycloplegic 
+      refractive measurements was analyzed. RESULTS: The mean difference in SE between 
+      non-cycloplegic and cycloplegic measurements was 0.68 +/- 0.83 D (95 % CI, 
+      0.64-0.72). Significantly greater differences were observed in hypermetropes than 
+      myopes (1.30 +/- 0.90 D versus 0.46 +/- 0.68 D, p < 0.001). Moderate hypermetropes (2 
+      to 5 D) demonstrated significantly greater refractive error than mild (0.5 to 
+      2 D) or severe (>5 D) hypermetropes (1.71 +/- 1.18 D versus 1.19 +/- 0.74 D and 
+      1.16 +/- 1.08 D respectively, p < 0.001). CONCLUSIONS: Young hypermetropic adults 
+      possessed +1 to +2 D of latent hypermetropia. In contrast, young myopic adults 
+      revealed pseudomyopia of -0.5 D. Cycloplegic refraction should be performed in 
+      young hypermetropic adults complaining of various signs of asthenopia.
+FAU - Mimouni, Michael
+AU  - Mimouni M
+AD  - Department of Ophthalmology, Rambam Health Care Campus, P.O.B. 9602, Haifa, 
+      Israel, 31096. m_mimouni@rambam.health.gov.il.
+FAU - Zoller, Lilach
+AU  - Zoller L
+AD  - Maccabi Health Service, Haifa, Israel.
+FAU - Horowitz, Josefa
+AU  - Horowitz J
+AD  - Carmel Medical Center, Haifa, Israel.
+FAU - Wygnanski-Jaffe, Tamara
+AU  - Wygnanski-Jaffe T
+AD  - Goldschleger Eye Institute, Sheba Medical Center, Tel-Hashomer, Israel.
+AD  - Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+FAU - Morad, Yair
+AU  - Morad Y
+AD  - Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+AD  - Assaf-Harofeh Medical Center, Tel Aviv, Israel.
+FAU - Mezer, Eedy
+AU  - Mezer E
+AD  - Department of Ophthalmology, Rambam Health Care Campus, P.O.B. 9602, Haifa, 
+      Israel, 31096.
+AD  - The Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of 
+      Technology, Haifa, Israel.
+LA  - eng
+PT  - Journal Article
+DEP - 20151221
+PL  - Germany
+TA  - Graefes Arch Clin Exp Ophthalmol
+JT  - Graefe's archive for clinical and experimental ophthalmology = Albrecht von 
+      Graefes Archiv fur klinische und experimentelle Ophthalmologie
+JID - 8205248
+RN  - 0 (Mydriatics)
+RN  - I76F4SHP7J (Cyclopentolate)
+SB  - IM
+MH  - Adolescent
+MH  - Cyclopentolate/*administration & dosage
+MH  - Female
+MH  - Humans
+MH  - Hyperopia/*diagnosis/physiopathology
+MH  - Male
+MH  - Military Personnel
+MH  - Mydriatics/*administration & dosage
+MH  - Myopia/*diagnosis/physiopathology
+MH  - Prospective Studies
+MH  - Pupil/drug effects
+MH  - Refraction, Ocular/*physiology
+MH  - Retinoscopy
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Adults
+OT  - Cycloplegic
+OT  - Refraction
+OT  - Young
+EDAT- 2015/12/22 06:00
+MHDA- 2016/09/24 06:00
+CRDT- 2015/12/22 06:00
+PHST- 2015/09/02 00:00 [received]
+PHST- 2015/12/09 00:00 [accepted]
+PHST- 2015/11/29 00:00 [revised]
+PHST- 2015/12/22 06:00 [entrez]
+PHST- 2015/12/22 06:00 [pubmed]
+PHST- 2016/09/24 06:00 [medline]
+AID - 10.1007/s00417-015-3246-1 [pii]
+AID - 10.1007/s00417-015-3246-1 [doi]
+PST - ppublish
+SO  - Graefes Arch Clin Exp Ophthalmol. 2016 Feb;254(2):395-8. doi: 
+      10.1007/s00417-015-3246-1. Epub 2015 Dec 21.

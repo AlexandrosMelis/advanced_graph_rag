@@ -1,0 +1,100 @@
+PMID- 24851767
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150105
+LR  - 20220318
+IS  - 1531-5037 (Electronic)
+IS  - 0022-3468 (Linking)
+VI  - 49
+IP  - 5
+DP  - 2014 May
+TI  - Undescended testes: does age at orchiopexy affect survival of the testis?
+PG  - 770-3
+LID - S0022-3468(14)00165-1 [pii]
+LID - 10.1016/j.jpedsurg.2014.02.065 [doi]
+AB  - PURPOSE: The optimal age at which to perform orchiopexy for cryptorchidism has 
+      long been debated. The aim of this study was to determine if age at orchiopexy 
+      affected testicular atrophy. METHODS: A retrospective review of patients 
+      undergoing orchiopexy from 2000 to 2010 was conducted. An individual testis, 
+      rather than patient, was used as the dependent variable. A total of 349 testicles 
+      from 1126 charts (ICD-9=752.51) were identified. Primary study outcome was 
+      testicular survival without atrophy. RESULTS: Mean follow up for the study was 25 
+      months. There was postoperative atrophy in 27 testes (7.7%). Intraabdominal 
+      testicle was independently associated with increased postsurgical atrophy 
+      (p<0.0001). The odds of postsurgical atrophy were 15.66 times higher for an 
+      abdominal vs. inguinal location (95% CI: 5.5-44.6). Testicular atrophy was 
+      highest for orchiopexy at ages 13-24 months (n=16 of 133, 12%) vs. those less 
+      than 13 months (n=3 of 64, 5%), and those greater than 24 months (n=8 of 152, 5%) 
+      (p=0.0024). After adjusting for location, age was not statistically significant 
+      with postsurgical atrophy (p=0.055). CONCLUSIONS: From this study we conclude 
+      that there is no increase in testicular atrophy in patients less than 13 months.
+CI  - Copyright (c) 2014. Published by Elsevier Inc.
+FAU - Carson, Jeffrey S
+AU  - Carson JS
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE. Electronic address: jscarson@unmc.edu.
+FAU - Cusick, Robert
+AU  - Cusick R
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE; Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+FAU - Mercer, Andrea
+AU  - Mercer A
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE; Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+FAU - Ashley, Adrienne
+AU  - Ashley A
+AD  - Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+FAU - Abdessalam, Shahab
+AU  - Abdessalam S
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE; Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+FAU - Raynor, Stephen
+AU  - Raynor S
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE; Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+FAU - Lyden, Elizabeth
+AU  - Lyden E
+AD  - Department of Biostatistics, University of Nebraska Medical Center College of 
+      Public Health, Omaha, NE.
+FAU - Azarow, Kenneth
+AU  - Azarow K
+AD  - Department of Surgery, University of Nebraska Medical Center College of Medicine, 
+      Omaha, NE; Pediatric Surgery, Children's Hospital and Medical Center, Omaha, NE.
+LA  - eng
+PT  - Journal Article
+DEP - 20140222
+PL  - United States
+TA  - J Pediatr Surg
+JT  - Journal of pediatric surgery
+JID - 0052631
+SB  - IM
+MH  - Age Factors
+MH  - Atrophy/etiology
+MH  - Child, Preschool
+MH  - Cryptorchidism/*pathology/*surgery
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Orchiopexy/adverse effects/methods
+MH  - Postoperative Complications/pathology
+MH  - Retrospective Studies
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Age
+OT  - Cryptorchidism
+OT  - Orchiopexy
+OT  - Testicular atrophy
+EDAT- 2014/05/24 06:00
+MHDA- 2015/01/06 06:00
+CRDT- 2014/05/24 06:00
+PHST- 2014/02/09 00:00 [received]
+PHST- 2014/02/13 00:00 [accepted]
+PHST- 2014/05/24 06:00 [entrez]
+PHST- 2014/05/24 06:00 [pubmed]
+PHST- 2015/01/06 06:00 [medline]
+AID - S0022-3468(14)00165-1 [pii]
+AID - 10.1016/j.jpedsurg.2014.02.065 [doi]
+PST - ppublish
+SO  - J Pediatr Surg. 2014 May;49(5):770-3. doi: 10.1016/j.jpedsurg.2014.02.065. Epub 
+      2014 Feb 22.

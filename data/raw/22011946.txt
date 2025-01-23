@@ -1,0 +1,95 @@
+PMID- 22011946
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120416
+LR  - 20211020
+IS  - 1432-2218 (Electronic)
+IS  - 0930-2794 (Linking)
+VI  - 26
+IP  - 3
+DP  - 2012 Mar
+TI  - Does a preoperative medically supervised weight loss program improve bariatric 
+      surgery outcomes? A pilot randomized study.
+PG  - 853-61
+LID - 10.1007/s00464-011-1966-9 [doi]
+AB  - BACKGROUND: Many insurance payors mandate that bariatric surgery candidates 
+      undergo a medically supervised weight management (MSWM) program as a prerequisite 
+      for surgery. However, there is little evidence to support this requirement. We 
+      evaluated in a randomized controlled trial the hypothesis that participation in a 
+      MSWM program does not predict outcomes after laparoscopic adjustable gastric 
+      banding (LAGB) in a publicly insured population. METHODS: This pilot randomized 
+      trial was conducted in a large academic urban public hospital. Patients who met 
+      NIH consensus criteria for bariatric surgery and whose insurance did not require 
+      a mandatory 6-month MSWM program were randomized to a MSWM program with monthly 
+      visits over 6 months (individual or group) or usual care for 6 months and then 
+      followed for bariatric surgery outcomes postoperatively. Demographics, weight, 
+      and patient behavior scores, including patient adherence, eating behavior, 
+      patient activation, and physical activity, were collected at baseline and at 6 
+      months (immediately preoperatively and postoperatively). RESULTS: A total of 55 
+      patients were enrolled in the study with complete follow-up on 23 patients. 
+      Participants randomized to a MSWM program attended an average of 2 sessions 
+      preoperatively. The majority of participants were female and non-Caucasian, mean 
+      age was 46 years, average income was less than $20,000/year, and most had 
+      Medicaid as their primary insurer, consistent with the demographics of the 
+      hospital's bariatric surgery program. Data analysis included both 
+      intention-to-treat and completers' analyses. No significant differences in weight 
+      loss and most patient behaviors were found between the two groups 
+      postoperatively, suggesting that participation in a MSWM program did not improve 
+      weight loss outcomes for LAGB. Participation in a MSWM program did appear to have 
+      a positive effect on physical activity postoperatively. CONCLUSION: MSWM does not 
+      appear to confer additional benefit as compared to the standard preoperative 
+      bariatric surgery protocol in terms of weight loss and most behavioral outcomes 
+      after LAGB in our patient population.
+FAU - Parikh, Manish
+AU  - Parikh M
+AD  - Bellevue Center for Obesity and Weight Management, Bellevue Hospital Center, 
+      Department of Surgery, New York University School of Medicine, New Bellevue 15 
+      South 7, 550 First Avenue, New York, NY 10016, USA. manish.parikh@nyumc.org
+FAU - Dasari, Meena
+AU  - Dasari M
+FAU - McMacken, Michelle
+AU  - McMacken M
+FAU - Ren, Christine
+AU  - Ren C
+FAU - Fielding, George
+AU  - Fielding G
+FAU - Ogedegbe, Gbenga
+AU  - Ogedegbe G
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20111020
+PL  - Germany
+TA  - Surg Endosc
+JT  - Surgical endoscopy
+JID - 8806653
+SB  - IM
+MH  - Adult
+MH  - Body Mass Index
+MH  - Exercise/physiology
+MH  - Feeding Behavior/physiology
+MH  - Female
+MH  - Gastroplasty/*methods
+MH  - Health Behavior
+MH  - Humans
+MH  - Laparoscopy/*methods
+MH  - Male
+MH  - Medication Adherence
+MH  - Middle Aged
+MH  - Obesity, Morbid/*therapy
+MH  - Pilot Projects
+MH  - Preoperative Care/*methods
+MH  - Treatment Outcome
+MH  - Weight Reduction Programs/*methods
+EDAT- 2011/10/21 06:00
+MHDA- 2012/04/17 06:00
+CRDT- 2011/10/21 06:00
+PHST- 2011/07/07 00:00 [received]
+PHST- 2011/09/11 00:00 [accepted]
+PHST- 2011/10/21 06:00 [entrez]
+PHST- 2011/10/21 06:00 [pubmed]
+PHST- 2012/04/17 06:00 [medline]
+AID - 10.1007/s00464-011-1966-9 [doi]
+PST - ppublish
+SO  - Surg Endosc. 2012 Mar;26(3):853-61. doi: 10.1007/s00464-011-1966-9. Epub 2011 Oct 
+      20.

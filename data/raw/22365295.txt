@@ -1,0 +1,108 @@
+PMID- 22365295
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120619
+LR  - 20240721
+IS  - 1535-7732 (Electronic)
+IS  - 1051-0443 (Print)
+IS  - 1051-0443 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2012 Mar
+TI  - Totally implantable venous access device placement by interventional 
+      radiologists: are prophylactic antibiotics necessary?
+PG  - 358-62
+LID - 10.1016/j.jvir.2011.11.004 [doi]
+AB  - PURPOSE: To determine the rate of early infection for totally implantable venous 
+      access devices (TIVADs) placed without antibiotic prophylaxis. MATERIAL AND 
+      METHODS: A list of patients who underwent TIVAD placement in 2009 was obtained 
+      from the patient archiving and communication system (PACS). This list was 
+      cross-referenced to all patients who underwent TIVAD removal from January 1, 
+      2009, through January 30, 2010, to identify TIVADs that were removed within 30 
+      days of placement. Retrospective chart review was performed to record patient 
+      demographics, including age, sex, cancer diagnosis, and indication for removal. 
+      Concurrent antibiotic therapy, chemotherapy, and laboratory data before and 
+      within 30 days of placement were recorded. Central line-associated bloodstream 
+      infections (CLABSIs) were identified using U.S. Centers for Disease Control and 
+      Prevention (CDC) criteria. RESULTS: There were 1,183 ports placed and 13 removed. 
+      CLABSIs occurred in seven (0.6%) patients within 30 days of placement. At the 
+      time of TIVAD placement, 81 (7%) patients were receiving antibiotics incidental 
+      to the procedure. One patient who received an antibiotic the day of implantation 
+      developed a CLABSI. Chemotherapy was administered to 148 (13%) patients on the 
+      day of placement. CONCLUSIONS: The rate of early infection without antibiotic 
+      prophylaxis before TIVAD placement in the interventional radiology suite is < 1%. 
+      Based on these data, use of prophylactic antibiotics for TIVAD placement is not 
+      recommended.
+CI  - Copyright A(c) 2012 SIR. Published by Elsevier Inc. All rights reserved.
+FAU - Covey, Anne M
+AU  - Covey AM
+AD  - Department of Diagnostic Radiology, Memorial Sloan-Kettering Cancer Center, New 
+      York, NY 10021, USA. coveya@mskcc.org
+FAU - Toro-Pape, Franz W
+AU  - Toro-Pape FW
+FAU - Thornton, Raymond H
+AU  - Thornton RH
+FAU - Son, Crystal
+AU  - Son C
+FAU - Erinjeri, Joseph
+AU  - Erinjeri J
+FAU - Sofocleous, Constantinos T
+AU  - Sofocleous CT
+FAU - Brody, Lynn A
+AU  - Brody LA
+FAU - Brown, Karen T
+AU  - Brown KT
+FAU - Sepkowitz, Kent A
+AU  - Sepkowitz KA
+FAU - Getrajdman, George I
+AU  - Getrajdman GI
+LA  - eng
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - J Vasc Interv Radiol
+JT  - Journal of vascular and interventional radiology : JVIR
+JID - 9203369
+SB  - IM
+EIN - J Vasc Interv Radiol. 2012 Jun;23(6):852. Septkowitz, Kent A [corrected to 
+      Sepkowitz, Kent A]
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Antibiotic Prophylaxis
+MH  - Catheter-Related Infections/diagnosis/microbiology/*prevention & control
+MH  - Catheterization, Central Venous/*adverse effects/instrumentation
+MH  - Catheters, Indwelling/*adverse effects
+MH  - Device Removal
+MH  - Equipment Design
+MH  - Female
+MH  - Guideline Adherence
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Practice Guidelines as Topic
+MH  - *Radiography, Interventional
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Young Adult
+PMC - PMC6830723
+MID - NIHMS460205
+EDAT- 2012/03/01 06:00
+MHDA- 2012/06/20 06:00
+PMCR- 2019/11/05
+CRDT- 2012/02/28 06:00
+PHST- 2011/09/09 00:00 [received]
+PHST- 2011/10/28 00:00 [revised]
+PHST- 2011/11/06 00:00 [accepted]
+PHST- 2012/02/28 06:00 [entrez]
+PHST- 2012/03/01 06:00 [pubmed]
+PHST- 2012/06/20 06:00 [medline]
+PHST- 2019/11/05 00:00 [pmc-release]
+AID - S1051-0443(11)01446-1 [pii]
+AID - 10.1016/j.jvir.2011.11.004 [doi]
+PST - ppublish
+SO  - J Vasc Interv Radiol. 2012 Mar;23(3):358-62. doi: 10.1016/j.jvir.2011.11.004.

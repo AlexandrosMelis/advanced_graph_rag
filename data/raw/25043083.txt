@@ -1,0 +1,82 @@
+PMID- 25043083
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150409
+LR  - 20220310
+IS  - 2542-5641 (Electronic)
+IS  - 0366-6999 (Linking)
+VI  - 127
+IP  - 14
+DP  - 2014
+TI  - Are failures of anterior cruciate ligament reconstruction associated with steep 
+      posterior tibial slopes? A case control study.
+PG  - 2649-53
+AB  - BACKGROUND: Recently, increasing number of literature has identified the 
+      posterior tibial slope (PTS) as one of the risk factors of primary anterior 
+      cruciate ligament (ACL) injury. However, few studies concerning the association 
+      between failure of ACL reconstruction (ACLR) and PTS have been published. The 
+      objective of this study was to explore the association between the failure of 
+      ACLR and PTS at a minimum of two years follow-up. METHODS: Two hundred and thirty 
+      eight eligible patients from June 2009 to October 2010 were identified from our 
+      database. A total of 20 failure cases of ACLR and 20 randomly selected controls 
+      were included in this retrospective study. The demographic data and the results 
+      of manual maximum side-to-side difference with KT-1000 arthrometer at 30 degrees  of knee 
+      flexion and pivot-shift test before the ACLR and at the final follow-up were 
+      collected. The medial and lateral PTSs were measured using the magnetic resonance 
+      imaging (MRI) scan, based on Hudek's measurement. A comparison of PTS between the 
+      two groups was performed. RESULTS: The overall failure rate of the present study 
+      was 8.4%. Of the 40 participants, the mean medial PTS was 4.1 degrees  +/- 3.2 degrees  and the 
+      mean lateral PTS was 4.6 degrees  +/- 2.6 degrees . The medial PTS of the ACLR failure group was 
+      significantly steeper than the control group (3.5 degrees  +/- 2.5 degrees  vs. 6.1 degrees  +/- 2.1 degrees , P = 
+      0.000). Similarly, the lateral PTS of the ACLR failure group was significantly 
+      steeper than the control group (2.9 degrees  +/- 2.1 degrees  vs. 5.5 degrees  +/- 3.0 degrees , P = 0.006). For 
+      medial PTS >/= 5 degrees , the odds ratio of ACLR failure was 6.8 (P = 0.007); for lateral 
+      PTS >/=5 degrees , the odds ratio of ACLR failure was 10.8 (P = 0.000). CONCLUSION: Both 
+      medial and lateral PTS were significantly steeper in failures of ACLR than the 
+      control group. Medial or lateral PTS >/=5 degrees  was a new risk factor of ACLR failure.
+FAU - Li, Yue
+AU  - Li Y
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China.
+FAU - Hong, Lei
+AU  - Hong L
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China.
+FAU - Feng, Hua
+AU  - Feng H
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China. 
+      Email: fenghua20080617@126.com.
+FAU - Wang, Qianqian
+AU  - Wang Q
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China.
+FAU - Zhang, Hui
+AU  - Zhang H
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China.
+FAU - Song, Guanyang
+AU  - Song G
+AD  - Sports Medicine Service, Beijing Jishuitan Hospital, Beijing 100035, China.
+LA  - eng
+PT  - Journal Article
+PL  - China
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Anterior Cruciate Ligament/*surgery
+MH  - Anterior Cruciate Ligament Injuries
+MH  - Anterior Cruciate Ligament Reconstruction/*statistics & numerical data
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Retrospective Studies
+MH  - Tibia/injuries/surgery
+MH  - Young Adult
+EDAT- 2014/07/22 06:00
+MHDA- 2015/04/10 06:00
+CRDT- 2014/07/22 06:00
+PHST- 2014/07/22 06:00 [entrez]
+PHST- 2014/07/22 06:00 [pubmed]
+PHST- 2015/04/10 06:00 [medline]
+PST - ppublish
+SO  - Chin Med J (Engl). 2014;127(14):2649-53.

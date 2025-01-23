@@ -1,0 +1,96 @@
+PMID- 19854401
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091110
+LR  - 20220410
+IS  - 1879-1190 (Electronic)
+IS  - 1072-7515 (Linking)
+VI  - 209
+IP  - 5
+DP  - 2009 Nov
+TI  - Attaining negative margins in breast-conservation operations: is there a 
+      consensus among breast surgeons?
+PG  - 608-13
+LID - 10.1016/j.jamcollsurg.2009.07.026 [doi]
+AB  - BACKGROUND: The purpose of this survey was to ascertain the most common surgical 
+      practices for attaining negative (tumor-free) surgical margins in patients 
+      desiring breast-conservation treatment for breast cancer to see if a consensus 
+      exists for optimal treatment of patients. STUDY DESIGN: We sent a survey to 1,000 
+      surgeons interested in the treatment of breast cancer. Three hundred eighty-one 
+      surgeons responded to this survey and 351 were used for the analysis (response 
+      rate of 38%). RESULTS: Answers showed a large variety in clinical practices among 
+      breast surgeons across the country. There was little intraoperative margin 
+      analysis; only 48% of surgeons examine the margins grossly with a pathologist and 
+      even fewer used frozen sections or imprint cytology. Decisions to reexcise 
+      specific margins varied greatly. For example, 57% of surgeons would never 
+      reexcise for a positive deep margin, but 53% would always reexcise for a positive 
+      anterior margin. Most importantly, there was a large range in answers about 
+      acceptable margins with ductal carcinoma in situ and invasive carcinoma. Fifteen 
+      percent of surgeons would accept any negative margin, 28% would accept a 1-mm 
+      negative margin, 50% would accept a 2-mm negative margin, 12% would accept a 5-mm 
+      negative margin, and 3% would accept a 10-mm negative margin. CONCLUSIONS: 
+      Results of this survey highlight the wide variety of practice patterns in the US 
+      for handling surgical margins in breast-conservation treatment. This issue 
+      remains controversial, with no prevailing standard of care. Consequently, 
+      additional study is needed in the modern era of multimodality treatment to 
+      examine the minimal amount of surgical treatment necessary, in conjunction with 
+      chemotherapy and radiation, to attain adequate local control rates in 
+      breast-conservation treatment.
+FAU - Blair, Sarah L
+AU  - Blair SL
+AD  - University of California San Diego, Moores Cancer Center, 3855 Health Sciences Dr 
+      #0987, La Jolla, CA 92093-0987, USA. slblair@ucsd.edu
+FAU - Thompson, Kari
+AU  - Thompson K
+FAU - Rococco, Joseph
+AU  - Rococco J
+FAU - Malcarne, Vanessa
+AU  - Malcarne V
+FAU - Beitsch, Peter D
+AU  - Beitsch PD
+FAU - Ollila, David W
+AU  - Ollila DW
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20090911
+PL  - United States
+TA  - J Am Coll Surg
+JT  - Journal of the American College of Surgeons
+JID - 9431305
+SB  - IM
+CIN - J Am Coll Surg. 2010 Jun;210(6):1012. doi: 10.1016/j.jamcollsurg.2010.01.023. 
+      PMID: 20510813
+CIN - J Am Coll Surg. 2010 Jun;210(6):1015-6. doi: 10.1016/j.jamcollsurg.2010.01.022. 
+      PMID: 20510817
+MH  - Adult
+MH  - Aged
+MH  - Breast Neoplasms/diagnostic imaging/*pathology/*surgery
+MH  - Carcinoma, Intraductal, Noninfiltrating/pathology/surgery
+MH  - Female
+MH  - Frozen Sections
+MH  - Health Care Surveys
+MH  - Humans
+MH  - Intraoperative Period
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Mastectomy, Segmental/*standards
+MH  - Middle Aged
+MH  - Practice Patterns, Physicians'/*statistics & numerical data
+MH  - Radiography
+MH  - Surveys and Questionnaires
+MH  - United States
+EDAT- 2009/10/27 06:00
+MHDA- 2009/11/11 06:00
+CRDT- 2009/10/27 06:00
+PHST- 2009/05/22 00:00 [received]
+PHST- 2009/07/24 00:00 [revised]
+PHST- 2009/07/27 00:00 [accepted]
+PHST- 2009/10/27 06:00 [entrez]
+PHST- 2009/10/27 06:00 [pubmed]
+PHST- 2009/11/11 06:00 [medline]
+AID - S1072-7515(09)01206-X [pii]
+AID - 10.1016/j.jamcollsurg.2009.07.026 [doi]
+PST - ppublish
+SO  - J Am Coll Surg. 2009 Nov;209(5):608-13. doi: 10.1016/j.jamcollsurg.2009.07.026. 
+      Epub 2009 Sep 11.

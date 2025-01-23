@@ -1,0 +1,83 @@
+PMID- 11340218
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010927
+LR  - 20190727
+IS  - 1524-4628 (Electronic)
+IS  - 0039-2499 (Linking)
+VI  - 32
+IP  - 5
+DP  - 2001 May
+TI  - Does pretreatment with statins improve clinical outcome after stroke? A pilot 
+      case-referent study.
+PG  - 1112-5
+AB  - BACKGROUND AND PURPOSE: In primary and secondary prevention trials, statins have 
+      been shown to reduce the risk of stroke. In addition to lipid lowering, statins 
+      have a number of antiatherothrombotic and neuroprotective properties. In a 
+      preliminary observational study, we explored whether clinical outcome is improved 
+      in patients who are on treatment with statins when stroke occurs. METHODS: We 
+      conducted a population-based case-referent study of 25- to 74-year-old stroke 
+      patients with, for each case of a patient who was on statin treatment at the 
+      onset of stroke (n=125), 2 referent patients who were not treated with statins 
+      but were matched for age, gender, year of onset, and stroke subtype (n=250). 
+      RESULTS: The unadjusted odds ratio for early discharge to home (versus late 
+      discharge or death) was 1.41 (95% CI 0.91 to 2.17) when patients on statin 
+      treatment were compared with referent stroke patients not on statins. Prognostic 
+      factors were, in general, more unfavorable among patients on statins. When this 
+      was adjusted for in a logistic regression model, the use of statins was a 
+      moderately strong but statistically nonsignificant predictor of discharge to home 
+      (multiple-adjusted odds ratio 1.42, 95% CI 0.90 to 2.22). CONCLUSIONS: The 
+      statistical power of this case-referent study was such that only large beneficial 
+      effects of statins in acute stroke could be confirmed. However, the observed 
+      trend, together with experimental observations, is interesting enough to warrant 
+      a more detailed analysis of the relationship between statins and stroke outcome.
+FAU - Jonsson, N
+AU  - Jonsson N
+AD  - Department of Medicine, Umea University, Umea, Sweden.
+FAU - Asplund, K
+AU  - Asplund K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Stroke
+JT  - Stroke
+JID - 0235266
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+RN  - AGG2FN16EV (Simvastatin)
+SB  - IM
+CIN - Stroke. 2001 Oct;32(10):2446-7. PMID: 11588346
+MH  - Acute Disease
+MH  - Adult
+MH  - Age Distribution
+MH  - Aged
+MH  - Case-Control Studies
+MH  - Cerebral Hemorrhage/epidemiology
+MH  - Comorbidity
+MH  - Diabetes Mellitus/epidemiology
+MH  - Female
+MH  - Humans
+MH  - Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/epidemiology
+MH  - Odds Ratio
+MH  - Pilot Projects
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Secondary Prevention
+MH  - Sex Distribution
+MH  - Simvastatin/*therapeutic use
+MH  - Stroke/classification/diagnosis/*epidemiology/*prevention & control
+MH  - Sweden/epidemiology
+MH  - Treatment Outcome
+EDAT- 2001/09/06 10:00
+MHDA- 2001/09/28 10:01
+CRDT- 2001/09/06 10:00
+PHST- 2001/09/06 10:00 [pubmed]
+PHST- 2001/09/28 10:01 [medline]
+PHST- 2001/09/06 10:00 [entrez]
+AID - 10.1161/01.str.32.5.1112 [doi]
+PST - ppublish
+SO  - Stroke. 2001 May;32(5):1112-5. doi: 10.1161/01.str.32.5.1112.

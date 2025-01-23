@@ -1,0 +1,89 @@
+PMID- 15588538
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050404
+LR  - 20181113
+IS  - 0960-1643 (Print)
+IS  - 0960-1643 (Linking)
+VI  - 54
+IP  - 509
+DP  - 2004 Dec
+TI  - Chronic functional somatic symptoms: a single syndrome?
+PG  - 922-7
+AB  - BACKGROUND: Reliable longitudinal data of patients with functional somatic 
+      symptoms in general practice are lacking. AIMS: To identify distinctive features 
+      in patients with chronic functional somatic symptoms, and to determine whether 
+      these symptoms support the hypothesis of the existence of specific somatic 
+      syndromes. DESIGN OF STUDY: Observational study, with a comparison control group. 
+      SETTING: Four primary care practices affiliated with the University of Nijmegen 
+      in the Netherlands. METHOD: One hundred and eighty-two patients diagnosed between 
+      1998 and 2002 as having chronic functional somatic symptoms and 182 controls 
+      matched by age, sex, socioeconomic status, and practice were included. Data on 
+      comorbidity, referrals, diagnostic tests, and hospital admissions over a period 
+      of 10 years prior to the diagnosis were collected. Medication use and number of 
+      visits to the general practitioner (GP) were extracted from the moment 
+      computerised registration was started. RESULTS: In the 10 years before the 
+      diagnosis of chronic functional somatic symptoms, significantly more patients 
+      than controls presented functional somatic symptoms in at least two body systems, 
+      and used more somatic and psychotropic drugs. They visited the GP twice as much, 
+      statistically had significantly more psychiatric morbidity, and were referred 
+      more often to mental health workers and somatic specialists. The number of 
+      patients undergoing diagnostic tests was higher for patients with chronic 
+      functional somatic symptoms than for controls, but hospital admissions rates were 
+      equal. CONCLUSION: Patients with chronic functional somatic symptoms have a great 
+      diversity of functional somatic symptoms. They use more somatic and psychotropic 
+      drugs than controls in the years before diagnosis. Moreover, they show high rates 
+      of referrals and psychiatric morbidity. The diversity of symptoms of patients 
+      with chronic functional somatic symptoms supports the concept that symptoms do 
+      not cluster in well defined distinct syndromes. Therefore, patients with chronic 
+      functional somatic symptoms should preferably not be classified into medical 
+      subspecialty syndromes.
+FAU - olde Hartman, Tim C
+AU  - olde Hartman TC
+AD  - Department of Family Medicine, University Medical Centre Nijmegen, The 
+      Netherlands. t.oldehartman@hag.umcn.nl
+FAU - Lucassen, Peter L B J
+AU  - Lucassen PL
+FAU - van de Lisdonk, Eloy H
+AU  - van de Lisdonk EH
+FAU - Bor, Hans H J
+AU  - Bor HH
+FAU - van Weel, Chris
+AU  - van Weel C
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - England
+TA  - Br J Gen Pract
+JT  - The British journal of general practice : the journal of the Royal College of 
+      General Practitioners
+JID - 9005323
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Case-Control Studies
+MH  - Child
+MH  - Chronic Disease
+MH  - Female
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Netherlands
+MH  - Patient Acceptance of Health Care/statistics & numerical data
+MH  - Referral and Consultation/statistics & numerical data
+MH  - Somatoform Disorders/drug therapy/*etiology
+MH  - Syndrome
+PMC - PMC1326111
+EDAT- 2004/12/14 09:00
+MHDA- 2005/04/05 09:00
+PMCR- 2005/12/01
+CRDT- 2004/12/14 09:00
+PHST- 2004/12/14 09:00 [pubmed]
+PHST- 2005/04/05 09:00 [medline]
+PHST- 2004/12/14 09:00 [entrez]
+PHST- 2005/12/01 00:00 [pmc-release]
+PST - ppublish
+SO  - Br J Gen Pract. 2004 Dec;54(509):922-7.

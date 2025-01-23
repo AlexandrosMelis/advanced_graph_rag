@@ -1,0 +1,95 @@
+PMID- 17462393
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070516
+LR  - 20131121
+IS  - 1552-6259 (Electronic)
+IS  - 0003-4975 (Linking)
+VI  - 83
+IP  - 5
+DP  - 2007 May
+TI  - Does normothermic normokalemic simultaneous antegrade/retrograde perfusion 
+      improve myocardial oxygenation and energy metabolism for hypertrophied hearts?
+PG  - 1751-8
+AB  - BACKGROUND: Beating-heart valve surgery appears to be a promising technique for 
+      protection of hypertrophied hearts. Normothermic normokalemic simultaneous 
+      antegrade/retrograde perfusion (NNSP) may improve myocardial perfusion. However, 
+      its effects on myocardial oxygenation and energy metabolism remain unclear. The 
+      present study was to determine whether NNSP improved myocardial oxygenation and 
+      energy metabolism of hypertrophied hearts relative to normothermic normokalemic 
+      antegrade perfusion (NNAP). METHODS: Twelve hypertrophied pig hearts underwent a 
+      protocol consisting of three 20-minute perfusion episodes (10 minutes NNAP and 10 
+      minutes NNSP in a random order) with each conducted at a different blood flow in 
+      the left anterior descending coronary artery (LAD [100%, 50%, and 20% of its 
+      initial control]). Myocardial oxygenation was assessed using near-infrared 
+      spectroscopic imaging. Myocardial energy metabolism was monitored using localized 
+      phosphorus-31 magnetic resonance spectroscopy. RESULTS: With 100% LAD flow, both 
+      NNAP and NNSP maintained myocardial oxygenation, adenosine triphosphate, 
+      phosphocreatine, and inorganic phosphate at normal levels. When LAD flow was 
+      reduced to 50% of its control level, NNSP resulted in a small but significant 
+      decrease in myocardial oxygenation and phosphocreatine, whereas those 
+      measurements did not change significantly during NNAP. With LAD flow further 
+      reduced to 20% of its control level, both NNAP and NNSP caused a substantial 
+      decrease in myocardial oxygenation, adenosine triphosphate, and phosphocreatine 
+      with an increase in inorganic phosphate. However, the changes were significantly 
+      greater during NNSP than during NNAP. CONCLUSIONS: Normothermic normokalemic 
+      simultaneous antegrade/retrograde perfusion did not improve, but slightly 
+      impaired myocardial oxygenation and energy metabolism of beating hypertrophied 
+      hearts relative to NNAP. Therefore, NNSP for protection of beating hypertrophied 
+      hearts during valve surgery should be used with extra caution.
+FAU - Wang, Jian
+AU  - Wang J
+AD  - Institute for Biodiagnostics, National Research Council, Winnipeg, Manitoba, 
+      Canada.
+FAU - Liu, Hongyu
+AU  - Liu H
+FAU - Salerno, Tomas A
+AU  - Salerno TA
+FAU - Xiang, Bo
+AU  - Xiang B
+FAU - Li, Gang
+AU  - Li G
+FAU - Gruwel, Marco
+AU  - Gruwel M
+FAU - Jackson, Michael
+AU  - Jackson M
+FAU - Manley, Darren
+AU  - Manley D
+FAU - Tomanek, Boguslaw
+AU  - Tomanek B
+FAU - Deslauriers, Roxanne
+AU  - Deslauriers R
+FAU - Tian, Ganghong
+AU  - Tian G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+CIN - Ann Thorac Surg. 2007 May;83(5):1758-9. doi: 10.1016/j.athoracsur.2007.02.037. 
+      PMID: 17462394
+MH  - Animals
+MH  - Disease Models, Animal
+MH  - Energy Metabolism
+MH  - Hypertrophy, Left Ventricular/metabolism/*physiopathology
+MH  - Myocardium/*metabolism
+MH  - Oxygen/*metabolism
+MH  - Perfusion/*methods
+MH  - Swine
+EDAT- 2007/04/28 09:00
+MHDA- 2007/05/17 09:00
+CRDT- 2007/04/28 09:00
+PHST- 2006/09/04 00:00 [received]
+PHST- 2007/01/13 00:00 [revised]
+PHST- 2007/01/15 00:00 [accepted]
+PHST- 2007/04/28 09:00 [pubmed]
+PHST- 2007/05/17 09:00 [medline]
+PHST- 2007/04/28 09:00 [entrez]
+AID - S0003-4975(07)00188-9 [pii]
+AID - 10.1016/j.athoracsur.2007.01.026 [doi]
+PST - ppublish
+SO  - Ann Thorac Surg. 2007 May;83(5):1751-8. doi: 10.1016/j.athoracsur.2007.01.026.

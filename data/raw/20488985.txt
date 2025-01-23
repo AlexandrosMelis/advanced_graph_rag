@@ -1,0 +1,85 @@
+PMID- 20488985
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100916
+LR  - 20220408
+IS  - 1460-2091 (Electronic)
+IS  - 0305-7453 (Linking)
+VI  - 65
+IP  - 7
+DP  - 2010 Jul
+TI  - The English antibiotic awareness campaigns: did they change the public's 
+      knowledge of and attitudes to antibiotic use?
+PG  - 1526-33
+LID - 10.1093/jac/dkq126 [doi]
+AB  - OBJECTIVES: To determine the effect of the 2008 English public antibiotic 
+      campaigns. METHODS: English and Scottish (acting as controls) adults aged > or = 
+      15 years were questioned face to face about their attitudes to and use of 
+      antibiotics, in January 2008 (1888) before and in January 2009 (1830) after the 
+      antibiotic campaigns. RESULTS: Among English respondents, there was a small 
+      increase in recollection of campaign posters (2009 23.7% versus 2008 19.2%; P = 
+      0.03), but this increase was only 2.3% higher in England than in Scotland. We did 
+      not detect any improvement in either England or Scotland, or any differences 
+      between England and Scotland in the understanding of the lack of benefit of 
+      antibiotics for coughs and colds, and we found no improvement in antibiotic use. 
+      We detected a significant increase in respondents retaining leftover antibiotics. 
+      Over 20% reported discussing antibiotics with their general practitioner (GP) or 
+      nurse in the year to January 2009. The offer of a delayed antibiotic prescription 
+      was reported significantly more often by English respondents (19% versus 8% 
+      Scottish in 2009; P = 0.01), and English respondents were advised to use other 
+      remedies for coughs and colds significantly more often in the year to January 
+      2009 (12.7% in 2009 versus 7.4% in 2008; P < 0.001). CONCLUSIONS: There is little 
+      evidence that the 2008 public antibiotic campaigns were effective. The use and 
+      visibility of future campaign materials needs auditing. A carefully planned 
+      approach that targets the public in GP waiting rooms and through clinicians in 
+      consultations may be a more effective way of improving prudent antibiotic use.
+FAU - McNulty, Cliodna A M
+AU  - McNulty CA
+AD  - Health Protection Agency Primary Care Unit, Microbiology Department, 
+      Gloucestershire Royal Hospital, Great Western Road, Gloucester GL1 3NN, UK. 
+      cliodna.mcnulty@hpa.org.uk
+FAU - Nichols, Tom
+AU  - Nichols T
+FAU - Boyle, Paul J
+AU  - Boyle PJ
+FAU - Woodhead, Mark
+AU  - Woodhead M
+FAU - Davey, Peter
+AU  - Davey P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100520
+PL  - England
+TA  - J Antimicrob Chemother
+JT  - The Journal of antimicrobial chemotherapy
+JID - 7513617
+RN  - 0 (Anti-Bacterial Agents)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Bacterial Agents/*therapeutic use
+MH  - Bacterial Infections/*drug therapy
+MH  - Data Collection/methods
+MH  - England
+MH  - Female
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - *Health Services Research
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Scotland
+MH  - Young Adult
+EDAT- 2010/05/22 06:00
+MHDA- 2010/09/18 06:00
+CRDT- 2010/05/22 06:00
+PHST- 2010/05/22 06:00 [entrez]
+PHST- 2010/05/22 06:00 [pubmed]
+PHST- 2010/09/18 06:00 [medline]
+AID - dkq126 [pii]
+AID - 10.1093/jac/dkq126 [doi]
+PST - ppublish
+SO  - J Antimicrob Chemother. 2010 Jul;65(7):1526-33. doi: 10.1093/jac/dkq126. Epub 
+      2010 May 20.

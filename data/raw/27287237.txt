@@ -1,0 +1,96 @@
+PMID- 27287237
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170808
+LR  - 20171211
+IS  - 1460-2091 (Electronic)
+IS  - 0305-7453 (Linking)
+VI  - 71
+IP  - 10
+DP  - 2016 Oct
+TI  - Assessment of appropriate antimicrobial prescribing: do experts agree?
+PG  - 2980-7
+LID - 10.1093/jac/dkw207 [doi]
+AB  - OBJECTIVES: Little is known about the validity and reliability of expert 
+      assessments of the quality of antimicrobial prescribing, despite their importance 
+      in antimicrobial stewardship. We investigated how infectious disease doctors' 
+      assessments compared with a reference standard (modal expert opinion) and with 
+      the assessments of their colleagues. METHODS: Twenty-four doctors specialized in 
+      infectious diseases or clinical microbiology (16 specialists and 8 residents) 
+      from five hospitals were asked to assess the appropriateness of antimicrobial 
+      agents prescribed for a broad spectrum of indications in 56 paper cases. They 
+      were instructed how to handle guideline applicability and deviations. We created 
+      a reference standard of antimicrobial appropriateness using the modal assessment 
+      of 16 specialists. We calculated criterion validity and interrater and intrarater 
+      overall and specific agreement with an index expert (senior infectious disease 
+      physician) and analysed the influence of doctor characteristics on validity. 
+      RESULTS: Specialists agreed with the reference standard in 80% of cases (range 
+      75%-86%), with a sensitivity and specificity of 75% and 84%, respectively. This 
+      did not differ by clinical specialty, hospital or years of experience, and 
+      residents had similar results. Specialists agreed with the index expert in 76% of 
+      cases and the index expert agreed with his previous assessments in 71% of cases. 
+      CONCLUSIONS: Doctors specialized in infectious diseases and clinical microbiology 
+      assess the appropriateness of antimicrobials prescribed for a broad spectrum of 
+      indications with acceptable agreement and validity, regardless of their 
+      experience or hospital of employment. However, there is room for improvement, 
+      which merits attention in multidisciplinary discussions and education.
+CI  - (c) The Author 2016. Published by Oxford University Press on behalf of the British 
+      Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+      please e-mail: journals.permissions@oup.com.
+FAU - Sikkens, Jonne J
+AU  - Sikkens JJ
+AD  - Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+      Netherlands EMGO Institute for Health and Care Research, Amsterdam, The 
+      Netherlands Research and Expertise Centre in Pharmacotherapy Education (RECIPE), 
+      Amsterdam, The Netherlands j.sikkens@vumc.nl.
+FAU - van Agtmael, Michiel A
+AU  - van Agtmael MA
+AD  - Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+      Netherlands Research and Expertise Centre in Pharmacotherapy Education (RECIPE), 
+      Amsterdam, The Netherlands.
+FAU - Peters, Edgar J G
+AU  - Peters EJ
+AD  - Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+      Netherlands.
+FAU - Vandenbroucke-Grauls, Christina M J E
+AU  - Vandenbroucke-Grauls CM
+AD  - Department of Medical Microbiology and Infection Control, VU University Medical 
+      Centre, Amsterdam, The Netherlands.
+FAU - Kramer, Mark H H
+AU  - Kramer MH
+AD  - Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+      Netherlands.
+FAU - de Vet, Henrica C W
+AU  - de Vet HC
+AD  - EMGO Institute for Health and Care Research, Amsterdam, The Netherlands 
+      Department of Epidemiology and Biostatistics, VU University Medical Centre, 
+      Amsterdam, The Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20160610
+PL  - England
+TA  - J Antimicrob Chemother
+JT  - The Journal of antimicrobial chemotherapy
+JID - 7513617
+RN  - 0 (Anti-Bacterial Agents)
+SB  - IM
+MH  - Anti-Bacterial Agents/administration & dosage/*therapeutic use
+MH  - Communicable Diseases/*drug therapy
+MH  - *Drug Prescriptions/standards/statistics & numerical data
+MH  - Hospitals
+MH  - Humans
+MH  - Physicians
+MH  - Practice Patterns, Physicians'
+EDAT- 2016/06/12 06:00
+MHDA- 2017/08/09 06:00
+CRDT- 2016/06/12 06:00
+PHST- 2016/02/08 00:00 [received]
+PHST- 2016/05/03 00:00 [accepted]
+PHST- 2016/06/12 06:00 [entrez]
+PHST- 2016/06/12 06:00 [pubmed]
+PHST- 2017/08/09 06:00 [medline]
+AID - dkw207 [pii]
+AID - 10.1093/jac/dkw207 [doi]
+PST - ppublish
+SO  - J Antimicrob Chemother. 2016 Oct;71(10):2980-7. doi: 10.1093/jac/dkw207. Epub 
+      2016 Jun 10.

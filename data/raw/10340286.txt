@@ -1,0 +1,67 @@
+PMID- 10340286
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990708
+LR  - 20190915
+IS  - 0378-5122 (Print)
+IS  - 0378-5122 (Linking)
+VI  - 31
+IP  - 3
+DP  - 1999 Mar 15
+TI  - Is there a role for leukocyte and CRP measurements in the diagnosis of acute 
+      appendicitis in the elderly?
+PG  - 255-8
+AB  - OBJECTIVES: The diagnosis of acute appendicitis is still difficult and the 
+      results are unsatisfactory in three particular patient groups: in children, in 
+      fertile-age women and in elderly patients. As our population ages, the challenge 
+      for expedient diagnosis and intervention in older age groups will become more and 
+      more significant. The present study aimed at clarifying the role of leukocyte 
+      count and C-reactive protein (CRP) measurements in the diagnosis of acute 
+      appendicitis in the elderly. In particular, are there patients with acute 
+      appendicitis but unelevated leukocyte count and CRP? METHODS: Eighty-three 
+      consecutive elderly patients underwent appendectomy for suspected acute 
+      appendicitis. The mean leukocyte count and CRP value were calculated in patients 
+      with an uninflamed appendix (group A) and in those with acute appendicitis (group 
+      B). The percentages of patients with: (1) both values unelevated; (2) only 
+      leukocyte count elevated; (3) only CRP value elevated; (4) both values elevated 
+      were calculated within the groups A and B. RESULTS: There was no statistically 
+      significant difference in leukocyte counts or CRP values between patients with an 
+      uninflamed appendix (group A) and those with acute appendicitis (group B). When 
+      the patients were divided into the four subgroups, the most conspicuous finding 
+      was that group B (acute appendicitis, n = 73) contained no patients with both 
+      values unelevated. CONCLUSIONS: Although elevated leukocyte count and CRP value 
+      cannot effectively establish the diagnosis of acute appendicitis in the elderly, 
+      unelevated values exclude it. Accordingly, appendectomy is not recommended to be 
+      performed in an elderly patient with unelevated leukocyte count and CRP value, 
+      although clinical symptoms and signs indicate acute appendicitis.
+FAU - Gronroos, J M
+AU  - Gronroos JM
+AD  - Department of Surgery, University of Turku, Finland.
+LA  - eng
+PT  - Journal Article
+PL  - Ireland
+TA  - Maturitas
+JT  - Maturitas
+JID - 7807333
+RN  - 9007-41-4 (C-Reactive Protein)
+SB  - IM
+MH  - Acute Disease
+MH  - Aged
+MH  - Appendectomy
+MH  - Appendicitis/blood/*diagnosis/surgery
+MH  - C-Reactive Protein/*analysis
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Leukocyte Count
+MH  - Male
+EDAT- 1999/05/26 00:00
+MHDA- 1999/05/26 00:01
+CRDT- 1999/05/26 00:00
+PHST- 1999/05/26 00:00 [pubmed]
+PHST- 1999/05/26 00:01 [medline]
+PHST- 1999/05/26 00:00 [entrez]
+AID - S0378512299000110 [pii]
+AID - 10.1016/s0378-5122(99)00011-0 [doi]
+PST - ppublish
+SO  - Maturitas. 1999 Mar 15;31(3):255-8. doi: 10.1016/s0378-5122(99)00011-0.

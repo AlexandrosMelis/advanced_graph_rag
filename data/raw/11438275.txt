@@ -1,0 +1,72 @@
+PMID- 11438275
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010726
+LR  - 20190627
+IS  - 0002-9610 (Print)
+IS  - 0002-9610 (Linking)
+VI  - 181
+IP  - 4
+DP  - 2001 Apr
+TI  - Does patient position during liver surgery influence the risk of venous air 
+      embolism?
+PG  - 366-7
+AB  - BACKGROUND: It is generally believed that positioning of the patient in a 
+      head-down tilt (Trendelenberg position) decreases the likelihood of a venous air 
+      embolism during liver resection. METHODS: The physiological effect of variation 
+      in horizontal attitude on central and hepatic venous pressure was measured in 10 
+      patients during liver surgery. Hemodynamic indices were recorded with the 
+      operating table in the horizontal, 20 degrees head-up and 20 degrees head-down 
+      positions. RESULTS: There was no demonstrable pressure gradient between the 
+      hepatic and central venous levels in any of the positions. The absolute pressures 
+      did, however, vary in a predictable way, being highest in the head-down and 
+      lowest during head-up tilt. However, on no occasion was a negative intraluminal 
+      pressure recorded. CONCLUSION: The effect on venous pressures caused by the 
+      change in patient positioning alone during liver surgery does not affect the risk 
+      of venous air embolism.
+FAU - Moulton, C A
+AU  - Moulton CA
+AD  - Department of Surgery, Prince of Wales Hospital, Chinese University of Hong Kong, 
+      Sha Tin, New Territories, Hong Kong, China.
+FAU - Chui, A K
+AU  - Chui AK
+FAU - Mann, D
+AU  - Mann D
+FAU - Lai, P B
+AU  - Lai PB
+FAU - Chui, P T
+AU  - Chui PT
+FAU - Lau, W Y
+AU  - Lau WY
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Surg
+JT  - American journal of surgery
+JID - 0370473
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Central Venous Pressure
+MH  - Embolism, Air/etiology/physiopathology/*prevention & control
+MH  - Female
+MH  - Head-Down Tilt/physiology
+MH  - Hepatectomy/adverse effects/*methods
+MH  - Hepatic Veins/physiopathology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Posture/*physiology
+MH  - Risk Factors
+MH  - Vena Cava, Inferior/physiopathology
+MH  - Venous Pressure
+EDAT- 2001/07/05 10:00
+MHDA- 2001/07/28 10:01
+CRDT- 2001/07/05 10:00
+PHST- 2001/07/05 10:00 [pubmed]
+PHST- 2001/07/28 10:01 [medline]
+PHST- 2001/07/05 10:00 [entrez]
+AID - S0002-9610(01)00570-0 [pii]
+AID - 10.1016/s0002-9610(01)00570-0 [doi]
+PST - ppublish
+SO  - Am J Surg. 2001 Apr;181(4):366-7. doi: 10.1016/s0002-9610(01)00570-0.

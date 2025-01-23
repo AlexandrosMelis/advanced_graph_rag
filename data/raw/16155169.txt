@@ -1,0 +1,89 @@
+PMID- 16155169
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051202
+LR  - 20210527
+IS  - 0195-6108 (Print)
+IS  - 1936-959X (Electronic)
+IS  - 0195-6108 (Linking)
+VI  - 26
+IP  - 8
+DP  - 2005 Sep
+TI  - Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration 
+      of ethanol-mixed fluid advantageous?
+PG  - 2122-7
+AB  - BACKGROUND AND PURPOSE: We evaluated the differences between percutaneous ethanol 
+      injection with and without aspiration of ethanol-mixed fluid for treatment of 
+      benign cystic thyroid nodules. METHODS: We examined 60 patients with benign 
+      cystic thyroid nodules confirmed by fine-needle aspiration biopsy and divided 
+      them into 2 groups according to nonaspiration (group A, n = 30) or aspiration 
+      (group B, n = 30) of ethanol-mixed fluid after intracystic ethanol injection. We 
+      evaluated in both groups the complete disappearance of the cystic portion of the 
+      thyroid nodule on follow-up ultrasonography (first follow-up ultrasonography; 
+      mean, 4.6 months in group A; mean, 4.4 months in group B) (chi-square test), side 
+      effects or complications during and after the procedure (chi-square test), and 
+      the total procedure time (Student t test). RESULTS: Most patients showed complete 
+      disappearance of the cystic portion of the thyroid nodule (group A, n = 29; group 
+      B, n = 28), and they revealed no recurrence on follow-up ultrasonography. There 
+      was no statistical difference in the success rates between group A and group B (P 
+      > .05). Pain, the most common side effect, and other mild side effects or 
+      complications occurred in small numbers of patients in each group, but there was 
+      no significant difference in side effects or complications between the 2 groups 
+      (P > .05), except for intracystic hemorrhage (P < .05) and the complaint of all 
+      group B patients due to a double puncture (P < .001). The total procedure time 
+      was nearly double in group B than in group A because of the additional 
+      procedures, such as complete evacuation of the ethanol-mixed fluid and the 
+      10-minute compression. CONCLUSION: Percutaneous ethanol injection without 
+      aspiration of ethanol-mixed fluid seems to be the preferable method of treatment 
+      of benign cystic thyroid nodules from the perspective of both the physician and 
+      the patient.
+FAU - Kim, Dong Wook
+AU  - Kim DW
+AD  - Department of Radiology, Masan Samsung Hospital, Sungkyunkwan University School 
+      of Medicine, Masan, South Korea.
+FAU - Rho, Myung Ho
+AU  - Rho MH
+FAU - Kim, Hak Jin
+AU  - Kim HJ
+FAU - Kwon, Jae Su
+AU  - Kwon JS
+FAU - Sung, Young Sun
+AU  - Sung YS
+FAU - Lee, Sang Wook
+AU  - Lee SW
+LA  - eng
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PL  - United States
+TA  - AJNR Am J Neuroradiol
+JT  - AJNR. American journal of neuroradiology
+JID - 8003708
+RN  - 3K9958V90M (Ethanol)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Cysts/diagnostic imaging/*therapy
+MH  - Ethanol/*administration & dosage/therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Injections, Intralesional
+MH  - Male
+MH  - Middle Aged
+MH  - Sclerotherapy/adverse effects/*methods
+MH  - *Suction/adverse effects/standards
+MH  - Thyroid Nodule/diagnostic imaging/*therapy
+MH  - Treatment Outcome
+MH  - Ultrasonography
+PMC - PMC8148835
+EDAT- 2005/09/13 09:00
+MHDA- 2005/12/13 09:00
+PMCR- 2006/09/01
+CRDT- 2005/09/13 09:00
+PHST- 2005/09/13 09:00 [pubmed]
+PHST- 2005/12/13 09:00 [medline]
+PHST- 2005/09/13 09:00 [entrez]
+PHST- 2006/09/01 00:00 [pmc-release]
+AID - 26/8/2122 [pii]
+PST - ppublish
+SO  - AJNR Am J Neuroradiol. 2005 Sep;26(8):2122-7.

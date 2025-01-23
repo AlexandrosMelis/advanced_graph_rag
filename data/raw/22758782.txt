@@ -1,0 +1,99 @@
+PMID- 22758782
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121212
+LR  - 20211021
+IS  - 1526-4637 (Electronic)
+IS  - 1526-2375 (Print)
+IS  - 1526-2375 (Linking)
+VI  - 13
+IP  - 7
+DP  - 2012 Jul
+TI  - Regional anesthesia as compared with general anesthesia for surgery in geriatric 
+      patients with hip fracture: does it decrease morbidity, mortality, and health 
+      care costs? Results of a single-centered study.
+PG  - 948-56
+LID - 10.1111/j.1526-4637.2012.01402.x [doi]
+AB  - INTRODUCTION: Hip fracture in geriatric patients has a substantial economic 
+      impact and represents a major cause of morbidity and mortality in this 
+      population. At our institution, a regional anesthesia program was instituted for 
+      patients undergoing surgery for hip fracture. This retrospective cohort review 
+      examines the effects of regional anesthesia (from mainly after July 2007) vs 
+      general anesthesia (mainly prior to July 2007) on morbidity, mortality and 
+      hospitalization costs. METHODS: This retrospective cohort study involved data 
+      collection from electronic and paper charts of 308 patients who underwent surgery 
+      for hip fracture from September 2006 to December 2008. Data on postoperative 
+      morbidity, in-patient mortality, and cost of hospitalization (as estimated from 
+      data on hospital charges) were collected and analyzed. Seventy-three patients 
+      received regional anesthesia and 235 patients received general anesthesia. During 
+      July 2007, approximately halfway through the study period, a regional anesthesia 
+      and analgesia program was introduced. RESULTS: The average cost of 
+      hospitalization in patients who received surgery for hip fracture was no 
+      different between patients who receive regional or general anesthesia ($16,789 + 
+      631 vs $16,815 + 643, respectively, P = 0.9557). Delay in surgery and intensive 
+      care unit (ICU) admission resulted in significantly higher hospitalization costs. 
+      Age, male gender, African American race and ICU admission were associated with 
+      increased in-hospital mortality. In-hospital mortality and rates of readmission 
+      are not statistically different between the two anesthesia groups. CONCLUSIONS: 
+      There is no difference in postoperative morbidity, rates of rehospitalization, 
+      in-patient mortality or hospitalization costs in geriatric patients undergoing 
+      regional or general anesthesia for repair of hip fracture. Delay in surgery 
+      beyond 3 days and ICU admission both increase cost of hospitalization.
+CI  - Wiley Periodicals, Inc.
+FAU - Le-Wendling, Linda
+AU  - Le-Wendling L
+AD  - Department of Anesthesiology Anesthesiology, University of Florida College of 
+      Medicine, Gainesville, FL, USA.
+FAU - Bihorac, Azra
+AU  - Bihorac A
+FAU - Baslanti, Tezcan Ozrazgat
+AU  - Baslanti TO
+FAU - Lucas, Stephen
+AU  - Lucas S
+FAU - Sadasivan, Kalia
+AU  - Sadasivan K
+FAU - Wendling, Adam
+AU  - Wendling A
+FAU - Heyman, H James
+AU  - Heyman HJ
+FAU - Boezaart, Andre
+AU  - Boezaart A
+LA  - eng
+GR  - K23 GM087709/GM/NIGMS NIH HHS/United States
+GR  - K23GM087709/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20120703
+PL  - England
+TA  - Pain Med
+JT  - Pain medicine (Malden, Mass.)
+JID - 100894201
+SB  - IM
+MH  - Aged
+MH  - Anesthesia, Conduction/*economics/statistics & numerical data
+MH  - Anesthesia, General/*economics
+MH  - Arthroplasty, Replacement, Hip/*economics/*mortality
+MH  - Female
+MH  - Florida/epidemiology
+MH  - Health Care Costs/*statistics & numerical data
+MH  - *Hip Fractures/economics/mortality/surgery
+MH  - Humans
+MH  - Male
+MH  - Prevalence
+MH  - Survival Analysis
+MH  - Survival Rate
+MH  - Treatment Outcome
+PMC - PMC3730262
+MID - NIHMS474053
+EDAT- 2012/07/05 06:00
+MHDA- 2012/12/13 06:00
+PMCR- 2013/08/01
+CRDT- 2012/07/05 06:00
+PHST- 2012/07/05 06:00 [entrez]
+PHST- 2012/07/05 06:00 [pubmed]
+PHST- 2012/12/13 06:00 [medline]
+PHST- 2013/08/01 00:00 [pmc-release]
+AID - 10.1111/j.1526-4637.2012.01402.x [doi]
+PST - ppublish
+SO  - Pain Med. 2012 Jul;13(7):948-56. doi: 10.1111/j.1526-4637.2012.01402.x. Epub 2012 
+      Jul 3.

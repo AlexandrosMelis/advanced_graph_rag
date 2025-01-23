@@ -1,0 +1,78 @@
+PMID- 11570976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021220
+LR  - 20191105
+IS  - 1471-230X (Electronic)
+IS  - 1471-230X (Linking)
+VI  - 1
+DP  - 2001
+TI  - Is it Crohn's disease? A severe systemic granulomatous reaction to sulfasalazine 
+      in patient with rheumatoid arthritis.
+PG  - 8
+AB  - BACKGROUND: Sulfasalazine is a widely used anti-inflammatory agent in the 
+      treatment of inflammatory bowel disease and several rheumatological disorders. 
+      Although as many as 20% of treated patients may experience reversible, 
+      dose-dependent side effects, less frequent but potentially severe, systemic 
+      reactions have also been reported. CASE PRESENTATION: A severe systemic reaction 
+      to sulfasalazine developed in a 21-year old female with rheumatoid arthritis 
+      characterized by eosinophilia, granulomatous enteritis and myelotoxicity, 
+      cholestatic hepatitis, and seizures. The clinical course and management of this 
+      patient are presented as well as a review of the incidence and outcome of severe 
+      systemic reactions to sulfasalazine. CONCLUSIONS: Granulomatous myelotoxicity and 
+      enteritis developed in a 21 year old female within 3 weeks of initiating 
+      sulfasalazine for rheumatoid arthritis. Following a short course of 
+      corticosteroids, the patient had resolution of her cholestatic hepatitis, rash, 
+      eosinophilia, and gastrointestinal symptoms with no residual manifestations at 7 
+      months follow-up. Although severe reactions to sulfasalazine are rare and 
+      unpredictable, practicing physicians should be aware of unusual clinical 
+      presentations of toxicity when prescribing sulfasalazine.
+FAU - Quallich, L G
+AU  - Quallich LG
+AD  - Department of Internal Medicine, University of Michigan Medical School, Ann 
+      Arbor, Michigan 48109, USA. lquall@umich.edu
+FAU - Greenson, J
+AU  - Greenson J
+FAU - Haftel, H M
+AU  - Haftel HM
+FAU - Fontana, R J
+AU  - Fontana RJ
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20010829
+PL  - England
+TA  - BMC Gastroenterol
+JT  - BMC gastroenterology
+JID - 100968547
+RN  - 0 (Antirheumatic Agents)
+RN  - 3XC8GUZ6CB (Sulfasalazine)
+SB  - IM
+MH  - Adult
+MH  - Antirheumatic Agents/*adverse effects
+MH  - Arthritis, Rheumatoid/drug therapy
+MH  - Chemical and Drug Induced Liver Injury/diagnosis
+MH  - Crohn Disease/chemically induced/diagnosis
+MH  - Diagnosis, Differential
+MH  - Enteritis/chemically induced/diagnosis
+MH  - Eosinophilia/*chemically induced/diagnosis
+MH  - Female
+MH  - Granuloma/*chemically induced/diagnosis
+MH  - Humans
+MH  - Seizures/chemically induced
+MH  - Sulfasalazine/*adverse effects
+PMC - PMC56591
+EDAT- 2001/09/26 10:00
+MHDA- 2002/12/21 04:00
+PMCR- 2001/08/29
+CRDT- 2001/09/26 10:00
+PHST- 2001/07/30 00:00 [received]
+PHST- 2001/08/29 00:00 [accepted]
+PHST- 2001/09/26 10:00 [pubmed]
+PHST- 2002/12/21 04:00 [medline]
+PHST- 2001/09/26 10:00 [entrez]
+PHST- 2001/08/29 00:00 [pmc-release]
+AID - 1471-230X-1-8 [pii]
+AID - 10.1186/1471-230x-1-8 [doi]
+PST - ppublish
+SO  - BMC Gastroenterol. 2001;1:8. doi: 10.1186/1471-230x-1-8. Epub 2001 Aug 29.

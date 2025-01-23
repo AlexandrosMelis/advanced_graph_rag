@@ -1,0 +1,72 @@
+PMID- 19664156
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100420
+LR  - 20090811
+IS  - 1445-5994 (Electronic)
+IS  - 1444-0903 (Linking)
+VI  - 39
+IP  - 7
+DP  - 2009 Jul
+TI  - Search engine as a diagnostic tool in difficult immunological and allergologic 
+      cases: is Google useful?
+PG  - 459-64
+LID - 10.1111/j.1445-5994.2008.01875.x [doi]
+AB  - BACKGROUND: Web search engines are an important tool in communication and 
+      diffusion of knowledge. Among these, Google appears to be the most popular one: 
+      in August 2008, it accounted for 87% of all web searches in the UK, compared with 
+      Yahoo's 3.3%. Google's value as a diagnostic guide in general medicine was 
+      recently reported. The aim of this comparative cross-sectional study was to 
+      evaluate whether searching Google with disease-related terms was effective in the 
+      identification and diagnosis of complex immunological and allergic cases. 
+      METHODS: Forty-five case reports were randomly selected by an independent 
+      observer from peer-reviewed medical journals. Clinical data were presented 
+      separately to three investigators, blinded to the final diagnoses. Investigator A 
+      was a Consultant with an expert knowledge in Internal Medicine and Allergy (IM&A) 
+      and basic computing skills. Investigator B was a Registrar in IM&A. Investigator 
+      C was a Research Nurse. Both Investigators B and C were familiar with computers 
+      and search engines. For every clinical case presented, each investigator 
+      independently carried out an Internet search using Google to provide a final 
+      diagnosis. Their results were then compared with the published diagnoses. 
+      RESULTS: Correct diagnoses were provided in 30/45 (66%) cases, 39/45 (86%) cases, 
+      and in 29/45 (64%) cases by investigator A, B, and C, respectively. All of the 
+      three investigators achieved the correct diagnosis in 19 cases (42%), and all of 
+      them failed in two cases. CONCLUSION: This Google-based search was useful to 
+      identify an appropriate diagnosis in complex immunological and allergic cases. 
+      Computing skills may help to get better results.
+FAU - Lombardi, C
+AU  - Lombardi C
+AD  - Allergologic Unit, Department of Internal Medicine, Sant'Orsola Hospital, 
+      Brescia, Italy. hso.allergologia@fatebenefratelli.it
+FAU - Griffiths, E
+AU  - Griffiths E
+FAU - McLeod, B
+AU  - McLeod B
+FAU - Caviglia, A
+AU  - Caviglia A
+FAU - Penagos, M
+AU  - Penagos M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Australia
+TA  - Intern Med J
+JT  - Internal medicine journal
+JID - 101092952
+SB  - IM
+MH  - Humans
+MH  - Hypersensitivity/*diagnosis/therapy
+MH  - Immune System Diseases/*diagnosis/therapy
+MH  - Information Storage and Retrieval/methods/*standards
+MH  - Internet/*standards
+EDAT- 2009/08/12 09:00
+MHDA- 2010/04/21 06:00
+CRDT- 2009/08/12 09:00
+PHST- 2009/08/12 09:00 [entrez]
+PHST- 2009/08/12 09:00 [pubmed]
+PHST- 2010/04/21 06:00 [medline]
+AID - IMJ1875 [pii]
+AID - 10.1111/j.1445-5994.2008.01875.x [doi]
+PST - ppublish
+SO  - Intern Med J. 2009 Jul;39(7):459-64. doi: 10.1111/j.1445-5994.2008.01875.x.

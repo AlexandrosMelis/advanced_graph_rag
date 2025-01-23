@@ -1,0 +1,79 @@
+PMID- 19643525
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091020
+LR  - 20151119
+IS  - 1872-7654 (Electronic)
+IS  - 0301-2115 (Linking)
+VI  - 146
+IP  - 1
+DP  - 2009 Sep
+TI  - Can vaginal pH be measured from the wet mount slide?
+PG  - 100-3
+LID - 10.1016/j.ejogrb.2009.06.002 [doi]
+AB  - OBJECTIVES: To assess the accuracy of vaginal pH measurement on wet mount 
+      microscopy slides compared with direct measurements on fresh vaginal fluid. We 
+      also tested whether differences in accuracy were dependent on the sampling 
+      devices used or on the diagnosis of the vaginal infections. STUDY DESIGN: Using a 
+      cotton swab, cytobrush or wooden spatula a vaginal fluid specimen was collected 
+      from 84 consecutive women attending a vulvo-vaginitis clinic. A pH strip (pH 
+      range 4-7, Merck) was brought in contact with the vaginal fluid on the sampling 
+      device and on the glass slide after adding one droplet of saline and performing 
+      microscopy by two different people unaware of the microscopy results of the 
+      clinical exam. Values were compared by Fisher exact and Student's t-tests. 
+      RESULTS: pH measurement from microscopy slides after the addition of saline 
+      causes systematic increases of pH leading to false positive readings. This is 
+      true for all types of disturbance of the flora and infections studied, and was 
+      seen in the abnormal as well as in the normal or intermediate pH range. 
+      CONCLUSION: Vaginal pH should be measured by bringing the pH strip in direct 
+      contact with fresh vaginal fluid without first adding saline.
+FAU - Donders, G
+AU  - Donders G
+AD  - Department of Obstetrics and Gynaecology, General Hospital H Hart Tienen, 
+      Belgium. gilbert.donders@femicare.net
+FAU - Slabbaert, K
+AU  - Slabbaert K
+FAU - Vancalsteren, K
+AU  - Vancalsteren K
+FAU - Pelckmans, S
+AU  - Pelckmans S
+FAU - Bellen, G
+AU  - Bellen G
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20090729
+PL  - Ireland
+TA  - Eur J Obstet Gynecol Reprod Biol
+JT  - European journal of obstetrics, gynecology, and reproductive biology
+JID - 0375672
+RN  - 451W47IQ8X (Sodium Chloride)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Body Fluids/*chemistry
+MH  - False Positive Reactions
+MH  - Female
+MH  - Humans
+MH  - *Hydrogen-Ion Concentration
+MH  - Microscopy/methods
+MH  - Middle Aged
+MH  - Sodium Chloride
+MH  - *Vagina
+MH  - *Vaginal Smears
+MH  - Vaginitis/*diagnosis
+EDAT- 2009/08/01 09:00
+MHDA- 2009/10/21 06:00
+CRDT- 2009/08/01 09:00
+PHST- 2008/05/28 00:00 [received]
+PHST- 2009/05/17 00:00 [revised]
+PHST- 2009/06/03 00:00 [accepted]
+PHST- 2009/08/01 09:00 [entrez]
+PHST- 2009/08/01 09:00 [pubmed]
+PHST- 2009/10/21 06:00 [medline]
+AID - S0301-2115(09)00374-1 [pii]
+AID - 10.1016/j.ejogrb.2009.06.002 [doi]
+PST - ppublish
+SO  - Eur J Obstet Gynecol Reprod Biol. 2009 Sep;146(1):100-3. doi: 
+      10.1016/j.ejogrb.2009.06.002. Epub 2009 Jul 29.

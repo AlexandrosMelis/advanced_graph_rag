@@ -1,0 +1,76 @@
+PMID- 12963175
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031117
+LR  - 20190628
+IS  - 0003-4975 (Print)
+IS  - 0003-4975 (Linking)
+VI  - 76
+IP  - 3
+DP  - 2003 Sep
+TI  - Can progression of valvar aortic stenosis be predicted accurately?
+PG  - 676-80; discussion 680
+AB  - BACKGROUND: It was the aim of the present study to elaborate criteria for the 
+      assessment of rapid hemodynamic progression of valvar aortic stenosis. These 
+      criteria are of special importance when cardiac surgery is indicated for other 
+      reasons but the established criteria for aortic valve replacement are not yet 
+      fulfilled. Such aspects of therapeutic planing were mostly disregarded in the 
+      past so that patients had to undergo cardiac reoperation within a few years. 
+      METHODS: Hemodynamic, echocardiographic, and clinical data of 169 men and 88 
+      women with aortic stenosis, aged 55.2 +/- 15.7 years at their first and 63.4 +/- 
+      15.6 years at their second cardiac catheterization, were analyzed. RESULTS: The 
+      progression rate of aortic valve obstruction was found to be dependent on the 
+      degree of valvar calcification ([VC] scoring 0 to III) and to be exponentially 
+      correlated with the aortic valve opening area (AVA) at initial catheterization. 
+      Neither age nor sex of the patient nor etiology of the valvar obstruction 
+      significantly influence the progression of aortic stenosis. If AVA decreases 
+      below 0.75 cm(2) with a present degree of VC = 0, or AVA of 0.8 with VC of I, AVA 
+      of 0.9 with VC of II, or AVA of 1.0 with VC of III, it is probable that aortic 
+      stenosis will have to be operated upon in the following years. CONCLUSIONS: The 
+      present data indicate that for clinical purposes and planning of valvar surgery 
+      the progression of asymptomatic aortic stenosis can be sufficiently predicted by 
+      the present aortic valve opening area and the degree of valvar calcification.
+FAU - Piper, Cornelia
+AU  - Piper C
+AD  - Department of Cardiology, Heart Center North Rhine-Westphalia, Ruhr University of 
+      Bochum, Bad Oeynhausen, Germany. cpiper@hdz-nrw.de
+FAU - Bergemann, Rito
+AU  - Bergemann R
+FAU - Schulte, Hagen D
+AU  - Schulte HD
+FAU - Koerfer, Reiner
+AU  - Koerfer R
+FAU - Horstkotte, Dieter
+AU  - Horstkotte D
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aortic Valve Stenosis/*diagnosis
+MH  - Child
+MH  - Disease Progression
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Reproducibility of Results
+EDAT- 2003/09/10 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/09/10 05:00
+PHST- 2003/09/10 05:00 [pubmed]
+PHST- 2003/12/03 05:00 [medline]
+PHST- 2003/09/10 05:00 [entrez]
+AID - S0003497503005666 [pii]
+AID - 10.1016/s0003-4975(03)00566-6 [doi]
+PST - ppublish
+SO  - Ann Thorac Surg. 2003 Sep;76(3):676-80; discussion 680. doi: 
+      10.1016/s0003-4975(03)00566-6.

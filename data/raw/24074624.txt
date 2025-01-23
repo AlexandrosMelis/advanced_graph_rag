@@ -1,0 +1,84 @@
+PMID- 24074624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150129
+LR  - 20171116
+IS  - 1607-8454 (Electronic)
+IS  - 1024-5332 (Linking)
+VI  - 19
+IP  - 5
+DP  - 2014 Jul
+TI  - Is intensive monitoring during the first transfusion in pediatric patients 
+      necessary?
+PG  - 304-8
+LID - 10.1179/1607845413Y.0000000122 [doi]
+AB  - BACKGROUND: Some pediatric patients, typically those that are very young or felt 
+      to be especially sick are temporarily admitted to the intensive care unit (ICU) 
+      for observation during their first transfusion. If a significant reaction that 
+      requires ICU management does not occur, these patients are then transferred to a 
+      regular ward where future blood products are administered. The aim of this 
+      project was to determine if heightened observation such as temporary ICU 
+      admissions for the first transfusion are warranted. METHODS: From the blood bank 
+      records of a tertiary care pediatric hospital, a list of patients on whom a 
+      transfusion reaction was reported between 2007 and 2012, the type of reaction and 
+      the patient's transfusion history, were extracted. The hospital location where 
+      the transfusion occurred, and whether the patient was evaluated by the ICU team 
+      or transferred to the ICU for management of the reaction was determined from the 
+      patient's electronic medical record. RESULTS: There were 174 acute reactions in 
+      150 patients. Of these 150 patients, 13 (8.7%) different patients experienced a 
+      reaction during their first transfusion; all 13 patients experienced clinically 
+      mild reactions (8 febrile non-hemolytic, 4 mild allergic, and 1 patient who 
+      simultaneously had a mild allergic and a febrile non-hemolytic), and none 
+      required ICU management. Six severe reactions (6 of 174, 3.4%) involving 
+      significant hypotension and/or hypoxia that required acute and intensive 
+      management occurred during subsequent (i.e. not the first) transfusion in six 
+      patients. CONCLUSIONS: The practice of intensive observation for the first 
+      transfusion in pediatric patients is probably unnecessary.
+FAU - Berg, Aaron
+AU  - Berg A
+FAU - Courtney, Rachael
+AU  - Courtney R
+FAU - Krishnamurti, Lakshmanan
+AU  - Krishnamurti L
+FAU - Triulzi, Darrell J
+AU  - Triulzi DJ
+FAU - Yazer, Mark H
+AU  - Yazer MH
+LA  - eng
+PT  - Journal Article
+DEP - 20131125
+PL  - England
+TA  - Hematology
+JT  - Hematology (Amsterdam, Netherlands)
+JID - 9708388
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Blood Component Transfusion/adverse effects
+MH  - *Blood Transfusion
+MH  - Child
+MH  - Child, Preschool
+MH  - *Critical Care/statistics & numerical data
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - *Intensive Care Units
+MH  - Population Surveillance
+MH  - Transfusion Reaction/epidemiology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Monitoring
+OT  - Pediatrics
+OT  - Reaction
+OT  - Transfusion
+EDAT- 2013/10/01 06:00
+MHDA- 2015/01/30 06:00
+CRDT- 2013/10/01 06:00
+PHST- 2013/10/01 06:00 [entrez]
+PHST- 2013/10/01 06:00 [pubmed]
+PHST- 2015/01/30 06:00 [medline]
+AID - hem299_1379675641854 [pii]
+AID - 10.1179/1607845413Y.0000000122 [doi]
+PST - ppublish
+SO  - Hematology. 2014 Jul;19(5):304-8. doi: 10.1179/1607845413Y.0000000122. Epub 2013 
+      Nov 25.

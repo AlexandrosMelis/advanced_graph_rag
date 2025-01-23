@@ -1,0 +1,140 @@
+PMID- 24939676
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150106
+LR  - 20161125
+IS  - 1462-0332 (Electronic)
+IS  - 1462-0324 (Linking)
+VI  - 53
+IP  - 11
+DP  - 2014 Nov
+TI  - Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous 
+      anti-TNF agents in patients with rheumatoid arthritis?
+PG  - 2088-94
+LID - 10.1093/rheumatology/keu248 [doi]
+AB  - OBJECTIVE: The aim of this study was to investigate the influence of the 
+      pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis in 
+      RA patients. METHODS: Fifty RA patients were prospectively recruited from the 
+      Biologic Therapy Unit of our hospital. Inclusion criteria were being in treatment 
+      with s.c. anti-TNF agents and having had neither changes in therapy nor local 
+      corticosteroid injections in the previous 3 months. Patients underwent clinical, 
+      laboratory [28-joint DAS (DAS28) and Simplified Disease Activity Index (SDAI)] 
+      and US assessment at two time points, i.e. at peak plasma drug concentration and 
+      at trough plasma drug concentration. US assessments were performed blindly to the 
+      anti-TNF agent, the administration time and the clinical and laboratory data. 
+      Twenty-eight joints were investigated for the presence and grade (0-3) of B-mode 
+      synovitis and synovial power Doppler signal. Global indices for B-mode synovitis 
+      (BSI) and Doppler synovitis (DSI) were calculated for 12 joints and for 
+      wrist-hand-ankle-foot joints. B-mode US remission was defined as a BSI <1 and 
+      Doppler US remission as a DSI <1. RESULTS: There were no significant differences 
+      between the clinical, laboratory and B-mode and Doppler US parameters at peak 
+      time and trough time (P = 0.132-0.986). There were no significant differences 
+      between the proportion of patients with active disease and those in remission 
+      according to DAS28, SDAI, B-mode US and Doppler US at peak time and trough time 
+      assessments (P = 0.070-1). CONCLUSION: Our results suggested that s.c. anti-TNF 
+      pharmacokinetics do not significantly influence US-scored synovitis in RA 
+      patients.
+CI  - (c) The Author 2014. Published by Oxford University Press on behalf of the British 
+      Society for Rheumatology. All rights reserved. For Permissions, please email: 
+      journals.permissions@oup.com.
+FAU - Naredo, Esperanza
+AU  - Naredo E
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain. enaredo@ser.es.
+FAU - Hinojosa, Michelle
+AU  - Hinojosa M
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Valor, Lara
+AU  - Valor L
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Hernandez-Florez, Diana
+AU  - Hernandez-Florez D
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Mata-Martinez, Carmen
+AU  - Mata-Martinez C
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Serrano-Benavente, Belen
+AU  - Serrano-Benavente B
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Del Rio, Tamara
+AU  - Del Rio T
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Bello, Natalia
+AU  - Bello N
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Montoro, Maria
+AU  - Montoro M
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Nieto-Gonzalez, Juan Carlos
+AU  - Nieto-Gonzalez JC
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Gonzalez, Carlos M
+AU  - Gonzalez CM
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Lopez-Longo, Francisco Javier
+AU  - Lopez-Longo FJ
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Monteagudo, Indalecio
+AU  - Monteagudo I
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+FAU - Carreno, Luis
+AU  - Carreno L
+AD  - Department of Rheumatology, Hospital General Universitario Gregorio Maranon, 
+      Faculty of Medicine, Complutense University, Madrid, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20140617
+PL  - England
+TA  - Rheumatology (Oxford)
+JT  - Rheumatology (Oxford, England)
+JID - 100883501
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antirheumatic Agents/*pharmacokinetics
+MH  - Arthritis, Rheumatoid/complications/*drug therapy/metabolism
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Severity of Illness Index
+MH  - Synovitis/*diagnostic imaging/drug therapy/etiology
+MH  - Tumor Necrosis Factor-alpha/*antagonists & inhibitors
+MH  - Ultrasonography, Doppler
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Doppler
+OT  - pharmacokinetics
+OT  - rheumatoid arthritis
+OT  - synovitis
+OT  - ultrasound
+EDAT- 2014/06/19 06:00
+MHDA- 2015/01/07 06:00
+CRDT- 2014/06/19 06:00
+PHST- 2014/06/19 06:00 [entrez]
+PHST- 2014/06/19 06:00 [pubmed]
+PHST- 2015/01/07 06:00 [medline]
+AID - keu248 [pii]
+AID - 10.1093/rheumatology/keu248 [doi]
+PST - ppublish
+SO  - Rheumatology (Oxford). 2014 Nov;53(11):2088-94. doi: 10.1093/rheumatology/keu248. 
+      Epub 2014 Jun 17.

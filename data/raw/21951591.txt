@@ -1,0 +1,83 @@
+PMID- 21951591
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120112
+LR  - 20211020
+IS  - 1471-2474 (Electronic)
+IS  - 1471-2474 (Linking)
+VI  - 12
+DP  - 2011 Sep 27
+TI  - Motor performance in chronic low back pain: is there an influence of pain-related 
+      cognitions? A pilot study.
+PG  - 211
+LID - 10.1186/1471-2474-12-211 [doi]
+AB  - BACKGROUND: Chronic low back pain (CLBP) is often accompanied by an abnormal 
+      motor performance. However, it has not been clarified yet whether these 
+      deviations also occur during motor tasks not involving the back and whether the 
+      performance is influenced by pain and pain-related cognitions. Therefore, the aim 
+      of the present study is to get insight in the contribution of both pain 
+      experience and pain-related cognitions to general motor task performance in CLBP. 
+      METHODS: 13 CLBP patients and 15 healthy subjects performed a hand-function task 
+      in three conditions: sitting, lying prone (lying) and lying prone without trunk 
+      support (provoking). The last condition was assumed to provoke pain-related 
+      cognitions, which was considered successful when a patients' pain expectancy on a 
+      numeric rating scale was at least 1 point higher than actual pain experienced. 
+      Subjects' performance was expressed in reaction time and movement time. Repeated 
+      measures analysis of variance was performed to detect main effect for group and 
+      condition. Special interest was given to group*condition interaction, since 
+      significant interaction would indicate that patients and healthy subjects 
+      performed differently throughout the three conditions. RESULTS: Patients were 
+      slower throughout all conditions compared to healthy subjects. With respect to 
+      the provoking condition, patients showed deteriorated performance compared to 
+      lying while healthy subjects' performance remained equal between these two 
+      conditions. Further analysis of patients' data showed that provocation was 
+      successful in 54% of the patients. Especially this group showed deteriorated 
+      performance in the provoking condition. CONCLUSION: It can be concluded that CLBP 
+      patients in general have worse motor task performance compared to healthy 
+      subjects and that provoking pain-related cognitions further worsened performance.
+FAU - Kusters, Dymphy
+AU  - Kusters D
+AD  - Roessingh Research and Development, Enschede, The Netherlands. d.kusters@rrd.nl
+FAU - Vollenbroek-Hutten, Miriam M
+AU  - Vollenbroek-Hutten MM
+FAU - Hermens, Hermie J
+AU  - Hermens HJ
+LA  - eng
+PT  - Journal Article
+DEP - 20110927
+PL  - England
+TA  - BMC Musculoskelet Disord
+JT  - BMC musculoskeletal disorders
+JID - 100968565
+SB  - IM
+MH  - *Adaptation, Psychological
+MH  - Chronic Disease
+MH  - Cognition/*physiology
+MH  - Female
+MH  - Hand/physiopathology
+MH  - Humans
+MH  - Low Back Pain/*physiopathology/*psychology
+MH  - Male
+MH  - Middle Aged
+MH  - Motor Skills/*physiology
+MH  - Movement/physiology
+MH  - Pain Measurement
+MH  - Pilot Projects
+MH  - Reaction Time/physiology
+MH  - *Task Performance and Analysis
+MH  - Time Factors
+PMC - PMC3196736
+EDAT- 2011/09/29 06:00
+MHDA- 2012/01/13 06:00
+PMCR- 2011/09/27
+CRDT- 2011/09/29 06:00
+PHST- 2011/06/30 00:00 [received]
+PHST- 2011/09/27 00:00 [accepted]
+PHST- 2011/09/29 06:00 [entrez]
+PHST- 2011/09/29 06:00 [pubmed]
+PHST- 2012/01/13 06:00 [medline]
+PHST- 2011/09/27 00:00 [pmc-release]
+AID - 1471-2474-12-211 [pii]
+AID - 10.1186/1471-2474-12-211 [doi]
+PST - epublish
+SO  - BMC Musculoskelet Disord. 2011 Sep 27;12:211. doi: 10.1186/1471-2474-12-211.

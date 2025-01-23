@@ -1,0 +1,120 @@
+PMID- 25859857
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151223
+LR  - 20181113
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2015
+TI  - Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in 
+      cervical cancer? A large-scale retrospective study.
+PG  - e0123539
+LID - 10.1371/journal.pone.0123539 [doi]
+LID - e0123539
+AB  - BACKGROUND: The effect of neoadjuvant chemotherapy (NACT) on topographical 
+      distribution patterns of lymph node metastasis in cervical cancer was unknown. 
+      METHODS: Patients with FIGO stage IB1-IIB who underwent radical surgery with or 
+      without NACT were enrolled (3527 patients). A matched-case comparison design was 
+      used to compare the effects of NACT on lymph node metastasis. RESULTS: We 
+      analyzed groups of 167 and 140 patients who were diagnosed with lymph node 
+      metastasis in the matched primary surgery group and NACT group, respectively, and 
+      no significant difference was observed (p = 0.081). The incidence of lymph node 
+      metastasis was significantly decreased in the NACT-responsive group compared to 
+      the non-responsive group (18.4% vs. 38.6%, P<0.001). The metastatic rates for 
+      every lymph node group also declined in the NACT-responsive group except for the 
+      deep inguinal and the para-aortic lymph node groups. Clinical response, deep 
+      stromal, parametrial and lymph vascular invasions were independent risk factors 
+      for lymph node metastasis in the NACT group. Furthermore, deep stromal invasion 
+      and lymph vascular invasion, but not the response to NACT, were independently 
+      associated with upper LNM. The number of lymph nodes involved, response to NACT, 
+      tumor histology and a positive vaginal margin were independent prognostic factors 
+      affecting DFS or OS rates in node-positive patients treated with NACT plus 
+      radical surgery. CONCLUSION: The frequency and topographic distribution of LNM 
+      are not modified by NACT, and clinical non-responders showed more involved LNs. A 
+      systemic and extensive lymphadenectomy should be performed in patients treated 
+      with NACT plus surgery regardless of the response to NACT.
+FAU - Hu, Ting
+AU  - Hu T
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Li, Xiong
+AU  - Li X
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Zhang, Qinghua
+AU  - Zhang Q
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China; Department of 
+      Gynecology & Obstetrics, the Central Hospital of Wuhan, Wuhan, P.R. China.
+FAU - Huang, Kecheng
+AU  - Huang K
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Jia, Yao
+AU  - Jia Y
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Yang, Ru
+AU  - Yang R
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Tang, Fangxu
+AU  - Tang F
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Tian, Qiang
+AU  - Tian Q
+AD  - Institute for Systems Biology, Seattle, Washington, 98109-5234, United States of 
+      America.
+FAU - Ma, Ding
+AU  - Ma D
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+FAU - Li, Shuang
+AU  - Li S
+AD  - Department of Obstetrics and Gynecology, Tongji Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, P.R. China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150410
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - *Lymph Node Excision
+MH  - Lymph Nodes/pathology
+MH  - Lymphatic Metastasis
+MH  - Middle Aged
+MH  - Neoadjuvant Therapy
+MH  - Neoplasm Staging
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Treatment Outcome
+MH  - Uterine Cervical Neoplasms/*drug therapy/mortality/pathology/*surgery
+MH  - Young Adult
+PMC - PMC4393094
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2015/04/11 06:00
+MHDA- 2015/12/24 06:00
+PMCR- 2015/04/10
+CRDT- 2015/04/11 06:00
+PHST- 2014/07/31 00:00 [received]
+PHST- 2015/03/04 00:00 [accepted]
+PHST- 2015/04/11 06:00 [entrez]
+PHST- 2015/04/11 06:00 [pubmed]
+PHST- 2015/12/24 06:00 [medline]
+PHST- 2015/04/10 00:00 [pmc-release]
+AID - PONE-D-14-33136 [pii]
+AID - 10.1371/journal.pone.0123539 [doi]
+PST - epublish
+SO  - PLoS One. 2015 Apr 10;10(4):e0123539. doi: 10.1371/journal.pone.0123539. 
+      eCollection 2015.

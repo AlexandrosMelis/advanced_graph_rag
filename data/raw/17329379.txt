@@ -1,0 +1,98 @@
+PMID- 17329379
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070911
+LR  - 20181113
+IS  - 0306-6800 (Print)
+IS  - 1473-4257 (Electronic)
+IS  - 0306-6800 (Linking)
+VI  - 33
+IP  - 3
+DP  - 2007 Mar
+TI  - Are the GFRUP's recommendations for withholding or withdrawing treatments in 
+      critically ill children applicable? Results of a two-year survey.
+PG  - 128-33
+AB  - OBJECTIVE: To evaluate feasibility of the guidelines of the Groupe Francophone de 
+      Reanimation et Urgence Pediatriques (French-speaking group of paediatric 
+      intensive and emergency care; GFRUP) for limitation of treatments in the 
+      paediatric intensive care unit (PICU). DESIGN: A 2-year prospective survey. 
+      SETTING: A 12-bed PICU at the Hopital Jeanne de Flandre, Lille, France. PATIENTS: 
+      Were included when limitation of treatments was expected. RESULTS: Of 967 
+      children admitted, 55 were included with a 2-day median delay. They were younger 
+      than others (24 v 60 months), had a higher paediatric risk of mortality (PRISM) 
+      score (14 v 4), and a higher paediatric overall performance category (POPC) score 
+      at admission (2 v 1); all p<0.002. 34 (50% of total deaths) children died. A 
+      limitation decision was made without meeting for 7 children who died: 6 received 
+      do-not-resuscitate orders (DNROs) and 1 received withholding decision. 
+      Decision-making meetings were organised for 31 children, and the following 
+      decisions were made: 12 DNROs (6 deaths and 6 survivals), 4 withholding (1 death 
+      and 3 survivals), with 14 withdrawing (14 deaths) and 1 continuing treatment 
+      (survival). After limitation, 21 (31% of total deaths) children died and 10 
+      survived (POPC score 4). 13 procedures were interrupted because of death and 11 
+      because of clinical improvement (POPC score 4). Parents' opinions were obtained 
+      after 4 family conferences (for a total of 110 min), 3 days after inclusion. The 
+      first meeting was planned for 6 days after inclusion and held on the 7th day 
+      after inclusion; 80% of parents were immediately informed of the decision, which 
+      was implemented after half a day. CONCLUSIONS: GFRUPs procedure was applicable in 
+      most cases. The main difficulties were anticipating the correct date for the 
+      meeting and involving nurses in the procedure. Children for whom the procedure 
+      was interrupted because of clinical improvement and who survived in poor 
+      condition without a formal decision pointed out the need for medical criteria for 
+      questioning, which should systematically lead to a formal decision-making 
+      process.
+FAU - Cremer, R
+AU  - Cremer R
+AD  - Reanimation pediatrique, Hopital Jeanne de Flandre, CHU de Lille, 59037 Lille, 
+      France. r-cremer@chru-lille.fr
+FAU - Binoche, A
+AU  - Binoche A
+FAU - Noizet, O
+AU  - Noizet O
+FAU - Fourier, C
+AU  - Fourier C
+FAU - Leteurtre, S
+AU  - Leteurtre S
+FAU - Moutel, G
+AU  - Moutel G
+FAU - Leclerc, F
+AU  - Leclerc F
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Med Ethics
+JT  - Journal of medical ethics
+JID - 7513619
+SB  - IM
+MH  - Child, Preschool
+MH  - Critical Illness/*therapy
+MH  - Decision Making
+MH  - France
+MH  - Humans
+MH  - Infant
+MH  - Infant Mortality
+MH  - Infant, Newborn
+MH  - Intensive Care, Neonatal/*ethics
+MH  - Parents/psychology
+MH  - Patient Discharge
+MH  - Practice Guidelines as Topic
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - Time Factors
+MH  - Withholding Treatment/*ethics
+PMC - PMC2598266
+MID - HALMS255863
+OID - NLM: HALMS255863
+COIS- Competing interests: None declared.
+EDAT- 2007/03/03 09:00
+MHDA- 2007/09/12 09:00
+PMCR- 2010/03/01
+CRDT- 2007/03/03 09:00
+PHST- 2007/03/03 09:00 [pubmed]
+PHST- 2007/09/12 09:00 [medline]
+PHST- 2007/03/03 09:00 [entrez]
+PHST- 2010/03/01 00:00 [pmc-release]
+AID - 33/3/128 [pii]
+AID - me15990 [pii]
+AID - 10.1136/jme.2006.015990 [doi]
+PST - ppublish
+SO  - J Med Ethics. 2007 Mar;33(3):128-33. doi: 10.1136/jme.2006.015990.

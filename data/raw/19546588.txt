@@ -1,0 +1,97 @@
+PMID- 19546588
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091021
+LR  - 20131121
+IS  - 1660-2110 (Electronic)
+IS  - 1660-2110 (Linking)
+VI  - 112
+IP  - 4
+DP  - 2009
+TI  - Does increasing blood pH stimulate protein synthesis in dialysis patients?
+PG  - c276-83
+LID - 10.1159/000224795 [doi]
+AB  - BACKGROUND: Although the mechanism of muscle wasting in end-stage renal disease 
+      is not fully understood, there is increasing evidence that acidosis induces 
+      muscle protein degradation and could therefore contribute to the loss of muscle 
+      protein stores of patients on hemodialysis, a prototypical state of chronic 
+      metabolic acidosis (CMA). Because body protein mass is controlled by the balance 
+      between synthesis and degradation, protein loss can occur as result of either 
+      increased breakdown, impaired synthesis, or both. Correction of acidosis may 
+      therefore help to maintain muscle mass and improve the health of patients with 
+      CMA. We evaluated whether alkalizing patients on hemodialysis might have a 
+      positive effect on protein synthesis and on nutritional parameters. METHODS: 
+      Eight chronic hemodialysis patients were treated daily with oral sodium 
+      bicarbonate (NaHCO(3)) supplementation for 10-14 days, yielding a pre-dialytic 
+      plasma bicarbonate concentration of 28.6 +/-1.6 mmol/l. The fractional synthesis 
+      rates (FSR) of muscle protein and albumin were obtained by the 
+      L-[(2)H(5)ring]phenylalanine flooding technique. RESULTS: Oral NaHCO(3 
+      )supplementation induced a significant increase in serum bicarbonate (21.5 +/- 
+      3.4 vs. 28.6 +/- 1.6 mmol/l; p = 0.018) and blood pH (7.41 vs. 7.46; p = 0.041). 
+      The FSR of muscle protein and the FSR of albumin did not change significantly 
+      (muscle protein: 2.1 +/- 0.2 vs. 2.0 +/- 0.5% per day, p = 0.39; albumin: 8.3 +/- 
+      2.2 vs. 8.6 +/- 2.5% per day, p = 0.31). Plasma concentrations of insulin-like 
+      growth factor 1 decreased significantly (33.4 +/- 21.3 vs. 25.4 +/- 12.3 nmol/l; 
+      p = 0.028), whereas thyroid-stimulating hormone, free thyroxin and free 
+      triiodothyronine did not change significantly and nutritional parameters showed 
+      no improvement. CONCLUSION: In contrast to other findings, raising the blood pH 
+      of dialysis patients was not associated with a positive effect on albumin and 
+      muscle protein synthesis, or nutritional and endocrinal parameters.
+CI  - Copyright 2009 S. Karger AG, Basel.
+FAU - Ruggieri, Fabio
+AU  - Ruggieri F
+AD  - Department of Internal Medicine, Kantonsspital, Winterthur, Switzerland. 
+      fabio.ruggieri@usz.ch
+FAU - Caso, Giuseppe
+AU  - Caso G
+FAU - Wegmann, Marlene
+AU  - Wegmann M
+FAU - McNurlan, Margaret A
+AU  - McNurlan MA
+FAU - Wahl, Christoph
+AU  - Wahl C
+FAU - Imoberdorf, Reinhard
+AU  - Imoberdorf R
+FAU - Garlick, Peter J
+AU  - Garlick PJ
+FAU - Ballmer, Peter E
+AU  - Ballmer PE
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090616
+PL  - Switzerland
+TA  - Nephron Clin Pract
+JT  - Nephron. Clinical practice
+JID - 101159763
+RN  - 0 (Blood Proteins)
+RN  - 8MDF5V39QO (Sodium Bicarbonate)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - *Blood Chemical Analysis
+MH  - Blood Proteins/*analysis
+MH  - Female
+MH  - Humans
+MH  - Hydrogen-Ion Concentration/*drug effects
+MH  - Kidney Failure, Chronic/*blood/*rehabilitation
+MH  - Male
+MH  - Middle Aged
+MH  - Protein Biosynthesis/drug effects
+MH  - *Renal Dialysis
+MH  - Sodium Bicarbonate/*administration & dosage
+EDAT- 2009/06/24 09:00
+MHDA- 2009/10/22 06:00
+CRDT- 2009/06/24 09:00
+PHST- 2008/06/12 00:00 [received]
+PHST- 2009/02/03 00:00 [accepted]
+PHST- 2009/06/24 09:00 [entrez]
+PHST- 2009/06/24 09:00 [pubmed]
+PHST- 2009/10/22 06:00 [medline]
+AID - 000224795 [pii]
+AID - 10.1159/000224795 [doi]
+PST - ppublish
+SO  - Nephron Clin Pract. 2009;112(4):c276-83. doi: 10.1159/000224795. Epub 2009 Jun 
+      16.

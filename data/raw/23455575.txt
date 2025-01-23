@@ -1,0 +1,73 @@
+PMID- 23455575
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151005
+LR  - 20211021
+IS  - 1436-3771 (Electronic)
+IS  - 1432-6981 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2014 Jan
+TI  - Globulomaxillary cysts--do they really exist?
+PG  - 239-46
+LID - 10.1007/s00784-013-0954-y [doi]
+AB  - OBJECTIVES: The so-called "globulomaxillary cyst", described as a fissural cyst, 
+      caused by entrapped epithelium between the nasal and maxillary process, is no 
+      longer considered for its own entity. Nevertheless, cystic lesions, which 
+      correspond to the previous image of globulomaxillary cysts, do still occur in 
+      daily practice. This raises the question to which entities pathological processes 
+      in this particular region actually belong to. MATERIALS AND METHODS: In a 
+      retrospective study, 17 cases (12 men and 5 women, 12-59 years old) of primarily 
+      diagnosed globulomaxillary cysts are analysed according to clinical, radiological 
+      and histological aspects, catamnestic processed and assigned to a new entity. The 
+      results are compared with the international literature and draws conclusions on 
+      the diagnostic and therapeutic procedure. RESULTS: Seven lateral periodontal 
+      cysts, four radicular cysts, two keratocystic odontogenic tumours, one 
+      adenomatoid odontogenic tumour, one periapical granuloma, one residual cyst and 
+      one undefined jaw cyst were determined. CONCLUSIONS: According to the results of 
+      our study and the data from the international literature, the entity 
+      globulomaxillary cyst is no longer justified.
+FAU - Dammer, U
+AU  - Dammer U
+AD  - Department of Oral and Maxillofacial Surgery, University of Regensburg, 
+      Franz-Josef-Strauss-Allee 11, 93053, Regensburg, Germany, 
+      ulf.dammer@uk-erlangen.de.
+FAU - Driemel, O
+AU  - Driemel O
+FAU - Mohren, W
+AU  - Mohren W
+FAU - Giedl, C
+AU  - Giedl C
+FAU - Reichert, T E
+AU  - Reichert TE
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20130228
+PL  - Germany
+TA  - Clin Oral Investig
+JT  - Clinical oral investigations
+JID - 9707115
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Cysts/*diagnosis/pathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Maxillary Diseases/*diagnosis/pathology
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Young Adult
+EDAT- 2013/03/05 06:00
+MHDA- 2015/10/06 06:00
+CRDT- 2013/03/05 06:00
+PHST- 2011/05/08 00:00 [received]
+PHST- 2013/02/13 00:00 [accepted]
+PHST- 2013/03/05 06:00 [entrez]
+PHST- 2013/03/05 06:00 [pubmed]
+PHST- 2015/10/06 06:00 [medline]
+AID - 10.1007/s00784-013-0954-y [doi]
+PST - ppublish
+SO  - Clin Oral Investig. 2014 Jan;18(1):239-46. doi: 10.1007/s00784-013-0954-y. Epub 
+      2013 Feb 28.

@@ -1,0 +1,74 @@
+PMID- 20130378
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100423
+LR  - 20220317
+IS  - 1972-2680 (Electronic)
+IS  - 1972-2680 (Linking)
+VI  - 4
+IP  - 1
+DP  - 2009 Nov 5
+TI  - Is low birth weight a risk indicator for congenital cytomegalovirus infection?
+PG  - 44-7
+AB  - BACKGROUND: Congenital cytomegalovirus infection is currently the leading cause 
+      of congenital infection in 0.2-2.2% of live births worldwide leading to variable 
+      serious sequalae. The aim of the study was to determine if low birth weight is an 
+      indicator of CMV congenital infection evidenced by detecting CMV-DNA in umbilical 
+      cord blood at the time of delivery. METHODOLOGY: CMV-IgG and IgM antibodies and 
+      CMV-DNAemia were assessed in umbilical cord blood of two hundreds newborns, one 
+      hundred of whom had birth weight < or = 2700 gram and/or head circumference < or 
+      = 32 cm. RESULTS: CMV-IgM was not detected, while CMV-IgG was positive in 80-90% 
+      of the two hundreds tested newborns. CMV-DNA was detected in four out of the 200 
+      newborns. One of them was over the adopted weight limit (> 2700 gram). 
+      CONCLUSIONS: CMV-IgM and IgG antibodies assessment was not a potential 
+      discriminative test to identify congenitally infected newborns. In addition, low 
+      birth weight and small head circumference at birth failed to predict congenital 
+      CMV infection. CMV-DNA detection in umbilical cord blood at the time of delivery 
+      using real-time PCR of all newborns is recommended as decisive, rapid and 
+      non-invasive test.
+FAU - Al-Hareth, Zakyieh
+AU  - Al-Hareth Z
+AD  - Clinical Laboratories Department, Al-Assad Hospital, Damascus University, 
+      Damascus, Syria.
+FAU - Monem, Fawza
+AU  - Monem F
+FAU - Abdel Megiud, Nagwa
+AU  - Abdel Megiud N
+LA  - eng
+PT  - Journal Article
+DEP - 20091105
+PL  - Italy
+TA  - J Infect Dev Ctries
+JT  - Journal of infection in developing countries
+JID - 101305410
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (DNA, Viral)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Immunoglobulin M)
+SB  - IM
+MH  - Antibodies, Viral/blood
+MH  - Body Weights and Measures
+MH  - Cytomegalovirus/genetics/immunology/*isolation & purification
+MH  - Cytomegalovirus Infections/blood/diagnosis/*epidemiology/immunology
+MH  - DNA, Viral/blood
+MH  - Fetal Blood/virology
+MH  - Humans
+MH  - Immunoglobulin G/blood
+MH  - Immunoglobulin M/blood
+MH  - *Infant, Low Birth Weight
+MH  - Infant, Newborn
+MH  - Infant, Newborn, Diseases/diagnosis/*epidemiology/virology
+MH  - Polymerase Chain Reaction
+MH  - Risk Factors
+MH  - Viremia/etiology
+EDAT- 2010/02/05 06:00
+MHDA- 2010/04/24 06:00
+CRDT- 2010/02/05 06:00
+PHST- 2009/09/27 00:00 [received]
+PHST- 2009/09/28 00:00 [accepted]
+PHST- 2010/02/05 06:00 [entrez]
+PHST- 2010/02/05 06:00 [pubmed]
+PHST- 2010/04/24 06:00 [medline]
+AID - 10.3855/jidc.539 [doi]
+PST - epublish
+SO  - J Infect Dev Ctries. 2009 Nov 5;4(1):44-7. doi: 10.3855/jidc.539.

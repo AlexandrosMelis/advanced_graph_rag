@@ -1,0 +1,84 @@
+PMID- 25521278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150720
+LR  - 20240610
+IS  - 1930-739X (Electronic)
+IS  - 1930-7381 (Print)
+IS  - 1930-7381 (Linking)
+VI  - 23
+IP  - 2
+DP  - 2015 Feb
+TI  - Is plate clearing a risk factor for obesity? A cross-sectional study of 
+      self-reported data in US adults.
+PG  - 301-4
+LID - 10.1002/oby.20976 [doi]
+AB  - OBJECTIVES: Identifying eating behaviors which contribute to excess weight gain 
+      will inform obesity prevention strategies. A tendency to clear one's plate when 
+      eating may be a risk factor for obesity in an environment where food is 
+      plentiful. Whether plate clearing is associated with increased body weight in a 
+      cohort of US participants was examined. METHODS: Nine hundred and ninety-three US 
+      adults (60% male, 80% American European, mean age=31 years) completed self-report 
+      measures of habitual plate clearing together with behavioral and demographic 
+      characteristics known to be associated with obesity. RESULTS: Plate clearing 
+      tendencies were positively associated with BMI and remained so after accounting 
+      for a large number of other demographic and behavioral predictors of BMI in 
+      analyses (beta=0.18, 95% CIs=0.07, 0.29, P<0.001); an increased tendency to plate 
+      clear was associated with a significantly higher body weight. CONCLUSIONS: The 
+      tendency to clear one's plate when eating is associated with increased body 
+      weight and may constitute a risk factor for weight gain.
+CI  - (c) 2014 The Obesity Society.
+FAU - Robinson, Eric
+AU  - Robinson E
+AD  - Psychological Sciences, University of Liverpool, Liverpool, UK.
+FAU - Aveyard, Paul
+AU  - Aveyard P
+FAU - Jebb, Susan A
+AU  - Jebb SA
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 090207/Z/09/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141217
+PL  - United States
+TA  - Obesity (Silver Spring)
+JT  - Obesity (Silver Spring, Md.)
+JID - 101264860
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Body Mass Index
+MH  - Body Weight/physiology
+MH  - Cross-Sectional Studies
+MH  - Feeding Behavior/*physiology
+MH  - Female
+MH  - *Health Surveys
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Obesity/*epidemiology/*physiopathology
+MH  - Risk Factors
+MH  - *Self Report
+MH  - Surveys and Questionnaires
+MH  - United States/epidemiology
+MH  - Weight Gain/physiology
+MH  - Young Adult
+PMC - PMC4719168
+MID - EMS66650
+OID - NLM: EMS66650
+EDAT- 2014/12/19 06:00
+MHDA- 2015/07/21 06:00
+PMCR- 2016/01/20
+CRDT- 2014/12/19 06:00
+PHST- 2014/09/08 00:00 [received]
+PHST- 2014/10/28 00:00 [accepted]
+PHST- 2014/12/19 06:00 [entrez]
+PHST- 2014/12/19 06:00 [pubmed]
+PHST- 2015/07/21 06:00 [medline]
+PHST- 2016/01/20 00:00 [pmc-release]
+AID - 10.1002/oby.20976 [doi]
+PST - ppublish
+SO  - Obesity (Silver Spring). 2015 Feb;23(2):301-4. doi: 10.1002/oby.20976. Epub 2014 
+      Dec 17.

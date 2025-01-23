@@ -1,0 +1,99 @@
+PMID- 27896825
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171010
+LR  - 20171010
+IS  - 1365-2265 (Electronic)
+IS  - 0300-0664 (Linking)
+VI  - 86
+IP  - 4
+DP  - 2017 Apr
+TI  - Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?
+PG  - 591-596
+LID - 10.1111/cen.13287 [doi]
+AB  - OBJECTIVE: Current guidelines recommend total thyroidectomy for nearly all 
+      children with well-differentiated thyroid cancer (WDTC). These guidelines, 
+      however, derive from older data accrued prior to current high-resolution imaging. 
+      We speculate that there is a subpopulation of children who may be adequately 
+      treated with lobectomy. DESIGN: Retrospective analysis of prospectively 
+      maintained database. PATIENTS: Seventy-three children with WDTC treated between 
+      2004 and 2015. MEASUREMENTS: We applied two different risk-stratification 
+      criteria to this population. First, we determined the number of patients meeting 
+      American Thyroid Association (ATA) 'low-risk' criteria, defined as disease 
+      grossly confined to the thyroid with either N0/Nx or incidental microscopic N1a 
+      disease. Second, we defined a set of 'very-low-risk' histopathological criteria, 
+      comprising unifocal tumours </=4 cm without predefined high-risk factors, and 
+      determined the proportion of patients that met these criteria. RESULTS: 
+      Twenty-seven (37%) males and 46 (63%) females were included in this study, with a 
+      mean age of 13.4 years. Ipsilateral- and contralateral multifocality were 
+      identified in 27 (37.0%) and 19 (26.0%) of specimens. Thirty-seven (51%) patients 
+      had lymph node metastasis (N1a = 18/N1b = 19). Pre-operative ultrasound 
+      identified all cases with clinically significant nodal disease. Of the 73 
+      patients, 39 (53.4%) met ATA low-risk criteria and 16 (21.9%) met 'very-low-risk' 
+      criteria. All 'very-low-risk' patients demonstrated excellent response to initial 
+      therapy without persistence/recurrence after a mean follow-up of 36.4 months. 
+      CONCLUSIONS: Ultrasound and histopathology identify a substantial population that 
+      may be candidates for lobectomy, avoiding the risks and potential medical and 
+      psychosocial morbidity associated with total thyroidectomy. We propose a clinical 
+      framework to stimulate discussion of lobectomy as an option for low-risk 
+      patients.
+CI  - (c) 2016 John Wiley & Sons Ltd.
+FAU - Kluijfhout, Wouter P
+AU  - Kluijfhout WP
+AD  - Division of General Surgery, University Health Network Toronto, Toronto, Ontario, 
+      Canada.
+AD  - Department of General Surgery, University Medical Center Utrecht, Utrecht, The 
+      Netherlands.
+FAU - Pasternak, Jesse D
+AU  - Pasternak JD
+AD  - Division of General Surgery, University Health Network Toronto, Toronto, Ontario, 
+      Canada.
+FAU - van der Kaay, Danielle
+AU  - van der Kaay D
+AD  - Division of Paediatric Endocrinology, Hospital for Sick Children, Toronto, 
+      Ontario, Canada.
+FAU - Vriens, Menno R
+AU  - Vriens MR
+AD  - Department of General Surgery, University Medical Center Utrecht, Utrecht, The 
+      Netherlands.
+FAU - Propst, Evan J
+AU  - Propst EJ
+AD  - Department of Otolaryngology-Head and Neck Surgery, Hospital for Sick Children, 
+      University of Toronto, Toronto, Ontario, Canada.
+FAU - Wasserman, Jonathan D
+AU  - Wasserman JD
+AD  - Division of Paediatric Endocrinology, Hospital for Sick Children, Toronto, 
+      Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20170112
+PL  - England
+TA  - Clin Endocrinol (Oxf)
+JT  - Clinical endocrinology
+JID - 0346653
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Endocrine Surgical Procedures/methods
+MH  - Female
+MH  - Humans
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Neoplasm Recurrence, Local
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Thyroid Neoplasms/pathology/*surgery
+MH  - Thyroidectomy/*methods
+EDAT- 2016/11/30 06:00
+MHDA- 2017/10/11 06:00
+CRDT- 2016/11/30 06:00
+PHST- 2016/08/09 00:00 [received]
+PHST- 2016/11/12 00:00 [revised]
+PHST- 2016/11/23 00:00 [accepted]
+PHST- 2016/11/30 06:00 [pubmed]
+PHST- 2017/10/11 06:00 [medline]
+PHST- 2016/11/30 06:00 [entrez]
+AID - 10.1111/cen.13287 [doi]
+PST - ppublish
+SO  - Clin Endocrinol (Oxf). 2017 Apr;86(4):591-596. doi: 10.1111/cen.13287. Epub 2017 
+      Jan 12.

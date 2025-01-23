@@ -1,0 +1,84 @@
+PMID- 27040842
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170130
+LR  - 20170130
+IS  - 1748-5460 (Electronic)
+IS  - 0022-2151 (Linking)
+VI  - 130
+IP  - 6
+DP  - 2016 Jun
+TI  - Does septoplasty change the dimensions of compensatory hypertrophy of the middle 
+      turbinate?
+PG  - 554-9
+LID - 10.1017/S0022215116001055 [doi]
+AB  - OBJECTIVE: To measure the dimensions of compensatory hypertrophy of the middle 
+      turbinate in patients with nasal septal deviation, before and after septoplasty. 
+      METHODS: The mucosal and bony structures of the middle turbinate and the angle of 
+      the septum were measured using radiological analysis before septoplasty and at 
+      least one year after septoplasty. All pre- and post-operative measurements of the 
+      middle turbinate were compared using the paired sample t-test and Wilcoxon rank 
+      sum test. RESULTS: The dimensions of bony and mucosal components of the middle 
+      turbinate on concave and convex sides of the septum were not significantly 
+      changed by septoplasty. There was a significant negative correlation after 
+      septoplasty between the angle of the septum and the middle turbinate total area 
+      on the deviated side (p = 0.033). CONCLUSION: The present study findings suggest 
+      that compensatory hypertrophy of the middle turbinate is not affected by 
+      septoplasty, even after one year.
+FAU - Demir, D
+AU  - Demir D
+AD  - Department of Otorhinolaryngology,Sakarya University Faculty of 
+      Medicine,Sakarya,Turkey.
+FAU - Asil, K
+AU  - Asil K
+AD  - Department of Radiology,Sakarya University Faculty of Medicine,Sakarya,Turkey.
+FAU - Guven, M
+AU  - Guven M
+AD  - Department of Otorhinolaryngology,Sakarya University Faculty of 
+      Medicine,Sakarya,Turkey.
+FAU - Erkorkmaz, U
+AU  - Erkorkmaz U
+AD  - Department of Biostatistics,Sakarya University Faculty of 
+      Medicine,Sakarya,Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20160404
+PL  - England
+TA  - J Laryngol Otol
+JT  - The Journal of laryngology and otology
+JID - 8706896
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Hypertrophy/diagnostic imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Nasal Mucosa/*diagnostic imaging/pathology
+MH  - Nasal Obstruction/*surgery
+MH  - Nasal Septum/abnormalities/*surgery
+MH  - Nose Deformities, Acquired/*surgery
+MH  - Retrospective Studies
+MH  - *Rhinoplasty
+MH  - Tomography, X-Ray Computed
+MH  - Turbinates/*diagnostic imaging/pathology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Computed Tomography
+OT  - Hypertrophy
+OT  - Nasal Septum
+OT  - Sinusitis
+OT  - Turbinates
+EDAT- 2016/04/05 06:00
+MHDA- 2017/01/31 06:00
+CRDT- 2016/04/05 06:00
+PHST- 2016/04/05 06:00 [entrez]
+PHST- 2016/04/05 06:00 [pubmed]
+PHST- 2017/01/31 06:00 [medline]
+AID - S0022215116001055 [pii]
+AID - 10.1017/S0022215116001055 [doi]
+PST - ppublish
+SO  - J Laryngol Otol. 2016 Jun;130(6):554-9. doi: 10.1017/S0022215116001055. Epub 2016 
+      Apr 4.

@@ -1,0 +1,127 @@
+PMID- 25885219
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160106
+LR  - 20181113
+IS  - 1471-2393 (Electronic)
+IS  - 1471-2393 (Linking)
+VI  - 15
+DP  - 2015 Apr 14
+TI  - Maternal creatine homeostasis is altered during gestation in the spiny mouse: is 
+      this a metabolic adaptation to pregnancy?
+PG  - 92
+LID - 10.1186/s12884-015-0524-1 [doi]
+LID - 92
+AB  - BACKGROUND: Pregnancy induces adaptations in maternal metabolism to meet the 
+      increased need for nutrients by the placenta and fetus. Creatine is an important 
+      intracellular metabolite obtained from the diet and also synthesised 
+      endogenously. Experimental evidence suggests that the fetus relies on a maternal 
+      supply of creatine for much of gestation. However, the impact of pregnancy on 
+      maternal creatine homeostasis is unclear. We hypothesise that alteration of 
+      maternal creatine homeostasis occurs during pregnancy to ensure adequate levels 
+      of this essential substrate are available for maternal tissues, the placenta and 
+      fetus. This study aimed to describe maternal creatine homeostasis from mid to 
+      late gestation in the precocial spiny mouse. METHODS: Plasma creatine 
+      concentration and urinary excretion were measured from mid to late gestation in 
+      pregnant (n = 8) and age-matched virgin female spiny mice (n = 6). At term, body 
+      composition and organ weights were assessed and tissue total creatine content 
+      determined. mRNA expression of the creatine synthesising enzymes arginine:glycine 
+      amidinotransferase (AGAT) and guanidinoacetate methyltransferase (GAMT), and the 
+      creatine transporter (CrT1) were assessed by RT-qPCR. Protein expression of AGAT 
+      and GAMT was also assessed by western blot analysis. RESULTS: Plasma creatine and 
+      renal creatine excretion decreased significantly from mid to late gestation (P < 
+      0.001, P < 0.05, respectively). Pregnancy resulted in increased lean tissue (P < 
+      0.01), kidney (P < 0.01), liver (P < 0.01) and heart (P < 0.05) mass at term. 
+      CrT1 expression was increased in the heart (P < 0.05) and skeletal muscle (P < 
+      0.05) at term compared to non-pregnant tissues, and creatine content of the heart 
+      (P < 0.05) and kidney (P < 0.001) were also increased at this time. CrT1 mRNA 
+      expression was down-regulated in the liver (<0.01) and brain (<0.01) of pregnant 
+      spiny mice at term. Renal AGAT mRNA (P < 0.01) and protein (P < 0.05) expression 
+      were both significantly up-regulated at term, with decreased expression of AGAT 
+      mRNA (<0.01) and GAMT protein (<0.05) observed in the term pregnant heart. Brain 
+      AGAT (<0.01) and GAMT (<0.001) mRNA expression were also decreased at term. 
+      CONCLUSION: Change of maternal creatine status (increased creatine synthesis and 
+      reduced creatine excretion) may be a necessary adjustment of maternal physiology 
+      to pregnancy to meet the metabolic demands of maternal tissues, the placenta and 
+      developing fetus.
+FAU - Ellery, Stacey J
+AU  - Ellery SJ
+AD  - The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+      Clayton, Melbourne, 3168, Australia. stacey.ellery@monash.edu.
+AD  - Department of Obstetrics & Gynaecology, Monash University, Monash Medical Centre, 
+      Clayton, Melbourne, Australia. stacey.ellery@monash.edu.
+FAU - LaRosa, Domenic A
+AU  - LaRosa DA
+AD  - The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+      Clayton, Melbourne, 3168, Australia. domenic.larosa@monash.edu.
+AD  - Department of Obstetrics & Gynaecology, Monash University, Monash Medical Centre, 
+      Clayton, Melbourne, Australia. domenic.larosa@monash.edu.
+FAU - Kett, Michelle M
+AU  - Kett MM
+AD  - Department of Physiology, Monash University, Clayton Campus, Melbourne, 
+      Australia. michelle.kett@monash.edu.
+FAU - Della Gatta, Paul A
+AU  - Della Gatta PA
+AD  - Centre for Physical Activity and Nutrition, Deakin University, Burwood Campus, 
+      Melbourne, Australia. paul.dellagatta@deakin.edu.au.
+FAU - Snow, Rod J
+AU  - Snow RJ
+AD  - Centre for Physical Activity and Nutrition, Deakin University, Burwood Campus, 
+      Melbourne, Australia. rod.snow@deakin.edu.au.
+FAU - Walker, David W
+AU  - Walker DW
+AD  - The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+      Clayton, Melbourne, 3168, Australia. david.walker@mimr-phi.org.
+AD  - Department of Obstetrics & Gynaecology, Monash University, Monash Medical Centre, 
+      Clayton, Melbourne, Australia. david.walker@mimr-phi.org.
+FAU - Dickinson, Hayley
+AU  - Dickinson H
+AD  - The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+      Clayton, Melbourne, 3168, Australia. hayley.dickinson@monash.edu.
+AD  - Department of Obstetrics & Gynaecology, Monash University, Monash Medical Centre, 
+      Clayton, Melbourne, Australia. hayley.dickinson@monash.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150414
+PL  - England
+TA  - BMC Pregnancy Childbirth
+JT  - BMC pregnancy and childbirth
+JID - 100967799
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (creatine transporter)
+RN  - EC 2.1.1.2 (Guanidinoacetate N-Methyltransferase)
+RN  - EC 2.1.4.- (Amidinotransferases)
+RN  - EC 2.1.4.1 (glycine amidinotransferase)
+RN  - MU72812GK0 (Creatine)
+SB  - IM
+MH  - Amidinotransferases/*genetics/metabolism
+MH  - Animals
+MH  - Blotting, Western
+MH  - Creatine/*metabolism
+MH  - Female
+MH  - Gene Expression Regulation
+MH  - Guanidinoacetate N-Methyltransferase/*genetics/metabolism
+MH  - Homeostasis/*genetics
+MH  - Membrane Transport Proteins/*genetics
+MH  - Murinae
+MH  - Pregnancy/genetics/*metabolism
+MH  - RNA, Messenger/*metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+PMC - PMC4423481
+EDAT- 2015/04/18 06:00
+MHDA- 2016/01/07 06:00
+PMCR- 2015/04/14
+CRDT- 2015/04/18 06:00
+PHST- 2015/01/05 00:00 [received]
+PHST- 2015/03/30 00:00 [accepted]
+PHST- 2015/04/18 06:00 [entrez]
+PHST- 2015/04/18 06:00 [pubmed]
+PHST- 2016/01/07 06:00 [medline]
+PHST- 2015/04/14 00:00 [pmc-release]
+AID - 10.1186/s12884-015-0524-1 [pii]
+AID - 524 [pii]
+AID - 10.1186/s12884-015-0524-1 [doi]
+PST - epublish
+SO  - BMC Pregnancy Childbirth. 2015 Apr 14;15:92. doi: 10.1186/s12884-015-0524-1.

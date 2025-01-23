@@ -1,0 +1,102 @@
+PMID- 24235894
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140805
+LR  - 20240518
+IS  - 1550-9397 (Electronic)
+IS  - 1550-9389 (Print)
+IS  - 1550-9389 (Linking)
+VI  - 9
+IP  - 11
+DP  - 2013 Nov 15
+TI  - Is there a first night effect on sleep bruxism? A sleep laboratory study.
+PG  - 1139-45
+LID - 10.5664/jcsm.3152 [doi]
+AB  - STUDY OBJECTIVES: Sleep bruxism (SB) is reported to vary in frequency over time. 
+      The aim of this study was to assess the first night effect on SB. METHODS: A 
+      retrospective polysomnographic (PSG) analysis was performed of data from a sample 
+      of SB patients (12 females, 4 males; age range: 17-39 years) recorded in a sleep 
+      laboratory over 2 consecutive nights. Sleep parameters and jaw muscle activity 
+      variables (i.e., rhythmic masticatory muscle activity [RMMA]) for SB were 
+      quantified and compared between the 2 nights. Subjects were classified into 
+      groups according to severity of RMMA frequency, such as low frequency (2-4 
+      episodes/h and/or < 25 bursts/h) and moderate-high frequency (>/= 4 episodes/h and 
+      >/= 25 bursts/h). RESULTS: Overall, no first night effects were found for most 
+      sleep variables. However, total sleep time, sleep efficiency, and stage 
+      transitions showed significant time and group interactions (repeated measures 
+      ANOVAs, p </= 0.05). The RMMA episode index did not differ between the 2 nights, 
+      whereas the second night showed significantly higher burst index, bruxism time 
+      index, and mean burst duration (repeated measure ANOVAs, p </= 0.05). Five patients 
+      of 8 in the low frequency group were classified into the moderate-high frequency 
+      group on the second night, whereas only one patient in the moderate-high 
+      frequency group moved to the low frequency group. CONCLUSIONS: The results showed 
+      no overall first night effect on severity of RMMA frequency in young and healthy 
+      patients with SB. In clinical practice, one-night sleep recording may be 
+      sufficient for moderate-high frequency SB patients. However, low RMMA frequency 
+      in the first night could be confirmed by a second night based on the patient's 
+      medical and dental history.
+FAU - Hasegawa, Yoko
+AU  - Hasegawa Y
+AD  - Department of Dentistry and Oral Surgery, Hyogo College of Medicine, Nishinomiya 
+      City, Hyogo, Japan ; Faculte de medicine dentaire, Universite de Montreal, 
+      Montreal, Canada ; Centre d'etude du Sommeil et des Rythmes Biologiques, Hopital 
+      du Sacre-Coeur de Montreal, Montreal, Canada.
+FAU - Lavigne, Gilles
+AU  - Lavigne G
+FAU - Rompre, Pierre
+AU  - Rompre P
+FAU - Kato, Takafumi
+AU  - Kato T
+FAU - Urade, Masahiro
+AU  - Urade M
+FAU - Huynh, Nelly
+AU  - Huynh N
+LA  - eng
+GR  - Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131115
+PL  - United States
+TA  - J Clin Sleep Med
+JT  - Journal of clinical sleep medicine : JCSM : official publication of the American 
+      Academy of Sleep Medicine
+JID - 101231977
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Electrocardiography/methods
+MH  - Electroencephalography/methods
+MH  - Electromyography/methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Masticatory Muscles/physiopathology
+MH  - Muscle Contraction/physiology
+MH  - *Periodicity
+MH  - Polysomnography/methods
+MH  - Retrospective Studies
+MH  - Severity of Illness Index
+MH  - Sleep/*physiology
+MH  - Sleep Bruxism/diagnosis/*physiopathology
+MH  - Sleep Stages/physiology
+MH  - Surveys and Questionnaires
+MH  - Young Adult
+PMC - PMC3805798
+OTO - NOTNLM
+OT  - Sleep bruxism
+OT  - first night effect
+OT  - polysomnography
+OT  - rhythmic masticatory muscle activity
+OT  - sleep laboratory
+EDAT- 2013/11/16 06:00
+MHDA- 2014/08/06 06:00
+PMCR- 2014/05/15
+CRDT- 2013/11/16 06:00
+PHST- 2013/11/16 06:00 [entrez]
+PHST- 2013/11/16 06:00 [pubmed]
+PHST- 2014/08/06 06:00 [medline]
+PHST- 2014/05/15 00:00 [pmc-release]
+AID - 10.5664/jcsm.3152 [doi]
+PST - epublish
+SO  - J Clin Sleep Med. 2013 Nov 15;9(11):1139-45. doi: 10.5664/jcsm.3152.

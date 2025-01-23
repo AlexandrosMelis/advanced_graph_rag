@@ -1,0 +1,81 @@
+PMID- 25432938
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160210
+LR  - 20150521
+IS  - 1475-5785 (Electronic)
+IS  - 1353-8047 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2015 Jun
+TI  - Did Chile's traffic law reform push police enforcement? Understanding Chile's 
+      traffic fatalities and injuries reduction.
+PG  - 159-65
+LID - 10.1136/injuryprev-2014-041358 [doi]
+AB  - BACKGROUND: The objective of the current study is to determine to what extent the 
+      reduction of Chile's traffic fatalities and injuries during 2000-2012 was related 
+      to the police traffic enforcement increment registered after the introduction of 
+      its 2005 traffic law reform. METHODS: A unique dataset with assembled information 
+      from public institutions and analyses based on ordinary least square and robust 
+      random effects models was carried out. Dependent variables were traffic fatality 
+      and severe injury rates per population and vehicle fleet. Independent variables 
+      were: (1) presence of new national traffic law; (2) police officers per 
+      population; (3) number of traffic tickets per police officer; and (4) interaction 
+      effect of number of traffic tickets per police officer with traffic law reform. 
+      Oil prices, alcohol consumption, proportion of male population 15-24 years old, 
+      unemployment, road infrastructure investment, years' effects and regions' effects 
+      represented control variables. RESULTS: Empirical estimates from instrumental 
+      variables suggest that the enactment of the traffic law reform in interaction 
+      with number of traffic tickets per police officer is significantly associated 
+      with a decrease of 8% in traffic fatalities and 7% in severe injuries. Piecewise 
+      regression model results for the 2007-2012 period suggest that police traffic 
+      enforcement reduced traffic fatalities by 59% and severe injuries by 37%. 
+      CONCLUSIONS: Findings suggest that traffic law reforms in order to have an effect 
+      on both traffic fatality and injury rates reduction require changes in police 
+      enforcement practices. Last, this case also illustrates how the diffusion of 
+      successful road safety practices globally promoted by WHO and World Bank can be 
+      an important influence for enhancing national road safety practices.
+CI  - Published by the BMJ Publishing Group Limited. For permission to use (where not 
+      already granted under a licence) please go to 
+      http://group.bmj.com/group/rights-licensing/permissions.
+FAU - Nazif-Munoz, Jose Ignacio
+AU  - Nazif-Munoz JI
+AD  - Department of Sociology, McGill University, Montreal, Canada.
+FAU - Quesnel-Vallee, Amelie
+AU  - Quesnel-Vallee A
+AD  - IRIS Lab, Department of Epidemiology, Biostatistics and Occupational Health, 
+      Department of Sociology, McGill University, Montreal, Canada.
+FAU - van den Berg, Axel
+AU  - van den Berg A
+AD  - Department of Sociology, McGill University, Montreal, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141128
+PL  - England
+TA  - Inj Prev
+JT  - Injury prevention : journal of the International Society for Child and Adolescent 
+      Injury Prevention
+JID - 9510056
+SB  - IM
+MH  - Accidents, Traffic/mortality/prevention & control/*statistics & numerical data
+MH  - Automobile Driving/*legislation & jurisprudence
+MH  - Chile
+MH  - Humans
+MH  - Law Enforcement/*methods
+MH  - *Models, Statistical
+MH  - Police
+MH  - Risk Factors
+EDAT- 2014/11/30 06:00
+MHDA- 2016/02/11 06:00
+CRDT- 2014/11/30 06:00
+PHST- 2014/07/02 00:00 [received]
+PHST- 2014/11/10 00:00 [accepted]
+PHST- 2014/11/30 06:00 [entrez]
+PHST- 2014/11/30 06:00 [pubmed]
+PHST- 2016/02/11 06:00 [medline]
+AID - injuryprev-2014-041358 [pii]
+AID - 10.1136/injuryprev-2014-041358 [doi]
+PST - ppublish
+SO  - Inj Prev. 2015 Jun;21(3):159-65. doi: 10.1136/injuryprev-2014-041358. Epub 2014 
+      Nov 28.

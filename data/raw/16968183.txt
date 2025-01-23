@@ -1,0 +1,84 @@
+PMID- 16968183
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070227
+LR  - 20220321
+IS  - 1092-6429 (Print)
+IS  - 1092-6429 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2006 Aug
+TI  - Is laparoscopic cholecystectomy safe and acceptable as a day case procedure?
+PG  - 365-8
+AB  - BACKGROUND: This study reviewed the results of performing day case laparoscopic 
+      cholecystectomy to assess the feasibility and safety of the procedure as a day 
+      case. MATERIALS AND METHODS: This is a prospective study of 150 day case 
+      laparoscopic cholecystectomies performed between September 1999 and December 2004 
+      under the care of the senior author. The results of a follow-up questionnaire to 
+      assess post-discharge clinical course and patient satisfaction were analyzed. All 
+      patients had commenced eating and drinking and were fully mobile before discharge 
+      home. The length of hospital stay was 4-8 hours. RESULTS: The mean age of the 
+      patients was 43 years; 134 patients had an American Society of Anesthesiologists 
+      grade I, the remaining 16 patients were grade II. The mean operative time was 41 
+      minutes. There were no conversions to open procedures. There was no bleeding, no 
+      visceral injury, and no mortality. There was one admission directly from the day 
+      surgical unit (admission rate of 0.6%), but no readmission following discharge. 
+      No patients were admitted due to postoperative nausea or pain. Ninety-nine (66%) 
+      of 150 patients responded to our questionnaire: 97% were satisfied about the 
+      information they had received. Patients rated their satisfaction with the 
+      procedure as follows: 75% excellent, 21% good, 3% satisfied, and 1 patient 
+      un-satisfied. Ninety-four percent of the patients would recommend the procedure 
+      as a day case. CONCLUSION: Day case laparoscopic cholecystectomy is safe, 
+      feasible, and cost-effective when patients are carefully selected. It provides 
+      good patient satisfaction.
+FAU - Kasem, Abdul
+AU  - Kasem A
+AD  - Princess Royal University Hospital, Farnborough Common, United Kingdom. 
+      abkasem@doctors.net.uk
+FAU - Paix, Andrew
+AU  - Paix A
+FAU - Grandy-Smith, Starlene
+AU  - Grandy-Smith S
+FAU - El-Hasani, Shamsi
+AU  - El-Hasani S
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Laparoendosc Adv Surg Tech A
+JT  - Journal of laparoendoscopic & advanced surgical techniques. Part A
+JID - 9706293
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - *Ambulatory Surgical Procedures/economics
+MH  - *Cholecystectomy, Laparoscopic/economics
+MH  - Cost-Benefit Analysis
+MH  - Drinking
+MH  - Eating
+MH  - Feasibility Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Gallbladder Diseases/surgery
+MH  - Humans
+MH  - Length of Stay/economics
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Admission/economics
+MH  - Patient Discharge/economics
+MH  - Patient Satisfaction
+MH  - Postoperative Nausea and Vomiting/etiology
+MH  - Prospective Studies
+MH  - Surveys and Questionnaires
+MH  - Treatment Outcome
+MH  - United Kingdom
+EDAT- 2006/09/14 09:00
+MHDA- 2007/02/28 09:00
+CRDT- 2006/09/14 09:00
+PHST- 2006/09/14 09:00 [pubmed]
+PHST- 2007/02/28 09:00 [medline]
+PHST- 2006/09/14 09:00 [entrez]
+AID - 10.1089/lap.2006.16.365 [doi]
+PST - ppublish
+SO  - J Laparoendosc Adv Surg Tech A. 2006 Aug;16(4):365-8. doi: 
+      10.1089/lap.2006.16.365.

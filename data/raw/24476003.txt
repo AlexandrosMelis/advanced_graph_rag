@@ -1,0 +1,95 @@
+PMID- 24476003
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150330
+LR  - 20190116
+IS  - 1521-0553 (Electronic)
+IS  - 0894-1939 (Linking)
+VI  - 27
+IP  - 4
+DP  - 2014 Aug
+TI  - Is nasogastric decompression useful in prevention of leaks after laparoscopic 
+      sleeve gastrectomy? A randomized trial.
+PG  - 234-9
+LID - 10.3109/08941939.2013.875606 [doi]
+AB  - INTRODUCTION: Although its excellent results, laparoscopic sleeve gastrectomy 
+      (LSG) presents major complications ranging from 0% to 29%. Among them, the staple 
+      line leak presents an incidence varying from 0% to 7%. Many trials debated about 
+      different solutions in order to reduce leaks' incidence. No author has 
+      investigated the role of gastric decompression in the prevention of this 
+      complication. Aim of our work is to evaluate if this procedure can play a role in 
+      avoiding the occurrence of staple line leaks after LSG. MATERIALS AND METHODS: 
+      Between January 2008 and November 2012, 145 patients were prospectively and 
+      randomly included in the study. Seventy patients composed the group A, whose 
+      operations were completed with placement of nasogastric tube; the other 75 
+      patients were included in the group B, in which no nasogastric tube was placed. 
+      RESULTS: No statistical differences were observed between group A and group B 
+      regarding gender distribution, age, weight, and BMI. No intraoperative 
+      complications and no conversion occurred in both groups. Intraoperative blood 
+      loss (50.1 +/- 42.3 vs. 52.5 +/- 37.6 ml, respectively) and operative time (65.4 +/- 
+      25.5 vs. 62.6 +/- 27.8 min, respectively) were comparable between the two groups 
+      (p: NS). One staple line leak (1.4%) occurred on 6th postoperative day in group A 
+      patients. No leak was observed in group B patients. Postoperative hospital stay 
+      was significantly longer in group A vs. group B patients (7.6 +/- 3.4 vs. 6.2 +/- 3.1 
+      days, respectively, p: 0.04). CONCLUSIONS: Routine placement of nasogastric tube 
+      in patients operated of LSG seems not useful in reducing leaks' incidence.
+FAU - Rossetti, Gianluca
+AU  - Rossetti G
+AD  - Digestive Surgery Unit, Second University of Naples , via Pansini 5, Naples , 
+      Italy .
+FAU - Fei, Landino
+AU  - Fei L
+FAU - Docimo, Ludovico
+AU  - Docimo L
+FAU - Del Genio, Gianmattia
+AU  - Del Genio G
+FAU - Micanti, Fausta
+AU  - Micanti F
+FAU - Belfiore, Annamaria
+AU  - Belfiore A
+FAU - Brusciano, Luigi
+AU  - Brusciano L
+FAU - Moccia, Francesco
+AU  - Moccia F
+FAU - Cimmino, Marco
+AU  - Cimmino M
+FAU - Marra, Teresa
+AU  - Marra T
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20140129
+PL  - United States
+TA  - J Invest Surg
+JT  - Journal of investigative surgery : the official journal of the Academy of 
+      Surgical Research
+JID - 8809255
+SB  - IM
+MH  - Adult
+MH  - *Bariatric Surgery
+MH  - Female
+MH  - *Gastrectomy
+MH  - Humans
+MH  - *Intubation, Gastrointestinal
+MH  - Male
+MH  - Middle Aged
+MH  - Obesity, Morbid/surgery
+MH  - Postoperative Complications/*prevention & control
+MH  - Prospective Studies
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Bariatric surgery
+OT  - laparoscopy
+OT  - nasogastric tube
+OT  - sleeve gastrectomy
+OT  - staple line leak
+EDAT- 2014/01/31 06:00
+MHDA- 2015/03/31 06:00
+CRDT- 2014/01/31 06:00
+PHST- 2014/01/31 06:00 [entrez]
+PHST- 2014/01/31 06:00 [pubmed]
+PHST- 2015/03/31 06:00 [medline]
+AID - 10.3109/08941939.2013.875606 [doi]
+PST - ppublish
+SO  - J Invest Surg. 2014 Aug;27(4):234-9. doi: 10.3109/08941939.2013.875606. Epub 2014 
+      Jan 29.

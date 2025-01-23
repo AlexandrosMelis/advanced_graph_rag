@@ -1,0 +1,102 @@
+PMID- 21080127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110512
+LR  - 20220409
+IS  - 1528-1132 (Electronic)
+IS  - 0009-921X (Print)
+IS  - 0009-921X (Linking)
+VI  - 469
+IP  - 4
+DP  - 2011 Apr
+TI  - Can implant retention be recommended for treatment of infected TKA?
+PG  - 961-9
+LID - 10.1007/s11999-010-1679-8 [doi]
+AB  - BACKGROUND: Retention treatment is reportedly associated with lower infection 
+      control rates than two-stage revision. However, the studies on which this 
+      presumption are based depend on comparisons of historical rather than concurrent 
+      controls. QUESTIONS/PURPOSES: We (1) asked whether the infection control rates, 
+      number of additional procedures, length of hospital stay, and treatment duration 
+      differed between implant retention and two-stage revision treatment; and (2) 
+      identified risk factors that can contribute to failure of infection control. 
+      METHODS: We reviewed the records of 60 patients treated for 64 infected TKA from 
+      2002 to 2007. Twenty-eight patients (32 knees) underwent debridement with 
+      retention of component, and 32 patients (32 knees) were treated with component 
+      removal and two-stage revision surgery. We determined patients' demographics, 
+      type of infection, causative organisms, and outcome of treatment. Mean followup 
+      was 36 months (range, 12-84 months). RESULTS: Infection control rate was 31% in 
+      retention and 59% in the removal group after initial surgical treatment, and 81% 
+      and 91% at latest followup, respectively. Treatment duration was shorter in the 
+      retention group and there was no difference in number of additional surgeries and 
+      length of hospital stay. Type of treatment (retention versus removal) was the 
+      only factor associated with infection control; subgroup analysis in the retention 
+      group showed Staphylococcus aureus infection and polyethylene nonexchange as 
+      contributing factors for failure of infection control. CONCLUSIONS: Although 
+      initial infection control rate was substantially lower in the retention group 
+      than the removal group, final results were comparable at latest followup. We 
+      believe retention treatment can be selectively considered for non-S. aureus 
+      infection, and when applied in selected patients, polyethylene exchange should be 
+      performed. LEVEL OF EVIDENCE: Level III, therapeutic study. See the Guidelines 
+      for Authors for a complete description of levels of evidence.
+FAU - Choi, Ho-Rim
+AU  - Choi HR
+AD  - Harris Orthopedic Laboratory, Department of Orthopedic Surgery, Massachusetts 
+      General Hospital, 55 Fruit Street, GRJ-1126, Boston, MA 02114, USA.
+FAU - von Knoch, Fabian
+AU  - von Knoch F
+FAU - Zurakowski, David
+AU  - Zurakowski D
+FAU - Nelson, Sandra B
+AU  - Nelson SB
+FAU - Malchau, Henrik
+AU  - Malchau H
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Clin Orthop Relat Res
+JT  - Clinical orthopaedics and related research
+JID - 0075674
+RN  - 9002-88-4 (Polyethylene)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Arthroplasty, Replacement, Knee/*adverse effects/instrumentation
+MH  - Boston
+MH  - Chi-Square Distribution
+MH  - *Debridement/adverse effects
+MH  - *Device Removal/adverse effects
+MH  - Female
+MH  - Humans
+MH  - *Infection Control/methods
+MH  - Kaplan-Meier Estimate
+MH  - Knee Prosthesis/*adverse effects
+MH  - Length of Stay
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - Patient Selection
+MH  - Polyethylene
+MH  - Prosthesis Design
+MH  - Prosthesis-Related Infections/diagnosis/microbiology/*surgery
+MH  - Reoperation
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+PMC - PMC3048274
+EDAT- 2010/11/17 06:00
+MHDA- 2011/05/13 06:00
+PMCR- 2012/04/01
+CRDT- 2010/11/17 06:00
+PHST- 2010/11/17 06:00 [entrez]
+PHST- 2010/11/17 06:00 [pubmed]
+PHST- 2011/05/13 06:00 [medline]
+PHST- 2012/04/01 00:00 [pmc-release]
+AID - 1679 [pii]
+AID - 10.1007/s11999-010-1679-8 [doi]
+PST - ppublish
+SO  - Clin Orthop Relat Res. 2011 Apr;469(4):961-9. doi: 10.1007/s11999-010-1679-8.

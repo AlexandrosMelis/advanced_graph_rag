@@ -1,0 +1,79 @@
+PMID- 12145243
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030113
+LR  - 20221207
+IS  - 0149-5992 (Print)
+IS  - 0149-5992 (Linking)
+VI  - 25
+IP  - 8
+DP  - 2002 Aug
+TI  - Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes 
+      associated with improved outcomes?: U.K. prospective diabetes study 61.
+PG  - 1410-7
+AB  - OBJECTIVE: Type 2 diabetes may be present for several years before diagnosis, by 
+      which time many patients have already developed diabetic complications. Earlier 
+      detection and treatment may reduce this burden, but evidence to support this 
+      approach is lacking. RESEARCH DESIGN AND METHODS: Glycemic control and clinical 
+      and surrogate outcomes were compared for 5,088 of 5,102 U.K. Diabetes Prospective 
+      Study participants according to whether they had low (<140 mg/dl [<7.8 mmol/l]), 
+      intermediate (140 to <180 mg/dl [7.8 to <10.0 mmol/l]), or high (> or =180 mg/dl 
+      [> or =10 mmol/l]) fasting plasma glucose (FPG) levels at diagnosis. Individuals 
+      who presented with and without diabetic symptoms were also compared. RESULTS: 
+      Fewer people with FPG in the lowest category had retinopathy, abnormal 
+      biothesiometer measurements, or reported erectile dysfunction. The rate of 
+      increase in FPG and HbA(1c) during the study was identical in all three groups, 
+      although absolute differences persisted. Individuals in the low FPG group had a 
+      significantly reduced risk for each predefined clinical outcome except stroke, 
+      whereas those in the intermediate group had significantly reduced risk for each 
+      outcome except stroke and myocardial infarction. The low and intermediate FPG 
+      groups had a significantly reduced risk for progression of retinopathy, reduction 
+      in vibration sensory threshold, or development of microalbuminuria. CONCLUSIONS: 
+      People presenting with type 2 diabetes with lower initial glycemia who may be 
+      earlier in the course of their disease had fewer adverse clinical outcomes 
+      despite similar glycemic progression. Since most such people are asymptomatic at 
+      diagnosis, active case detection programs would be required to identify them.
+FAU - Colagiuri, Stephen
+AU  - Colagiuri S
+AD  - Diabetes Center, Prince of Wales Hospital, Randwick, Australia. Diabetes Trials 
+      Unit, Oxford Center for Diabetes, Endocrinology and Metabolism, University of 
+      Oxford, Oxford, UK.
+FAU - Cull, Carole A
+AU  - Cull CA
+FAU - Holman, Rury R
+AU  - Holman RR
+CN  - UKPDS Group
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Diabetes Care
+JT  - Diabetes care
+JID - 7805975
+RN  - 0 (Blood Glucose)
+RN  - 0 (Glycated Hemoglobin A)
+SB  - IM
+MH  - Aged
+MH  - *Blood Glucose
+MH  - Diabetes Mellitus, Type 2/*blood/*diagnosis/therapy
+MH  - Diabetic Retinopathy/blood/diagnosis/therapy
+MH  - Disease-Free Survival
+MH  - Fasting
+MH  - Female
+MH  - Glycated Hemoglobin/analysis
+MH  - Humans
+MH  - Hyperglycemia/blood/diagnosis/therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Prospective Studies
+MH  - Treatment Outcome
+EDAT- 2002/07/30 10:00
+MHDA- 2003/01/14 04:00
+CRDT- 2002/07/30 10:00
+PHST- 2002/07/30 10:00 [pubmed]
+PHST- 2003/01/14 04:00 [medline]
+PHST- 2002/07/30 10:00 [entrez]
+AID - 10.2337/diacare.25.8.1410 [doi]
+PST - ppublish
+SO  - Diabetes Care. 2002 Aug;25(8):1410-7. doi: 10.2337/diacare.25.8.1410.

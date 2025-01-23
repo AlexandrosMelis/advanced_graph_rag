@@ -1,0 +1,81 @@
+PMID- 12947068
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031002
+LR  - 20061115
+IS  - 0732-183X (Print)
+IS  - 0732-183X (Linking)
+VI  - 21
+IP  - 17
+DP  - 2003 Sep 1
+TI  - Do older men benefit from curative therapy of localized prostate cancer?
+PG  - 3318-27
+AB  - PURPOSE: Prior decision-analytic models are based on outdated or suboptimal 
+      efficacy, patient preference, and comorbidity data. We estimated life expectancy 
+      (LE) and quality-adjusted life expectancy (QALE) associated with available 
+      treatments for localized prostate cancer in men aged >/= 65 years, adjusting for 
+      Gleason score, patient preferences, and comorbidity. METHODS: We evaluated three 
+      treatments, using a decision-analytic Markov model: radical prostatectomy (RP), 
+      external beam radiotherapy (EBRT), and watchful waiting (WW). Rates of treatment 
+      complications and pretreatment incontinence and impotence were derived from 
+      published studies. We estimated treatment efficacy using three data sources: 
+      cancer registry cohort data, pooled case series, and modern radiotherapy studies. 
+      Utilities were obtained from 141 prostate cancer patients and from published 
+      studies. RESULTS: For men with well-differentiated tumors and few comorbidities, 
+      potentially curative therapy (RP or EBRT) prolonged LE up to age 75 years but did 
+      not improve QALE at any age. For moderately differentiated cancers, potentially 
+      curative therapy resulted in LE and QALE gains up to age 75 years. For poorly 
+      differentiated disease, potentially curative therapy resulted in LE and QALE 
+      gains up to age 80 years. Benefits of potentially curative therapy were 
+      restricted to men with no worse than mild comorbidity. When cohort and pooled 
+      case series data were used, RP was preferred over EBRT in all groups but was 
+      comparable to modern radiotherapy. CONCLUSION: Potentially curative therapy 
+      results in significantly improved LE and QALE for older men with few 
+      comorbidities and moderately or poorly differentiated localized prostate cancer. 
+      Age should not be a barrier to treatment in this group.
+FAU - Alibhai, Shabbir M H
+AU  - Alibhai SM
+AD  - University Health Network, Room ENG-233, 200 Elizabeth St, Toronto, Ontario, 
+      Canada M5G 2C4. shabbir.alibhai@uhn.on.ca.
+FAU - Naglie, Gary
+AU  - Naglie G
+FAU - Nam, Robert
+AU  - Nam R
+FAU - Trachtenberg, John
+AU  - Trachtenberg J
+FAU - Krahn, Murray D
+AU  - Krahn MD
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of 
+      Clinical Oncology
+JID - 8309333
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Comorbidity
+MH  - Decision Support Techniques
+MH  - Humans
+MH  - *Life Expectancy
+MH  - Male
+MH  - Markov Chains
+MH  - Postoperative Complications
+MH  - Prostatectomy
+MH  - Prostatic Neoplasms/pathology/*radiotherapy/*surgery
+MH  - Quality of Life
+MH  - Radiotherapy/adverse effects
+MH  - Treatment Outcome
+EDAT- 2003/08/30 05:00
+MHDA- 2003/10/03 05:00
+CRDT- 2003/08/30 05:00
+PHST- 2003/08/30 05:00 [pubmed]
+PHST- 2003/10/03 05:00 [medline]
+PHST- 2003/08/30 05:00 [entrez]
+AID - JCO.2003.09.034 [pii]
+AID - 10.1200/JCO.2003.09.034 [doi]
+PST - ppublish
+SO  - J Clin Oncol. 2003 Sep 1;21(17):3318-27. doi: 10.1200/JCO.2003.09.034.

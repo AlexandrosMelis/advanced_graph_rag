@@ -1,0 +1,82 @@
+PMID- 9199905
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970813
+LR  - 20190722
+IS  - 0016-5107 (Print)
+IS  - 0016-5107 (Linking)
+VI  - 45
+IP  - 6
+DP  - 1997 Jun
+TI  - Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic 
+      manifestation of esophagitis in children?
+PG  - 485-9
+AB  - BACKGROUND: We observed an endoscopic abnormally in a group of children with 
+      histological esophagitis. We termed this finding "vertical lines in esophageal 
+      mucosa" (VLEM). We examined the relationship between the presence of VLEM and 
+      significant histologic changes in esophageal mucosal biopsies. METHODS: Between 
+      January 1, 1992, and August 31, 1994, the senior author (JFF) performed 255 
+      esophageal biopsies. The procedure reports, available endoscopic photographs, and 
+      histology reports were reviewed to establish the endoscopic and histologic 
+      appearance of the esophageal mucosa. Intraepithelial cells were counted in a 
+      blind review of 42 randomly selected biopsies. RESULTS: The esophageal mucosa had 
+      a normal appearance on 160 endoscopic studies (Group 1) and VLEM were the only 
+      mucosal abnormalities in 41 endoscopies (Group 2). Histology was normal in 92 of 
+      160 biopsies (57.5%) from Group 1, and 1 of 41 biopsies (2.4%) from Group 2. Most 
+      patients in Group 2 had eosinophilic esophagitis (34 of 41, 83%, specificity 
+      0.85, sensitivity 0.5, p > 0.001) which was of moderate to severe intensity (31 
+      of 34, 91.2%, specificity 0.88, sensitivity 0.73, p < 0.001). CONCLUSIONS: 
+      Histology usually demonstrated moderate to severe inflammation when VLEM were 
+      present. VLEM may be a highly specific endoscopic feature of esophagitis in 
+      children.
+FAU - Gupta, S K
+AU  - Gupta SK
+AD  - Division of Gastroenterology/Hepatology, James Whitcomb Riley Hospital for 
+      Children, Indiana University, School of Medicine, Indianapolis 46202-5225, USA.
+FAU - Fitzgerald, J F
+AU  - Fitzgerald JF
+FAU - Chong, S K
+AU  - Chong SK
+FAU - Croffie, J M
+AU  - Croffie JM
+FAU - Collins, M H
+AU  - Collins MH
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Gastrointest Endosc
+JT  - Gastrointestinal endoscopy
+JID - 0010505
+SB  - IM
+MH  - Adolescent
+MH  - Biopsy
+MH  - Cell Count
+MH  - Child
+MH  - Child, Preschool
+MH  - *Endosonography
+MH  - Esophagitis/*diagnostic imaging/pathology
+MH  - Esophagoscopy/methods
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Intestinal Mucosa/*diagnostic imaging/pathology
+MH  - Male
+MH  - Observer Variation
+MH  - Random Allocation
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+EDAT- 1997/06/01 00:00
+MHDA- 1997/06/01 00:01
+CRDT- 1997/06/01 00:00
+PHST- 1997/06/01 00:00 [pubmed]
+PHST- 1997/06/01 00:01 [medline]
+PHST- 1997/06/01 00:00 [entrez]
+AID - S0016-5107(97)70178-0 [pii]
+AID - 10.1016/s0016-5107(97)70178-0 [doi]
+PST - ppublish
+SO  - Gastrointest Endosc. 1997 Jun;45(6):485-9. doi: 10.1016/s0016-5107(97)70178-0.

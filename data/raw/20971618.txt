@@ -1,0 +1,103 @@
+PMID- 20971618
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110324
+LR  - 20101129
+IS  - 1873-569X (Electronic)
+IS  - 0923-1811 (Linking)
+VI  - 60
+IP  - 3
+DP  - 2010 Dec
+TI  - Are lifetime prevalence of impetigo, molluscum and herpes infection really 
+      increased in children having atopic dermatitis?
+PG  - 173-8
+LID - 10.1016/j.jdermsci.2010.09.003 [doi]
+AB  - BACKGROUND: Cutaneous infections such as impetigo contagiosum (IC), molluscum 
+      contagiosum (MC) and herpes virus infection (HI) appear to be associated with 
+      atopic dermatitis (AD), but there are no reports of concrete epidemiological 
+      evidence. OBJECTIVE: We evaluated the association of childhood AD with these 
+      infections by conducting a population-based cross-sectional study. METHODS: 
+      Enrolled in this study were 1117 children aged 0-6 years old attending nursery 
+      schools in Ishigaki City, Okinawa Prefecture, Japan. Physical examination was 
+      performed by dermatologists, and a questionnaire was completed on each child's 
+      history of allergic diseases including AD, asthma, allergic rhinitis and egg 
+      allergy, and that of skin infections including IC, MC and HI, as well as familial 
+      history of AD. RESULTS: In 913 children (AD; 132), a history of IC, MC or HI was 
+      observed in 45.1%, 19.7%, and 2.5%, respectively. Multiple logistic regression 
+      analysis revealed that the odds of having a history of IC were 1.8 times higher 
+      in AD children than in non-AD children. Meanwhile, a history of MC was 
+      significantly correlated to the male gender, but not to a personal history of AD. 
+      As for HI, we found no correlated factors in this study. CONCLUSIONS: The 
+      lifetime prevalence of IC was indeed higher in young children with a history of 
+      AD.
+CI  - Copyright (c) 2010 Japanese Society for Investigative Dermatology. Published by 
+      Elsevier Ireland Ltd. All rights reserved.
+FAU - Hayashida, Sayaka
+AU  - Hayashida S
+AD  - Department of Dermatology, Kyushu University, Higashiku, Fukuoka, Japan. 
+      nusayaka@dermatol.med.kyushu-u.ac.jp
+FAU - Furusho, Norihiro
+AU  - Furusho N
+FAU - Uchi, Hiroshi
+AU  - Uchi H
+FAU - Miyazaki, Shougo
+AU  - Miyazaki S
+FAU - Eiraku, Kunimitsu
+AU  - Eiraku K
+FAU - Gondo, Chisato
+AU  - Gondo C
+FAU - Tsuji, Gaku
+AU  - Tsuji G
+FAU - Hachisuka, Junichi
+AU  - Hachisuka J
+FAU - Fukagawa, Shuji
+AU  - Fukagawa S
+FAU - Kido, Makiko
+AU  - Kido M
+FAU - Nakahara, Takeshi
+AU  - Nakahara T
+FAU - Moroi, Yoichi
+AU  - Moroi Y
+FAU - Hayashi, Jun
+AU  - Hayashi J
+FAU - Hagihara, Akihito
+AU  - Hagihara A
+FAU - Furue, Masutaka
+AU  - Furue M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20101023
+PL  - Netherlands
+TA  - J Dermatol Sci
+JT  - Journal of dermatological science
+JID - 9011485
+SB  - IM
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - Dermatitis, Atopic/*complications
+MH  - Female
+MH  - Herpesviridae Infections/*complications/*epidemiology
+MH  - Humans
+MH  - Impetigo/*complications/*epidemiology
+MH  - Infant
+MH  - Japan/epidemiology
+MH  - Male
+MH  - Molluscum Contagiosum/*complications/*epidemiology
+MH  - Prevalence
+MH  - Risk Factors
+EDAT- 2010/10/26 06:00
+MHDA- 2011/03/25 06:00
+CRDT- 2010/10/26 06:00
+PHST- 2010/06/17 00:00 [received]
+PHST- 2010/08/24 00:00 [revised]
+PHST- 2010/09/07 00:00 [accepted]
+PHST- 2010/10/26 06:00 [entrez]
+PHST- 2010/10/26 06:00 [pubmed]
+PHST- 2011/03/25 06:00 [medline]
+AID - S0923-1811(10)00292-6 [pii]
+AID - 10.1016/j.jdermsci.2010.09.003 [doi]
+PST - ppublish
+SO  - J Dermatol Sci. 2010 Dec;60(3):173-8. doi: 10.1016/j.jdermsci.2010.09.003. Epub 
+      2010 Oct 23.

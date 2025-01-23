@@ -1,0 +1,86 @@
+PMID- 24614789
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140918
+LR  - 20220408
+IS  - 0390-5616 (Print)
+IS  - 0390-5616 (Linking)
+VI  - 58
+IP  - 1
+DP  - 2014 Mar
+TI  - Is lumbar drainage of postoperative cerebrospinal fluid fistula after spine 
+      surgery effective?
+PG  - 23-7
+AB  - AIM: This study is a retrospective consecutive case series analysis of 198 
+      patients who underwent spine surgery between 2009 and 2010. The aim of this paper 
+      was to assess the efficacy and safeness of bed rest and lumbar drainage in 
+      treating postoperative CSF fistula. Postoperative cerebrospinal fluid (CSF) 
+      fistula is a well-known complication in spine surgery which lead to a significant 
+      change in length of hospitalization and possible postoperative complications. 
+      Management of CSF leaks has changed little over the past 20 years with no golden 
+      standard advocated from literature. METHODS: Postoperative CSF fistulas were 
+      described in 16 of 198 patients (8%) who underwent spine surgery between 2009 and 
+      2010. The choice of the therapeutic strategy was based on the clinical condition 
+      of the patients, taking into account the possibility to maintain the prone 
+      position continuously and the risk of morbidity due to prolonged bed rest. Six 
+      patients were treated conservatively (position prone for three weeks), ten 
+      patients were treated by positioning an external CSF lumbar drainage for ten 
+      days. The mean follow-up period was ten months. RESULTS: All patients healed 
+      their wound properly and no adverse events were recorded. Patients treated 
+      conservatively were cured in a mean period of 30 days, while patients treated 
+      with CSF drainage were cured in a mean period of 10 days. CONCLUSION: Lumbar 
+      drainage seems to be effective and safe both in preventing CSF fistula in cases 
+      of large dural tears and debilitated/irradiated patients and in treating CSF 
+      leaks.
+FAU - Barbanti Brodano, G
+AU  - Barbanti Brodano G
+AD  - Department of Oncologic and Degenerative Spine Surgery Rizzoli Orthopedic 
+      Institute, Bologna, Italy2 Department of Neurosurgery Bellaria‑Maggiore Hospital, 
+      Bologna, Italy3 Orthopedics and Traumatology Division Reggio Emilia Hospital, 
+      Reggio Emilia, Italy - giovanni@barbantibrodano.com.
+FAU - Serchi, E
+AU  - Serchi E
+FAU - Babbi, L
+AU  - Babbi L
+FAU - Terzi, S
+AU  - Terzi S
+FAU - Corghi, A
+AU  - Corghi A
+FAU - Gasbarrini, A
+AU  - Gasbarrini A
+FAU - Bandiera, S
+AU  - Bandiera S
+FAU - Griffoni, C
+AU  - Griffoni C
+FAU - Colangeli, S
+AU  - Colangeli S
+FAU - Ghermandi, R
+AU  - Ghermandi R
+FAU - Boriani, S
+AU  - Boriani S
+LA  - eng
+PT  - Journal Article
+PL  - Italy
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+JID - 0432557
+SB  - IM
+MH  - Cerebrospinal Fluid Rhinorrhea/*surgery
+MH  - Drainage/adverse effects
+MH  - Dura Mater/surgery
+MH  - Female
+MH  - Fistula/*cerebrospinal fluid/*surgery
+MH  - Humans
+MH  - Male
+MH  - Postoperative Complications/prevention & control/*surgery
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+EDAT- 2014/03/13 06:00
+MHDA- 2014/09/19 06:00
+CRDT- 2014/03/12 06:00
+PHST- 2014/03/12 06:00 [entrez]
+PHST- 2014/03/13 06:00 [pubmed]
+PHST- 2014/09/19 06:00 [medline]
+AID - R38Y2014N01A0023 [pii]
+PST - ppublish
+SO  - J Neurosurg Sci. 2014 Mar;58(1):23-7.

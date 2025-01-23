@@ -1,0 +1,98 @@
+PMID- 9767546
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981231
+LR  - 20171116
+IS  - 0085-2538 (Print)
+IS  - 0085-2538 (Linking)
+VI  - 54
+IP  - 4
+DP  - 1998 Oct
+TI  - Autoxidation products of both carbohydrates and lipids are increased in uremic 
+      plasma: is there oxidative stress in uremia?
+PG  - 1290-5
+AB  - BACKGROUND: Advanced glycation end products (AGEs), formed by non-enzymatic 
+      glycation and oxidation (glycoxidation) reactions, have been implicated in the 
+      pathogenesis of several diseases, including normoglycemic uremia. AGE research in 
+      uremia has focused on the accumulation of carbohydrate-derived adducts generated 
+      by the Maillard reaction. Recent studies, however, have demonstrated that one 
+      AGE, the glycoxidation product carboxymethyllysine (CML), could be derived not 
+      only from carbohydrates but also from oxidation of polyunsaturated fatty acids in 
+      vitro, raising the possibility that both carbohydrate and lipid autoxidation 
+      might be increased in uremia. METHODS: To address this hypothesis, we applied gas 
+      chromatography-mass spectrometry and high performance liquid chromatography to 
+      measure protein adducts formed in uremic plasma by reactions between carbonyl 
+      compounds and protein amino groups: pentosidine derived from carbohydrate-derived 
+      carbonyls, malondialdehyde (MDA)-lysine derived from lipid-derived carbonyls, and 
+      CML originating possibly from both sources. RESULTS: All three adducts were 
+      elevated in uremic plasma. Plasma CML levels were mainly (>95%) albumin bound. 
+      Their levels were not correlated with fructoselysine levels and were similar in 
+      diabetic and non-diabetic patients on hemodialysis, indicating that their 
+      increase was not driven by glucose. Pentosidine and MDA-lysine were also 
+      increased in plasma to the same extent in diabetic and non-diabetic hemodialysis 
+      patients. Statistical analysis indicated that plasma levels of CML correlated 
+      weakly (P < 0.05) with those of pentosidine and MDA-lysine, but that pentosidine 
+      and MDA-lysine varied independently (P > 0.5). CONCLUSIONS: These data suggest 
+      that the increased levels of AGEs in blood, and probably in tissues, reported in 
+      uremia implicate a broad derangement in non-enzymatic biochemistry involving 
+      alterations in autoxidation of both carbohydrates and lipids.
+FAU - Miyata, T
+AU  - Miyata T
+AD  - Molecular and Cellular Nephrology, Institute of Medical Sciences and Department 
+      of Internal Medicine, Tokai University School of Medicine, Isehara, Kanagawa, 
+      Japan. t-miyata@is.icc.u-tokai.ac.jp
+FAU - Fu, M X
+AU  - Fu MX
+FAU - Kurokawa, K
+AU  - Kurokawa K
+FAU - van Ypersele de Strihou, C
+AU  - van Ypersele de Strihou C
+FAU - Thorpe, S R
+AU  - Thorpe SR
+FAU - Baynes, J W
+AU  - Baynes JW
+LA  - eng
+GR  - AG11472/AG/NIA NIH HHS/United States
+GR  - NIDDK 19971/DK/NIDDK NIH HHS/United States
+GR  - P01-HL55782/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Kidney Int
+JT  - Kidney international
+JID - 0323470
+RN  - 0 (Carbohydrates)
+RN  - 0 (Glycation End Products, Advanced)
+RN  - 0 (Lipids)
+RN  - 4Y8F71G49Q (Malondialdehyde)
+RN  - 70YDX3Z2O7 (N(6)-carboxymethyllysine)
+RN  - 94ZLA3W45F (Arginine)
+RN  - BJ4I2X2CQJ (pentosidine)
+RN  - K3Z4F929H6 (Lysine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Arginine/analogs & derivatives/blood
+MH  - Carbohydrates/*blood/chemistry
+MH  - Case-Control Studies
+MH  - Glycation End Products, Advanced/blood
+MH  - Humans
+MH  - Lipid Peroxidation
+MH  - Lipids/*blood/chemistry
+MH  - Lysine/analogs & derivatives/blood
+MH  - Malondialdehyde/analogs & derivatives/blood
+MH  - Middle Aged
+MH  - Oxidation-Reduction
+MH  - *Oxidative Stress
+MH  - Uremia/*blood
+EDAT- 1998/10/10 00:00
+MHDA- 1998/10/10 00:01
+CRDT- 1998/10/10 00:00
+PHST- 1998/10/10 00:00 [pubmed]
+PHST- 1998/10/10 00:01 [medline]
+PHST- 1998/10/10 00:00 [entrez]
+AID - S0085-2538(15)30752-3 [pii]
+AID - 10.1046/j.1523-1755.1998.00093.x [doi]
+PST - ppublish
+SO  - Kidney Int. 1998 Oct;54(4):1290-5. doi: 10.1046/j.1523-1755.1998.00093.x.

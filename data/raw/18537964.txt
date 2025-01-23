@@ -1,0 +1,82 @@
+PMID- 18537964
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080924
+LR  - 20211020
+IS  - 1365-2125 (Electronic)
+IS  - 0306-5251 (Print)
+IS  - 0306-5251 (Linking)
+VI  - 66
+IP  - 2
+DP  - 2008 Aug
+TI  - Does a physician's specialty influence the recording of medication history in 
+      patients' case notes?
+PG  - 308-12
+LID - 10.1111/j.1365-2125.2008.03202.x [doi]
+AB  - AIMS: To determine the impact of a physician's specialty on the frequency and 
+      depth of medication history documented in patient medical records. METHODS: A 
+      cross-sectional assessment of the frequency and depth of medication history 
+      information documented by 123 physicians for 900 randomly selected patients 
+      stratified across Cardiology, Chest, Dermatology, Endocrine, Gastroenterology, 
+      Haematology, Neurology, Psychiatry and Renal specialties was carried out at a 
+      900-bed teaching hospital located in Ibadan, Nigeria. RESULTS: Four hundred and 
+      forty-three (49.2%) of the cohort were males and 457 (50.8%) were females; with 
+      mean ages 43.2 +/- 18.6 and 43.1 +/- 17.9 years respectively. Physicians' 
+      specialties significantly influenced the depth of documentation of the medication 
+      history information across the nine specialties (P < 0.0001). Post hoc pair-wise 
+      comparisons with Tukey's HSD test showed that the mean scores for adverse drug 
+      reactions and adherence to medicines was highest in the Cardiology specialty; 
+      while the Chest specialty had the highest mean scores for allergy to drugs, food, 
+      chemicals and cigarette smoking. Mean scores for the use of alcohol; illicit 
+      drugs; dietary restrictions was highest for Gastroenterology, Psychiatry and 
+      Endocrine specialties respectively. Physicians' specialties also significantly 
+      influenced the frequency of documentation of the medication history across the 
+      nine specialties (P < 0.0001). CONCLUSIONS: Physicians appear to document more 
+      frequently and in greater depth medication history information that may aid the 
+      diagnostic tasks in their specific specialty. Researchers and other users of 
+      medication history data documented in patients' medical records by physicians may 
+      want to take special cognizance of this phenomenon.
+FAU - Yusuff, Kazeem B
+AU  - Yusuff KB
+AD  - Department of Clinical Pharmacy and Pharmacy Administration, Faculty of Pharmacy, 
+      University of Ibadan, Ibadan, Nigeria. yusuffkby@yahoo.co.uk
+FAU - Tayo, Fola
+AU  - Tayo F
+LA  - eng
+PT  - Journal Article
+DEP - 20080411
+PL  - England
+TA  - Br J Clin Pharmacol
+JT  - British journal of clinical pharmacology
+JID - 7503323
+SB  - IM
+MH  - Adult
+MH  - *Attitude of Health Personnel
+MH  - Clinical Protocols/standards
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Medical History Taking/*standards
+MH  - Medical Records/standards
+MH  - *Medicine
+MH  - Middle Aged
+MH  - Nigeria
+MH  - Physicians/*standards
+MH  - Practice Patterns, Physicians'/*standards
+MH  - Random Allocation
+MH  - *Specialization
+PMC - PMC2492926
+EDAT- 2008/06/10 09:00
+MHDA- 2008/09/25 09:00
+PMCR- 2009/08/01
+CRDT- 2008/06/10 09:00
+PHST- 2008/06/10 09:00 [pubmed]
+PHST- 2008/09/25 09:00 [medline]
+PHST- 2008/06/10 09:00 [entrez]
+PHST- 2009/08/01 00:00 [pmc-release]
+AID - BCP3202 [pii]
+AID - 10.1111/j.1365-2125.2008.03202.x [doi]
+PST - ppublish
+SO  - Br J Clin Pharmacol. 2008 Aug;66(2):308-12. doi: 
+      10.1111/j.1365-2125.2008.03202.x. Epub 2008 Apr 11.

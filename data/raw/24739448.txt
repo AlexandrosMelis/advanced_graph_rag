@@ -1,0 +1,111 @@
+PMID- 24739448
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141216
+LR  - 20220321
+IS  - 1525-5069 (Electronic)
+IS  - 1525-5050 (Linking)
+VI  - 34
+DP  - 2014 May
+TI  - Have antiepileptic drug prescription claims changed following the FDA suicidality 
+      warning? An evaluation in a state Medicaid program.
+PG  - 109-15
+LID - S1525-5050(14)00098-5 [pii]
+LID - 10.1016/j.yebeh.2014.03.017 [doi]
+AB  - OBJECTIVE: In January 2008, the Food and Drug Administration (FDA) communicated 
+      concerns and, in May 2009, issued a warning about an increased risk of 
+      suicidality for all antiepileptic drugs (AEDs). This research evaluated the 
+      association between the FDA suicidality communications and the AED prescription 
+      claims among members with epilepsy and/or psychiatric disorder. METHODS: A 
+      longitudinal interrupted time-series design was utilized to evaluate Oklahoma 
+      Medicaid claims data from January 2006 through December 2009. The study included 
+      9289 continuously eligible members with prevalent diagnoses of epilepsy and/or 
+      psychiatric disorder and at least one AED prescription claim. Trends, expressed 
+      as monthly changes in the log odds of AED prescription claims, were compared 
+      across three time periods: before (January 2006 to January 2008), during 
+      (February 2008 to May 2009), and after (June 2009 to December 2009) the FDA 
+      warning. RESULTS: Before the FDA warning period, a significant upward trend of 
+      AED prescription claims of 0.01% per month (99% CI: 0.008% to 0.013%, p<0.0001) 
+      was estimated. In comparison to the prewarning period, no significant change in 
+      trend was detected during (-20.0%, 99% CI: -70.0% to 30.0%, p=0.34) or after 
+      (80.0%, 99% CI: -20.0% to 200.0%, p=0.03) the FDA warning period. After 
+      stratification, no diagnostic group (i.e., epilepsy alone, epilepsy and comorbid 
+      psychiatric disorder, and psychiatric disorder alone) experienced a significant 
+      change in trend during the entire study period (p>0.01). CONCLUSIONS: During the 
+      time period considered, the FDA AED-related suicidality warning does not appear 
+      to have significantly affected prescription claims of AED medications for the 
+      study population.
+CI  - Copyright (c) 2014 Elsevier Inc. All rights reserved.
+FAU - Mittal, Manish
+AU  - Mittal M
+AD  - Health Economics and Outcomes Research, AbbVie, North Chicago, IL, USA. 
+      Electronic address: manish.mittal@abbvie.com.
+FAU - Harrison, Donald L
+AU  - Harrison DL
+AD  - Department of Pharmacy, Clinical and Administrative Sciences, The University of 
+      Oklahoma Health Sciences Center, Oklahoma City, OK, USA. Electronic address: 
+      donald-harrison@ouhsc.edu.
+FAU - Miller, Michael J
+AU  - Miller MJ
+AD  - Department of Pharmacy, Clinical and Administrative Sciences, The University of 
+      Oklahoma Health Sciences Center, Tulsa, OK, USA. Electronic address: 
+      michael-miller@ouhsc.edu.
+FAU - Farmer, Kevin C
+AU  - Farmer KC
+AD  - Department of Pharmacy, Clinical and Administrative Sciences, The University of 
+      Oklahoma Health Sciences Center, Oklahoma City, OK, USA. Electronic address: 
+      kevin-farmer@ouhsc.edu.
+FAU - Thompson, David M
+AU  - Thompson DM
+AD  - Department of Biostatistics and Epidemiology, The University of Oklahoma Health 
+      Sciences Center, Oklahoma City, OK, USA. Electronic address: 
+      dave-thompson@ouhsc.edu.
+FAU - Ng, Yu-Tze
+AU  - Ng YT
+AD  - Department of Neurology, The University of Oklahoma Health Sciences Center, 
+      Oklahoma City, OK, USA. Electronic address: Y-Ng@ouhsc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20140414
+PL  - United States
+TA  - Epilepsy Behav
+JT  - Epilepsy & behavior : E&B
+JID - 100892858
+RN  - 0 (Anticonvulsants)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Anticonvulsants/*adverse effects/therapeutic use
+MH  - Child
+MH  - Child, Preschool
+MH  - *Drug Prescriptions
+MH  - Epilepsy/*drug therapy/psychology
+MH  - Humans
+MH  - Infant
+MH  - Interrupted Time Series Analysis
+MH  - Medicaid
+MH  - Middle Aged
+MH  - Suicide/*psychology
+MH  - United States
+MH  - United States Food and Drug Administration
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Antiepileptic drugs
+OT  - Epilepsy
+OT  - FDA alert
+OT  - Psychiatric disorder
+OT  - Suicidality
+EDAT- 2014/04/18 06:00
+MHDA- 2014/12/17 06:00
+CRDT- 2014/04/18 06:00
+PHST- 2014/03/09 00:00 [received]
+PHST- 2014/03/18 00:00 [revised]
+PHST- 2014/03/21 00:00 [accepted]
+PHST- 2014/04/18 06:00 [entrez]
+PHST- 2014/04/18 06:00 [pubmed]
+PHST- 2014/12/17 06:00 [medline]
+AID - S1525-5050(14)00098-5 [pii]
+AID - 10.1016/j.yebeh.2014.03.017 [doi]
+PST - ppublish
+SO  - Epilepsy Behav. 2014 May;34:109-15. doi: 10.1016/j.yebeh.2014.03.017. Epub 2014 
+      Apr 14.

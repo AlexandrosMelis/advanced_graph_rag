@@ -1,0 +1,83 @@
+PMID- 11567820
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011011
+LR  - 20220410
+IS  - 0360-3016 (Print)
+IS  - 0360-3016 (Linking)
+VI  - 51
+IP  - 2
+DP  - 2001 Oct 1
+TI  - Does increased nerve length within the treatment volume improve trigeminal 
+      neuralgia radiosurgery? A prospective double-blind, randomized study.
+PG  - 449-54
+AB  - PURPOSE: To test the hypothesis that increasing the nerve length within the 
+      treatment volume for trigeminal neuralgia radiosurgery would improve pain relief. 
+      METHODS AND MATERIALS: Eighty-seven patients with typical trigeminal neuralgia 
+      were randomized to undergo retrogasserian gamma knife radiosurgery (75 Gy maximal 
+      dose with 4-mm diameter collimators) using either one (n = 44) or two (n = 43) 
+      isocenters. The median follow-up was 26 months (range 1-36). RESULTS: Pain relief 
+      was complete in 57 patients (45 without medication and 12 with low-dose 
+      medication), partial in 15, and minimal in another 15 patients. The actuarial 
+      rate of obtaining complete pain relief (with or without medication) was 67.7% +/- 
+      5.1%. The pain relief was identical for one- and two-isocenter radiosurgery. Pain 
+      relapsed in 30 of 72 responding patients. Facial numbness and mild and severe 
+      paresthesias developed in 8, 5, and 1 two-isocenter patients vs. 3, 4, and 0 
+      one-isocenter patients, respectively (p = 0.23). Improved pain relief correlated 
+      with younger age (p = 0.025) and fewer prior procedures (p = 0.039) and 
+      complications (numbness or paresthesias) correlated with the nerve length 
+      irradiated (p = 0.018). CONCLUSIONS: Increasing the treatment volume to include a 
+      longer nerve length for trigeminal neuralgia radiosurgery does not significantly 
+      improve pain relief but may increase complications.
+FAU - Flickinger, J C
+AU  - Flickinger JC
+AD  - Department of Radiation Oncology, University of Pittsburgh School of Medicine, 
+      Pittsburgh, PA, USA. jflickin@msx.upmc.edu
+FAU - Pollock, B E
+AU  - Pollock BE
+FAU - Kondziolka, D
+AU  - Kondziolka D
+FAU - Phuong, L K
+AU  - Phuong LK
+FAU - Foote, R L
+AU  - Foote RL
+FAU - Stafford, S L
+AU  - Stafford SL
+FAU - Lunsford, L D
+AU  - Lunsford LD
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Int J Radiat Oncol Biol Phys
+JT  - International journal of radiation oncology, biology, physics
+JID - 7603616
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analysis of Variance
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Radiosurgery/*methods
+MH  - Trigeminal Nerve/pathology/*surgery
+MH  - Trigeminal Neuralgia/pathology/*surgery
+EDAT- 2001/09/25 10:00
+MHDA- 2001/10/12 10:01
+CRDT- 2001/09/25 10:00
+PHST- 2001/09/25 10:00 [pubmed]
+PHST- 2001/10/12 10:01 [medline]
+PHST- 2001/09/25 10:00 [entrez]
+AID - S0360-3016(01)01606-6 [pii]
+AID - 10.1016/s0360-3016(01)01606-6 [doi]
+PST - ppublish
+SO  - Int J Radiat Oncol Biol Phys. 2001 Oct 1;51(2):449-54. doi: 
+      10.1016/s0360-3016(01)01606-6.

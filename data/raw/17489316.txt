@@ -1,0 +1,83 @@
+PMID- 17489316
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070619
+LR  - 20191110
+IS  - 1166-7087 (Print)
+IS  - 1166-7087 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2007 Apr
+TI  - [Is tumour expression of VEGF associated with venous invasion and survival in pT3 
+      renal cell carcinoma?].
+PG  - 189-93
+AB  - STUDY OBJECTIVE: To determine whether there is a relationship between VEGF 
+      expression and renal vein and vena cava invasion in stage pT3 renal cell 
+      carcinoma and to evaluate the impact of VEGF expression on survival in pT3 renal 
+      cell carcinoma. MATERIAL AND METHODS: 78 patients with a pT3a or pT3b tumour 
+      without vena cava invasion or pT3b tumour with vena cava invasion were compared 
+      for age, gender, Fuhrman grade and immunohistochemical expression of VEGF. All 
+      these variables were submitted to univariate and multivariate analysis to 
+      establish their impact on survival. RESULTS: Only tumour size appeared to be 
+      significantly different between the 3 groups. On univariate analysis, invasion of 
+      the perirenal fat, lymph node involvement, distant metastases and VEGF expression 
+      were significantly associated with survival (p < 0.01). On multivariate analysis, 
+      lymph node involvement, distant metastases and VEGF expression (OR 6.07) were 
+      identified as independent predictive factors of survival. CONCLUSION: Progression 
+      of a pT3 tumour into the renal vein and vena cava is not associated with 
+      increased tumour expression of VEGF. However, VEGF is an independent prognostic 
+      factor in this group of poor prognosis renal tumours.
+FAU - Bensalah, Karim
+AU  - Bensalah K
+AD  - Service d'urologie, Hopital Pontchaillou, Rennes, France.
+FAU - Rioux-Leclercq, Nathalie
+AU  - Rioux-Leclercq N
+FAU - Vincendeau, Sebastien
+AU  - Vincendeau S
+FAU - Guille, Francois
+AU  - Guille F
+FAU - Patard, Jean-Jacques
+AU  - Patard JJ
+LA  - fre
+PT  - Comparative Study
+PT  - English Abstract
+PT  - Journal Article
+TT  - L'expression tumorale de VEGF est-elle associee at l'envahissement veineux et a 
+      la survie dans les carcinomes du rein pT3?
+PL  - France
+TA  - Prog Urol
+JT  - Progres en urologie : journal de l'Association francaise d'urologie et de la 
+      Societe francaise d'urologie
+JID - 9307844
+RN  - 0 (Vascular Endothelial Growth Factor A)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Renal Cell/*pathology/secondary
+MH  - Cause of Death
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Kidney Neoplasms/*pathology
+MH  - Lymphatic Metastasis
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Staging
+MH  - Prognosis
+MH  - Renal Veins/*pathology
+MH  - Survival Rate
+MH  - Vascular Endothelial Growth Factor A/*analysis
+MH  - Vascular Neoplasms/*pathology
+MH  - Vena Cava, Inferior/*pathology
+EDAT- 2007/05/11 09:00
+MHDA- 2007/06/20 09:00
+CRDT- 2007/05/11 09:00
+PHST- 2007/05/11 09:00 [pubmed]
+PHST- 2007/06/20 09:00 [medline]
+PHST- 2007/05/11 09:00 [entrez]
+AID - 10.1016/s1166-7087(07)92261-7 [doi]
+PST - ppublish
+SO  - Prog Urol. 2007 Apr;17(2):189-93. doi: 10.1016/s1166-7087(07)92261-7.

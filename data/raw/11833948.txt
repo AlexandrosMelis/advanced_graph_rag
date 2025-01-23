@@ -1,0 +1,61 @@
+PMID- 11833948
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020301
+LR  - 20181130
+IS  - 0028-8446 (Print)
+IS  - 0028-8446 (Linking)
+VI  - 114
+IP  - 1145
+DP  - 2001 Dec 14
+TI  - Does a delay in transfer to a rehabilitation unit for older people affect outcome 
+      after fracture of the proximal femur?
+PG  - 547-9
+AB  - AIMS: To detemine the relationship between delay in transfer to rehabilitation 
+      wards and outcome for patients aged over 75 years with fracture of the proximal 
+      femur. METHODS: An observational study in a district general hospital of all 
+      patients admitted to hospital aged over 75 years with fracture of the proximal 
+      femur over 3 1/2 years. Outcome data collected included the number of patients 
+      discharged back to their usual residence and total hospital length of stay 
+      related to age, gender, usual residence and delay in transfer to a rehabilitation 
+      ward. RESULTS: 58% of 455 patients were transferred to a rehabilitation ward. For 
+      those patients who were transferred to a rehabilitation ward only age predicted 
+      discharge to a more dependent residence. The relative risk for discharge to a 
+      more dependent residence for people aged over 85 years compared to younger people 
+      was 1.47 (95% CI 1.15-1.88). Delay in transfer to rehabilitation was associated 
+      with a longer total hospital length of stay of 0.64 (95% CI 0.23-1.05) days per 
+      day of delay in transfer. CONCLUSIONS: Delay in transfer to a rehabilitation ward 
+      was associated with a disproportionate increase in total hospital length of stay 
+      for patients aged over 75 with fracture of the proximal femur.
+FAU - Weatherall, M
+AU  - Weatherall M
+AD  - Department of Medicine, Wellington School of Medicine, Wellington South. 
+      markw@wnmeds.ac.nz
+LA  - eng
+PT  - Journal Article
+PL  - New Zealand
+TA  - N Z Med J
+JT  - The New Zealand medical journal
+JID - 0401067
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Femoral Neck Fractures/*rehabilitation
+MH  - Hospital Units/*statistics & numerical data
+MH  - Humans
+MH  - Length of Stay/*statistics & numerical data
+MH  - Logistic Models
+MH  - Male
+MH  - *Patient Transfer
+MH  - Rehabilitation Centers/*statistics & numerical data
+MH  - Risk Factors
+MH  - Time Factors
+EDAT- 2002/02/09 10:00
+MHDA- 2002/03/02 10:01
+CRDT- 2002/02/09 10:00
+PHST- 2002/02/09 10:00 [pubmed]
+PHST- 2002/03/02 10:01 [medline]
+PHST- 2002/02/09 10:00 [entrez]
+PST - ppublish
+SO  - N Z Med J. 2001 Dec 14;114(1145):547-9.

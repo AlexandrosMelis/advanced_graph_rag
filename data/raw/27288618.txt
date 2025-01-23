@@ -1,0 +1,172 @@
+PMID- 27288618
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170926
+LR  - 20181202
+IS  - 1557-8615 (Electronic)
+IS  - 0883-9441 (Linking)
+VI  - 34
+DP  - 2016 Aug
+TI  - Is inhaled prophylactic heparin useful for prevention and Management of Pneumonia 
+      in ventilated ICU patients?: The IPHIVAP investigators of the Australian and New 
+      Zealand Intensive Care Society Clinical Trials Group.
+PG  - 95-102
+LID - S0883-9441(16)30029-6 [pii]
+LID - 10.1016/j.jcrc.2016.04.005 [doi]
+AB  - PURPOSE: To determine whether prophylactic inhaled heparin is effective for the 
+      prevention and treatment of pneumonia patients receiving mechanical ventilation 
+      (MV) in the intensive care unit. METHODS: A phase 2, double blind randomized 
+      controlled trial stratified for study center and patient type (non-operative, 
+      post-operative) was conducted in three university-affiliated intensive care 
+      units. Patients aged >/=18years and requiring invasive MV for more than 48hours 
+      were randomized to usual care, nebulization of unfractionated sodium heparin 
+      (5000 units in 2mL) or placebo nebulization with 0.9% sodium chloride (2mL) four 
+      times daily with the main outcome measures of the development of ventilator 
+      associated pneumonia (VAP), ventilator associated complication (VAC) and 
+      sequential organ failure assessment scores in patients with pneumonia on 
+      admission or who developed VAP. TRIAL REGISTRATION: Australian and New Zealand 
+      Clinical Trials Registry ACTRN12612000038897. RESULTS: Two hundred and fourteen 
+      patients were enrolled (72 usual care, 71 inhaled sodium heparin, 71 inhaled 
+      sodium chloride). There were no differences between treatment groups in terms of 
+      the development of VAP, using either Klompas criteria (6-7%, P=1.00) or clinical 
+      diagnosis (24-26%, P=0.85). There was no difference in the clinical consistency 
+      (P=0.70), number (P=0.28) or the total volume of secretions per day (P=.54). The 
+      presence of blood in secretions was significantly less in the usual care group 
+      (P=0.005). CONCLUSION: Nebulized heparin cannot be recommended for prophylaxis 
+      against VAP or to hasten recovery from pneumonia in patients receiving MV.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+FAU - Bandeshe, Hiran
+AU  - Bandeshe H
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Boots, Rob
+AU  - Boots R
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia. Electronic address: r.boots@uq.edu.au.
+FAU - Dulhunty, Joel
+AU  - Dulhunty J
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Dunlop, Rachael
+AU  - Dunlop R
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Holley, Anthony
+AU  - Holley A
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Jarrett, Paul
+AU  - Jarrett P
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Gomersall, Charles D
+AU  - Gomersall CD
+AD  - Prince of Wales Hospital, Chinese University of Hong Kong, Sha Tin, Hong Kong.
+FAU - Lipman, Jeff
+AU  - Lipman J
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Lo, Thomas
+AU  - Lo T
+AD  - Prince of Wales Hospital, Chinese University of Hong Kong, Sha Tin, Hong Kong.
+FAU - O'Donoghue, Steven
+AU  - O'Donoghue S
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Paratz, Jenny
+AU  - Paratz J
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia; Heart Foundation Research Centre, 
+      Griffith University.
+FAU - Paterson, David
+AU  - Paterson D
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Roberts, Jason A
+AU  - Roberts JA
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Starr, Therese
+AU  - Starr T
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Stephens, Di
+AU  - Stephens D
+AD  - Intensive Care Unit. Royal Darwin Hospital, NT, Australia.
+FAU - Stuart, Janine
+AU  - Stuart J
+AD  - Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+      Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+      University of Queensland, QLD, Australia.
+FAU - Thomas, Jane
+AU  - Thomas J
+AD  - Intensive Care Unit. Royal Darwin Hospital, NT, Australia.
+FAU - Udy, Andrew
+AU  - Udy A
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred, Prahran, 
+      Victoria, Australia.
+FAU - White, Hayden
+AU  - White H
+AD  - Intensive Care Unit. Logan Hospital, Queensland, Australia.
+LA  - eng
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20160409
+PL  - United States
+TA  - J Crit Care
+JT  - Journal of critical care
+JID - 8610642
+RN  - 0 (Fibrinolytic Agents)
+RN  - 9005-49-6 (Heparin)
+SB  - IM
+MH  - Administration, Inhalation
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Australia
+MH  - Double-Blind Method
+MH  - Female
+MH  - Fibrinolytic Agents/*administration & dosage
+MH  - Heparin/*administration & dosage
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Male
+MH  - Middle Aged
+MH  - Nebulizers and Vaporizers
+MH  - New Zealand
+MH  - Pneumonia, Ventilator-Associated/drug therapy/*prevention & control
+MH  - Respiration, Artificial
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Nebulization
+OT  - Unfractionated heparin
+OT  - Ventilator associated complication
+OT  - Ventilator associated pneumonia
+EDAT- 2016/06/12 06:00
+MHDA- 2017/09/28 06:00
+CRDT- 2016/06/12 06:00
+PHST- 2015/10/24 00:00 [received]
+PHST- 2016/03/02 00:00 [revised]
+PHST- 2016/04/02 00:00 [accepted]
+PHST- 2016/06/12 06:00 [entrez]
+PHST- 2016/06/12 06:00 [pubmed]
+PHST- 2017/09/28 06:00 [medline]
+AID - S0883-9441(16)30029-6 [pii]
+AID - 10.1016/j.jcrc.2016.04.005 [doi]
+PST - ppublish
+SO  - J Crit Care. 2016 Aug;34:95-102. doi: 10.1016/j.jcrc.2016.04.005. Epub 2016 Apr 
+      9.

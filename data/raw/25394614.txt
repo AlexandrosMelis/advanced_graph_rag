@@ -1,0 +1,100 @@
+PMID- 25394614
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160921
+LR  - 20151127
+IS  - 1476-4954 (Electronic)
+IS  - 1476-4954 (Linking)
+VI  - 29
+IP  - 1
+DP  - 2016
+TI  - Does timing of initial surfactant treatment make a difference in rates of chronic 
+      lung disease or mortality in premature infants? An observational regional study.
+PG  - 91-8
+LID - 10.3109/14767058.2014.987747 [doi]
+AB  - OBJECTIVE: To compare two treatment strategies in preterm infants with or at risk 
+      of respiratory distress syndrome: early surfactant administration (within one 
+      hour of birth) versus late surfactant administration, in a geographically defined 
+      population. OUTCOME: The primary outcome was chronic lung disease (CLD) and 
+      mortality before/at 36 weeks. Secondary outcomes included: duration of mechanical 
+      ventilation and continuous positive airway pressure (CPAP), post-natal steroids 
+      for CLD and major neonatal morbidities. SUBJECTS: Premature infants born at 22-32 
+      weeks' gestation between January 2006 and December 2009. SETTING: Ten neonatal 
+      intensive care units (NICUs) in New South Wales (NSW) and Australian Capital 
+      Territory (ACT), Australia. DESIGN: Retrospective analysis of prospectively 
+      collected data from the regional NICU database in NSW and ACT. RESULTS: Of the 
+      2170 infants who received surfactant, 1182 (54.5%) and 988 (45.5%) received early 
+      and late surfactant, respectively. The early surfactant group was less mature 
+      (27.1 +/- 2.1 versus 29.4 +/- 2.1 weeks) and had more CLD and mortality (40.2% versus 
+      20.0%). The multivariable analysis showed early surfactant to be associated with 
+      less duration of ventilation, longer duration of CPAP and longer hospital stay 
+      but had little or no impact on CLD/mortality. CONCLUSION: Early surfactant 
+      administration is associated with shorter duration of ventilation but does not 
+      appear to be significantly protective against CLD/mortality among premature 
+      infants. This may support the growing evidence for consideration of CPAP as an 
+      alternative to routine intubation and early surfactant administration. Further 
+      investigation from large randomized clinical trials is warranted to confirm these 
+      results.
+FAU - Premnath, Daphne
+AU  - Premnath D
+AD  - a Department of Internal Medicine .
+FAU - Kent, Alison Louise
+AU  - Kent AL
+AD  - b Department of Neonatology , Canberra Hospital , Garran , ACT , Australia .
+AD  - c The Clinical School, Australian National University , Garran , ACT , Australia 
+      .
+FAU - Bajuk, Barbara
+AU  - Bajuk B
+AD  - d Neonatal Intensive Care Units' (NICUS) Data Collection, NSW Pregnancy and 
+      Newborn Services Network , NSW , Australia , and.
+AD  - e School of Public Health, University of Sydney , NSW , Australia.
+FAU - Abdel-Latif, Mohamed E
+AU  - Abdel-Latif ME
+AD  - b Department of Neonatology , Canberra Hospital , Garran , ACT , Australia .
+AD  - c The Clinical School, Australian National University , Garran , ACT , Australia 
+      .
+CN  - NSW and the ACT Neonatal Intensive Care Audit Group
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141208
+PL  - England
+TA  - J Matern Fetal Neonatal Med
+JT  - The journal of maternal-fetal & neonatal medicine : the official journal of the 
+      European Association of Perinatal Medicine, the Federation of Asia and Oceania 
+      Perinatal Societies, the International Society of Perinatal Obstetricians
+JID - 101136916
+RN  - 0 (Pulmonary Surfactants)
+RN  - Respiratory Distress Syndrome In Premature Infants
+SB  - IM
+MH  - Australian Capital Territory/epidemiology
+MH  - Chronic Disease
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - New South Wales/epidemiology
+MH  - Pulmonary Surfactants/*administration & dosage
+MH  - Respiratory Distress Syndrome, Newborn/mortality/*prevention & control
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Chronic lung disease
+OT  - low birth weight
+OT  - mortality
+OT  - premature
+OT  - preterm
+OT  - surfactant
+OT  - survival
+EDAT- 2014/11/15 06:00
+MHDA- 2016/09/23 06:00
+CRDT- 2014/11/15 06:00
+PHST- 2014/11/15 06:00 [entrez]
+PHST- 2014/11/15 06:00 [pubmed]
+PHST- 2016/09/23 06:00 [medline]
+AID - 10.3109/14767058.2014.987747 [doi]
+PST - ppublish
+SO  - J Matern Fetal Neonatal Med. 2016;29(1):91-8. doi: 10.3109/14767058.2014.987747. 
+      Epub 2014 Dec 8.

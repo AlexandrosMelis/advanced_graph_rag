@@ -1,0 +1,97 @@
+PMID- 23149821
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130627
+LR  - 20211021
+IS  - 1619-7089 (Electronic)
+IS  - 1619-7070 (Linking)
+VI  - 40
+IP  - 2
+DP  - 2013 Jan
+TI  - Should HIV-infected patients be screened for silent myocardial ischaemia using 
+      gated myocardial perfusion SPECT?
+PG  - 271-9
+LID - 10.1007/s00259-012-2262-1 [doi]
+AB  - PURPOSE: A higher prevalence of cardiovascular risk factors (CRFs) in 
+      HIV-infected patients, together with chronic infection and treatments, has 
+      resulted in an increased risk of silent myocardial ischaemia (SMI). The objective 
+      of this study was to evaluate whether myocardial SPECT should be used for 
+      screening HIV-infected patients with no clinical symptoms of coronary artery 
+      disease. METHODS: The prevalence of SMI detected by myocardial SPECT was 
+      determined in 94 HIV-infected patients with a normal clinical cardiovascular 
+      examination in relation to anthropomorphic parameters, CRFs, inflammatory and HIV 
+      infection status, and treatment. RESULTS: Coronary artery disease was detected in 
+      nine patients (eight with ischaemia, one with myocardial infarction), 
+      corresponding to 9.6 % positivity. All but two of the scintigraphic diagnoses of 
+      ischaemia were confirmed by coronarography. Univariate analysis revealed that the 
+      overall number of CRFs and the combination of gender and age were associated with 
+      a diagnosis of SMI (p < 0.05). According to multivariate analysis, the only 
+      independent parameter significantly associated with the scintigraphic diagnosis 
+      of SMI was the combination of gender and age (p = 0.01). All the positive 
+      myocardial SPECT scans were in men older than 52 years with at least two other 
+      CRFs. In this subpopulation of 47 patients, the prevalence of SMI detected by 
+      myocardial SPECT reached 19.2 %. CONCLUSION: In male HIV-infected patients older 
+      than 52 years and with at least two other CRFs, screening for SMI using 
+      myocardial SPECT was about four times more likely to be positive than in the 
+      general population. This may motivate physicians to advise these patients to 
+      undergo more systematic screening for SMI using this technique.
+FAU - Mariano-Goulart, Denis
+AU  - Mariano-Goulart D
+AD  - Department of Nuclear Medicine, Montpellier University Hospital, Montpellier, 
+      France. d-mariano_goulart@chu-montpellier.fr
+FAU - Jacquet, Jean-Marc
+AU  - Jacquet JM
+FAU - Molinari, Nicolas
+AU  - Molinari N
+FAU - Bourdon, Aurelie
+AU  - Bourdon A
+FAU - Benkiran, Meriem
+AU  - Benkiran M
+FAU - Sainmont, Melanie
+AU  - Sainmont M
+FAU - Cornillet, Luc
+AU  - Cornillet L
+FAU - Macia, Jean-Christophe
+AU  - Macia JC
+FAU - Reynes, Jacques
+AU  - Reynes J
+FAU - Ben Bouallegue, Faycal
+AU  - Ben Bouallegue F
+LA  - eng
+PT  - Journal Article
+DEP - 20121114
+PL  - Germany
+TA  - Eur J Nucl Med Mol Imaging
+JT  - European journal of nuclear medicine and molecular imaging
+JID - 101140988
+RN  - 0 (Anti-Retroviral Agents)
+SB  - IM
+MH  - Aged
+MH  - Algorithms
+MH  - Anthropometry/methods
+MH  - Anti-Retroviral Agents/pharmacology
+MH  - Female
+MH  - HIV Infections/complications/*diagnosis/pathology
+MH  - Humans
+MH  - Inflammation
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Ischemia/complications/diagnosis/*pathology
+MH  - Odds Ratio
+MH  - Perfusion
+MH  - Prevalence
+MH  - Radionuclide Imaging/methods
+MH  - Risk Factors
+MH  - Tomography, Emission-Computed, Single-Photon/*methods
+EDAT- 2012/11/15 06:00
+MHDA- 2013/06/29 06:00
+CRDT- 2012/11/15 06:00
+PHST- 2012/06/05 00:00 [received]
+PHST- 2012/09/21 00:00 [accepted]
+PHST- 2012/11/15 06:00 [entrez]
+PHST- 2012/11/15 06:00 [pubmed]
+PHST- 2013/06/29 06:00 [medline]
+AID - 10.1007/s00259-012-2262-1 [doi]
+PST - ppublish
+SO  - Eur J Nucl Med Mol Imaging. 2013 Jan;40(2):271-9. doi: 10.1007/s00259-012-2262-1. 
+      Epub 2012 Nov 14.

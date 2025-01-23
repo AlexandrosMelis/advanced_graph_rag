@@ -1,0 +1,90 @@
+PMID- 21756515
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111121
+LR  - 20220318
+IS  - 1815-7920 (Electronic)
+IS  - 1027-3719 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2011 May
+TI  - Does solid culture for tuberculosis influence clinical decision making in India?
+PG  - 641-6
+LID - 10.5588/ijtld.10.0195 [doi]
+AB  - SETTING: Medical units at an academic tertiary referral hospital in Southern 
+      India. OBJECTIVE: To investigate the impact of solid culture on Lowenstein-Jensen 
+      medium on clinical decision making. DESIGN: In a retrospective review of 150 
+      culture-positive and 150 culture-negative consecutively sampled tuberculosis (TB) 
+      suspects, treatment decisions were analysed at presentation, after the 
+      availability of culture detection results and after the availability of drug 
+      susceptibility testing (DST) culture results. RESULTS: A total of 124 (82.7%) 
+      culture-positive patients and 35 (23.3%) culture-negative patients started 
+      anti-tuberculosis treatment prior to receiving their culture results; 101 
+      patients (33.7%) returned for their results; two (1.3%) initiated treatment based 
+      on positive culture and no culture-negative patients discontinued treatment. DST 
+      was performed on 119 (79.3%) positive cultures: 30 (25.2%) showed any resistance, 
+      eight (6.7%) showed multidrug resistance and one (0.84%) showed extensively 
+      drug-resistant TB. Twenty-eight patients (23.5%) returned for their DST results. 
+      Based on DST, treatment was modified in four patients (3.4%). CONCLUSION: Using 
+      solid culture, 150 cultures need to be tested for one treatment modification and 
+      30 for DST. The cost of the widespread application of culture will need to be 
+      balanced against its impact on treatment decisions in India.
+FAU - Stall, N
+AU  - Stall N
+AD  - Schulich School of Medicine & Dentistry, University of Western Ontario, London, 
+      Ontario, Canada.
+FAU - Rubin, T
+AU  - Rubin T
+FAU - Michael, J S
+AU  - Michael JS
+FAU - Mathai, D
+AU  - Mathai D
+FAU - Abraham, O C
+AU  - Abraham OC
+FAU - Mathews, P
+AU  - Mathews P
+FAU - Thomas, K
+AU  - Thomas K
+FAU - John, M
+AU  - John M
+FAU - Daley, P
+AU  - Daley P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - France
+TA  - Int J Tuberc Lung Dis
+JT  - The international journal of tuberculosis and lung disease : the official journal 
+      of the International Union against Tuberculosis and Lung Disease
+JID - 9706389
+RN  - 0 (Antitubercular Agents)
+RN  - 0 (Culture Media)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antitubercular Agents/administration & dosage/*therapeutic use
+MH  - Culture Media
+MH  - *Decision Making
+MH  - Extensively Drug-Resistant Tuberculosis/diagnosis/epidemiology
+MH  - Female
+MH  - Humans
+MH  - India/epidemiology
+MH  - Male
+MH  - Microbial Sensitivity Tests
+MH  - Middle Aged
+MH  - Mycobacterium tuberculosis/*drug effects/isolation & purification
+MH  - Retrospective Studies
+MH  - Tuberculosis/*diagnosis/epidemiology
+MH  - Tuberculosis, Multidrug-Resistant/diagnosis/epidemiology
+MH  - Young Adult
+EDAT- 2011/07/16 06:00
+MHDA- 2011/12/13 00:00
+CRDT- 2011/07/16 06:00
+PHST- 2011/07/16 06:00 [entrez]
+PHST- 2011/07/16 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+AID - 10.5588/ijtld.10.0195 [doi]
+PST - ppublish
+SO  - Int J Tuberc Lung Dis. 2011 May;15(5):641-6. doi: 10.5588/ijtld.10.0195.

@@ -1,0 +1,77 @@
+PMID- 18235194
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080327
+LR  - 20151119
+IS  - 1421-9972 (Electronic)
+IS  - 1021-7762 (Linking)
+VI  - 60
+IP  - 2
+DP  - 2008
+TI  - Is a specialised training of phonological awareness indicated in every preschool 
+      child?
+PG  - 73-9
+LID - 10.1159/000114648 [doi]
+AB  - OBJECTIVE AND METHODS: In a prospective study 218 preschool children were 
+      enrolled (stratified in 2 training programs, one specialized for phonologic 
+      awareness in order to prevent dyslexia, the other consisting in training of 
+      general perception) during the last year of kindergarten. After finishing the 
+      first grade 131 children were compared in their reading and writing abilities. 
+      RESULTS: In the whole group only a slight difference was found between both 
+      training modalities concerning their writing abilities. However, children with a 
+      history of hearing loss, actual hearing loss or pathologic middle ear findings 
+      profited most from the specialized training program compared to the control in 
+      their reading abilities. CONCLUSION: A specialized training program to improve 
+      phonologic awareness as a basis for reading and writing in every kindergarten and 
+      preschool child seems to be unnecessary. However, children with temporary hearing 
+      deficits benefit from such a program. For all other children general perception 
+      training may be sufficient.
+CI  - Copyright 2008 S. Karger AG, Basel.
+FAU - Keilmann, Annerose
+AU  - Keilmann A
+AD  - Division of Communication Disorders, Department of ORL, Mainz Medical School, 
+      Mainz, Germany. keilmann@kommunikation.klinik.uni-mainz.de
+FAU - Wintermeyer, Monika
+AU  - Wintermeyer M
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20080131
+PL  - Switzerland
+TA  - Folia Phoniatr Logop
+JT  - Folia phoniatrica et logopaedica : official organ of the International 
+      Association of Logopedics and Phoniatrics (IALP)
+JID - 9422792
+SB  - IM
+MH  - Child Language
+MH  - Child, Preschool/*education
+MH  - Correction of Hearing Impairment
+MH  - Curriculum/standards
+MH  - Dyslexia/epidemiology/etiology/*prevention & control
+MH  - Education, Special
+MH  - Female
+MH  - Germany
+MH  - Hearing Disorders/epidemiology
+MH  - Humans
+MH  - Language Development Disorders/epidemiology/rehabilitation
+MH  - Linguistics/*education
+MH  - Male
+MH  - Multilingualism
+MH  - Pattern Recognition, Physiological
+MH  - Perception
+MH  - Phonetics
+MH  - Prospective Studies
+MH  - Reading
+MH  - Speech Disorders/epidemiology/rehabilitation
+MH  - Vision Disorders/epidemiology/rehabilitation
+MH  - Writing
+EDAT- 2008/02/01 09:00
+MHDA- 2008/03/28 09:00
+CRDT- 2008/02/01 09:00
+PHST- 2008/02/01 09:00 [pubmed]
+PHST- 2008/03/28 09:00 [medline]
+PHST- 2008/02/01 09:00 [entrez]
+AID - 000114648 [pii]
+AID - 10.1159/000114648 [doi]
+PST - ppublish
+SO  - Folia Phoniatr Logop. 2008;60(2):73-9. doi: 10.1159/000114648. Epub 2008 Jan 31.

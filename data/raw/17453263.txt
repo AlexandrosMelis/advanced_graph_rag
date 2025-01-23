@@ -1,0 +1,103 @@
+PMID- 17453263
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070628
+LR  - 20221207
+IS  - 1525-1497 (Electronic)
+IS  - 0884-8734 (Print)
+IS  - 0884-8734 (Linking)
+VI  - 22
+IP  - 7
+DP  - 2007 Jul
+TI  - Are physician estimates of asthma severity less accurate in black than in white 
+      patients?
+PG  - 976-81
+AB  - BACKGROUND: Racial differences in asthma care are not fully explained by 
+      socioeconomic status, care access, and insurance status. Appropriate care 
+      requires accurate physician estimates of severity. It is unknown if accuracy of 
+      physician estimates differs between black and white patients, and how this 
+      relates to asthma care disparities. OBJECTIVE: We hypothesized that: 1) physician 
+      underestimation of asthma severity is more frequent among black patients; 2) 
+      among black patients, physician underestimation of severity is associated with 
+      poorer quality asthma care. DESIGN, SETTING AND PATIENTS: We conducted a 
+      cross-sectional survey among adult patients with asthma cared for in 15 managed 
+      care organizations in the United States. We collected physicians' estimates of 
+      their patients' asthma severity. Physicians' estimates of patients' asthma as 
+      being less severe than patient-reported symptoms were classified as 
+      underestimates of severity. MEASUREMENTS: Frequency of underestimation, asthma 
+      care, and communication. RESULTS: Three thousand four hundred and ninety-four 
+      patients participated (13% were black). Blacks were significantly more likely 
+      than white patients to have their asthma severity underestimated (OR = 1.39, 95% 
+      CI 1.08-1.79). Among black patients, underestimation was associated with less use 
+      of daily inhaled corticosteroids (13% vs 20%, p < .05), less physician 
+      instruction on management of asthma flare-ups (33% vs 41%, p < .0001), and lower 
+      ratings of asthma care (p = .01) and physician communication (p = .04). 
+      CONCLUSIONS: Biased estimates of asthma severity may contribute to racially 
+      disparate asthma care. Interventions to improve physicians' assessments of asthma 
+      severity and patient-physician communication may minimize racial disparities in 
+      asthma care.
+FAU - Okelo, Sande O
+AU  - Okelo SO
+AD  - Department of Pediatrics, Johns Hopkins University, 200 N. Wolfe Street, Suite 
+      3025, Baltimore, MD 21287, USA. sandeokelo@jhmi.edu
+FAU - Wu, Albert W
+AU  - Wu AW
+FAU - Merriman, Barry
+AU  - Merriman B
+FAU - Krishnan, Jerry A
+AU  - Krishnan JA
+FAU - Diette, Gregory B
+AU  - Diette GB
+LA  - eng
+GR  - P01 ES009606/ES/NIEHS NIH HHS/United States
+GR  - HL04266/HL/NHLBI NIH HHS/United States
+GR  - K23 HL004266/HL/NHLBI NIH HHS/United States
+GR  - K23 HL067850/HL/NHLBI NIH HHS/United States
+GR  - ES 09609/ES/NIEHS NIH HHS/United States
+GR  - HL07534/HL/NHLBI NIH HHS/United States
+GR  - ES 09606/ES/NIEHS NIH HHS/United States
+GR  - HL67850/HL/NHLBI NIH HHS/United States
+GR  - T32 HL007534/HL/NHLBI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20070424
+PL  - United States
+TA  - J Gen Intern Med
+JT  - Journal of general internal medicine
+JID - 8605834
+SB  - IM
+MH  - Adult
+MH  - Black or African American
+MH  - Asthma/*classification/*ethnology/therapy
+MH  - *Clinical Competence
+MH  - Cohort Studies
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - *Physician-Patient Relations
+MH  - Quality of Health Care
+MH  - *Severity of Illness Index
+MH  - White People
+PMC - PMC2583798
+EDAT- 2007/04/25 09:00
+MHDA- 2007/06/29 09:00
+PMCR- 2008/07/01
+CRDT- 2007/04/25 09:00
+PHST- 2005/08/22 00:00 [received]
+PHST- 2007/04/09 00:00 [accepted]
+PHST- 2006/03/07 00:00 [revised]
+PHST- 2007/04/25 09:00 [pubmed]
+PHST- 2007/06/29 09:00 [medline]
+PHST- 2007/04/25 09:00 [entrez]
+PHST- 2008/07/01 00:00 [pmc-release]
+AID - 209 [pii]
+AID - 10.1007/s11606-007-0209-1 [doi]
+PST - ppublish
+SO  - J Gen Intern Med. 2007 Jul;22(7):976-81. doi: 10.1007/s11606-007-0209-1. Epub 
+      2007 Apr 24.

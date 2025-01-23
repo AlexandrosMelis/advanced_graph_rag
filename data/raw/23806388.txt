@@ -1,0 +1,102 @@
+PMID- 23806388
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130916
+LR  - 20211021
+IS  - 1527-9995 (Electronic)
+IS  - 0090-4295 (Print)
+IS  - 0090-4295 (Linking)
+VI  - 82
+IP  - 1
+DP  - 2013 Jul
+TI  - Do nomograms designed to predict biochemical recurrence (BCR) do a better job of 
+      predicting more clinically relevant prostate cancer outcomes than BCR? A report 
+      from the SEARCH database group.
+PG  - 53-8
+LID - S0090-4295(13)00172-6 [pii]
+LID - 10.1016/j.urology.2012.10.090 [doi]
+AB  - OBJECTIVE: To examine the ability of various postoperative nomograms to predict 
+      prostate cancer-specific mortality (PCSM) and to validate that they could predict 
+      aggressive biochemical recurrence (BCR). Prostate-specific antigen (PSA), grade, 
+      and stage are the classic triad used to predict BCR after radical prostatectomy 
+      (RP). Multiple nomograms use these to predict risk of BCR. A previous study 
+      showed that several nomograms could predict aggressive BCR (prostate-specific 
+      antigen doubling time [PSADT] <9 months) more accurately than BCR. However, it 
+      remains unknown if they can predict more definitive endpoints, such as PCSM. 
+      METHODS: We performed Cox analyses to examine the ability of 4 postoperative 
+      nomograms, the Duke Prostate Center (DPC) nomogram, the Kattan postoperative 
+      nomogram, the Johns Hopkins Hospital (JHH) nomogram, and the joint Center for 
+      Prostate Disease Research(CPDR)/Cancer of the Prostate Strategic Urologic 
+      Research Endeavor (CaPSURE) nomogram to predict BCR and PCSM among 1778 men in 
+      the Shared Equal Access Regional Cancer Hospital (SEARCH) database who underwent 
+      RP between 1990 and 2009. We also compared their ability to predict BCR and 
+      aggressive BCR in a subset of men. We calculated the c-index for each nomogram to 
+      determine its predictive accuracy for estimating actual outcomes. RESULTS: We 
+      found that each nomogram could predict aggressive BCR and PCSM in a statistically 
+      significant manner and that they all predicted PCSM more accurately than they 
+      predicted BCR (ie, with higher c-index values). CONCLUSION: Currently available 
+      nomograms used to predict BCR accurately predict PCSM and other more clinically 
+      relevant endpoints. Moreover, not only do they significantly predict PCSM, but do 
+      so with generally greater accuracy than BCR.
+CI  - Published by Elsevier Inc.
+FAU - Teeter, Anna E
+AU  - Teeter AE
+AD  - Department of Surgery, Duke University Medical Center, Durham, NC, USA.
+FAU - Presti, Joseph C Jr
+AU  - Presti JC Jr
+FAU - Aronson, William J
+AU  - Aronson WJ
+FAU - Terris, Martha K
+AU  - Terris MK
+FAU - Kane, Christopher J
+AU  - Kane CJ
+FAU - Amling, Christopher L
+AU  - Amling CL
+FAU - Freedland, Stephen J
+AU  - Freedland SJ
+LA  - eng
+GR  - K24 CA160653/CA/NCI NIH HHS/United States
+GR  - P50 CA092131/CA/NCI NIH HHS/United States
+GR  - UL1 RR024128/RR/NCRR NIH HHS/United States
+GR  - UL1RR024128/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Urology
+JT  - Urology
+JID - 0366151
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+CIN - Urology. 2013 Jul;82(1):58-9; discussion 59. doi: 10.1016/j.urology.2012.10.093. 
+      PMID: 23806389
+MH  - Aged
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Grading
+MH  - Neoplasm Recurrence, Local/*blood
+MH  - Neoplasm Staging
+MH  - *Nomograms
+MH  - Predictive Value of Tests
+MH  - Proportional Hazards Models
+MH  - Prostate-Specific Antigen/blood
+MH  - Prostatectomy
+MH  - Prostatic Neoplasms/*blood/mortality/*pathology
+MH  - Time Factors
+PMC - PMC3774016
+MID - NIHMS461448
+EDAT- 2013/06/29 06:00
+MHDA- 2013/09/17 06:00
+PMCR- 2014/07/01
+CRDT- 2013/06/29 06:00
+PHST- 2012/09/12 00:00 [received]
+PHST- 2012/10/11 00:00 [revised]
+PHST- 2012/10/15 00:00 [accepted]
+PHST- 2013/06/29 06:00 [entrez]
+PHST- 2013/06/29 06:00 [pubmed]
+PHST- 2013/09/17 06:00 [medline]
+PHST- 2014/07/01 00:00 [pmc-release]
+AID - S0090-4295(13)00172-6 [pii]
+AID - 10.1016/j.urology.2012.10.090 [doi]
+PST - ppublish
+SO  - Urology. 2013 Jul;82(1):53-8. doi: 10.1016/j.urology.2012.10.090.

@@ -1,0 +1,94 @@
+PMID- 21420186
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130611
+LR  - 20161125
+IS  - 1874-1754 (Electronic)
+IS  - 0167-5273 (Linking)
+VI  - 159
+IP  - 3
+DP  - 2012 Sep 6
+TI  - Could ADMA levels in young adults born preterm predict an early endothelial 
+      dysfunction?
+PG  - 217-9
+LID - 10.1016/j.ijcard.2011.02.069 [doi]
+AB  - BACKGROUND: Sporadic data present in literature report how preterm birth and low 
+      birth weight are risk factors for the development of cardiovascular diseases in 
+      later life. High levels of asymmetric dimethylarginine (ADMA), a strong inhibitor 
+      of nitric oxide synthesis, are associated with the future development of adverse 
+      cardiovascular events and cardiac death. AIMS: 1) to verify the presence of a 
+      statistically significant difference between ADMA levels in young adults born 
+      preterm at extremely low birth weight (<1000 g; ex-ELBW) and those of a control 
+      group of healthy adults born at term (C) and 2) to seek correlations between ADMA 
+      levels in ex-ELBW and anthropometric and clinical parameters (gender, 
+      chronological age, gestational age, birth weight, and duration of stay in 
+      Neonatal Intensive Care Unit). METHODS: Thirty-two ex-ELBW subjects (11 males [M] 
+      and 21 females [F], aged 17-29years, mean age 22.2 +/- 2.3 years) were compared 
+      with 25 C (7 M and 18F). ADMA levels were assessed by high-performance liquid 
+      chromatography with highly sensitive laser fluorescent detection. RESULTS: ADMA 
+      levels were reduced in ex-ELBW subjects compared to C (0.606+0.095 vs 0.562+0.101 
+      mumol/L, p<0.05), and significantly correlated inversely with gestational age 
+      (r=-0.61, p<0.00001) and birth weight (r=-0.57, p<0.0002). CONCLUSIONS: Our 
+      findings reveal a significant decrease in ADMA levels of ex-ELBW subjects 
+      compared to C, underlining a probable correlation with preterm birth and low 
+      birth weight. Taken together, these results may underlie the onset of early 
+      circulatory dysfunction predictive of increased cardiovascular risk.
+CI  - Copyright (c) 2011 Elsevier Ireland Ltd. All rights reserved.
+FAU - Bassareo, P P
+AU  - Bassareo PP
+AD  - Department of Cardiovascular and Neurological Sciences, University of Cagliari, 
+      Cagliari, Italy. piercard@inwind.it
+FAU - Puddu, M
+AU  - Puddu M
+FAU - Flore, G
+AU  - Flore G
+FAU - Deidda, M
+AU  - Deidda M
+FAU - Manconi, E
+AU  - Manconi E
+FAU - Melis, A
+AU  - Melis A
+FAU - Fanos, V
+AU  - Fanos V
+FAU - Mercuro, G
+AU  - Mercuro G
+LA  - eng
+PT  - Journal Article
+DEP - 20110321
+PL  - Netherlands
+TA  - Int J Cardiol
+JT  - International journal of cardiology
+JID - 8200291
+RN  - 63CV1GEK3Y (N,N-dimethylarginine)
+RN  - 94ZLA3W45F (Arginine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Arginine/*analogs & derivatives/blood
+MH  - Early Diagnosis
+MH  - Endothelium, Vascular/*metabolism/*physiopathology
+MH  - Female
+MH  - Gestational Age
+MH  - Humans
+MH  - Infant, Extremely Low Birth Weight/blood
+MH  - Infant, Low Birth Weight/*blood
+MH  - Infant, Newborn
+MH  - Male
+MH  - Predictive Value of Tests
+MH  - Premature Birth/blood/epidemiology
+MH  - Vascular Diseases/blood/*diagnosis/epidemiology
+MH  - Young Adult
+EDAT- 2011/03/23 06:00
+MHDA- 2013/06/12 06:00
+CRDT- 2011/03/23 06:00
+PHST- 2010/12/21 00:00 [received]
+PHST- 2011/02/11 00:00 [revised]
+PHST- 2011/02/25 00:00 [accepted]
+PHST- 2011/03/23 06:00 [entrez]
+PHST- 2011/03/23 06:00 [pubmed]
+PHST- 2013/06/12 06:00 [medline]
+AID - S0167-5273(11)00247-6 [pii]
+AID - 10.1016/j.ijcard.2011.02.069 [doi]
+PST - ppublish
+SO  - Int J Cardiol. 2012 Sep 6;159(3):217-9. doi: 10.1016/j.ijcard.2011.02.069. Epub 
+      2011 Mar 21.

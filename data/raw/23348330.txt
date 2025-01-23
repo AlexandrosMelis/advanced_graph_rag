@@ -1,0 +1,65 @@
+PMID- 23348330
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140124
+LR  - 20130125
+IS  - 1536-3732 (Electronic)
+IS  - 1049-2275 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2013 Jan
+TI  - Nasal fractures: is closed reduction satisfying?
+PG  - e36-8
+LID - 10.1097/SCS.0b013e3182688ea1 [doi]
+AB  - OBJECTIVE: This study aims to evaluate the efficacy of closed reduction and the 
+      effects of timing and fracture types on patient satisfaction. METHODS: Only 
+      patients with isolated nasal fractures were included in the study. Patients with 
+      additional maxillofacial fractures and patients whose application time to our 
+      clinic was more than 10 days after the trauma were excluded. Patients were 
+      classified into 5 types according to their fracture. All patients underwent 
+      closed reduction and external fixation under local anesthesia. Patients were 
+      asked about their satisfaction in a survey at 28th day and sixth month after the 
+      surgery. Patients were divided into groups according to fracture type and 
+      intervention time, and the results of the survey were evaluated. RESULTS: Of the 
+      43 patients included in the study, 38 were male, 5 were female, and the average 
+      age was 24.9. The average intervention time of the patients was 5.44 days. 
+      Twenty-eight (65%) of 43 patients were satisfied with the result, whereas 15 
+      (35%) patients were not happy with their operation. In a comparison of patient 
+      satisfaction rates according to fracture type, the mild fracture group had a 
+      higher satisfaction rate compared to the severe fracture group. CONCLUSION: 
+      Closed reduction is an easy and sufficient treatment for nasal fractures, 
+      especially for mild nasal fractures. Early intervention raises the patient 
+      satisfaction rate.
+FAU - Yilmaz, Mahmut Sinan
+AU  - Yilmaz MS
+AD  - Department of Otorhinolaryngology, Sakarya University Training and Research 
+      Hospital, Sakarya, Turkey. yilmazms@gmail.com
+FAU - Guven, Mehmet
+AU  - Guven M
+FAU - Varli, Ali Fuat
+AU  - Varli AF
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Craniofac Surg
+JT  - The Journal of craniofacial surgery
+JID - 9010410
+MH  - Female
+MH  - Fracture Fixation/*methods
+MH  - Humans
+MH  - Male
+MH  - Nose/*injuries
+MH  - Patient Satisfaction
+MH  - Skull Fractures/*therapy
+MH  - Treatment Outcome
+MH  - Young Adult
+EDAT- 2013/01/26 06:00
+MHDA- 2014/01/25 06:00
+CRDT- 2013/01/26 06:00
+PHST- 2013/01/26 06:00 [entrez]
+PHST- 2013/01/26 06:00 [pubmed]
+PHST- 2014/01/25 06:00 [medline]
+AID - 00001665-201301000-00094 [pii]
+AID - 10.1097/SCS.0b013e3182688ea1 [doi]
+PST - ppublish
+SO  - J Craniofac Surg. 2013 Jan;24(1):e36-8. doi: 10.1097/SCS.0b013e3182688ea1.

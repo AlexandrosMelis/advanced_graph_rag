@@ -1,0 +1,68 @@
+PMID- 16956164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061012
+LR  - 20211203
+IS  - 1326-0200 (Print)
+IS  - 1326-0200 (Linking)
+VI  - 30
+IP  - 4
+DP  - 2006 Aug
+TI  - Do all ethnic groups in New Zealand exhibit socio-economic mortality gradients?
+PG  - 343-9
+AB  - OBJECTIVES: First, to establish whether a deprivation gradient in all-cause 
+      mortality exists for all ethnic groups within New Zealand; second, if such 
+      gradients do exist, whether their absolute slopes are the same; and third, if 
+      such gradients exist, what impact the unequal deprivation distributions of the 
+      different ethnic groups have on the observed ethnic inequalities in life 
+      expectancy at birth. METHOD: Abridged lifetables for the period 1999-2003 were 
+      constructed using standard demographic methods for each of four ethnic groups 
+      (Asian, Pacific, Maori and European) by NZDep2001 quintile and sex. Gradients 
+      were estimated by fitting generalised linear models to the quintile-specific life 
+      expectancy estimates for each ethnic group (by sex). The contribution of 
+      variation in deprivation distributions to inter-ethnic inequalities in life 
+      expectancy was estimated by re-weighting the quintile-specific mortality rates 
+      for each ethnic group using weights derived from the European deprivation 
+      distribution and recalculating the lifetable. RESULTS: All four ethnic groups 
+      exhibit deprivation gradients in all-cause mortality (life expectancy). Maori 
+      show the steepest gradients, with slopes approximately 25% steeper than those of 
+      Europeans for both males and females. By contrast, gradients among Asian and 
+      Pacific peoples are shallower than those of their European counterparts. 
+      CONCLUSION: While socio-economic gradients in health exist among all ethnic 
+      groups, they are relatively shallow among Pacific and (especially) Asian peoples. 
+      For these ethnic groups, caution should be exercised in applying deprivation or 
+      other socio-economic measures as proxy indicators of need for health services.
+FAU - Tobias, Martin
+AU  - Tobias M
+AD  - Ministry of Health, PO Box 5013, Wellington, New Zealand. 
+      martin_tobias@moh.govt.nz
+FAU - Yeh, Li-Chia
+AU  - Yeh LC
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Aust N Z J Public Health
+JT  - Australian and New Zealand journal of public health
+JID - 9611095
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Ethnicity
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Mortality/*trends
+MH  - New Zealand/epidemiology
+MH  - *Social Class
+MH  - Vital Statistics
+EDAT- 2006/09/08 09:00
+MHDA- 2006/10/13 09:00
+CRDT- 2006/09/08 09:00
+PHST- 2006/09/08 09:00 [pubmed]
+PHST- 2006/10/13 09:00 [medline]
+PHST- 2006/09/08 09:00 [entrez]
+AID - 10.1111/j.1467-842x.2006.tb00847.x [doi]
+PST - ppublish
+SO  - Aust N Z J Public Health. 2006 Aug;30(4):343-9. doi: 
+      10.1111/j.1467-842x.2006.tb00847.x.

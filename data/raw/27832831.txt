@@ -1,0 +1,119 @@
+PMID- 27832831
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170904
+LR  - 20220408
+IS  - 1879-0267 (Electronic)
+IS  - 0020-1383 (Linking)
+VI  - 47
+IP  - 12
+DP  - 2016 Dec
+TI  - Does an additional antirotation U-Blade (RC) lag screw improve treatment of 
+      AO/OTA 31 A1-3 fractures with gamma 3 nail?
+PG  - 2733-2738
+LID - S0020-1383(16)30698-2 [pii]
+LID - 10.1016/j.injury.2016.10.032 [doi]
+AB  - INTRODUCTION: Poor bone quality and unstable fractures increase the cut-out rate 
+      in implants with gliding lag screws. The U-Blade (RC) lag screw for the Gamma3((R)) 
+      nail was introduced to provide monoaxial rotational stability of the femoral head 
+      and neck fragment. The purpose of this study was to evaluate whether the use of 
+      the U-Blade (RC) lag screw is associated with reduced cut-out in patients with 
+      OTA/AO 31A1-3 fractures. MATERIAL & METHODS: Between 2009 and 2014, 751 patients 
+      with OTA/AO 31A1-3 fractures were treated with a Gamma3((R)) nail at our 
+      institution. Out of this sample 199 patients were treated with U-blade (RC) lag 
+      screws. A total of 135 patients (117 female, 18 male) with standard lag screw 
+      (treatment group A) were matched equally regarding age (+/-4 years) sex, fracture 
+      type and location to 135 patients with U-blade (RC) lag screw (treatment group 
+      B). Within a mean follow up of 9.2 months (range 6-18 months) we assessed the 
+      cut-out rate, the calTAD, lag screw migration, the Parker's mobility score and 
+      the Parker's ratio at postoperatively, six and 12 months following surgery. 
+      Furthermore we recorded all complications, ASA-Score, hospital stay and duration 
+      of surgery retrospectively. RESULTS: The most common fracture among group B with 
+      a cut-out of the lag screw were AO/OTA 2.3 and 3.2 fractures whereas in group A 
+      cut-out was most commonly seen in AO/OTA 2.1, 2.2 and 2.3 fractures, there was no 
+      significant reduction of the cut-out rate in group B 2.2% (n=3) compared to group 
+      A 3.7% (n=5). The duration of surgery was significantly shorter in group A 
+      (p<0.05). There was no significant difference in lag screw placement, the 
+      Parker's ratio and mobilization. CONCLUSION: In our study the U-Blade (RC) lag 
+      screw did not reduce the cut-out in treatment of OTA/AO 31A1-3 fractures at all. 
+      Considering the longer duration of surgery and the higher costs of the U-Blade 
+      (RC) lag screw, our results do not justify its use. However, further prospective 
+      randomized studies will be necessary.
+CI  - Copyright A(c) 2016 Elsevier Ltd. All rights reserved.
+FAU - Lang, N W
+AU  - Lang NW
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: 
+      nikolaus.lang@meduniwien.ac.at.
+FAU - Arthold, C
+AU  - Arthold C
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: 
+      catrhin.arthold@meduniwien.ac.at.
+FAU - Joestl, J
+AU  - Joestl J
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: 
+      julian.joestl@meduniwien.ac.at.
+FAU - Gormasz, A
+AU  - Gormasz A
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: anna.gormasz@meduniwien.ac.at.
+FAU - Boesmueller, S
+AU  - Boesmueller S
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: 
+      sandra.boesmueller@meduniwien.ac.at.
+FAU - Hajdu, S
+AU  - Hajdu S
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria.
+FAU - Sarahrudi, K
+AU  - Sarahrudi K
+AD  - Department of Trauma Surgery, Medical University of Vienna, Waehringer Guertel 
+      18-20, A-1090 Vienna, Austria. Electronic address: 
+      kambiz.sarahrudi@meduniwien.ac.at.
+LA  - eng
+PT  - Journal Article
+DEP - 20161029
+PL  - Netherlands
+TA  - Injury
+JT  - Injury
+JID - 0226040
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Bone Nails
+MH  - Bone Screws
+MH  - Female
+MH  - Femoral Fractures/diagnostic imaging/physiopathology/*surgery
+MH  - Femur Neck/diagnostic imaging/*pathology
+MH  - *Fracture Fixation, Intramedullary
+MH  - Hip Fractures/diagnostic imaging/physiopathology/*surgery
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prosthesis Failure
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - AO/OTA 31.A1-3 femur fractures
+OT  - Cut-out
+OT  - Gamma3 nail
+OT  - U-Blade (RC) lag screw
+EDAT- 2016/11/12 06:00
+MHDA- 2017/09/05 06:00
+CRDT- 2016/11/12 06:00
+PHST- 2016/04/27 00:00 [received]
+PHST- 2016/09/27 00:00 [revised]
+PHST- 2016/10/24 00:00 [accepted]
+PHST- 2016/11/12 06:00 [pubmed]
+PHST- 2017/09/05 06:00 [medline]
+PHST- 2016/11/12 06:00 [entrez]
+AID - S0020-1383(16)30698-2 [pii]
+AID - 10.1016/j.injury.2016.10.032 [doi]
+PST - ppublish
+SO  - Injury. 2016 Dec;47(12):2733-2738. doi: 10.1016/j.injury.2016.10.032. Epub 2016 
+      Oct 29.

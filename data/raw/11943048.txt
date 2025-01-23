@@ -1,0 +1,101 @@
+PMID- 11943048
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020604
+LR  - 20220420
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 50
+IP  - 3
+DP  - 2002 Mar
+TI  - Does receipt of hospice care in nursing homes improve the management of pain at 
+      the end of life?
+PG  - 507-15
+AB  - OBJECTIVES: To compare analgesic management of daily pain for dying nursing home 
+      residents enrolled and not enrolled in Medicare hospice. DESIGN: Retrospective, 
+      comparative cohort study. SETTING: Over 800 nursing homes in Kansas, Maine, 
+      Mississippi, New York, and South Dakota. PARTICIPANTS: A subset of residents with 
+      daily pain near the end of life taken from a matched cohort of hospice (2,644) 
+      and nonhospice (7,929) nursing home residents who had at least two resident 
+      assessments (Minimum Data Sets (MDSs)) completed, their last between 1992 and 
+      1996, and who died before April 1997. The daily pain subset consisted of 709 
+      hospice and 1,326 nonhospice residents. MEASUREMENTS: Detailed drug use data 
+      contained on the last MDS before death were used to examine analgesic management 
+      of daily pain. Guidelines from the American Medical Directors Association (AMDA) 
+      were used to identify analgesics not recommended for use in managing chronic pain 
+      in long-term care settings. The study outcome, regular treatment of daily pain, 
+      examined whether patients received any analgesic, other than those not 
+      recommended by AMDA, at least twice a day for each day of documented daily pain 
+      (i.e., 7 days before date of last MDS). RESULTS: Fifteen percent of hospice 
+      residents and 23% of nonhospice residents in daily pain received no analgesics 
+      (odds ratio (OR) = 0.57, 95% confidence interval (CI) = 0.45-0.74). A lower 
+      proportion of hospice residents (21%) than of nonhospice residents (29%) received 
+      analgesics not recommended by AMDA (OR = 0.65, 95% CI =0.52-0.80). Overall, 
+      acetaminophen (not in combination with other drugs) was used most frequently for 
+      nonhospice residents (25% of 1,673 prescriptions), whereas morphine derivatives 
+      were used most frequently for hospice residents (30% of 1,058 prescriptions). 
+      Fifty-one percent of hospice residents and 33% of nonhospice residents received 
+      regular treatment for daily pain. Controlling for clinical confounders, hospice 
+      residents were twice as likely as nonhospice residents to receive regular 
+      treatment for daily pain (adjusted odds ratio = 2.08, 95% CI = 1.68-2.56). 
+      CONCLUSION: Findings suggest that analgesic management of daily pain is better 
+      for nursing home residents enrolled in hospice than for those not enrolled in 
+      hospice.The prescribing practices portrayed by this study reveal that many dying 
+      nursing home residents in daily pain are receiving no analgesic treatment or are 
+      receiving analgesic treatment inconsistent with AMDA and other pain management 
+      guidelines. Improving the analgesic management of pain in nursing homes is 
+      essential if high-quality end-of-life care in nursing homes is to be achieved.
+FAU - Miller, Susan C
+AU  - Miller SC
+AD  - Department of Community Health, Center for Gerontology and Health Care Research, 
+      Brown University, Box GH-3, Providence, RI 029191. susan_miller@brown.edu
+FAU - Mor, Vincent
+AU  - Mor V
+FAU - Wu, Ning
+AU  - Wu N
+FAU - Gozalo, Pedro
+AU  - Gozalo P
+FAU - Lapane, Kate
+AU  - Lapane K
+LA  - eng
+GR  - AG 11624-06S1/AG/NIA NIH HHS/United States
+GR  - CA 76551/CA/NCI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Analgesics)
+SB  - IM
+MH  - Aged
+MH  - Analgesics/*therapeutic use
+MH  - Cohort Studies
+MH  - Drug Utilization/statistics & numerical data
+MH  - Female
+MH  - Homes for the Aged
+MH  - *Hospice Care
+MH  - Humans
+MH  - Male
+MH  - Nursing Homes
+MH  - Pain/*drug therapy
+MH  - Retrospective Studies
+OID - KIE: 104384
+OTO - KIE
+OT  - Death and Euthanasia
+OT  - Empirical Approach
+OT  - Professional Patient Relationship
+GN  - KIE: 42 refs.
+GN  - KIE: KIE Bib: terminal care
+EDAT- 2002/04/12 10:00
+MHDA- 2002/06/05 10:01
+CRDT- 2002/04/12 10:00
+PHST- 2002/04/12 10:00 [pubmed]
+PHST- 2002/06/05 10:01 [medline]
+PHST- 2002/04/12 10:00 [entrez]
+AID - 50118 [pii]
+AID - 10.1046/j.1532-5415.2002.50118.x [doi]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2002 Mar;50(3):507-15. doi: 10.1046/j.1532-5415.2002.50118.x.

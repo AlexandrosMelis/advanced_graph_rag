@@ -1,0 +1,108 @@
+PMID- 23999452
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140522
+LR  - 20221207
+IS  - 1522-9645 (Electronic)
+IS  - 0195-668X (Linking)
+VI  - 34
+IP  - 40
+DP  - 2013 Oct
+TI  - Does hypoglycaemia increase the risk of cardiovascular events? A report from the 
+      ORIGIN trial.
+PG  - 3137-44
+LID - 10.1093/eurheartj/eht332 [doi]
+AB  - AIMS: Hypoglycaemia caused by glucose-lowering therapy has been linked to 
+      cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further 
+      assess this relationship. METHODS AND RESULTS: A total of 12 537 participants 
+      with dysglycaemia and high CV-risk were randomized to basal insulin glargine 
+      titrated to a fasting glucose of </= 5.3 mmol/L (95 mg/dL) or standard glycaemic 
+      care. Non-severe hypoglycaemia was defined as symptoms confirmed by glucose </= 54 
+      mg/dL and severe hypoglycaemia as a requirement for assistance or glucose </= 36 
+      mg/dL. Outcomes were: (i) the composite of CV death, non-fatal myocardial 
+      infarction or stroke; (ii) mortality; (iii) CV mortality; and (iv) arrhythmic 
+      death. Hazards were estimated before and after adjustment for a hypoglycaemia 
+      propensity score. During a median of 6.2 years (IQR: 5.8-6.7), non-severe 
+      hypoglycaemic episodes occurred in 41.7 and 14.4% glargine and standard group 
+      participants, respectively, while severe episodes occurred in 5.7 and 1.8%, 
+      respectively. Non-severe hypoglycaemia was not associated with any outcome 
+      following adjustment. Conversely, severe hypoglycaemia was associated with a 
+      greater risk for the primary outcome (HR: 1.58; 95% CI: 1.24-2.02, P < 0.001), 
+      mortality (HR: 1.74; 95% CI: 1.39-2.19, P < 0.001), CV death (HR: 1.71; 95% CI: 
+      1.27-2.30, P < 0.001) and arrhythmic death (HR: 1.77; 95% CI: 1.17-2.67, P = 
+      0.007). Similar findings were noted for severe nocturnal hypoglycaemia for the 
+      primary outcome and mortality. The severe hypoglycaemia hazard for all four 
+      outcomes was higher with standard care than with insulin glargine. CONCLUSION: 
+      Severe hypoglycaemia is associated with an increased risk for CV outcomes in 
+      people at high CV risk and dysglycaemia. Although allocation to insulin glargine 
+      vs. standard care was associated with an increased risk of severe and non-severe 
+      hypoglycaemia, the relative risk of CV outcomes with hypoglycaemia was lower with 
+      insulin glargine-based glucose-lowering therapy than with the standard glycaemic 
+      control. Trial Registration (ORIGIN ClinicalTrials.gov number NCT00069784).
+CN  - ORIGIN Trial Investigators
+FAU - Mellbin, Linda G
+AU  - Mellbin LG
+FAU - Ryden, Lars
+AU  - Ryden L
+FAU - Riddle, Matthew C
+AU  - Riddle MC
+FAU - Probstfield, Jeffrey
+AU  - Probstfield J
+FAU - Rosenstock, Julio
+AU  - Rosenstock J
+FAU - Diaz, Rafael
+AU  - Diaz R
+FAU - Yusuf, Salim
+AU  - Yusuf S
+FAU - Gerstein, Hertzel C
+AU  - Gerstein HC
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00069784
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130902
+PL  - England
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Glycated Hemoglobin A)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Insulin, Long-Acting)
+RN  - 2ZM8CX04RZ (Insulin Glargine)
+SB  - IM
+CIN - Eur Heart J. 2013 Oct;34(40):3102-5. doi: 10.1093/eurheartj/eht374. PMID: 
+      23999451
+MH  - Arrhythmias, Cardiac/chemically induced/mortality
+MH  - Diabetes Mellitus, Type 2/*chemically induced/drug therapy
+MH  - Diabetic Angiopathies/*chemically induced/mortality
+MH  - Female
+MH  - Glycated Hemoglobin/metabolism
+MH  - Humans
+MH  - Hypoglycemia/*chemically induced/mortality
+MH  - Hypoglycemic Agents/administration & dosage/*adverse effects
+MH  - Insulin Glargine
+MH  - Insulin, Long-Acting/administration & dosage/*adverse effects
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/chemically induced
+MH  - Prognosis
+MH  - Risk Factors
+MH  - Stroke/chemically induced
+OTO - NOTNLM
+OT  - Glargine
+OT  - Glucose-lowering treatment
+OT  - Hypoglycaemia
+OT  - Insulin
+OT  - Prognosis
+EDAT- 2013/09/04 06:00
+MHDA- 2014/05/23 06:00
+CRDT- 2013/09/04 06:00
+PHST- 2013/09/04 06:00 [entrez]
+PHST- 2013/09/04 06:00 [pubmed]
+PHST- 2014/05/23 06:00 [medline]
+AID - eht332 [pii]
+AID - 10.1093/eurheartj/eht332 [doi]
+PST - ppublish
+SO  - Eur Heart J. 2013 Oct;34(40):3137-44. doi: 10.1093/eurheartj/eht332. Epub 2013 
+      Sep 2.

@@ -1,0 +1,101 @@
+PMID- 10548670
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19991123
+LR  - 20220310
+IS  - 0039-2499 (Print)
+IS  - 0039-2499 (Linking)
+VI  - 30
+IP  - 11
+DP  - 1999 Nov
+TI  - Does the National Institutes of Health Stroke Scale favor left hemisphere 
+      strokes? NINDS t-PA Stroke Study Group.
+PG  - 2355-9
+AB  - BACKGROUND AND PURPOSE: The National Institutes of Health Stroke Scale (NIHSS) is 
+      a valid, reproducible scale that measures neurological deficit. Of 42 possible 
+      points, 7 points are directly related to measurement of language compared with 
+      only 2 points related to neglect. METHODS: We examined the placebo arm of the 
+      NINDS t-PA stroke trial to test the hypothesis that the total volume of cerebral 
+      infarction in patients with right hemisphere strokes would be greater than the 
+      volume of cerebral infarction in patients with left hemisphere strokes who have 
+      similar NIHSS scores. The volume of stroke was determined by computerized image 
+      analysis of CT films and CT images stored on computer tape and optical disks. 
+      Cube-root transformation of lesion volume was performed for each CT. Transformed 
+      lesion volume was analyzed in a logistic regression model to predict volume of 
+      stroke by NIHSS score for each hemisphere. Spearman rank correlation was used to 
+      determine the relation between the NIHSS score and lesion volume. RESULTS: The 
+      volume for right hemisphere stroke was statistically greater than the volume for 
+      left hemisphere strokes, adjusting for the baseline NIHSS (P<0. 001). For each 
+      5-point category of the NIHSS score <20, the median volume of right hemisphere 
+      strokes was approximately double the median volume of left hemisphere strokes. 
+      For example, for patients with a left hemisphere stroke and a 24-hour NIHSS score 
+      of 16 to 20, the median volume of cerebral infarction was 48 mL (interquartile 
+      range 14 to 111 mL) as compared with 133 mL (interquartile range 81 to 208 mL) 
+      for patients with a right hemisphere stroke (P<0.001). The median volume of a 
+      right hemisphere stroke was roughly equal to the median volume of a left 
+      hemisphere stroke in the next highest 5-point category of the NIHSS. The Spearman 
+      rank correlation between the 24-hour NIHSS score and 3-month lesion volume was 
+      0.72 for patients with left hemisphere stroke and 0.71 for patients with right 
+      hemisphere stroke. CONCLUSIONS: For a given NIHSS score, the median volume of 
+      right hemisphere strokes is consistently larger than the median volume of left 
+      hemisphere strokes. The clinical implications of our finding need further 
+      exploration.
+FAU - Woo, D
+AU  - Woo D
+AD  - Department of Neurology, University of Cincinnati, Cincinnati, Ohio 45220, USA. 
+      daniel.woo@uc.edu
+FAU - Broderick, J P
+AU  - Broderick JP
+FAU - Kothari, R U
+AU  - Kothari RU
+FAU - Lu, M
+AU  - Lu M
+FAU - Brott, T
+AU  - Brott T
+FAU - Lyden, P D
+AU  - Lyden PD
+FAU - Marler, J R
+AU  - Marler JR
+FAU - Grotta, J C
+AU  - Grotta JC
+LA  - eng
+GR  - N-01-NS-02382/NS/NINDS NIH HHS/United States
+GR  - N01-NS-02374/NS/NINDS NIH HHS/United States
+GR  - N01-NS-02377/NS/NINDS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Stroke
+JT  - Stroke
+JID - 0235266
+RN  - 0 (Fibrinolytic Agents)
+RN  - 0 (Placebos)
+RN  - EC 3.4.21.68 (Tissue Plasminogen Activator)
+SB  - IM
+MH  - Brain/diagnostic imaging/physiopathology
+MH  - Cerebral Infarction/classification/diagnostic imaging/physiopathology
+MH  - Compact Disks
+MH  - Fibrinolytic Agents/therapeutic use
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/methods
+MH  - Language
+MH  - Logistic Models
+MH  - *National Institutes of Health (U.S.)
+MH  - Neurologic Examination
+MH  - Placebos
+MH  - Stroke/*classification/diagnostic imaging/drug therapy/physiopathology
+MH  - Thrombolytic Therapy
+MH  - Tissue Plasminogen Activator/therapeutic use
+MH  - Tomography, X-Ray Computed
+MH  - United States
+EDAT- 1999/11/05 00:00
+MHDA- 1999/11/05 00:01
+CRDT- 1999/11/05 00:00
+PHST- 1999/11/05 00:00 [pubmed]
+PHST- 1999/11/05 00:01 [medline]
+PHST- 1999/11/05 00:00 [entrez]
+AID - 10.1161/01.str.30.11.2355 [doi]
+PST - ppublish
+SO  - Stroke. 1999 Nov;30(11):2355-9. doi: 10.1161/01.str.30.11.2355.

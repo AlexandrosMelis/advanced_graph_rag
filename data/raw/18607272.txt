@@ -1,0 +1,88 @@
+PMID- 18607272
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081110
+LR  - 20151119
+IS  - 1536-4801 (Electronic)
+IS  - 0277-2116 (Linking)
+VI  - 47
+IP  - 1
+DP  - 2008 Jul
+TI  - Body perception: do parents, their children, and their children's physicians 
+      perceive body image differently?
+PG  - 76-80
+LID - 10.1097/MPG.0b013e31815a34 [doi]
+AB  - OBJECTIVES: To compare children's, parents' and physicians' perceptions of 
+      children's body size. PATIENTS AND METHODS: We administered a structured 
+      questionnaire of body size perception using a descriptive Likert scale keyed to 
+      body image figures to children ages 12 to 18 years. The same scale was given to 
+      parents of children ages 5 to 18 years. The sample consisted of 91 children and 
+      their parents being seen in the Pediatric Gastroenterology Clinic for concerns 
+      unrelated to overweight. Weight and height of the children were measured, and 
+      body mass index (BMI) was calculated. The children's BMI percentiles were 
+      categorized as underweight (<15th), normal (15th-85th), overweight (85th-95th), 
+      and obese (95th and above). The attending physician independently completed the 
+      body image and description scale and indicated the figure that most accurately 
+      represented the patient without reference to BMI standards. Accuracy of the 
+      patients', parents', and doctors' estimates were statistically compared. RESULTS: 
+      The sample population consisted of 6.4% underweight, 70.5% normal weight, 7.7% 
+      overweight, and 15.4% obese. Forty-four percent of parents underestimated 
+      children's body size using word descriptions and 47% underestimated using 
+      figures. Forty percent of the children underestimated their own body size using 
+      descriptions and 43% underestimated using figures. The physicians in this study 
+      had a higher percentage of correct estimates; however, they underestimated 33% of 
+      the patients using both word descriptions and figures. Some obese children were 
+      not recognized, and several average children were perceived as underweight. 
+      CONCLUSIONS: Many children underestimated their degree of overweight. Their 
+      parents and even their attending physicians shared this misperception. This study 
+      demonstrates the need to further educate physicians to recognize obesity and 
+      overweight so that they can counsel children and their families.
+FAU - Chaimovitz, R
+AU  - Chaimovitz R
+AD  - McMaster Children's Hospital, Department of Pediatrics, McMaster University, 
+      Hamilton, Ontario, Canada.
+FAU - Issenman, R
+AU  - Issenman R
+FAU - Moffat, T
+AU  - Moffat T
+FAU - Persad, R
+AU  - Persad R
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr Gastroenterol Nutr
+JT  - Journal of pediatric gastroenterology and nutrition
+JID - 8211545
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Awareness
+MH  - *Body Image
+MH  - *Body Mass Index
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Health Surveys
+MH  - Humans
+MH  - Male
+MH  - Obesity/epidemiology/psychology
+MH  - Overweight/epidemiology/psychology
+MH  - Parents/*psychology
+MH  - Perception
+MH  - Physicians/*psychology
+MH  - *Psychology, Child
+MH  - Social Perception
+MH  - Surveys and Questionnaires
+MH  - Thinness/epidemiology/psychology
+EDAT- 2008/07/09 09:00
+MHDA- 2008/11/11 09:00
+CRDT- 2008/07/09 09:00
+PHST- 2008/07/09 09:00 [pubmed]
+PHST- 2008/11/11 09:00 [medline]
+PHST- 2008/07/09 09:00 [entrez]
+AID - 00005176-200807000-00012 [pii]
+AID - 10.1097/MPG.0b013e31815a34 [doi]
+PST - ppublish
+SO  - J Pediatr Gastroenterol Nutr. 2008 Jul;47(1):76-80. doi: 
+      10.1097/MPG.0b013e31815a34.

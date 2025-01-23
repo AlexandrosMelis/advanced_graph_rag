@@ -1,0 +1,96 @@
+PMID- 18403944
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080821
+LR  - 20111117
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 20
+IP  - 5
+DP  - 2008 May
+TI  - Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?
+PG  - 423-9
+LID - 10.1097/MEG.0b013e3282f4de6e [doi]
+AB  - BACKGROUND AND OBJECTIVE: Celiac disease (CD) is believed to be a permanent 
+      intolerance to gluten. A number of patients, however, discontinue the gluten-free 
+      diet (GFD) without developing symptoms or signs. The aim of our study was to 
+      investigate whether CD patients are capable of developing tolerance to gluten. 
+      METHODS: All 77 adult patients from our hospital known to have biopsy-proven CD 
+      for more than 10 years were invited to participate. We investigated symptoms, 
+      gluten consumption, antibodies for CD and other autoimmunity, human leukocyte 
+      antigen (HLA)-typing, bone mineral density, and performed small bowel biopsies. 
+      Tolerance was defined as no immunological or histological signs of CD while 
+      consuming gluten. RESULTS: Sixty-six patients accepted participation, but after 
+      review of the diagnostic biopsies 53 were found to have true CD. Twenty-three 
+      percent of patients had a gluten-containing diet, 15% admitted gluten 
+      transgression and 62% followed the GFD. Patients on a GFD had significantly more 
+      osteoporosis. Normal small bowel mucosa was found in four of eight on 
+      gluten-containing diet and in four of four with gluten transgression. Two 
+      patients were considered to have developed tolerance to gluten. One of them was 
+      HLA-DQ2/DQ8 negative. CONCLUSION: Development of tolerance to gluten seems 
+      possible in some patients with CD. Further follow-up will show whether this 
+      tolerance is permanent or only a long-term return to latency. This feature may be 
+      associated with genetic characteristics, especially with HLA genotypes that 
+      differ from DQ2 or DQ8. More insight into the mechanisms of the development of 
+      gluten tolerance may help to distinguish those CD patients that might not require 
+      life-long GFD.
+FAU - Hopman, Erica G D
+AU  - Hopman EG
+AD  - Department of Dietetics and Nutrition, Leiden University Medical Center, Leiden, 
+      The Netherlands. G.D.Hopman@lumc.nl
+FAU - von Blomberg, Mary E
+AU  - von Blomberg ME
+FAU - Batstra, Manou R
+AU  - Batstra MR
+FAU - Morreau, Hans
+AU  - Morreau H
+FAU - Dekker, Friedo W
+AU  - Dekker FW
+FAU - Koning, Frits
+AU  - Koning F
+FAU - Lamers, Cor B H W
+AU  - Lamers CB
+FAU - Mearin, Maria Luisa
+AU  - Mearin ML
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (Autoantibodies)
+RN  - 0 (HLA-DQ Antigens)
+RN  - 0 (HLA-DQ2 antigen)
+RN  - 8002-80-0 (Glutens)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Autoantibodies/blood
+MH  - Bone Density
+MH  - Celiac Disease/*diet therapy/genetics/immunology/pathology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Glutens/administration & dosage/*adverse effects/immunology
+MH  - HLA-DQ Antigens/blood
+MH  - Histocompatibility Testing
+MH  - Humans
+MH  - Immune Tolerance
+MH  - Intestinal Mucosa/pathology
+MH  - Intestine, Small/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Compliance
+MH  - Severity of Illness Index
+EDAT- 2008/04/12 09:00
+MHDA- 2008/08/22 09:00
+CRDT- 2008/04/12 09:00
+PHST- 2008/04/12 09:00 [pubmed]
+PHST- 2008/08/22 09:00 [medline]
+PHST- 2008/04/12 09:00 [entrez]
+AID - 00042737-200805000-00009 [pii]
+AID - 10.1097/MEG.0b013e3282f4de6e [doi]
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 2008 May;20(5):423-9. doi: 
+      10.1097/MEG.0b013e3282f4de6e.

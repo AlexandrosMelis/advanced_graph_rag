@@ -1,0 +1,89 @@
+PMID- 23992109
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140620
+LR  - 20151119
+IS  - 1525-6049 (Electronic)
+IS  - 0886-022X (Linking)
+VI  - 35
+IP  - 10
+DP  - 2013
+TI  - Is the urinary biomarkers assessment a non-invasive approach to tubular lesions 
+      of the solitary kidney?
+PG  - 1358-64
+LID - 10.3109/0886022X.2013.828367 [doi]
+AB  - INTRODUCTION: The solitary kidney (SK) is currently debated in the literature, as 
+      living kidney donation is extensively used and the diagnosis of congenital SK is 
+      frequent. Tubulointerstitial lesions associated with adaptive phenomena may occur 
+      early within the SK. AIMS: Analysis of the significance of urinary biomarkers in 
+      the assessment of tubulointerstitial lesions of the SK. METHODS: A 
+      cross-sectional study of 37 patients with SK included 18 patients-acquired SK 
+      (mean age 56.44 +/- 12.20 years, interval from nephrectomy 10.94 +/- 9.37 years), 19 
+      patients-congenital SK (mean age 41.52 +/- 10.54 years). Urinary NAG, urinary 
+      alpha-1-microglobulin, albuminuria, eGFR (CKD-EPI equation) were measured. 
+      RESULTS: In acquired SK, NAG increased in 60.66%, urinary alpha 1-microglobulin 
+      in 16.66%, albuminuria in 55.55% of patients. Inverse correlation with eGFR 
+      presented NAG (R(2 )= 0.537, p = 0.022), urinary alpha 1-microglobulin 
+      (R(2 )= 0.702, p = 0.001), albuminuria (R(2 )= 0.655, p = 0.003). In congenital 
+      SK, NAG increased in 52.63%, urinary alpha 1-microglobulin in 5.26%, albuminuria 
+      in 47.36% of patients. In this group, urinary biomarkers correlated inversely 
+      with eGFR: NAG (R(2 )= 0.743, p < 0.001), urinary alpha 1-microglobulin 
+      (R(2 )= 0.701, p = 0.001), albuminuria (R(2 )= 0.821, p < 0.001). Significant 
+      correlations were found between the urinary biomarkers in both groups. 
+      CONCLUSIONS: Urinary biomarkers allow a non-invasive, sensitive, early assessment 
+      of the tubular lesions of the SK. Urinary biomarkers of PT injury parallel renal 
+      function decline, thus complementing the estimation of GFR. Monitoring of PT 
+      dysfunction is mandatory in patients with SK.
+FAU - Gadalean, Florica
+AU  - Gadalean F
+AD  - Department of Nephrology, County Emergency Hospital, 'Victor Babes' University of 
+      Medicine and Pharmacy , Timisoara , Romania and.
+FAU - Kaycsa, Adriana
+AU  - Kaycsa A
+FAU - Gluhovschi, Gheorghe
+AU  - Gluhovschi G
+FAU - Velciov, Silvia
+AU  - Velciov S
+FAU - Gluhovschi, Cristina
+AU  - Gluhovschi C
+FAU - Bob, Flaviu
+AU  - Bob F
+FAU - Bozdog, Gheorghe
+AU  - Bozdog G
+FAU - Petrica, Ligia
+AU  - Petrica L
+LA  - eng
+PT  - Journal Article
+DEP - 20130902
+PL  - England
+TA  - Ren Fail
+JT  - Renal failure
+JID - 8701128
+RN  - 0 (Alpha-Globulins)
+RN  - 0 (Biomarkers)
+RN  - 0 (alpha-1-microglobulin)
+RN  - EC 3.2.1.52 (Acetylglucosaminidase)
+SB  - IM
+MH  - Acetylglucosaminidase/*urine
+MH  - Adult
+MH  - Aged
+MH  - Albuminuria/etiology
+MH  - Alpha-Globulins/*urine
+MH  - Biomarkers/urine
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Glomerular Filtration Rate
+MH  - Humans
+MH  - Kidney Diseases/*urine
+MH  - Male
+MH  - Middle Aged
+EDAT- 2013/09/03 06:00
+MHDA- 2014/06/21 06:00
+CRDT- 2013/09/03 06:00
+PHST- 2013/09/03 06:00 [entrez]
+PHST- 2013/09/03 06:00 [pubmed]
+PHST- 2014/06/21 06:00 [medline]
+AID - 10.3109/0886022X.2013.828367 [doi]
+PST - ppublish
+SO  - Ren Fail. 2013;35(10):1358-64. doi: 10.3109/0886022X.2013.828367. Epub 2013 Sep 
+      2.

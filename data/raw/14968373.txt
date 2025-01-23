@@ -1,0 +1,74 @@
+PMID- 14968373
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040707
+LR  - 20181113
+IS  - 0256-7040 (Print)
+IS  - 0256-7040 (Linking)
+VI  - 20
+IP  - 3
+DP  - 2004 Mar
+TI  - Can CT predict the level of CSF block in tuberculous hydrocephalus?
+PG  - 183-7
+AB  - INTRODUCTION: Treatment of obstructive hydrocephalus in children with tuberculous 
+      meningitis (TBM) depends on the level of the cerebrospinal fluid (CSF) block. 
+      Air-encephalography is regarded as the gold standard for differentiating 
+      communicating and non-communicating hydrocephalus. Since air-encephalography 
+      involves a lumbar puncture, it carries the risk of cerebral herniation. AIM. The 
+      aim of this study was to determine whether communicating and non-communicating 
+      hydrocephalus in TBM can be differentiated by means of cranial computerised 
+      tomography (CT). METHODS: A number of CT indices were measured in 50 children 
+      with communicating and 34 children with non-communicating hydrocephalus according 
+      to air-encephalographic findings. RESULTS: The only CT finding that correlated 
+      with the type of hydrocephalus was the shape of the third ventricle. 
+      Significantly more children with non-communicating hydrocephalus had a rounded 
+      third ventricle than those with communicating hydrocephalus. CONCLUSION: CT is 
+      therefore not useful in determining the level of CSF block in TBM. 
+      Air-encephalography remains the most reliable way of determining the level of CSF 
+      obstruction.
+FAU - Bruwer, G E
+AU  - Bruwer GE
+AD  - Department of Paediatrics and Child Health, Faculty of Health Sciences, Tygerberg 
+      Hospital, PO Box 19063, 7505, Tygerberg, South Africa.
+FAU - Van der Westhuizen, S
+AU  - Van der Westhuizen S
+FAU - Lombard, C J
+AU  - Lombard CJ
+FAU - Schoeman, J F
+AU  - Schoeman JF
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20040213
+PL  - Germany
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for 
+      Pediatric Neurosurgery
+JID - 8503227
+SB  - IM
+MH  - Cerebrospinal Fluid/*physiology
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Humans
+MH  - Hydrocephalus/*diagnostic imaging
+MH  - Infant
+MH  - Male
+MH  - Pneumoencephalography
+MH  - *Radiographic Image Interpretation, Computer-Assisted
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Third Ventricle/diagnostic imaging
+MH  - *Tomography, X-Ray Computed
+MH  - Tuberculosis, Meningeal/*diagnostic imaging
+EDAT- 2004/02/18 05:00
+MHDA- 2004/07/09 05:00
+CRDT- 2004/02/18 05:00
+PHST- 2003/10/03 00:00 [received]
+PHST- 2004/02/18 05:00 [pubmed]
+PHST- 2004/07/09 05:00 [medline]
+PHST- 2004/02/18 05:00 [entrez]
+AID - 10.1007/s00381-003-0887-x [doi]
+PST - ppublish
+SO  - Childs Nerv Syst. 2004 Mar;20(3):183-7. doi: 10.1007/s00381-003-0887-x. Epub 2004 
+      Feb 13.

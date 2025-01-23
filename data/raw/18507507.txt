@@ -1,0 +1,67 @@
+PMID- 18507507
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080918
+LR  - 20230823
+IS  - 1083-4087 (Print)
+IS  - 1944-706X (Electronic)
+IS  - 1083-4087 (Linking)
+VI  - 14
+IP  - 4 Suppl
+DP  - 2008 May
+TI  - The promise of specialty pharmaceuticals: are they worth the price?
+PG  - S3-6
+LID - 10.18553/jmcp.2008.14.S4-A.3
+AB  - BACKGROUND: Specialty pharmaceuticals have evolved beyond their status as niche 
+      drugs designed to treat rare conditions and are now poised to become the standard 
+      of care in a wide variety of common chronic illnesses. Due in part to the cost of 
+      these therapies, payers are increasingly demanding evidence of their value. 
+      Determining the value of these medications is hampered by a lack of robust 
+      pharmacoeconomic data. OBJECTIVE: To outline emerging strategies and case study 
+      examples for the medical and pharmacy benefits management of specialty 
+      pharmaceuticals. SUMMARY: The promise of specialty pharmaceuticals: increased 
+      life expectancy, improved quality of life, enhanced workplace productivity, 
+      decreased burden of disease, and reduced health care spending comes at a 
+      significant cost. These agents require special handling, administration, patient 
+      education, clinical support, and risk mitigation. Additionally, specialty drugs 
+      require distribution systems that ensure appropriate patient selection and data 
+      collection. With the specialty pharmaceutical pipeline overflowing with new 
+      medicines and an aging population increasingly relying on these novel treatments 
+      to treat common diseases, the challenge of managing the costs associated with 
+      these agents can be daunting. Aided by sophisticated pharmacoeconomic models to 
+      assess value, the cost impacts of these specialty drugs can be appropriately 
+      controlled. CONCLUSION: Current evidence suggests that when used in targeted 
+      patient populations, specialty pharmaceuticals may represent a good health care 
+      value.
+FAU - Sullivan, Sean D
+AU  - Sullivan SD
+AD  - Pharmaceutical Outcomes Research and Policy Program, University of Washington, 
+      Seattle, WA 98195-7630, USA. sdsull@u.washington.edu
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Manag Care Pharm
+JT  - Journal of managed care pharmacy : JMCP
+JID - 9605854
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Chronic Disease
+MH  - *Drug Costs
+MH  - Humans
+MH  - Managed Care Programs/*economics
+MH  - Pharmaceutical Preparations/*economics
+MH  - Rare Diseases/drug therapy
+MH  - United States
+PMC - PMC10438149
+EDAT- 2008/06/25 09:00
+MHDA- 2008/09/19 09:00
+PMCR- 2008/05/01
+CRDT- 2008/06/25 09:00
+PHST- 2008/06/25 09:00 [pubmed]
+PHST- 2008/09/19 09:00 [medline]
+PHST- 2008/06/25 09:00 [entrez]
+PHST- 2008/05/01 00:00 [pmc-release]
+AID - 2008(14)4: 3-6 [pii]
+AID - 10.18553/jmcp.2008.14.s4-a.3 [doi]
+PST - ppublish
+SO  - J Manag Care Pharm. 2008 May;14(4 Suppl):S3-6. doi: 10.18553/jmcp.2008.14.s4-a.3.

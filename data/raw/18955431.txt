@@ -1,0 +1,75 @@
+PMID- 18955431
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090210
+LR  - 20161124
+IS  - 0269-2155 (Print)
+IS  - 0269-2155 (Linking)
+VI  - 22
+IP  - 10-11
+DP  - 2008 Oct-Nov
+TI  - Treadmill training post stroke: are there any secondary benefits? A pilot study.
+PG  - 997-1002
+LID - 10.1177/0269215508088988 [doi]
+AB  - OBJECTIVE: To explore the secondary benefits of treadmill training for people in 
+      the chronic stage of recovery from stroke. DESIGN: Modified random assignment, 
+      matched-pair control group design with repeated measures. SETTING: Outpatient 
+      stroke centre. PARTICIPANTS: Twenty individuals post first stroke who 
+      acknowledged walking slower than pre stroke. Participants matched by side of 
+      hemiparesis and motor impairment. INTERVENTIONS: Twelve 20-minute sessions of 
+      walking on a treadmill or weekly phone call. MAIN OUTCOME MEASURES: Depression 
+      (Beck Depression Index), mobility and social participation (Stroke Impact Scale 
+      3.0 subscales) were assessed initially, at the end of 12 treatments (four weeks) 
+      and six weeks later. RESULTS: No significant difference was found between groups 
+      for any dependent measure. The ANOVA to investigate main effects in each group 
+      found no significant findings in the control group; however in the treatment 
+      group significant improvements over time for depression (P = 0.005, P < 0.001), 
+      mobility (P = 0.008) and social participation (P = 0.004) were demonstrated. 
+      CONCLUSIONS: A task-specific intervention designed to improve gait speed may 
+      potentially provide secondary benefits by positively impacting depression, 
+      mobility and social participation for people post stroke.
+FAU - Smith, Patricia S
+AU  - Smith PS
+AD  - Department of Physical Therapy, The University of Texas Southwestern Medical 
+      Center, Dallas, Texas 75239-8876, USA. patricia.smith@utsouthwestern.edu
+FAU - Thompson, Mary
+AU  - Thompson M
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Clin Rehabil
+JT  - Clinical rehabilitation
+JID - 8802181
+SB  - IM
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Depression
+MH  - Exercise Therapy/*instrumentation/methods
+MH  - Exercise Tolerance/physiology
+MH  - Female
+MH  - Gait/physiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Paresis/complications/*rehabilitation
+MH  - Pilot Projects
+MH  - Quality of Life
+MH  - Recovery of Function
+MH  - Severity of Illness Index
+MH  - Social Behavior
+MH  - Stroke/complications/*psychology
+MH  - *Stroke Rehabilitation
+MH  - Surveys and Questionnaires
+MH  - Treatment Outcome
+MH  - *Walking
+EDAT- 2008/10/29 09:00
+MHDA- 2009/02/12 09:00
+CRDT- 2008/10/29 09:00
+PHST- 2008/10/29 09:00 [pubmed]
+PHST- 2009/02/12 09:00 [medline]
+PHST- 2008/10/29 09:00 [entrez]
+AID - 22/10-11/997 [pii]
+AID - 10.1177/0269215508088988 [doi]
+PST - ppublish
+SO  - Clin Rehabil. 2008 Oct-Nov;22(10-11):997-1002. doi: 10.1177/0269215508088988.

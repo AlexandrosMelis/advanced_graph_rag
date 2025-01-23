@@ -1,0 +1,70 @@
+PMID- 22534881
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121001
+LR  - 20211021
+IS  - 1437-9813 (Electronic)
+IS  - 0179-0358 (Linking)
+VI  - 28
+IP  - 6
+DP  - 2012 Jun
+TI  - Does the radiographic transition zone correlate with the level of aganglionosis 
+      on the specimen in Hirschsprung's disease?
+PG  - 597-601
+LID - 10.1007/s00383-012-3094-6 [doi]
+AB  - PURPOSE: The correlation between radiographic transition zone on contrast enema 
+      in Hirschsprung's disease and the total length of aganglionosis is known to be 
+      inaccurate. The aim of our study was to analyse this correlation more precisely 
+      to improve preoperative planning of the corrective surgery. METHODS: From 1998 to 
+      2009, 79 patients were operated on for Hirschsprung's disease. All available 
+      preoperative contrast enemas (n = 61) had been single blind reviewed by the same 
+      radiologist who defined the radiographic transition zone when present in 
+      vertebral level. Four groups were determined (rectal, rectosigmoid, long segment, 
+      and absence of transition zone) and by Kappa coefficient of agreement correlated 
+      to the length of aganglionosis in the pathological report. RESULTS: Radiological 
+      findings were concordant with the specimen in pathology in 8 cases of 19 in 
+      rectal form (42 %), in 20 cases of 35 in rectosigmoid form (57 %), in all 6 cases 
+      of long-segment form (100 %), in the 2 cases of total colonic form (100 %) with a 
+      global agreement of 58.1 %, kappa = 0.39 CI [0.24; 0.57]. CONCLUSION: Correlation 
+      between level of radiographic transition zone on contrast enema and length of 
+      aganglionosis remains low. Systematic preoperative biopsy by coelioscopy or 
+      ombilical incision is mandatory.
+FAU - Muller, Cecile Olivia
+AU  - Muller CO
+AD  - Department of Pediatric Surgery and Urology, Hopital Robert Debre, 48 Boulevard 
+      Serrurier, 75019, Paris, France. cessolivia@gmail.com
+FAU - Mignot, Cecile
+AU  - Mignot C
+FAU - Belarbi, Nadia
+AU  - Belarbi N
+FAU - Berrebi, Dominique
+AU  - Berrebi D
+FAU - Bonnard, Arnaud
+AU  - Bonnard A
+LA  - eng
+PT  - Journal Article
+DEP - 20120426
+PL  - Germany
+TA  - Pediatr Surg Int
+JT  - Pediatric surgery international
+JID - 8609169
+SB  - IM
+MH  - Female
+MH  - Hirschsprung Disease/*diagnostic imaging/*pathology/surgery
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+MH  - Radiography
+MH  - Retrospective Studies
+EDAT- 2012/04/27 06:00
+MHDA- 2012/10/02 06:00
+CRDT- 2012/04/27 06:00
+PHST- 2012/04/11 00:00 [accepted]
+PHST- 2012/04/27 06:00 [entrez]
+PHST- 2012/04/27 06:00 [pubmed]
+PHST- 2012/10/02 06:00 [medline]
+AID - 10.1007/s00383-012-3094-6 [doi]
+PST - ppublish
+SO  - Pediatr Surg Int. 2012 Jun;28(6):597-601. doi: 10.1007/s00383-012-3094-6. Epub 
+      2012 Apr 26.

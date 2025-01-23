@@ -1,0 +1,128 @@
+PMID- 12419743
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030320
+LR  - 20200203
+IS  - 0923-7534 (Print)
+IS  - 0923-7534 (Linking)
+VI  - 13
+IP  - 11
+DP  - 2002 Nov
+TI  - Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic 
+      breast cancer patients as effective as combination chemotherapy? No difference in 
+      survival but higher quality of life were found in a multicenter randomized trial.
+PG  - 1717-29
+AB  - BACKGROUND: To determine whether patients with high-risk metastatic breast cancer 
+      draw benefit from combination chemotherapy as first-line treatment. PATIENTS AND 
+      METHODS: A total of 260 women with measurable metastatic breast cancer fulfilling 
+      high-risk criteria, previously untreated with chemotherapy for their metastatic 
+      disease, were randomized to receive either mitoxantrone 12 mg/m(2) or the 
+      combination of fluorouracil 500 mg/m(2), epirubicin 50 mg/m(2) and 
+      cyclophosphamide 500 mg/m(2) (FEC) every 3 weeks. Treatment was continued until 
+      complete remission plus two cycles, or until disease progression. In the case of 
+      partial remission or stable disease, treatment was stopped after 12 cycles. 
+      Second-line treatment was vindesine, mitomycin and prednisolone. Gain from 
+      treatment was estimated using a modified Brunner's score composed of time to 
+      progression, patients' rating of the treatment benefit, alopecia, vomiting and 
+      performance status. RESULTS: After recruitment from 1992 to 1997 and observation 
+      from 1997 to 1999, the final evaluation showed that single-agent treatment with 
+      mitoxantrone does not differ significantly from combination treatment with FEC in 
+      terms of response, objective remission rate, remission duration, time to 
+      response, time to best response, time to progression or overall survival. There 
+      was, however, a significant difference in gain from treatment using a modified 
+      Brunner's score favoring the single-agent treatment arm. There was no evidence 
+      that any subgroup would fare better with combination treatment. CONCLUSIONS: No 
+      significant difference was detected between the treatment with mitoxantrone as a 
+      single agent and the combination of low-dose FEC in terms of response or 
+      survival; therefore, the imperative of the necessity of first-line combination 
+      chemotherapy for patients with high-risk metastatic breast cancer may be 
+      questioned. Since toxicity and quality of life score favored the single-agent 
+      mitoxantrone treatment arm, this treatment may be offered to patients preferring 
+      quality of life to a potential small prolongation of survival.
+FAU - Heidemann, E
+AU  - Heidemann E
+AD  - Department of Hematology and Medical Oncology, Deaconess Hospital, Oncological 
+      Center of Stuttgart, Germany. heidemann@diak-stuttgart.de
+FAU - Stoeger, H
+AU  - Stoeger H
+FAU - Souchon, R
+AU  - Souchon R
+FAU - Hirschmann, W-D
+AU  - Hirschmann WD
+FAU - Bodenstein, H
+AU  - Bodenstein H
+FAU - Oberhoff, C
+AU  - Oberhoff C
+FAU - Fischer, J T
+AU  - Fischer JT
+FAU - Schulze, M
+AU  - Schulze M
+FAU - Clemens, M
+AU  - Clemens M
+FAU - Andreesen, R
+AU  - Andreesen R
+FAU - Mahlke, M
+AU  - Mahlke M
+FAU - Konig, M
+AU  - Konig M
+FAU - Scharl, A
+AU  - Scharl A
+FAU - Fehnle, K
+AU  - Fehnle K
+FAU - Kaufmann, M
+AU  - Kaufmann M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Ann Oncol
+JT  - Annals of oncology : official journal of the European Society for Medical 
+      Oncology
+JID - 9007735
+RN  - 3Z8479ZZ5X (Epirubicin)
+RN  - 8N3DW7272P (Cyclophosphamide)
+RN  - BZ114NVM5P (Mitoxantrone)
+RN  - U3P01618RT (Fluorouracil)
+RN  - FEC protocol
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Antineoplastic Combined Chemotherapy Protocols/administration & 
+      dosage/therapeutic use
+MH  - Biopsy, Needle
+MH  - Bone Neoplasms/drug therapy/*secondary
+MH  - Breast Neoplasms/*drug therapy/*mortality/pathology
+MH  - Cyclophosphamide/administration & dosage
+MH  - Disease-Free Survival
+MH  - Epirubicin/administration & dosage
+MH  - Female
+MH  - Fluorouracil/administration & dosage
+MH  - Germany
+MH  - Humans
+MH  - Liver Neoplasms/drug therapy/*secondary
+MH  - Logistic Models
+MH  - Lung Neoplasms/drug therapy/*secondary
+MH  - Middle Aged
+MH  - Mitoxantrone/*administration & dosage
+MH  - Neoplasm Staging
+MH  - Probability
+MH  - Proportional Hazards Models
+MH  - *Quality of Life
+MH  - Risk Assessment
+MH  - Sensitivity and Specificity
+MH  - Statistics, Nonparametric
+MH  - Survival Analysis
+MH  - Treatment Outcome
+EDAT- 2002/11/07 04:00
+MHDA- 2003/03/21 04:00
+CRDT- 2002/11/07 04:00
+PHST- 2002/11/07 04:00 [pubmed]
+PHST- 2003/03/21 04:00 [medline]
+PHST- 2002/11/07 04:00 [entrez]
+AID - S0923-7534(19)63738-5 [pii]
+AID - 10.1093/annonc/mdf306 [doi]
+PST - ppublish
+SO  - Ann Oncol. 2002 Nov;13(11):1717-29. doi: 10.1093/annonc/mdf306.

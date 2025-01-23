@@ -1,0 +1,66 @@
+PMID- 22211919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120813
+LR  - 20120410
+IS  - 1651-2227 (Electronic)
+IS  - 0803-5253 (Linking)
+VI  - 101
+IP  - 5
+DP  - 2012 May
+TI  - Actinobaculum schaalii, a cause of urinary tract infections in children?
+PG  - e232-4
+LID - 10.1111/j.1651-2227.2011.02586.x [doi]
+AB  - AIM: To inform that Actinobaculum schaalii can colonize the urine and cause 
+      urinary tract infection in children. METHODS: Urine samples were examined by wet 
+      smear microscopy, incubated in 5% CO(2) for 1-2 days, and species-specific 
+      real-time polymerase chain reaction (PCR) for A. schaalii was performed. RESULTS: 
+      In 5 of the 29 screened urines, A. schaalii was found only by real-time PCR in 
+      quantities equivalent to >/= 10(4) -10(5) CFU/mL. In addition, A. schaalii was 
+      found in quantities equivalent to >/= 10(6) CFU/mL by both culture and PCR in two 
+      children with a urinary tract infection and large numbers of leucocytes in the 
+      urine. CONCLUSION: Actinobaculum schaalii is CO(2)-dependent. Therefore, if there 
+      are clinical symptoms and/or a negative culture despite the presence of 
+      leucocytes in the urine, Gram staining and incubation in 5% CO(2) or 
+      species-specific real-time PCR should be performed to identify A. schaalii.
+CI  - (c) 2011 The Author(s)/Acta Paediatrica (c) 2011 Foundation Acta Paediatrica.
+FAU - Andersen, Lise Bols
+AU  - Andersen LB
+AD  - Department of Paediatrics, Viborg Regional Hospital, Viborg, Denmark. 
+      lise.andersen@viborg.rm.dk
+FAU - Bank, Steffen
+AU  - Bank S
+FAU - Hertz, Birgitte
+AU  - Hertz B
+FAU - Soby, Karen Marie
+AU  - Soby KM
+FAU - Prag, Jorgen
+AU  - Prag J
+LA  - eng
+PT  - Journal Article
+DEP - 20120123
+PL  - Norway
+TA  - Acta Paediatr
+JT  - Acta paediatrica (Oslo, Norway : 1992)
+JID - 9205968
+SB  - IM
+MH  - Adolescent
+MH  - Child, Preschool
+MH  - Female
+MH  - Gram-Positive Bacteria/*isolation & purification
+MH  - Gram-Positive Bacterial Infections/*microbiology/*urine
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Retrospective Studies
+MH  - Urinary Tract Infections/*microbiology/*urine
+EDAT- 2012/01/04 06:00
+MHDA- 2012/08/14 06:00
+CRDT- 2012/01/04 06:00
+PHST- 2012/01/04 06:00 [entrez]
+PHST- 2012/01/04 06:00 [pubmed]
+PHST- 2012/08/14 06:00 [medline]
+AID - 10.1111/j.1651-2227.2011.02586.x [doi]
+PST - ppublish
+SO  - Acta Paediatr. 2012 May;101(5):e232-4. doi: 10.1111/j.1651-2227.2011.02586.x. 
+      Epub 2012 Jan 23.

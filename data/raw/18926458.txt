@@ -1,0 +1,70 @@
+PMID- 18926458
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081118
+LR  - 20090521
+IS  - 1879-1190 (Electronic)
+IS  - 1072-7515 (Linking)
+VI  - 207
+IP  - 4
+DP  - 2008 Oct
+TI  - Are octogenarians at high risk for carotid endarterectomy?
+PG  - 549-53
+LID - 10.1016/j.jamcollsurg.2008.05.002 [doi]
+AB  - BACKGROUND: Several prospective randomized trials have proved carotid 
+      endarterectomy to be safe and effective for both symptomatic and asymptomatic 
+      patients younger than 80 years of age. Recently, carotid artery stenting (CAS) 
+      has been approved for use in selected high-risk patients. It has been proposed 
+      that being an octogenarian places patients in this high-risk category. STUDY 
+      DESIGN: All patients between the ages of 80 to 89 years undergoing carotid 
+      endarterectomy during a 12-year period were included in the study. Information 
+      included indications for carotid endarterectomy, associated risk factors, length 
+      of stay, and hospital course. Perioperative morbidity and mortality, including 
+      neurologic events and myocardial infarction, were recorded. RESULTS: A total of 
+      103 carotid endarterectomies were performed in 95 octogenarians. Procedures were 
+      performed on 59 men and 36 women. Indications for operation included symptomatic 
+      carotid stenosis in 44 patients (43%) and asymptomatic carotid stenosis in 59 
+      (57%). Associated risk factors included diabetes mellitus (17%), hypertension 
+      (76%), coronary artery disease (28%), hyperlipidemia (39%), and history of 
+      smoking (42%). There were 4 perioperative neurologic complications, which 
+      included 1 transient ischemic attack (0.97%), 2 minor strokes (1.94%), and 1 
+      major stroke (0.97%). There were no deaths. CONCLUSIONS: Combined end points for 
+      adverse events are acceptable in the octogenarian. Carotid endarterectomy remains 
+      the gold standard for treatment of extracranial carotid disease in all age 
+      groups. Age alone should not place patients in the high-risk category for carotid 
+      endarterectomy.
+FAU - Bremner, Amy K
+AU  - Bremner AK
+AD  - Huntington Hospital, Pasadena, CA 91105, USA.
+FAU - Katz, Steven G
+AU  - Katz SG
+LA  - eng
+PT  - Journal Article
+DEP - 20080630
+PL  - United States
+TA  - J Am Coll Surg
+JT  - Journal of the American College of Surgeons
+JID - 9431305
+SB  - IM
+MH  - Age Factors
+MH  - Aged, 80 and over
+MH  - Carotid Stenosis/*surgery
+MH  - Endarterectomy, Carotid/*statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Morbidity
+EDAT- 2008/10/18 09:00
+MHDA- 2008/11/19 09:00
+CRDT- 2008/10/18 09:00
+PHST- 2008/03/10 00:00 [received]
+PHST- 2008/05/05 00:00 [revised]
+PHST- 2008/05/06 00:00 [accepted]
+PHST- 2008/10/18 09:00 [pubmed]
+PHST- 2008/11/19 09:00 [medline]
+PHST- 2008/10/18 09:00 [entrez]
+AID - S1072-7515(08)00487-0 [pii]
+AID - 10.1016/j.jamcollsurg.2008.05.002 [doi]
+PST - ppublish
+SO  - J Am Coll Surg. 2008 Oct;207(4):549-53. doi: 10.1016/j.jamcollsurg.2008.05.002. 
+      Epub 2008 Jun 30.

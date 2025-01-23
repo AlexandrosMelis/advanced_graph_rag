@@ -1,0 +1,73 @@
+PMID- 23761381
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140123
+LR  - 20130702
+IS  - 1758-1001 (Electronic)
+IS  - 0004-5632 (Linking)
+VI  - 50
+IP  - Pt 4
+DP  - 2013 Jul
+TI  - Is calibration the cause of variation in liquid chromatography tandem mass 
+      spectrometry testosterone measurement?
+PG  - 368-70
+LID - 10.1177/0004563212474563 [doi]
+AB  - BACKGROUND: Testosterone measurement by liquid chromatography tandem mass 
+      spectrometry (LC-MS/MS) is well accepted as the preferred technique for the 
+      analysis of testosterone. Variation is seen between assays and this may be due to 
+      differences in calibration as commercial calibrators for this assay are not 
+      readily available. We investigated the effects calibration in routine clinical 
+      LC-MS/MS assays. METHODS: All LC-MS/MS users that were registered with the 
+      UKNEQAS external quality assurance scheme for testosterone were invited to take 
+      part in the study. A set of seven serum samples and serum-based calibrators were 
+      sent to all laboratories that expressed an interest. The laboratories were 
+      instructed to analyse all samples using there own calibrators and return the 
+      results and a method questionnaire for analysis. RESULTS: Fifteen laboratories 
+      took part in the study. There was no consensus on supplier of testosterone or 
+      matrix for the preparation of calibrators and all were prepared in-house. Also, a 
+      wide variety of mass spectrometers, internal standards, chromatography conditions 
+      and sample extractions were used. The variation in results did not improve when 
+      the results were corrected with a common calibrator. CONCLUSIONS: The variation 
+      in results obtained could not be attributed to variations in calibrators. The 
+      differences in methodologies between laboratories must be the reason for this 
+      variation.
+FAU - Owen, L J
+AU  - Owen LJ
+AD  - The University of Manchester, Manchester Academic Health Science Centre, 
+      Manchester, UK. Laura.owen@uhsm.nhs.uk
+FAU - MacDonald, P R
+AU  - MacDonald PR
+FAU - Keevil, B G
+AU  - Keevil BG
+LA  - eng
+PT  - Journal Article
+DEP - 20130610
+PL  - England
+TA  - Ann Clin Biochem
+JT  - Annals of clinical biochemistry
+JID - 0324055
+RN  - 3XMK78S47O (Testosterone)
+SB  - IM
+MH  - Calibration
+MH  - Chromatography, Liquid/methods/standards
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Tandem Mass Spectrometry/*methods/*standards
+MH  - Testosterone/*blood
+OTO - NOTNLM
+OT  - Mass spectrometry
+OT  - analytes
+OT  - laboratory methods
+OT  - steroid hormones
+EDAT- 2013/06/14 06:00
+MHDA- 2014/01/24 06:00
+CRDT- 2013/06/14 06:00
+PHST- 2013/06/14 06:00 [entrez]
+PHST- 2013/06/14 06:00 [pubmed]
+PHST- 2014/01/24 06:00 [medline]
+AID - 0004563212474563 [pii]
+AID - 10.1177/0004563212474563 [doi]
+PST - ppublish
+SO  - Ann Clin Biochem. 2013 Jul;50(Pt 4):368-70. doi: 10.1177/0004563212474563. Epub 
+      2013 Jun 10.

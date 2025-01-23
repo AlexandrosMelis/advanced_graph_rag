@@ -1,0 +1,89 @@
+PMID- 10173769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19971202
+LR  - 20250103
+IS  - 0963-8172 (Print)
+IS  - 0963-8172 (Linking)
+VI  - 6
+IP  - 3
+DP  - 1997 Sep
+TI  - Longer term quality of life and outcome in stroke patients: is the Barthel index 
+      alone an adequate measure of outcome?
+PG  - 125-30
+AB  - OBJECTIVES: To consider whether the Barthel Index alone provides sufficient 
+      information about the long term outcome of stroke. DESIGN: Cross sectional follow 
+      up study with a structured interview questionnaire and measures of impairment, 
+      disability, handicap, and general health. The scales used were the hospital 
+      anxiety and depression scale, mini mental state examination, Barthel index, 
+      modified Rankin scale, London handicap scale, Frenchay activities index, SF36, 
+      Nottingham health profile, life satisfaction index, and the caregiver strain 
+      index. SETTING: South east London. SUBJECTS: People, and their identified carers, 
+      resident in south east London in 1989-90 when they had their first in a life-time 
+      stroke aged under 75 years. INTERVENTIONS: Observational study. MAIN OUTCOME 
+      MEASURES: Comparison and correlation of the individual Barthel index scores with 
+      the scores on other outcome measures. RESULTS: One hundred and twenty three (42%) 
+      people were known to be alive, of whom 106 (86%) were interviewed. The median age 
+      was 71 years (range 34-79). The mean interval between the stroke and follow up 
+      was 4.9 years. The rank correlation coefficients between the Barthel and the 
+      different dimensions of the SF36 ranged from r = 0.217 (with the role emotional 
+      dimension) to r = 0.810 (with the physical functioning dimension); with the 
+      Nottingham health profile the range was r = -0.189 (with the sleep dimension, NS) 
+      to r = -0.840 (with the physical mobility dimension); with the hospital and 
+      anxiety scale depression component the coefficient was r = -0.563, with the life 
+      satisfaction index r = 0.361, with the London handicap scale r = 0.726 and with 
+      the Frenchay activities index r = 0.826. CONCLUSIONS: The place of the Barthel 
+      index as the standard outcome measure for populations of stroke patients is still 
+      justified for long term follow up, and may be a proxy for different outcome 
+      measures intended for the assessment of other domains.
+FAU - Wilkinson, P R
+AU  - Wilkinson PR
+AD  - St Thomas's Hospital, London.
+FAU - Wolfe, C D
+AU  - Wolfe CD
+FAU - Warburton, F G
+AU  - Warburton FG
+FAU - Rudd, A G
+AU  - Rudd AG
+FAU - Howard, R S
+AU  - Howard RS
+FAU - Ross-Russell, R W
+AU  - Ross-Russell RW
+FAU - Beech, R
+AU  - Beech R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Qual Health Care
+JT  - Quality in health care : QHC
+JID - 9209948
+MH  - Activities of Daily Living
+MH  - Adult
+MH  - Aged
+MH  - Caregivers/psychology
+MH  - Cerebrovascular Disorders/classification/epidemiology/*physiopathology
+MH  - Cognition Disorders
+MH  - Cohort Studies
+MH  - Cross-Sectional Studies
+MH  - Persons with Disabilities/*classification
+MH  - Humans
+MH  - London/epidemiology
+MH  - Middle Aged
+MH  - Outcome Assessment, Health Care/*methods
+MH  - Patient Satisfaction
+MH  - *Quality of Life
+MH  - Registries
+MH  - State Medicine
+PMC - PMC1055473
+EDAT- 1997/08/05 00:00
+MHDA- 1997/08/05 00:01
+PMCR- 1997/09/01
+CRDT- 1997/08/05 00:00
+PHST- 1997/08/05 00:00 [pubmed]
+PHST- 1997/08/05 00:01 [medline]
+PHST- 1997/08/05 00:00 [entrez]
+PHST- 1997/09/01 00:00 [pmc-release]
+AID - 10.1136/qshc.6.3.125 [doi]
+PST - ppublish
+SO  - Qual Health Care. 1997 Sep;6(3):125-30. doi: 10.1136/qshc.6.3.125.

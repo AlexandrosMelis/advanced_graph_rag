@@ -1,0 +1,72 @@
+PMID- 19237087
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090529
+LR  - 20191210
+IS  - 1879-0828 (Electronic)
+IS  - 0953-6205 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2009 Jan
+TI  - Are many colorectal cancers due to missed adenomas?
+PG  - 20-3
+LID - 10.1016/j.ejim.2008.03.013 [doi]
+AB  - BACKGROUND: An unknown number of colorectal cancers could be due to missed 
+      adenomas during previous endoscopy. Data in the literature are sparse. A large 
+      cross-sectional study was done in a prospective database of all patients 
+      diagnosed with colorectal cancer. METHODS: All consecutive endoscopies over a 
+      period of 15 years, in which colorectal cancer was diagnosed were included. All 
+      patients who underwent more than one endoscopy and in whom ultimately cancer was 
+      diagnosed were studied separately. RESULTS: Colorectal cancer was diagnosed in 
+      835 patients. Twenty-five patients underwent a previous endoscopy without a 
+      cancer diagnosis. These 25 patients were divided into three groups according to 
+      the time between the endoscopy in which the cancer was detected and the previous 
+      endoscopy. Five out of these 25 patients underwent regular surveillance. Only 11 
+      patients had no argument for regular follow-up. Assuming that these cancers 
+      developed from an adenoma than only 11 out of 835 (1.3%) cancers were missed in 
+      the adenoma phase. There was no difference in the size of the tumour between the 
+      three groups of patients. CONCLUSION: In normal daily practice, only a small 
+      number of clinically important adenomas are missed. The problem of missed 
+      adenomas probably is being exaggerated.
+FAU - Loffeld, R J L F
+AU  - Loffeld RJ
+AD  - Department of Internal Medicine, Zaans Medical Centre, PO BOX 210, 1500 EE 
+      Zaandam, The Netherlands. loffeld.r@zaansmc.nl
+LA  - eng
+PT  - Journal Article
+PT  - Validation Study
+DEP - 20080425
+PL  - Netherlands
+TA  - Eur J Intern Med
+JT  - European journal of internal medicine
+JID - 9003220
+SB  - IM
+MH  - Adenoma/*diagnosis
+MH  - Adenomatous Polyps/diagnosis
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cecal Neoplasms/diagnosis
+MH  - Colonic Diseases/diagnosis
+MH  - Colonoscopy/*standards/*statistics & numerical data
+MH  - Colorectal Neoplasms/*diagnosis
+MH  - Cross-Sectional Studies
+MH  - Databases, Factual
+MH  - False Negative Reactions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+EDAT- 2009/02/25 09:00
+MHDA- 2009/05/30 09:00
+CRDT- 2009/02/25 09:00
+PHST- 2007/11/28 00:00 [received]
+PHST- 2008/01/27 00:00 [revised]
+PHST- 2008/03/09 00:00 [accepted]
+PHST- 2009/02/25 09:00 [entrez]
+PHST- 2009/02/25 09:00 [pubmed]
+PHST- 2009/05/30 09:00 [medline]
+AID - S0953-6205(08)00108-8 [pii]
+AID - 10.1016/j.ejim.2008.03.013 [doi]
+PST - ppublish
+SO  - Eur J Intern Med. 2009 Jan;20(1):20-3. doi: 10.1016/j.ejim.2008.03.013. Epub 2008 
+      Apr 25.
