@@ -1,0 +1,64 @@
+{
+    "rel_separator": "-[]->",
+    "nodes": {
+        "document": {
+            "label": "DOCUMENT",
+            "properties": {
+                "pmid": "string",
+                "year": "string",
+                "reasoning_required_pred": "string",
+                "reasoning_free_pred": "string",
+                "final_decision": "string"
+            }
+        },
+        "question": {
+            "label": "QUESTION",
+            "properties": {
+                "text": "string"
+            }
+        },
+        "context": {
+            "label": "CONTEXT",
+            "properties": {
+                "text": "string",
+                "embeddings": "list"
+            }
+        },
+        "long_answer": {
+            "label": "LONG_ANSWER",
+            "properties": {
+                "text": "string"
+            }
+        },
+        "mesh": {
+            "label": "MESH",
+            "properties": {
+                "term": "string",
+                "embeddings": "list"
+            }
+        },
+        "section_label": {
+            "label": "SECTION_LABEL",
+            "properties": {
+                "name": "string"
+            }
+        }
+    },
+    "relationships": {
+        "document-[]->question": {
+            "rel_type": "HAS_QUESTION"
+        },
+        "document-[]->context": {
+            "rel_type": "HAS_CONTEXT"
+        },
+        "document-[]->long_answer": {
+            "rel_type": "HAS_LONG_ANSWER"
+        },
+        "document-[]->mesh": {
+            "rel_type": "HAS_MESH"
+        },
+        "document-[]->section_label": {
+            "rel_type": "HAS_SECTION"
+        }
+    }
+}

@@ -88,16 +88,18 @@ class ConfigPath:
     Responsible for creating each directory if it does not already exist.
     """
 
-    # Base directory is the location of this config file.
-    # You may adjust the parent reference as needed.
-    BASE_DIR = Path(__file__).resolve().parent.parent.parent
+    PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
+    BASE_DIR = Path(__file__).resolve().parent.parent  # source dir
 
     # Data directories
-    DATA_DIR = BASE_DIR / "data"
-    RAW_DATA_DIR = DATA_DIR / "raw"
-    PROCESSED_DATA_DIR = DATA_DIR / "processed"
-    INTERMEDIATE_DATA_DIR = DATA_DIR / "intermediate"
-    EXTERNAL_DATA_DIR = DATA_DIR / "external"
+    DATA_DIR = os.path.join(PROJECT_DIR, "data")
+    RAW_DATA_DIR = os.path.join(DATA_DIR, "raw")
+    PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")
+    INTERMEDIATE_DATA_DIR = os.path.join(DATA_DIR, "intermediate")
+    EXTERNAL_DATA_DIR = os.path.join(DATA_DIR, "external")
+    # KG DIRECTORIES
+    KG_DIR = os.path.join(BASE_DIR, "knowledge_graph")
+    KG_CONFIG_DIR = os.path.join(KG_DIR, "configs")
 
     @classmethod
     def create_directories(cls):
@@ -111,7 +113,7 @@ class ConfigPath:
         ]
 
         for directory in dirs_to_create:
-            directory.mkdir(parents=True, exist_ok=True)
+            Path(directory).mkdir(parents=True, exist_ok=True)
 
 
 # Create all directories when this file is imported

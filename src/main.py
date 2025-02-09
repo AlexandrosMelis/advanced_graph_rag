@@ -1,8 +1,9 @@
 import os
 
-from configs.config import ConfigPath
+from configs import ConfigPath
 from data_collection.article_fetcher import PubMedArticleFetcher
 from data_collection.reader import MetadataReader
+from knowledge_graph.loader import GraphLoader
 
 
 def download_articles():
@@ -19,5 +20,11 @@ def download_articles():
     fetcher.fetch_articles(pmids=metadata_reader.pmids)
 
 
+def initialized_graph_loader():
+    file_path = os.path.join(ConfigPath.KG_CONFIG_DIR, "schema_config.json")
+    graph_loader = GraphLoader.from_config_file(path=file_path)
+    print("graph loader initiated successfully!")
+
+
 if __name__ == "__main__":
-    download_articles()
+    initialized_graph_loader()

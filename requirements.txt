@@ -4,3 +4,4 @@ python-dotenv==1.0.1
 biopython==1.84
 google-generativeai==0.8.3
 tqdm==4.67.0
+neo4j==5.28.0
