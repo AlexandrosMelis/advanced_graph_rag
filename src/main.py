@@ -22,7 +22,7 @@ def download_articles():
 
 def initialized_graph_loader():
     file_path = os.path.join(ConfigPath.KG_CONFIG_DIR, "schema_config.json")
-    graph_loader = GraphLoader.from_config_file(path=file_path)
+    graph_loader = GraphLoader.from_json_file(path=file_path)
     print("graph loader initiated successfully!")
 
 

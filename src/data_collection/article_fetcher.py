@@ -1,10 +1,10 @@
 import os
 import re
 
-from tqdm import tqdm
 from Bio import Entrez
+from tqdm import tqdm
 
-from configs.config import logging, ConfigEnv, logger
+from configs.config import ConfigEnv, logger
 
 
 class PubMedArticleFetcher:

@@ -25,7 +25,7 @@ class GraphCrud:
             result = session.run(query, properties=properties)
             record = result.single()
             if record is None:
-                raise Exception(f"Failed to create node for label {label}")
+                raise RuntimeError(f"Failed to create node for label {label}")
             logger.debug(f"Created node with label '{label}' and id: {record['id']}")
             return record["id"]
 
@@ -73,7 +73,7 @@ class GraphCrud:
             )
             record = result.single()
             if record is None:
-                raise Exception(
+                raise RuntimeError(
                     f"Failed to create relationship {rel_type} for ids ({from_node_id}, {to_node_id})"
                 )
             logger.debug(
