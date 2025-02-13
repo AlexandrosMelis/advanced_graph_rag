@@ -5,6 +5,10 @@ from pydantic import BaseModel, Field, create_model
 
 class ModelFactory:
 
+    FIELD_NAME_KEY = "name"
+    FIELD_TYPE_KEY = "type"
+    FIELD_DESC_KEY = "description"
+
     def create_dynamic_base_model(
         self, model_name: str, properties: dict, model_description: str = None
     ) -> BaseModel:
@@ -21,9 +25,9 @@ class ModelFactory:
         for property in properties:
             properties_dict.update(
                 self._construct_property_field(
-                    name=property["name"],
-                    type=property["type"],
-                    description=property.get("description"),
+                    name=property[self.FIELD_NAME_KEY],
+                    type=property[self.FIELD_TYPE_KEY],
+                    description=property.get(self.FIELD_DESC_KEY),
                 )
             )
 
