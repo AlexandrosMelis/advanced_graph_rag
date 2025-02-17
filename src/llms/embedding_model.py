@@ -17,10 +17,23 @@ class EmbeddingModel:
         embedding_model = EmbeddingModel(model_name, model_kwargs, encode_kwargs)
     """
 
-    def __init__(self, model_name: str, model_kwargs: dict, encode_kwargs: dict):
-        self.model_name = model_name
-        self.model_kwargs = model_kwargs
-        self.encode_kwargs = encode_kwargs
+    def __init__(
+        self,
+        model_name: str = None,
+        model_kwargs: dict = None,
+        encode_kwargs: dict = None,
+    ):
+        self.model_name = (
+            model_name if model_name is not None else "neuml/pubmedbert-base-embeddings"
+        )
+        self.model_kwargs = (
+            model_kwargs if model_kwargs is not None else {"device": "cuda"}
+        )
+        self.encode_kwargs = (
+            encode_kwargs
+            if encode_kwargs is not None
+            else {"normalize_embeddings": False}
+        )
         self._check_device(self.model_kwargs.get("device"))
         self.embedding_model = HuggingFaceEmbeddings(
             model_name=self.model_name,
