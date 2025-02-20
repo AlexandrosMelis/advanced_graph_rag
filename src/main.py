@@ -1,7 +1,7 @@
 import os
 
 from configs import ConfigPath
-from data_collection.article_fetcher import PubMedArticleFetcher
+from data_collection.fetcher import PubMedArticleFetcher
 from data_collection.reader import MetadataReader
 from knowledge_graph.loader import GraphLoader
 
