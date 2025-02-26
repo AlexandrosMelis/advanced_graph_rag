@@ -6,6 +6,7 @@ from Bio import Entrez
 from tqdm import tqdm
 
 from configs.config import ConfigEnv, ConfigPath, logger
+from utils.utils import read_json_file, save_json_file
 
 
 class PubMedArticleFetcher:
@@ -137,14 +138,6 @@ class MeshTermFetcher:
             logger.error(f"Error decoding JSON from file: {file_path}")
             raise e
 
-    def _save_json_file(self, file_path: str, data: dict) -> None:
-        try:
-            with open(file_path, "w", encoding="utf-8") as file:
-                json.dump(data, file)
-        except Exception as e:
-            logger.error(f"Failed to write JSON to {file_path}. Error: {e}")
-            raise
-
     def get_mesh_ui(self, term: str) -> str:
         """
         Fetches the MeSH UI for a given MeSH term.
@@ -190,7 +183,7 @@ class MeshTermFetcher:
         logger.debug(f"Working on file: {self._file_name}")
         file_path = os.path.join(ConfigPath.DATA_DIR, self._file_name)
         if os.path.exists(file_path):
-            definitions = self._read_json_file(file_path)
+            definitions = read_json_file(file_path=file_path)
             if not definitions:
                 definitions = {}
         else:
@@ -212,6 +205,6 @@ class MeshTermFetcher:
                 )
                 definitions[term] = "No MeSH definition found"
 
-            self._save_json_file(file_path=file_path, data=definitions)
+            save_json_file(file_path=file_path, data=definitions)
 
         return definitions

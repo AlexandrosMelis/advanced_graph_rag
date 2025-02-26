@@ -1,8 +1,8 @@
-import os
 import logging
+import os
 from pathlib import Path
 
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 
 
 class Logger:
@@ -58,15 +58,23 @@ class ConfigEnv:
     """
 
     # Load variables from .env file (if present) and system environment
-    load_dotenv(override=True)
+    load_dotenv(find_dotenv(), override=True)
 
     # Environment variables
     # Provide defaults or raise an error if a critical env variable is missing.
     ENTREZ_EMAIL = os.getenv("ENTREZ_EMAIL")
+    NEO4J_URI = os.getenv("NEO4J_URI")
+    NEO4J_USER = os.getenv("NEO4J_USER")
+    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+    NEO4J_DB = os.getenv("NEO4J_PUBMED_DATABASE")
 
     # Immediately validate after loading
     _REQUIRED_VARS = [
         "ENTREZ_EMAIL",  # Example: required for Entrez (NCBI) API
+        "NEO4J_URI",
+        "NEO4J_USER",
+        "NEO4J_PASSWORD",
+        "NEO4J_DB",
     ]
 
     @classmethod

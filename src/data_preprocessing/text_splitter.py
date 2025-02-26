@@ -18,5 +18,4 @@ class TextSplitter:
 
     def split_text(self, text: str):
         chunks = self.text_splitter.split_text(text)
-        print(f"Splitted text into {len(chunks)} chunks")
         return chunks

@@ -15,6 +15,9 @@ class EmbeddingModel:
         model_kwargs = {'device': 'cuda'}
         encode_kwargs = {'normalize_embeddings': False}
         embedding_model = EmbeddingModel(model_name, model_kwargs, encode_kwargs)
+
+    Other models:
+    - `sentence-transformers/all-MiniLM-L6-v2`
     """
 
     def __init__(

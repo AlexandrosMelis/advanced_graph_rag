@@ -1,30 +1,30 @@
+import json
 import os
 
+from tqdm import tqdm
+
 from configs import ConfigPath
-from data_collection.fetcher import PubMedArticleFetcher
-from data_collection.reader import MetadataReader
+from data_preprocessing.text_splitter import TextSplitter
 from knowledge_graph.loader import GraphLoader
+from llms.embedding_model import EmbeddingModel
+from utils.utils import read_json_file
 
 
-def download_articles():
-    external_metadata_file_name = "pqa_labeled.json"
+def initialize_graph_loader() -> GraphLoader:
+    # required components
+    text_splitter = TextSplitter()
+    embedding_model = EmbeddingModel()
 
-    # read pmids
-    external_metadata_file_path = os.path.join(
-        ConfigPath.EXTERNAL_DATA_DIR, external_metadata_file_name
+    graph_loader = GraphLoader(
+        text_splitter=text_splitter, embedding_model=embedding_model
     )
-    metadata_reader = MetadataReader(file_path=external_metadata_file_path)
-
-    # download articles
-    fetcher = PubMedArticleFetcher(data_path=ConfigPath.RAW_DATA_DIR)
-    fetcher.fetch_articles(pmids=metadata_reader.pmids)
-
-
-def initialized_graph_loader():
-    file_path = os.path.join(ConfigPath.KG_CONFIG_DIR, "schema_config.json")
-    graph_loader = GraphLoader.from_json_file(path=file_path)
-    print("graph loader initiated successfully!")
+    print("Graph loader initialized!")
+    return graph_loader
 
 
 if __name__ == "__main__":
-    initialized_graph_loader()
+    loader = initialize_graph_loader()
+    raw_data = read_json_file(
+        file_path=os.path.join(ConfigPath.RAW_DATA_DIR, "pqa_labeled.json")
+    )
+    data_for_load = loader.prepare_data_for_load(data=raw_data)
