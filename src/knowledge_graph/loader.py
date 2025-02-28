@@ -2,6 +2,8 @@ import json
 import os
 from typing import List
 
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
 
 from configs.config import ConfigPath, logger
@@ -326,7 +328,105 @@ class GraphLoader:
                         rel_type=self.HAS_MESH_TERM_REL,
                     )
 
-        def _get_context_similarities(self):
-            # retrieve node embeddings with ids
+    def get_embeddings_from_graph(self) -> List[dict]:
+        """
+        Retrieves the embeddings and their corresponding IDs for all CONTEXT nodes in the graph.
 
-            pass
+        This method queries the graph database to fetch all CONTEXT nodes and their associated
+        embeddings. It returns a list of dictionaries, where each dictionary contains the ID
+        and the embedding of a CONTEXT node.
+
+        Returns:
+            List[dict]: A list of dictionaries. Each dictionary contains two keys:
+                        - 'id': The element ID of a CONTEXT node (str).
+                        - 'embedding': The vector embedding of the CONTEXT node (list of floats).
+                        Returns an empty list if no context nodes are found.
+        """
+        EMBEDDINGS_RETRIEVAL_CYPHER = "MATCH (context:CONTEXT) RETURN elementId(context) AS id, context.embedding as embedding"
+        with self.crud.driver.session() as session:
+            results = session.run(EMBEDDINGS_RETRIEVAL_CYPHER)
+            records = [dict(result) for result in results]
+            return records
+
+    def _convert_ids_to_list(self, records: list[dict]) -> list:
+        return [record["id"] for record in records]
+
+    def _convert_embeddings_to_array(self, records: list[dict]) -> np.array:
+        return np.array([record["embedding"] for record in records])
+
+    def _compute_similarities(self, embeddings):
+        """
+        Computes the cosine similarity matrix for the embeddings.
+
+        Args:
+        - embeddings (numpy.ndarray): An array of embeddings.
+
+        Returns:
+        - numpy.ndarray: A cosine similarity matrix for the embeddings.
+        """
+        return cosine_similarity(embeddings)
+
+    def _filter_similarities(
+        self, similarity_matrix, node_ids, threshold=0.7
+    ) -> List[dict]:
+        """
+        Filters a cosine similarity matrix to find pairs of nodes with similarity above a threshold.
+
+        Args:
+            similarity_matrix (numpy.ndarray): The cosine similarity matrix.
+            node_ids (list): A list of node IDs corresponding to the rows/columns of the matrix.
+            threshold (float): The similarity threshold.
+
+        Returns:
+            list: A list of dictionaries, where each dictionary represents a pair of nodes with
+                similarity above the threshold and contains:
+                    - node1: The ID of the first node.
+                    - node2: The ID of the second node.
+                    - similarity: The cosine similarity between the two nodes.
+        """
+
+        num_nodes = len(node_ids)
+        filtered_pairs = []
+
+        # Check if similarity_matrix is empty
+        if similarity_matrix.size == 0:
+            return []
+
+        for i in range(num_nodes):
+            for j in range(i + 1, num_nodes):  # Avoid duplicates and self-comparison
+                similarity = similarity_matrix[i, j]
+                if similarity >= threshold:
+                    filtered_pairs.append(
+                        {
+                            "node1": node_ids[i],
+                            "node2": node_ids[j],
+                            "similarity": similarity,
+                        }
+                    )
+
+        return filtered_pairs
+
+    def load_similarities_to_graph(self):
+        """
+        1. Retrieves the nodes ids with the corresponding embeddings.
+        2. Computes similarities
+        3. Filters similarities with score over 0.7
+        4. Load similarities as relationships, with score as property
+        """
+        records = self.get_embeddings_from_graph()
+        node_ids = self._convert_ids_to_list(records)
+        embeddings = self._convert_embeddings_to_array(records)
+        similarity_matrix = self._compute_similarities(embeddings)
+        similarity_relationships = self._filter_similarities(
+            similarity_matrix=similarity_matrix, node_ids=node_ids, threshold=0.7
+        )
+
+        # load relationships
+        for sim_relationship in similarity_relationships:
+            self.crud.create_relationship(
+                from_node_id=sim_relationship["node1"],
+                to_node_id=sim_relationship["node2"],
+                rel_type=self.IS_SIMILAR_TO_REL,
+                properties={"score": sim_relationship["similarity"]},
+            )
+        logger.debug("Similarity relationships loaded!")

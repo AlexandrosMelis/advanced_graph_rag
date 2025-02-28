@@ -1,8 +1,6 @@
 import json
 
-import numpy as np
 import tiktoken
-from sklearn.metrics.pairwise import cosine_similarity
 
 from configs.config import logger
 
@@ -34,16 +32,3 @@ def save_json_file(file_path: str, data: dict) -> None:
     except Exception as e:
         logger.error(f"Failed to write JSON to {file_path}. Error: {e}")
         raise
-
-
-def compute_similarity_matrix(self, embeddings) -> np.ndarray:
-    """
-    Computes a cosine similarity matrix for a given set of embeddings.
-
-    Args:
-    - embeddings (numpy.ndarray): An array of embeddings.
-
-    Returns:
-    - numpy.ndarray: A cosine similarity matrix for the input embeddings.
-    """
-    return cosine_similarity(embeddings)
