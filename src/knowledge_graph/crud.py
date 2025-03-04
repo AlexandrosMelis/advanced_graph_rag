@@ -1,20 +1,12 @@
 import os
 
-from neo4j import GraphDatabase
-
 from configs.config import logger
+from knowledge_graph.connection import Neo4jConnection
 
 
 class GraphCrud:
-    def __init__(self, uri: str, user: str, password: str, database: str):
-        self.driver = GraphDatabase.driver(
-            uri, auth=(user, password), database=database
-        )
-        try:
-            self.driver.verify_connectivity()
-            print("Connection successful!")
-        except Exception as e:
-            print(f"Failed to connect to Neo4j: {e}")
+    def __init__(self, neo4j_connection: Neo4jConnection):
+        self.driver = neo4j_connection.get_driver()
 
     def close(self):
         """

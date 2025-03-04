@@ -406,12 +406,11 @@ class GraphLoader:
 
         return filtered_pairs
 
-    def load_similarities_to_graph(self):
+    def load_similarities_to_graph(self) -> None:
         """
-        1. Retrieves the nodes ids with the corresponding embeddings.
-        2. Computes similarities
-        3. Filters similarities with score over 0.7
-        4. Load similarities as relationships, with score as property
+        Retrieves loaded embeddings + node ids from graph.
+        Computes similarity matrix.
+        Creates relationships only for nodes with similarity score > threshold.
         """
         records = self.get_embeddings_from_graph()
         node_ids = self._convert_ids_to_list(records)
