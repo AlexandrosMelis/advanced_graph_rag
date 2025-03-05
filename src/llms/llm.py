@@ -11,18 +11,20 @@ class LLM:
     Groq is used as the provider.
     The model is initialized from the name of the model.
     Available models:
-    - Production models:
+    **Production models**
+        - llama-3.3-70b-versatile
         - llama3-70b-8192
         - mixtral-8x7b-32768
     - Preview models:
     - qwen-2.5-32b
     - deepseek-r1-distill-qwen-32b
     - deepseek-r1-distill-llama-70b
+    - deepseek-r1-distill-llama-70b
     - llama-3.3-70b-specdec
     """
 
     @classmethod
-    def from_name(cls, model_name: str):
+    def from_name(cls, model_name: str = "llama-3.3-70b-versatile"):
         if not os.environ.get("GROQ_API_KEY"):
             logger.debug("GROQ_API_KEY is not set")
             raise ValueError("GROQ_API_KEY is not set")

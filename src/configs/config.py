@@ -42,7 +42,7 @@ class Logger:
                 log_path = Path(log_file).parent.parent
                 log_path.mkdir(parents=True, exist_ok=True)
 
-                fh = logging.FileHandler(log_file)
+                fh = logging.FileHandler(log_file, encoding="utf-8")
                 fh.setLevel(level)
                 fh.setFormatter(formatter)
                 logger.addHandler(fh)

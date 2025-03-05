@@ -166,3 +166,6 @@ cython_debug/
 
 # logs
 logs
+
+# vscode folders
+.vscode

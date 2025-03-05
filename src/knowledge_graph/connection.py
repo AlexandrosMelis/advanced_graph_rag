@@ -16,3 +16,10 @@ class Neo4jConnection:
 
     def get_driver(self) -> GraphDatabase:
         return self.driver
+
+    def execute_query(self, query: str, params: dict) -> list:
+        records, _, _ = self.driver.execute_query(query, params)
+        if records:
+            return [record.data() for record in records]
+        else:
+            return []
