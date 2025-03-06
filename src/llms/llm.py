@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from configs.config import logger
 
 
-class LLM:
+class ChatModel:
     """
     **1. Groq provider**
     Available models:
@@ -27,21 +27,22 @@ class LLM:
     def __init__(self, provider: str, model_name: str):
         self.provider = provider
         self.model_name = model_name
-        self.model = self.initialize_model()
+        self.llm = None
+        self.initialize_model()
 
     def initialize_model(self):
         if self.provider == "groq":
             if not os.environ.get("GROQ_API_KEY"):
                 logger.debug("GROQ_API_KEY is not set")
                 raise ValueError("GROQ_API_KEY is not set")
-            self.model = init_chat_model(
+            self.llm = init_chat_model(
                 self.model_name, model_provider=self.provider, temperature=0
             )
         elif self.provider == "google":
             if not os.environ.get("GOOGLE_API_KEY"):
                 logger.debug("GOOGLE_API_KEY is not set")
                 raise ValueError("GOOGLE_API_KEY is not set")
-            self.model = ChatGoogleGenerativeAI(
+            self.llm = ChatGoogleGenerativeAI(
                 model="gemini-2.0-flash",
                 temperature=0,
                 max_tokens=None,
