@@ -27,7 +27,7 @@ class LLM:
     def __init__(self, provider: str, model_name: str):
         self.provider = provider
         self.model_name = model_name
-        self.model = self.initialize_model(provider, model_name)
+        self.model = self.initialize_model()
 
     def initialize_model(self):
         if self.provider == "groq":
