@@ -8,39 +8,40 @@ from configs.config import logger
 
 class LLM:
     """
-    LLM class for handling LLM models.
-    Groq is used as the provider.
-    The model is initialized from the name of the model.
+    **1. Groq provider**
     Available models:
-    **Production models**
-        - llama-3.3-70b-versatile
-        - llama3-70b-8192
-        - mixtral-8x7b-32768
-    - Preview models:
-    - qwen-2.5-32b
-    - deepseek-r1-distill-qwen-32b
-    - deepseek-r1-distill-llama-70b
-    - deepseek-r1-distill-llama-70b
-    - llama-3.3-70b-specdec
-
-    Google provider, models:
-    - gemini-2.0-flash //  limit: 15 requests/minute
+        - Production models:
+            - llama-3.3-70b-versatile // 1,000 requests/day | 6,000 tokens/minute
+            - llama3-70b-8192 // 1,000 requests/day | 6,000 tokens/minute
+            - mixtral-8x7b-32768 // 14,400 requests/day | 5,000 tokens/minute
+        - Preview models:
+            - qwen-2.5-32b // 1,000 requests/day | 6,000 tokens/minute
+            - deepseek-r1-distill-qwen-32b // 1,000 requests/day | 6,000 tokens/minute
+            - deepseek-r1-distill-llama-70b // 1,000 requests/day | 6,000 tokens/minute
+    ------------------------------------------
+    **2. Google provider**
+    Available models:
+        - gemini-2.0-flash // 15 requests/minute
     """
 
-    @classmethod
-    def initialize_model(cls, provider: str, model_name: str):
-        if provider == "groq":
+    def __init__(self, provider: str, model_name: str):
+        self.provider = provider
+        self.model_name = model_name
+        self.model = self.initialize_model(provider, model_name)
+
+    def initialize_model(self):
+        if self.provider == "groq":
             if not os.environ.get("GROQ_API_KEY"):
                 logger.debug("GROQ_API_KEY is not set")
                 raise ValueError("GROQ_API_KEY is not set")
-            cls.model = init_chat_model(
-                model_name, model_provider=provider, temperature=0
+            self.model = init_chat_model(
+                self.model_name, model_provider=self.provider, temperature=0
             )
-        elif provider == "google":
+        elif self.provider == "google":
             if not os.environ.get("GOOGLE_API_KEY"):
                 logger.debug("GOOGLE_API_KEY is not set")
                 raise ValueError("GOOGLE_API_KEY is not set")
-            cls.model = ChatGoogleGenerativeAI(
+            self.model = ChatGoogleGenerativeAI(
                 model="gemini-2.0-flash",
                 temperature=0,
                 max_tokens=None,
@@ -48,5 +49,4 @@ class LLM:
                 max_retries=3,
             )
         else:
-            raise ValueError(f"Provider {provider} not supported")
-        return cls.model
+            raise ValueError(f"Provider {self.provider} not supported")
