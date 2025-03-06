@@ -12,3 +12,4 @@ txtai==8.2.0
 cuda-python==12.8.0
 langchain==0.3.18
 langchain-groq==0.2.4
+langchain-google-genai==2.0.11

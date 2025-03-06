@@ -62,14 +62,15 @@ class VectorSearchTool(BaseTool):
             },
         )
 
-        logger.info(f"Results: {results}")
+        # logger.info(f"Results: {results}")
 
         if self.return_direct:
             return results
 
         # answer with llm
-        prompt_template = """
-You are an expert at analyzing medical literature. Your task is to answer a yes/no question based solely on the provided context from PubMed articles.
+        prompt_template = """You are an expert at analyzing medical literature. 
+**Task:**
+Your task is to answer a yes/no question based solely on the provided context from PubMed articles.
 
 **Instructions:**
 1.  **Read the Question:** Carefully examine the question provided within the `<question></question>` tags.
@@ -82,6 +83,9 @@ You are an expert at analyzing medical literature. Your task is to answer a yes/
     *   Insufficient to determine an answer,
     you MUST respond with "no".
 7.  **Sufficient Context:** If the context contains information that directly answers the question or that the answer can be inferred from, you MUST respond with "yes".
+
+**Output format:**
+Respond only with the word "yes" or "no".
 
 **Question:**
 <question>
