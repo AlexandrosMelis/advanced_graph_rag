@@ -1,4 +1,5 @@
-from typing import Any, Optional, Type, Union
+import re
+from typing import Any, Literal, Optional, Type, Union
 
 from langchain_core.callbacks import (
     AsyncCallbackManagerForToolRun,
@@ -26,17 +27,74 @@ class VectorSearchTool(BaseTool):
     description: str = (
         "useful for when you need to answer questions based on articles content"
     )
-    llm: Any
-    embedding_model: Any
+    llm: BaseLanguageModel
+    embedding_model: Embeddings
     args_schema: Type[BaseModel] = VectorToolInput
     return_direct: bool = True
     neo4j_connection: Neo4jConnection
+    str_parser: StrOutputParser = StrOutputParser()
+
+    answer_type: Literal["short", "long"]
 
     # static variables
     context_alias: str = "context"
     context_label: str = "CONTEXT"
     k: int = 10
     threshold: float = 0.6
+
+    def _get_short_answer_template(self) -> PromptTemplate:
+        SHORT_ANSWER_PROMPT_TEMPLATE = """You are a research expert in medical literature. 
+**Task:** 
+Given the following context retrieved from PubMed article abstracts, answer the question with a "yes" or "no" response.
+Find the context placed in <context></context> tags and the question placed in <question></question> tags.        
+
+**Important Instructions:**
+- Your answer should be based ONLY on the information presented in the context. Do not use any external knowledge.
+- Do not provide any additional information.
+- Do NOT make any assumptions.
+
+**Output Formatting Instructions:**
+- Respond to the questions ONLY with "yes" or "no".
+
+--Real data--
+
+<context>
+{context}
+</context>
+
+<question>
+{question}
+</question>""".strip()
+
+        prompt_template = PromptTemplate.from_template(SHORT_ANSWER_PROMPT_TEMPLATE)
+        return prompt_template
+
+    def _get_long_answer_template(self) -> PromptTemplate:
+        LONG_ANSWER_PROMPT_TEMPLATE = """You are a research expert in medical literature. 
+**Task:** 
+Given the following context retrieved from PubMed article abstracts, answer the question.
+Find the context placed in <context></context> tags and the question placed in <question></question> tags.        
+
+**Important Instructions:**
+- Your answer should be based ONLY on the information presented in the context.
+- Include the reasoning behind your answer and the conclusion.
+- If there is no sufficient information in the context to answer the question, respond with "Cannot answer based on the provided information".
+
+**Output Formatting Instructions:**
+- Your answer should be formatted as a consistent paragraph.
+
+--Real data--
+
+<context>
+{context}
+</context>
+
+<question>
+{question}
+</question>""".strip()
+
+        prompt_template = PromptTemplate.from_template(LONG_ANSWER_PROMPT_TEMPLATE)
+        return prompt_template
 
     def _run(
         self,
@@ -46,14 +104,14 @@ class VectorSearchTool(BaseTool):
 
         embedded_query = self.embedding_model.embed_query(query)
 
-        VECTOR_SEARCH_QUERY = f"""MATCH ({self.context_alias}:{self.context_label})
-        WITH {self.context_alias},
+        VECTOR_SEARCH_QUERY = f"""MATCH (article:ARTICLE)-[:HAS_CONTEXT]->({self.context_alias}:{self.context_label})
+        WITH article, {self.context_alias},
             vector.similarity.cosine($query, {self.context_alias}.embedding) AS score
             ORDER BY score DESCENDING
             LIMIT $k WHERE score > $threshold
-        RETURN {self.context_alias}.text_content as content, score as score""".strip()
+        RETURN article.pmid as pmid, {self.context_alias}.text_content as content, score as score""".strip()
 
-        results = self.neo4j_connection.execute_query(
+        retrieved_contexts = self.neo4j_connection.execute_query(
             query=VECTOR_SEARCH_QUERY,
             params={
                 "query": embedded_query,
@@ -62,44 +120,23 @@ class VectorSearchTool(BaseTool):
             },
         )
 
-        # logger.info(f"Results: {results}")
-
         if self.return_direct:
-            return results
+            return retrieved_contexts
 
-        # answer with llm
-        prompt_template = """You are an expert at analyzing medical literature. 
-**Task:**
-Your task is to answer a yes/no question based solely on the provided context from PubMed articles.
+        contexts_content = "- " + "\n- ".join(
+            [chunk["content"] for chunk in retrieved_contexts]
+        )
 
-**Instructions:**
-1.  **Read the Question:** Carefully examine the question provided within the `<question></question>` tags.
-2.  **Analyze the Context:**  Thoroughly review the information within the `<context></context>` tags. This context is derived from PubMed articles.
-3.  **Strictly Use the Context:** Your answer MUST be based exclusively on the information presented in the context. Do not use any external knowledge.
-4.  **Infer if Possible:** If the answer is not explicitly stated but can be logically inferred from the context, answer accordingly.
-5. **Answer Format:** Answer with exactly one word: "yes" or "no".
-6.  **Insufficient or Irrelevant Context:** If the provided context is:
-    *   Irrelevant to the question, or
-    *   Insufficient to determine an answer,
-    you MUST respond with "no".
-7.  **Sufficient Context:** If the context contains information that directly answers the question or that the answer can be inferred from, you MUST respond with "yes".
+        if self.answer_type == "short":
+            prompt = self._get_short_answer_template()
+            answer_chain = prompt | self.llm | self.str_parser | self.extract_yes_or_no
+        else:
+            prompt = self._get_long_answer_template()
+            answer_chain = prompt | self.llm | self.str_parser
 
-**Output format:**
-Respond only with the word "yes" or "no".
+        answer = answer_chain.invoke({"question": query, "context": contexts_content})
 
-**Question:**
-<question>
-{question}
-</question>
-
-**Context:**
-<context>
-{context}
-</context>""".strip()
-        prompt = PromptTemplate.from_template(prompt_template)
-        answer_chain = prompt | self.llm | StrOutputParser()
-        answer = answer_chain.invoke({"question": query, "context": results})
-        return answer
+        return {"answer": answer, "context": retrieved_contexts}
 
     async def _arun(
         self,
@@ -108,3 +145,20 @@ Respond only with the word "yes" or "no".
     ) -> Union[str, dict]:
         """Use the tool asynchronously."""
         return self._run(query, run_manager=run_manager.get_sync())
+
+    def extract_yes_or_no(self, answer: str) -> str:
+        """
+        Apply regex pattern that extract only the keywords: "yes" or "no" from the llm's final answer.
+        Get rid of any redundant text, delimiters, etc.
+        """
+        match = re.search(r"\b(yes|no)\b", answer, re.IGNORECASE)
+        if match:
+            return match.group(1).lower()
+        else:
+            logger.warning(
+                f"Could not extract 'yes' or 'no' from answer: {answer}. Returning empty string as default."
+            )
+            return ""
+
+    def get_model_name(self) -> str:
+        return self.llm.model.replace(":", "_").replace("-", "_").replace("/", "_")

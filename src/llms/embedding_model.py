@@ -1,12 +1,13 @@
 from typing import List
 
 import torch
+from langchain_core.embeddings import Embeddings
 from langchain_huggingface import HuggingFaceEmbeddings
 
 from configs.config import logger
 
 
-class EmbeddingModel:
+class EmbeddingModel(Embeddings):
     """
     Embedding model class for embedding documents and queries.
     Utilizes HuggingFaceEmbeddings from langchain_huggingface.
