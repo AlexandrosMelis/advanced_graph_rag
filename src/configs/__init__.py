@@ -1,3 +1,3 @@
-from configs.config import ConfigPath
+from configs.config import ConfigEnv, ConfigPath
 
-__all__ = ["ConfigPath"]
+__all__ = ["ConfigPath", "ConfigEnv"]

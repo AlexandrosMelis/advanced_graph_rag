@@ -11,22 +11,35 @@ from utils.utils import read_json_file, save_json_file
 
 class PubMedArticleFetcher:
 
-    def __init__(self, data_path: str):
+    def __init__(self):
 
         Entrez.email = ConfigEnv.ENTREZ_EMAIL
         self._db = "pubmed"
         self._rettype = "medline"
         self._retmode = "text"
         self._pmid_regex_pattern = r"PMID-\s*(\d+)"
-        self._RAW_DATA_PATH = data_path
+        self._distinct_mesh_terms = set()
 
-    def fetch_articles(self, pmids: list):
+    def get_mesh_terms(
+        self,
+    ) -> list:
+        return list(self._distinct_mesh_terms)
+
+    def clean_mesh_term(self, term: str) -> str:
+        """
+        Clean a MeSH term by removing any unwanted characters.
+        """
+        term = term.split("/")[0]
+        return term.replace("*", "").strip()
+
+    def fetch_articles(self, pmids: list) -> dict:
 
         if not pmids:
             raise ValueError(
                 "No PMIDs provided. Please provide at least one PMID to fetch articles."
             )
 
+        # batch fetch articles from Entrez
         pmids_str = ", ".join(pmids)
         logger.info(f"Fetching articles for total PMIDs: {len(pmids)}")
 
@@ -40,70 +53,110 @@ class PubMedArticleFetcher:
             )
             raise
 
-        try:
-            concatenated_articles = handle.read()
-            handle.close()
-        except Exception as e:
-            logger.error(
-                f"Failed to read Entrez handle for PMIDs: {pmids_str}. Error: {e}"
-            )
-            raise
+        # articles fetched as a single string
+        articles_str = handle.read()
+        handle.close()
 
-        try:
-            data_mapping = self._get_article_mappings(
-                concatenated_articles=concatenated_articles
-            )
-            self._save_articles(mapping=data_mapping)
-        except Exception as e:
-            logger.error(f"Failed to save articles for PMIDs: {pmids_str}. Error: {e}")
-            raise
+        # split articles into individual articles
+        articles = articles_str.strip().split("\n\n")
+        logger.info(f"Total articles fetched: {len(articles)}")
 
+        # extract Pubmed data from articles
+        pubmed_data = self.extract_data_from_articles(articles=articles)
+        save_json_file(
+            file_path=os.path.join(
+                ConfigPath.RAW_DATA_DIR, "bioasq_pubmed_articles.json"
+            ),
+            data=pubmed_data,
+        )
         logger.info("Articles saved successfully.")
+        return pubmed_data
 
-    def _get_article_mappings(self, concatenated_articles: str):
-        articles = concatenated_articles.strip().split("\n\n")
-        logger.debug(f"Number of potential article segments: {len(articles)}")
-
-        mapping = {}
-        for article in articles:
-            pmid = self._extract_pmid(article)
-            if pmid:
-                mapping[pmid] = article
-            else:
-                # Could be malformed text or parser not picking up PMID
-                logger.warning(
-                    "Article segment with no valid PMID encountered. Skipping."
-                )
-        return mapping
-
-    def _extract_pmid(self, text):
+    def extract_pmid(self, text):
         match = re.search(self._pmid_regex_pattern, text)
         if match:
             return match.group(1)
         else:
             return None
 
-    def extract_pmids_from_articles(self, articles):
-        pmid_list = []
-        for article in articles.split("\n\n"):
-            pmid = self.extract_pmid_from_article(article)
+    def extract_title(self, text):
+        """
+        Extract title from PubMed text.
+        Title follows "TI - " tag and can span multiple lines until the next tag.
+        """
+        # Find the title section
+        title_match = re.search(
+            r"TI\s+-\s+(.*?)(?=\n[A-Z]{2,4}\s+-\s+|\Z)", text, re.DOTALL
+        )
+
+        if not title_match:
+            return None
+
+        # Get the title text and clean it
+        title_text = title_match.group(1).strip()
+
+        # Join multiple lines and remove excess whitespace
+        title_text = " ".join([line.strip() for line in title_text.split("\n")])
+
+        return title_text
+
+    def extract_abstract(self, text):
+        """
+        Extract abstract from PubMed text.
+        Abstract follows "AB - " tag and can span multiple lines until the next tag.
+        """
+        # Find the abstract section
+        abstract_match = re.search(
+            r"AB\s+-\s+(.*?)(?=\n[A-Z]{2,4}\s+-\s+|\Z)", text, re.DOTALL
+        )
+
+        if not abstract_match:
+            return None
+
+        # Get the abstract text and clean it
+        abstract_text = abstract_match.group(1).strip()
+
+        # Join multiple lines and remove excess whitespace
+        abstract_text = " ".join([line.strip() for line in abstract_text.split("\n")])
+
+        return abstract_text
+
+    def extract_mesh_terms(self, text) -> list:
+        """
+        Extract mesh terms from PubMed text.
+        Mesh terms are tagged with "MH - " and can occur multiple times.
+        """
+        # Find all mesh terms
+        mesh_matches = re.findall(r"MH\s+-\s+(.*?)(?=\n)", text)
+        mesh_terms = [self.clean_mesh_term(term) for term in mesh_matches]
+
+        # Return the list of mesh terms
+        return mesh_terms
+
+    def extract_pubmed_data(self, text):
+        """
+        Extract title, abstract, and mesh terms from PubMed text.
+        Returns a dictionary with the extracted data.
+        """
+        return {
+            "pmid": self.extract_pmid(text),
+            "title": self.extract_title(text),
+            "abstract": self.extract_abstract(text),
+            "mesh_terms": self.extract_mesh_terms(text),
+        }
+
+    def extract_data_from_articles(self, articles: list[str]) -> dict:
+        """
+        Extracts data from a list of PubMed articles.
+        """
+        data = {}
+        for article in tqdm(articles, desc="Extracting Pubmed data from articles"):
+            extracted_data = self.extract_pubmed_data(article)
+            self._distinct_mesh_terms.update(extracted_data["mesh_terms"])
+            pmid = extracted_data["pmid"]
             if pmid:
-                pmid_list.append(pmid)
-        return pmid_list
-
-    def _save_article(self, file_path: str, text: str):
-        try:
-            with open(file_path, "w", encoding="utf-8") as file:
-                file.write(text)
-        except OSError as e:
-            logger.error(f"Failed to write article to {file_path}. Error: {e}")
-            raise
-
-    def _save_articles(self, mapping: dict):
-        logger.info(f"Saving {len(mapping)} articles to {self._RAW_DATA_PATH}")
-        for pmid, content in tqdm(mapping.items(), total=len(mapping)):
-            file_path = os.path.join(self._RAW_DATA_PATH, f"{pmid}.txt")
-            self._save_article(file_path=file_path, text=content)
+                data[pmid] = extracted_data
+        return data
 
 
 class MeshTermFetcher:
@@ -124,19 +177,7 @@ class MeshTermFetcher:
             "See Also:",
             "All MeSH Categories",
         ]
-        self._file_name = "definitions_test.json"
-
-    def _read_json_file(self, file_path: str) -> dict:
-        try:
-            with open(file_path, "r", encoding="utf-8") as file:
-                data = json.load(file)
-                return data
-        except FileNotFoundError as e:
-            logger.error(f"File not found: {file_path}")
-            raise e
-        except json.JSONDecodeError as e:
-            logger.error(f"Error decoding JSON from file: {file_path}")
-            raise e
+        self._file_name = "mesh_term_definitions.json"
 
     def get_mesh_ui(self, term: str) -> str:
         """
@@ -178,10 +219,10 @@ class MeshTermFetcher:
         handle.close()
         return self.extract_definition(term, text_data)
 
-    def batch_retrieve(self, mesh_terms: list):
+    def fetch_definitions(self, mesh_terms: list):
 
         logger.debug(f"Working on file: {self._file_name}")
-        file_path = os.path.join(ConfigPath.DATA_DIR, self._file_name)
+        file_path = os.path.join(ConfigPath.EXTERNAL_DATA_DIR, self._file_name)
         if os.path.exists(file_path):
             definitions = read_json_file(file_path=file_path)
             if not definitions:

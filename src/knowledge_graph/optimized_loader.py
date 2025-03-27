@@ -11,11 +11,25 @@ from tqdm import tqdm
 # Assumed project structure and imports (adjust as necessary)
 from configs.config import ConfigPath, logger  # Assuming logger is configured
 from data_preprocessing.text_splitter import TextSplitter
-from knowledge_graph.crud import GraphCrud
+from knowledge_graph.crud import (
+    GraphCrud,
+)  # IMPORTANT: Assumes GraphCrud has batch methods
 from llms.embedding_model import (
     EmbeddingModel,
 )  # IMPORTANT: Assumes embed_documents handles batching
 from utils.utils import read_json_file
+
+# --- Type Aliases for Clarity ---
+NodeID = str
+Properties = Dict[str, Any]
+NodeData = Dict[str, Any]  # e.g., {'label': str, 'properties': Properties}
+RelationshipData = Dict[
+    str, Any
+]  # e.g., {'from_id': NodeID, 'to_id': NodeID, 'rel_type': str, 'properties': Properties}
+VectorData = Dict[
+    str, Any
+]  # e.g., {'node_id': NodeID, 'property_name': str, 'embedding': List[float]}
+
 
 # --- Configuration ---
 # Best practice: Move these to a dedicated config file or system
@@ -29,7 +43,7 @@ class PreparedNode:
 
     temp_id: str  # Unique temporary ID within the batch (e.g., f"article_{pmid}")
     label: str
-    properties: Dict[str, Any]
+    properties: Properties
     embedding: List[float] | None = (
         None  # Store embedding temporarily if created during prep
     )
@@ -42,10 +56,10 @@ class PreparedRelationship:
     from_temp_id: str
     to_temp_id: str
     rel_type: str
-    properties: Dict[str, Any] = field(default_factory=dict)
+    properties: Properties = field(default_factory=dict)
 
 
-class GraphLoader:
+class GraphLoaderOptimized:
     """
     Optimized class for preparing and loading structured data into a knowledge graph,
     utilizing batch operations for efficiency.
@@ -139,7 +153,9 @@ class GraphLoader:
 
         # Internal state
         self.distinct_mesh_terms: Set[str] = set()
-        self.mesh_node_map: Dict[str, str] = {}  # Maps MESH term name -> graph NodeID
+        self.mesh_node_map: Dict[str, NodeID] = (
+            {}
+        )  # Maps MESH term name -> graph NodeID
 
         logger.info(f"GraphLoaderOptimized initialized with {len(data)} data samples.")
 
@@ -204,21 +220,23 @@ class GraphLoader:
             return
 
         # Prepare batch data for node creation (without embeddings initially)
-        nodes_to_create: List[Dict] = []
+        nodes_to_create: List[NodeData] = []
         for term, definition in zip(mesh_terms_list, definitions):
             nodes_to_create.append(
                 {
-                    self.MESH_NAME_PROPERTY: term,
-                    self.MESH_DEF_PROPERTY: definition,
+                    "label": self.MESH_LABEL,
+                    "properties": {
+                        self.MESH_NAME_PROPERTY: term,
+                        self.MESH_DEF_PROPERTY: definition,
+                        # Embedding will be added separately as a vector property
+                    },
                 }
             )
 
         # Batch create nodes
         logger.info(f"Batch creating {len(nodes_to_create)} MESH nodes...")
         try:
-            created_node_ids = self.crud.create_nodes_batch(
-                label=self.MESH_LABEL, properties_list=nodes_to_create
-            )
+            created_node_ids = self.crud.create_nodes_batch(nodes_to_create)
             if len(created_node_ids) != len(mesh_terms_list):
                 logger.error(
                     f"Mismatch creating MESH nodes. Expected {len(mesh_terms_list)}, got {len(created_node_ids)} IDs. Check CRUD implementation."
@@ -233,7 +251,7 @@ class GraphLoader:
             }
 
             # Prepare batch data for vector properties
-            vectors_to_set: List[Dict[str, Any]] = []
+            vectors_to_set: List[VectorData] = []
             for node_id, embedding in zip(created_node_ids, embeddings):
                 vectors_to_set.append(
                     {
@@ -259,31 +277,51 @@ class GraphLoader:
             # Consider rollback or cleanup logic depending on GraphCrud capabilities
 
     # --- QA, Article, Context Loading (Batched - Multi-Pass) ---
-    def _prepare_nodes_and_chunks(
-        self,
-    ) -> Tuple[
-        List[PreparedNode],
-        List[PreparedNode],
-        List[PreparedRelationship],
-        List[PreparedRelationship],
-        List[PreparedRelationship],
-        Dict[str, Set[str]],
-    ]:
+
+    def load_qa_articles_contexts(self) -> None:
         """
-        Pass 1: Parses input data, prepares initial node/relationship structures
-        using temporary IDs, and collects unique context chunks.
+        Prepares and loads QA pairs, Articles, and Context chunks (with embeddings)
+        into the graph using batch operations in multiple passes.
+        Requires `load_mesh_nodes` to be called first to populate `self.mesh_node_map`.
         """
+        start_time = time.time()
+        if not self.data:
+            logger.warning("No data provided to load QA/Articles/Contexts.")
+            return
+        if not self.mesh_node_map:
+            logger.warning(
+                "MESH node map is empty. Call `load_mesh_nodes` first. Skipping Context->MESH relationships."
+            )
+            # Decide if this should be a hard error
+
+        # --- Pass 1: Prepare all node/relationship data structures and collect context chunks ---
         logger.info(
             "Pass 1: Preparing node/relationship structures and collecting context chunks..."
         )
         prepared_qa_nodes: List[PreparedNode] = []
         prepared_article_nodes: List[PreparedNode] = []
+        prepared_context_nodes: List[PreparedNode] = (
+            []
+        )  # Will be filled after embedding
+
         prepared_qa_article_rels: List[PreparedRelationship] = []
         prepared_article_context_rels: List[PreparedRelationship] = []
-        prepared_context_mesh_rels: List[PreparedRelationship] = []
-        chunk_to_temp_context_ids: Dict[str, Set[str]] = {}
-        # Keep track of prepared articles to avoid duplicates efficiently
-        seen_article_temp_ids: Set[str] = set()
+        prepared_context_mesh_rels: List[PreparedRelationship] = (
+            []
+        )  # Store with mesh name initially
+
+        # Structure to hold chunk text and its associated temporary context ID
+        chunks_to_embed: Dict[str, List[str]] = (
+            {}
+        )  # {temp_context_id: [chunk_text1, ...]} -> Incorrect, need {chunk_text: [temp_context_id1, ...]}
+        chunk_to_temp_context_ids: Dict[str, Set[str]] = (
+            {}
+        )  # Map unique chunk text -> set of temp_context_ids using it
+        temp_context_id_to_origin: Dict[str, Tuple[str, int]] = (
+            {}
+        )  # Map temp_context_id -> (temp_article_id, chunk_index)
+
+        temp_id_counter = 0
 
         for qa_sample in tqdm(self.data, desc="Pass 1: Preparing data"):
             # QA Node
@@ -303,11 +341,13 @@ class GraphLoader:
             for article_data in qa_sample.get(self.ARTICLES_KEY, []):
                 pmid = article_data.get(self.PMID_KEY)
                 if not pmid:
-                    continue
+                    continue  # Skip articles without PMID
 
                 article_temp_id = f"article_{pmid}"
-                # Prepare article node only if not seen before in this batch
-                if article_temp_id not in seen_article_temp_ids:
+                # Avoid duplicate article node preparation if seen before (optional optimization)
+                if not any(
+                    p.temp_id == article_temp_id for p in prepared_article_nodes
+                ):
                     article_props = {
                         self.ARTICLE_PMID_PROPERTY: pmid,
                         self.TITLE_KEY: article_data.get(self.TITLE_KEY, ""),
@@ -319,7 +359,6 @@ class GraphLoader:
                             properties=article_props,
                         )
                     )
-                    seen_article_temp_ids.add(article_temp_id)
 
                 # QA -> Article Relationship
                 prepared_qa_article_rels.append(
@@ -335,14 +374,18 @@ class GraphLoader:
                 if abstract:
                     chunks = self.text_splitter.split_text(abstract)
                     for i, chunk_text in enumerate(chunks):
-                        # Ensure unique temp ID even if PMIDs repeat across QA samples but refer to same article chunk conceptually
-                        context_temp_id = f"context_{pmid}_{i}"
+                        context_temp_id = (
+                            f"context_{pmid}_{i}"  # Unique temp ID for the chunk
+                        )
 
                         # Store chunk for batch embedding
                         if chunk_text not in chunk_to_temp_context_ids:
                             chunk_to_temp_context_ids[chunk_text] = set()
                         chunk_to_temp_context_ids[chunk_text].add(context_temp_id)
-                        # temp_context_id_to_origin[context_temp_id] = (article_temp_id, i) # Not strictly needed anymore
+                        temp_context_id_to_origin[context_temp_id] = (
+                            article_temp_id,
+                            i,
+                        )
 
                         # Article -> Context Relationship
                         prepared_article_context_rels.append(
@@ -355,253 +398,127 @@ class GraphLoader:
 
                         # Context -> MESH Relationships (using mesh name for now)
                         for mesh_term in article_data.get(self.MESHES_KEY, []):
-                            if mesh_term in self.mesh_node_map:
+                            if (
+                                mesh_term in self.mesh_node_map
+                            ):  # Only add rel if MESH node exists
                                 prepared_context_mesh_rels.append(
                                     PreparedRelationship(
                                         from_temp_id=context_temp_id,
-                                        to_temp_id=mesh_term,  # Store mesh name as target temp ID
+                                        to_temp_id=mesh_term,  # Store mesh name as temporary ID target
                                         rel_type=self.HAS_MESH_TERM_REL,
                                     )
                                 )
                             else:
                                 logger.warning(
-                                    f"MESH term '{mesh_term}' found in data but not in mesh_node_map. Skipping relationship from context {context_temp_id}."
+                                    f"MESH term '{mesh_term}' found in data but not in loaded MESH nodes. Skipping relationship from context {context_temp_id}."
                                 )
 
-        logger.info(
-            f"Pass 1 completed. Prepared {len(prepared_qa_nodes)} QA, {len(prepared_article_nodes)} Article nodes. Found {len(chunk_to_temp_context_ids)} unique chunks."
-        )
-        return (
-            prepared_qa_nodes,
-            prepared_article_nodes,
-            prepared_qa_article_rels,
-            prepared_article_context_rels,
-            prepared_context_mesh_rels,
-            chunk_to_temp_context_ids,
-        )
-
-    def _embed_context_chunks(
-        self, chunk_to_temp_context_ids: Dict[str, Set[str]]
-    ) -> Dict[str, List[float]]:
-        """
-        Pass 2: Performs batch embedding of unique context chunks.
-        """
+        # --- Pass 2: Batch Embed Unique Chunks ---
         logger.info("Pass 2: Batch embedding context chunks...")
         unique_chunks = list(chunk_to_temp_context_ids.keys())
-        embedding_map: Dict[str, List[float]] = {}
-
-        if not unique_chunks:
-            logger.info("Pass 2: No unique context chunks to embed.")
-            return embedding_map
-
-        try:
+        chunk_embeddings: List[List[float]] = []
+        if unique_chunks:
             chunk_embeddings = self.embedding_model.embed_documents(unique_chunks)
             if len(chunk_embeddings) != len(unique_chunks):
                 logger.error(
-                    f"Pass 2 Error: Mismatch between number of unique chunks ({len(unique_chunks)}) and embeddings ({len(chunk_embeddings)})."
+                    "Mismatch between number of unique chunks and embeddings. Aborting context load."
                 )
-                # Decide how critical this is - returning empty map signifies failure to proceed.
-                return {}  # Return empty map to signal failure
+                return
+        embedding_map = {
+            chunk: emb for chunk, emb in zip(unique_chunks, chunk_embeddings)
+        }
 
-            embedding_map = {
-                chunk: emb for chunk, emb in zip(unique_chunks, chunk_embeddings)
-            }
-            logger.info(
-                f"Pass 2 completed. Embedded {len(unique_chunks)} unique chunks."
-            )
-
-        except Exception as e:
-            logger.exception(f"Pass 2 Error: Failed to embed context chunks: {e}")
-            return {}  # Return empty map to signal failure
-
-        return embedding_map
-
-    def _finalize_context_nodes(
-        self,
-        chunk_to_temp_context_ids: Dict[str, Set[str]],
-        embedding_map: Dict[str, List[float]],
-    ) -> List[PreparedNode]:
-        """
-        Pass 3: Creates PreparedNode objects for context nodes, associating them with their embeddings.
-        """
+        # --- Pass 3: Prepare Context Nodes with Embeddings ---
         logger.info("Pass 3: Finalizing context node preparation...")
-        prepared_context_nodes: List[PreparedNode] = []
-
-        if not embedding_map:  # Check if embedding failed in previous step
-            logger.warning(
-                "Pass 3: Embedding map is empty. Skipping context node finalization."
-            )
-            return prepared_context_nodes
-
+        temp_context_id_to_embedding: Dict[str, List[float]] = {}
         for chunk_text, temp_ids in chunk_to_temp_context_ids.items():
             embedding = embedding_map.get(chunk_text)
             if embedding:
                 for temp_id in temp_ids:
                     context_props = {self.CONTEXT_TEXT_PROPERTY: chunk_text}
+                    # Store embedding temporarily; will be set via batch vector property call
                     prepared_context_nodes.append(
                         PreparedNode(
                             temp_id=temp_id,
                             label=self.CONTEXT_LABEL,
                             properties=context_props,
-                            embedding=embedding,  # Store embedding temporarily
+                            embedding=embedding,
                         )
                     )
+                    temp_context_id_to_embedding[temp_id] = embedding
             else:
-                # This case should ideally not happen if embedding_map check passed, but good for safety
                 logger.warning(
-                    f"Pass 3 Warning: Could not find embedding for chunk '{chunk_text[:50]}...'. Skipping context nodes: {temp_ids}"
+                    f"Could not find embedding for chunk: '{chunk_text[:50]}...'. Skipping context nodes: {temp_ids}"
                 )
 
-        logger.info(
-            f"Pass 3 completed. Finalized {len(prepared_context_nodes)} context node preparations."
+        # --- Pass 4: Batch Create Nodes ---
+        logger.info("Pass 4: Batch creating QA, Article, and Context nodes...")
+        all_nodes_to_create_prepared = (
+            prepared_qa_nodes + prepared_article_nodes + prepared_context_nodes
         )
-        return prepared_context_nodes
+        node_creation_data: List[NodeData] = [
+            {"label": p.label, "properties": p.properties}
+            for p in all_nodes_to_create_prepared
+        ]
+        temp_id_map: Dict[str, NodeID] = {}  # Maps temp_id -> real graph NodeID
 
-    def _batch_create_nodes(
-        self,
-        prepared_qa_nodes: List[PreparedNode],
-        prepared_article_nodes: List[PreparedNode],
-        prepared_context_nodes: List[PreparedNode],
-    ) -> Dict[str, str]:
-        """
-        Pass 4: Performs batch creation of QA, Article, and Context nodes using
-        separate calls for each label type, as required by the updated CRUD method.
-        Returns a map from temporary IDs to real graph NodeIDs.
-        """
-        logger.info("Pass 4: Starting batch node creation (per label type)...")
-        temp_id_map: Dict[str, str] = {}
-        total_nodes_created = 0
-
-        # Helper function to process one batch for a specific label
-        def process_batch(label: str, prepared_nodes: List[PreparedNode]):
-            nonlocal total_nodes_created  # Allow modification of outer scope variable
-            if not prepared_nodes:
-                logger.debug(f"Pass 4: No nodes to create for label '{label}'.")
-                return True  # Indicate success (nothing to do)
-
-            logger.debug(
-                f"Pass 4: Preparing {len(prepared_nodes)} nodes for label '{label}'..."
-            )
-            properties_list = [p.properties for p in prepared_nodes]
-
-            try:
-                created_node_ids = self.crud.create_nodes_batch(
-                    label=label, properties_list=properties_list
-                )
-
-                if len(created_node_ids) == len(prepared_nodes):
-                    for prepared_node, real_id in zip(prepared_nodes, created_node_ids):
+        try:
+            if node_creation_data:
+                created_node_ids = self.crud.create_nodes_batch(node_creation_data)
+                if len(created_node_ids) == len(all_nodes_to_create_prepared):
+                    for prepared_node, real_id in zip(
+                        all_nodes_to_create_prepared, created_node_ids
+                    ):
                         temp_id_map[prepared_node.temp_id] = real_id
-                    logger.debug(
-                        f"Pass 4: Successfully created {len(created_node_ids)} nodes for label '{label}'."
-                    )
-                    total_nodes_created += len(created_node_ids)
-                    return True  # Indicate success
+                    logger.info(f"Successfully created {len(created_node_ids)} nodes.")
                 else:
-                    # Error case: Mismatch in expected vs created IDs from CRUD method
                     logger.error(
-                        f"Pass 4 Error: Node creation mismatch for label '{label}'. "
-                        f"Expected {len(prepared_nodes)}, got {len(created_node_ids)} IDs. Cannot proceed reliably."
+                        f"Node creation mismatch. Expected {len(all_nodes_to_create_prepared)}, got {len(created_node_ids)} IDs."
                     )
-                    return False  # Indicate failure
+                    # Decide on error handling - Cannot proceed without correct IDs
+                    return
+            else:
+                logger.info("No new QA, Article, or Context nodes to create.")
 
-            except Exception as e:
-                # Catch potential exceptions from the CRUD method (Neo4jError, RuntimeError, etc.)
-                logger.exception(
-                    f"Pass 4 Error: Exception during batch node creation for label '{label}': {e}"
-                )
-                return False  # Indicate failure
+        except Exception as e:
+            logger.exception(f"Error during batch node creation: {e}")
+            return  # Stop processing
 
-        # --- Process each node type ---
-        success = True
-        if success:
-            success = process_batch(self.QA_PAIR_LABEL, prepared_qa_nodes)
-
-        if success:
-            success = process_batch(self.ARTICLE_LABEL, prepared_article_nodes)
-
-        if success:
-            success = process_batch(self.CONTEXT_LABEL, prepared_context_nodes)
-
-        # --- Final Check and Return ---
-        if success:
-            logger.info(
-                f"Pass 4 completed. Successfully created a total of {total_nodes_created} nodes across all types."
-            )
-            return temp_id_map
-        else:
-            logger.error(
-                "Pass 4 failed due to errors during batch node creation. Returning empty ID map."
-            )
-            return {}  # Return empty map to signal failure to the orchestrator
-
-    def _batch_set_context_vectors(
-        self, prepared_context_nodes: List[PreparedNode], temp_id_map: Dict[str, str]
-    ) -> None:
-        """
-        Pass 5: Performs batch setting of vector properties for context nodes.
-        """
+        # --- Pass 5: Batch Set Context Vector Properties ---
         logger.info("Pass 5: Batch setting context vector properties...")
-        # Original VectorData was: {'node_id': NodeID, 'property_name': str, 'embedding': List[float]}
-        # Assumed VectorDataForBatch is: {'node_id': NodeID, 'embedding': List[float]}
-        # Need to adapt if GraphCrud expects the former structure. Let's use VectorDataForBatch.
-
-        context_vectors_to_set: List[VectorDataForBatch] = (
-            []
-        )  # Use VectorDataForBatch type
+        context_vectors_to_set: List[VectorData] = []
         for prepared_node in prepared_context_nodes:
             real_id = temp_id_map.get(prepared_node.temp_id)
             embedding = prepared_node.embedding  # Get stored embedding
             if real_id and embedding:
                 context_vectors_to_set.append(
                     {
-                        # self.VECTOR_NODE_ID_KEY: real_id, # Assuming keys match VectorDataForBatch
-                        # self.VECTOR_EMBEDDING_KEY: embedding
-                        "node_id": real_id,  # Adjust keys based on GraphCrud input expectations
-                        "embedding": embedding,
+                        self.VECTOR_NODE_ID_KEY: real_id,
+                        self.VECTOR_PROP_NAME_KEY: self.EMBEDDING_PROPERTY,
+                        self.VECTOR_EMBEDDING_KEY: embedding,
                     }
                 )
 
-        if not context_vectors_to_set:
-            logger.info("Pass 5: No context vectors to set.")
-            return
-
         try:
-            # Pass the correct property name if GraphCrud requires it
-            self.crud.set_node_vector_properties_batch(
-                vectors_data=context_vectors_to_set,
-                property_name=self.EMBEDDING_PROPERTY,  # Pass the target property name
-            )
-            logger.info(
-                f"Pass 5 completed. Attempted to set {len(context_vectors_to_set)} context vector properties."
-            )
+            if context_vectors_to_set:
+                self.crud.set_node_vector_properties_batch(context_vectors_to_set)
+                logger.info(
+                    f"Successfully set {len(context_vectors_to_set)} context vector properties."
+                )
+            else:
+                logger.info("No context vectors to set.")
         except Exception as e:
-            logger.exception(
-                f"Pass 5 Error: Exception during batch setting of context vectors: {e}"
-            )
-            # Log error but potentially continue, as nodes/rels might still be useful
+            logger.exception(f"Error during batch setting of context vectors: {e}")
+            # Non-critical? Nodes exist, but are not queryable by vector similarity.
 
-    def _batch_create_relationships(
-        self,
-        prepared_qa_article_rels: List[PreparedRelationship],
-        prepared_article_context_rels: List[PreparedRelationship],
-        prepared_context_mesh_rels: List[PreparedRelationship],
-        temp_id_map: Dict[str, str],
-        mesh_node_map: Dict[str, str],  # Pass mesh_node_map explicitly
-    ) -> None:
-        """
-        Pass 6: Performs batch creation of all relationships, resolving temporary IDs.
-        """
+        # --- Pass 6: Batch Create Relationships ---
         logger.info("Pass 6: Batch creating relationships...")
-        all_rels_to_create: List[Dict[str, Any]] = []
+        all_rels_to_create: List[RelationshipData] = []
 
-        # Helper to resolve and append relationship data
-        def resolve_and_append(
-            prep_rel: PreparedRelationship, to_id_map: Dict[str, str] = temp_id_map
-        ):
+        # Resolve QA -> Article rels
+        for prep_rel in prepared_qa_article_rels:
             from_id = temp_id_map.get(prep_rel.from_temp_id)
-            # Use the provided map (temp_id_map or mesh_node_map) for the target ID
-            to_id = to_id_map.get(prep_rel.to_temp_id)
+            to_id = temp_id_map.get(prep_rel.to_temp_id)
             if from_id and to_id:
                 all_rels_to_create.append(
                     {
@@ -611,105 +528,52 @@ class GraphLoader:
                         self.REL_PROPS_KEY: prep_rel.properties,
                     }
                 )
-            # else: # Optional: Log if a relationship cannot be resolved
-            #     logger.warning(f"Could not resolve relationship: {prep_rel.from_temp_id} -> {prep_rel.to_temp_id}")
-
-        # Resolve QA -> Article rels
-        for prep_rel in prepared_qa_article_rels:
-            resolve_and_append(prep_rel)
 
         # Resolve Article -> Context rels
         for prep_rel in prepared_article_context_rels:
-            resolve_and_append(prep_rel)
+            from_id = temp_id_map.get(prep_rel.from_temp_id)
+            to_id = temp_id_map.get(prep_rel.to_temp_id)
+            if from_id and to_id:
+                all_rels_to_create.append(
+                    {
+                        self.REL_FROM_KEY: from_id,
+                        self.REL_TO_KEY: to_id,
+                        self.REL_TYPE_KEY: prep_rel.rel_type,
+                        self.REL_PROPS_KEY: prep_rel.properties,
+                    }
+                )
 
-        # Resolve Context -> MESH rels (use mesh_node_map for target)
+        # Resolve Context -> MESH rels (using mesh_node_map)
         for prep_rel in prepared_context_mesh_rels:
-            resolve_and_append(prep_rel, mesh_node_map)
-
-        if not all_rels_to_create:
-            logger.info("Pass 6: No relationships to create.")
-            return
+            from_id = temp_id_map.get(prep_rel.from_temp_id)
+            mesh_name = prep_rel.to_temp_id  # Stored mesh name here
+            to_id = self.mesh_node_map.get(mesh_name)  # Resolve using the map
+            if from_id and to_id:
+                all_rels_to_create.append(
+                    {
+                        self.REL_FROM_KEY: from_id,
+                        self.REL_TO_KEY: to_id,
+                        self.REL_TYPE_KEY: prep_rel.rel_type,
+                        self.REL_PROPS_KEY: prep_rel.properties,
+                    }
+                )
 
         try:
-            self.crud.create_relationships_batch(all_rels_to_create)
+            if all_rels_to_create:
+                self.crud.create_relationships_batch(all_rels_to_create)
+                logger.info(
+                    f"Successfully created {len(all_rels_to_create)} relationships."
+                )
+            else:
+                logger.info("No relationships to create.")
+
+            duration = time.time() - start_time
             logger.info(
-                f"Pass 6 completed. Attempted to create {len(all_rels_to_create)} relationships."
+                f"QA, Articles, Contexts, and their relationships loaded successfully in {duration:.2f} seconds."
             )
+
         except Exception as e:
-            logger.exception(
-                f"Pass 6 Error: Exception during batch relationship creation: {e}"
-            )
-
-    # --- Orchestrator Method ---
-
-    def load_qa_articles_contexts(self) -> None:
-        """
-        Orchestrates the preparation and loading of QA pairs, Articles, and
-        Context chunks into the graph using modularized, multi-pass batch operations.
-        Requires `load_mesh_nodes` to be called first.
-        """
-        start_time = time.time()
-        logger.info("Starting QA/Article/Context loading process...")
-
-        if not self.data:
-            logger.warning("No data provided. Aborting QA/Article/Context load.")
-            return
-        if not self.mesh_node_map:
-            logger.error(
-                "MESH node map is empty. Call `load_mesh_nodes` first. Aborting QA/Article/Context load as Context->MESH relationships cannot be resolved."
-            )
-            # Make this a hard stop
-            return
-
-        # Pass 1: Prepare nodes/rels and collect chunks
-        (
-            prepared_qa_nodes,
-            prepared_article_nodes,
-            prepared_qa_article_rels,
-            prepared_article_context_rels,
-            prepared_context_mesh_rels,
-            chunk_to_temp_context_ids,
-        ) = self._prepare_nodes_and_chunks()
-
-        # Pass 2: Embed unique chunks
-        embedding_map = self._embed_context_chunks(chunk_to_temp_context_ids)
-        if (
-            not embedding_map and chunk_to_temp_context_ids
-        ):  # Check if embedding failed but there were chunks
-            logger.error("Aborting load due to context chunk embedding failure.")
-            return
-
-        # Pass 3: Finalize context node data with embeddings
-        prepared_context_nodes = self._finalize_context_nodes(
-            chunk_to_temp_context_ids, embedding_map
-        )
-
-        # Pass 4: Batch create all nodes and get ID map
-        temp_id_map = self._batch_create_nodes(
-            prepared_qa_nodes, prepared_article_nodes, prepared_context_nodes
-        )
-        if not temp_id_map and (
-            prepared_qa_nodes or prepared_article_nodes or prepared_context_nodes
-        ):  # Check if creation failed but there were nodes
-            logger.error("Aborting load due to batch node creation failure.")
-            return
-
-        # Pass 5: Batch set context vectors (proceed even if this fails, but log it)
-        self._batch_set_context_vectors(prepared_context_nodes, temp_id_map)
-
-        # Pass 6: Batch create all relationships
-        self._batch_create_relationships(
-            prepared_qa_article_rels,
-            prepared_article_context_rels,
-            prepared_context_mesh_rels,
-            temp_id_map,
-            self.mesh_node_map,
-        )
-
-        duration = time.time() - start_time
-        logger.info(
-            f"QA, Articles, Contexts loading process finished in {duration:.2f} seconds."
-        )
+            logger.exception(f"Error during batch relationship creation: {e}")
 
     # --- Similarity Loading (Batched) ---
 
@@ -740,7 +604,7 @@ class GraphLoader:
 
     def _convert_records_to_ids_and_embeddings(
         self, records: List[Dict]
-    ) -> Tuple[List[str], np.ndarray]:
+    ) -> Tuple[List[NodeID], np.ndarray]:
         """Separates records into lists of IDs and a NumPy array of embeddings."""
         if not records:
             return [], np.array([])
@@ -758,7 +622,7 @@ class GraphLoader:
         return cosine_similarity(embeddings)
 
     def _filter_similarities(
-        self, similarity_matrix: np.ndarray, node_ids: List[str]
+        self, similarity_matrix: np.ndarray, node_ids: List[NodeID]
     ) -> List[Dict]:
         """
         Filters the similarity matrix to find pairs above the threshold.
@@ -864,3 +728,187 @@ class GraphLoader:
             logger.info("Skipping similarity relationship loading as requested.")
 
         logger.info("Full graph loading process completed.")
+
+
+# --- Example Usage (Illustrative) ---
+if __name__ == "__main__":
+    # This is a placeholder for how you might use the class
+    # Replace with your actual data loading, model/crud instantiation
+
+    logger.info("Setting up dependencies (Mocks/Placeholders)...")
+
+    # Mock/Placeholder implementations (Replace with real ones)
+    class MockEmbeddingModel(EmbeddingModel):
+        def embed_documents(self, texts: List[str]) -> List[List[float]]:
+            logger.debug(f"Mock embed_documents called for {len(texts)} texts.")
+            # Return embeddings of consistent dimension, e.g., 3 dimensions
+            return [list(np.random.rand(3).astype(float)) for _ in texts]
+
+    class MockTextSplitter(TextSplitter):
+        def split_text(self, text: str) -> List[str]:
+            # Simple splitting for example
+            return [text[i : i + 100] for i in range(0, len(text), 100)]
+
+    class MockGraphCrud(GraphCrud):
+        _node_counter = 0
+        _nodes = {}
+        _rels = []
+
+        def __init__(self):
+            # Add necessary driver/connection setup if needed
+            pass
+
+        def create_nodes_batch(self, nodes_data: List[NodeData]) -> List[NodeID]:
+            ids = []
+            for node_d in nodes_data:
+                self._node_counter += 1
+                new_id = f"mock_node_{self._node_counter}"
+                self._nodes[new_id] = {
+                    "label": node_d["label"],
+                    "properties": node_d["properties"],
+                }
+                ids.append(new_id)
+            logger.debug(
+                f"Mock created {len(ids)} nodes. Total nodes: {len(self._nodes)}"
+            )
+            return ids
+
+        def set_node_vector_properties_batch(
+            self, vectors_data: List[VectorData]
+        ) -> None:
+            for vec_d in vectors_data:
+                node_id = vec_d[self.VECTOR_NODE_ID_KEY]
+                prop_name = vec_d[self.VECTOR_PROP_NAME_KEY]
+                if node_id in self._nodes:
+                    if "vectors" not in self._nodes[node_id]:
+                        self._nodes[node_id]["vectors"] = {}
+                    self._nodes[node_id]["vectors"][prop_name] = vec_d[
+                        self.VECTOR_EMBEDDING_KEY
+                    ]
+                else:
+                    logger.warning(f"Mock set_vector: Node {node_id} not found.")
+            logger.debug(f"Mock set vectors for {len(vectors_data)} nodes.")
+
+        def create_relationships_batch(self, rels_data: List[RelationshipData]) -> None:
+            valid_rels = 0
+            for rel_d in rels_data:
+                if (
+                    rel_d[self.REL_FROM_KEY] in self._nodes
+                    and rel_d[self.REL_TO_KEY] in self._nodes
+                ):
+                    self._rels.append(rel_d)
+                    valid_rels += 1
+                else:
+                    logger.warning(
+                        f"Mock create_rel: Node {rel_d[self.REL_FROM_KEY]} or {rel_d[self.REL_TO_KEY]} not found."
+                    )
+            logger.debug(
+                f"Mock created {valid_rels}/{len(rels_data)} relationships. Total rels: {len(self._rels)}"
+            )
+
+        def get_nodes_with_property(
+            self, label: str, property_name: str
+        ) -> List[Dict[str, Any]]:
+            results = []
+            for node_id, node_data in self._nodes.items():
+                if node_data["label"] == label:
+                    # Check if vector property exists
+                    if "vectors" in node_data and property_name in node_data["vectors"]:
+                        results.append(
+                            {
+                                GraphLoaderOptimized.NODE_ID_KEY: node_id,
+                                property_name: node_data["vectors"][property_name],
+                            }
+                        )
+                    # Also check regular properties if needed, adjust logic based on 'property_name'
+            logger.debug(
+                f"Mock get_nodes_with_property found {len(results)} nodes for label '{label}' property '{property_name}'."
+            )
+            return results
+
+        def close(self):
+            logger.debug("Mock CRUD closed.")
+            pass
+
+    # Sample Data (simplified)
+    sample_input_data = [
+        {
+            "question": "Q1?",
+            "answer": "A1.",
+            "id": "q1",
+            "articles": [
+                {
+                    "pmid": "p1",
+                    "title": "T1",
+                    "abstract": "Abstract content one chunk. Another part.",
+                    "mesh_terms": ["MeshA", "MeshB"],
+                },
+                {
+                    "pmid": "p2",
+                    "title": "T2",
+                    "abstract": "Different abstract text here.",
+                    "mesh_terms": ["MeshB", "MeshC"],
+                },
+            ],
+        },
+        {
+            "question": "Q2?",
+            "answer": "A2.",
+            "id": "q2",
+            "articles": [
+                {
+                    "pmid": "p3",
+                    "title": "T3",
+                    "abstract": "Yet another abstract, similar to the first maybe.",
+                    "mesh_terms": ["MeshA", "MeshD"],
+                },
+                {
+                    "pmid": "p2",
+                    "title": "T2",
+                    "abstract": "Different abstract text here.",
+                    "mesh_terms": ["MeshB", "MeshC"],
+                },  # Duplicate article reference
+            ],
+        },
+    ]
+
+    # Create dummy mesh definitions file
+    mesh_def_file = "mock_mesh_definitions.json"
+    external_dir = "."  # Use current dir for example
+    mock_defs = {
+        "MeshA": "Definition A",
+        "MeshB": "Definition B",
+        "MeshC": "Definition C",
+        "MeshD": "Definition D",
+    }
+    with open(os.path.join(external_dir, mesh_def_file), "w") as f:
+        json.dump(mock_defs, f)
+
+    # Instantiate
+    mock_embedder = MockEmbeddingModel()
+    mock_splitter = MockTextSplitter()
+    mock_crud = MockGraphCrud()
+
+    loader = GraphLoaderOptimized(
+        data=sample_input_data,
+        embedding_model=mock_embedder,
+        text_splitter=mock_splitter,
+        crud=mock_crud,
+        mesh_definitions_filename=mesh_def_file,
+        external_data_dir=external_dir,
+        similarity_threshold=0.5,  # Example threshold
+    )
+
+    # Run the loading process
+    loader.load_all(load_similarities=True)
+
+    # Cleanup dummy file
+    os.remove(os.path.join(external_dir, mesh_def_file))
+
+    # Inspect mock_crud._nodes and mock_crud._rels to verify results (optional)
+    # print("\n--- Mock Graph State ---")
+    # print("Nodes:", json.dumps(mock_crud._nodes, indent=2))
+    # print("\nRels:", json.dumps(mock_crud._rels, indent=2))
+
+    mock_crud.close()
+    logger.info("Example finished.")

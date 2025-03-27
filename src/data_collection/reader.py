@@ -1,9 +1,12 @@
 import json
+import os
 
-from configs.config import logger
+import pandas as pd
+
+from configs.config import ConfigPath, logger
 
 
-class MetadataReader:
+class PQADataReader:
     def __init__(self, file_path):
         self.file_path = file_path
         self.data: dict = {}
@@ -31,3 +34,35 @@ class MetadataReader:
 
     def get_pmids(self) -> list:
         return self.pmids
+
+
+class BioASQDataReader:
+
+    def __init__(self, rows_limit: int = 1000):
+        # os.path.join(ConfigPath.RAW_DATA_DIR,"train-00000-of-00001.parquet")
+        self.splits = {
+            "train": "question-answer-passages/train-00000-of-00001.parquet",
+            "test": "question-answer-passages/test-00000-of-00001.parquet",
+        }
+        self.rows_limit = rows_limit
+
+    def read_parquet_file(self, file_path: str) -> list:
+        try:
+            self.df = pd.read_parquet(file_path)
+        except Exception as e:
+            logger.error(f"Error reading parquet file: {e}")
+            logger.debug("Downloading the dataset from Hugging Face Datasets...")
+            self.df = pd.read_parquet(
+                "hf://datasets/enelpol/rag-mini-bioasq/" + self.splits["train"]
+            )
+
+        logger.info(f"Limiting the number of rows to {self.rows_limit}...")
+        self.df = self.df[: self.rows_limit]
+        logger.info(f"Data file loaded with shape: {self.df.shape}")
+        records = self.df.to_dict(orient="records")
+        return records
+
+    def get_distinct_pmids(self) -> list:
+        int_pmids = list(self.df["relevant_passage_ids"].explode().unique())
+        pmids = [str(pmid) for pmid in int_pmids]
+        return pmids
