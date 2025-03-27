@@ -52,6 +52,10 @@ def construct_graph_dataset():
 def load_graph_data():
     """
     The function aims to load the graph data into Neo4j.
+    1. Initialize the EmbeddingModel, Neo4jConnection, GraphCrud, TextSplitter, and GraphLoader.
+    2. Load the Mesh Nodes into the Neo4j graph.
+    3. Load the QA Pairs, Articles, and Context Nodes into the Neo4j graph.
+    4. Load the Similarity Relationships between Context Nodes into the Neo4j graph.
     """
     # required initializations
     embedding_model = EmbeddingModel()
