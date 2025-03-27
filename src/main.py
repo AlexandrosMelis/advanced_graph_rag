@@ -81,6 +81,6 @@ def load_graph_data():
 
 if __name__ == "__main__":
     # 1 step: construct the graph dataset
-    # construct_graph_dataset()
+    construct_graph_dataset()
     # 2 step: load the dataset to Neo4j db
     load_graph_data()
