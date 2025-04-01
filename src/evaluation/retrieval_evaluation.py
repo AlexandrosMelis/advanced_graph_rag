@@ -22,6 +22,9 @@ class GraphRAGEvaluator:
     - Success@k: Binary measure indicating whether at least one relevant chunk was found in the top-k results.
     - Coverage@k: Measures what proportion of all relevant passages across the entire dataset were retrieved.
     - Mean Average Precision (MAP@k): Average of precision values calculated at each position where a relevant document is found.
+
+    ** Confidence Intervals **
+    The calculate_confidence_intervals method estimates how reliable your metrics are by computing the variability across your test samples.
     """
 
     def __init__(self, benchmark_data: List[Dict[str, Any]]):
@@ -55,9 +58,9 @@ class GraphRAGEvaluator:
             Dictionary of metrics at each k value
         """
         # Create a mapping of questions to relevant passage IDs for quick lookup
-        question_to_relevant = {
-            i: set(sample["relevant_passage_ids"])
-            for i, sample in enumerate(self.benchmark_data)
+        benchmark_samples = {
+            sample["id"]: set(sample["relevant_passage_ids"])
+            for sample in self.benchmark_data
         }
 
         # Create a mapping of question IDs to retrieval results
@@ -79,7 +82,7 @@ class GraphRAGEvaluator:
             success_values = []
             ap_values = []  # For MAP calculation
 
-            for question_id, relevant_passages in question_to_relevant.items():
+            for question_id, relevant_passages in benchmark_samples.items():
                 if question_id not in retrieval_map:
                     continue
 
@@ -140,7 +143,7 @@ class GraphRAGEvaluator:
 
             # Calculate coverage across all samples
             total_relevant = sum(
-                len(relevant) for relevant in question_to_relevant.values()
+                len(relevant) for relevant in benchmark_samples.values()
             )
             total_found = sum(
                 len(
@@ -148,13 +151,12 @@ class GraphRAGEvaluator:
                         [chunk_id for chunk_id, _ in retrieval_map.get(qid, [])[:k]]
                     ).intersection(relevant)
                 )
-                for qid, relevant in question_to_relevant.items()
+                for qid, relevant in benchmark_samples.items()
             )
             metrics[f"coverage@{k}"] = (
                 total_found / total_relevant if total_relevant > 0 else 0
             )
 
-        # Store results for later use
         self.metrics_results = metrics
         return metrics
 
@@ -486,18 +488,22 @@ def format_retrieval_results(
         List of formatted retrieval results
     """
     formatted_results = []
-    for question_id, chunks in raw_results.items():
+    for question_id, retrieved_chunks in raw_results.items():
+        # format retrieved chunks
+        retrieved_chunks = [
+            (chunk["pmid"], chunk["score"]) for chunk in retrieved_chunks
+        ]
         formatted_results.append(
-            {"question_id": question_id, "retrieved_chunks": chunks}
+            {"question_id": question_id, "retrieved_chunks": retrieved_chunks}
         )
     return formatted_results
 
 
-def run_evaluation(
+def run_retrieval_evaluation(
     benchmark_data: List[Dict[str, Any]],
     retrieval_results: Dict[str, List[Tuple[str, float]]],
     k_values: List[int] = [1, 3, 5, 10, 20],
-) -> Dict[str, float]:
+) -> Tuple[Dict[str, float], GraphRAGEvaluator]:
     """
     Convenience function to run evaluation in one step.
 
@@ -526,11 +532,13 @@ if __name__ == "__main__":
     # Example benchmark data
     benchmark_data = [
         {
+            "id": 0,
             "question": "What is GraphRAG?",
             "answer": "GraphRAG is a technique that combines graph databases with retrieval augmented generation.",
             "relevant_passage_ids": ["p1", "p2", "p3"],
         },
         {
+            "id": 1,
             "question": "How does GraphRAG improve over traditional RAG?",
             "answer": "It leverages graph structure for better context retrieval.",
             "relevant_passage_ids": ["p4", "p5"],
@@ -539,12 +547,24 @@ if __name__ == "__main__":
 
     # Example retrieval results (would come from your GraphRAG system)
     retrieval_results = {
-        0: [("p1", 0.95), ("p3", 0.85), ("p2", 0.75), ("p6", 0.65), ("p7", 0.55)],
-        1: [("p6", 0.90), ("p4", 0.85), ("p8", 0.70), ("p5", 0.65), ("p9", 0.60)],
+        0: [
+            {"pmid": "p1", "score": 0.95},
+            {"pmid": "p3", "score": 0.85},
+            {"pmid": "p2", "score": 0.75},
+            {"pmid": "p6", "score": 0.65},
+            {"pmid": "p7", "score": 0.55},
+        ],
+        1: [
+            {"pmid": "p6", "score": 0.90},
+            {"pmid": "p4", "score": 0.85},
+            {"pmid": "p8", "score": 0.70},
+            {"pmid": "p5", "score": 0.65},
+            {"pmid": "p9", "score": 0.60},
+        ],
     }
 
     # Run evaluation
-    metrics, evaluator = run_evaluation(benchmark_data, retrieval_results)
+    metrics, evaluator = run_retrieval_evaluation(benchmark_data, retrieval_results)
 
     # Generate summary report
     report = evaluator.generate_summary_report()

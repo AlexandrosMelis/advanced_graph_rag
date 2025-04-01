@@ -33,13 +33,11 @@ class VectorSearchTool(BaseTool):
     neo4j_connection: Neo4jConnection
     str_parser: StrOutputParser = StrOutputParser()
 
-    answer_type: Literal["short", "long"]
-
     # static variables
     context_alias: str = "context"
     context_label: str = "CONTEXT"
     k: int = 10
-    threshold: float = 0.75
+    threshold: float = 0.70
 
     def _get_answer_template(self) -> PromptTemplate:
         LONG_ANSWER_PROMPT_TEMPLATE = """Role: You are a research expert in medical literature. 

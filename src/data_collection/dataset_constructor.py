@@ -1,7 +1,7 @@
 import os
 
 from configs import ConfigPath
-from utils.utils import read_json_file, save_json_file
+from utils.utils import save_json_file
 
 
 class DatasetConstructor:

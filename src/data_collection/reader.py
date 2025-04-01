@@ -1,6 +1,7 @@
 import json
 import os
 
+import numpy as np
 import pandas as pd
 
 from configs.config import ConfigPath, logger
@@ -59,6 +60,14 @@ class BioASQDataReader:
         logger.info(f"Limiting the number of rows to {self.samples_limit}...")
         self.df = self.df[: self.samples_limit]
         logger.info(f"Data file loaded with shape: {self.df.shape}")
+        # convert column 'relevant_passage_ids' from array[int] -> list[str]
+        self.df["relevant_passage_ids"] = self.df["relevant_passage_ids"].apply(
+            lambda cell_value: (
+                cell_value.astype(str).tolist()
+                if isinstance(cell_value, np.ndarray)
+                else cell_value
+            )
+        )
         records = self.df.to_dict(orient="records")
         return records
 

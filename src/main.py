@@ -13,7 +13,7 @@ from llms.embedding_model import EmbeddingModel
 from utils.utils import read_json_file
 
 
-def construct_graph_dataset(samples_limit: int = 1000):
+def construct_graph_dataset(asq_reader: BioASQDataReader):
     """
     The function aims to construct the dataset for the graph database.
     The following steps are performed:
@@ -22,7 +22,7 @@ def construct_graph_dataset(samples_limit: int = 1000):
     3. Fetch the Mesh Term Definitions for the Mesh Terms mentioned in the PubMed articles.
     4. Combine the BIOASQ, PubMed, and Mesh Term Definitions to create the graph data for loading into Neo4j.
     """
-    asq_reader = BioASQDataReader(samples_limit=samples_limit)
+
     article_fetcher = PubMedArticleFetcher()
 
     # 1. Read the BIOASQ parquet data file
@@ -46,7 +46,7 @@ def construct_graph_dataset(samples_limit: int = 1000):
     dataset_constructor.create_graph_data()
 
 
-def load_graph_data():
+def load_graph_data(embedding_model, graph_crud):
     """
     The function aims to load the graph data into Neo4j.
     1. Initialize the EmbeddingModel, Neo4jConnection, GraphCrud, TextSplitter, and GraphLoader.
@@ -54,15 +54,7 @@ def load_graph_data():
     3. Load the QA Pairs, Articles, and Context Nodes into the Neo4j graph.
     4. Load the Similarity Relationships between Context Nodes into the Neo4j graph.
     """
-    # required initializations
-    embedding_model = EmbeddingModel()
-    neo4j_connection = Neo4jConnection(
-        uri=ConfigEnv.NEO4J_URI,
-        user=ConfigEnv.NEO4J_USER,
-        password=ConfigEnv.NEO4J_PASSWORD,
-        database=ConfigEnv.NEO4J_DB,
-    )
-    graph_crud = GraphCrud(neo4j_connection=neo4j_connection)
+
     text_splitter = TextSplitter()
     graph_data = read_json_file(
         file_path=os.path.join(ConfigPath.RAW_DATA_DIR, "bioasq_graph_data.json")
@@ -81,9 +73,25 @@ def load_graph_data():
     logger.info("Loading in Neo4j Database completed successfully!")
 
 
+def evaluate_retriever():
+    pass
+
+
 if __name__ == "__main__":
+    # required initializations
+    samples_limit = 100
+    asq_reader = BioASQDataReader(samples_limit=samples_limit)
+    embedding_model = EmbeddingModel()
+    neo4j_connection = Neo4jConnection(
+        uri=ConfigEnv.NEO4J_URI,
+        user=ConfigEnv.NEO4J_USER,
+        password=ConfigEnv.NEO4J_PASSWORD,
+        database=ConfigEnv.NEO4J_DB,
+    )
+    graph_crud = GraphCrud(neo4j_connection=neo4j_connection)
+
     # 1 step: construct the graph dataset
     num_of_samples = 100
-    construct_graph_dataset(samples_limit=num_of_samples)
+    construct_graph_dataset(asq_reader=asq_reader)
     # 2 step: load the dataset to Neo4j db
-    load_graph_data()
+    load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
