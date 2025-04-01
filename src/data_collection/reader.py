@@ -38,13 +38,13 @@ class PQADataReader:
 
 class BioASQDataReader:
 
-    def __init__(self, rows_limit: int = 1000):
+    def __init__(self, samples_limit: int = 1000):
         # os.path.join(ConfigPath.RAW_DATA_DIR,"train-00000-of-00001.parquet")
         self.splits = {
             "train": "question-answer-passages/train-00000-of-00001.parquet",
             "test": "question-answer-passages/test-00000-of-00001.parquet",
         }
-        self.rows_limit = rows_limit
+        self.samples_limit = samples_limit
 
     def read_parquet_file(self, file_path: str) -> list:
         try:
@@ -56,8 +56,8 @@ class BioASQDataReader:
                 "hf://datasets/enelpol/rag-mini-bioasq/" + self.splits["train"]
             )
 
-        logger.info(f"Limiting the number of rows to {self.rows_limit}...")
-        self.df = self.df[: self.rows_limit]
+        logger.info(f"Limiting the number of rows to {self.samples_limit}...")
+        self.df = self.df[: self.samples_limit]
         logger.info(f"Data file loaded with shape: {self.df.shape}")
         records = self.df.to_dict(orient="records")
         return records

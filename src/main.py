@@ -1,7 +1,4 @@
-import json
 import os
-
-from tqdm import tqdm
 
 from configs import ConfigEnv, ConfigPath
 from configs.config import logger
@@ -16,7 +13,7 @@ from llms.embedding_model import EmbeddingModel
 from utils.utils import read_json_file
 
 
-def construct_graph_dataset():
+def construct_graph_dataset(samples_limit: int = 1000):
     """
     The function aims to construct the dataset for the graph database.
     The following steps are performed:
@@ -25,7 +22,7 @@ def construct_graph_dataset():
     3. Fetch the Mesh Term Definitions for the Mesh Terms mentioned in the PubMed articles.
     4. Combine the BIOASQ, PubMed, and Mesh Term Definitions to create the graph data for loading into Neo4j.
     """
-    asq_reader = BioASQDataReader(rows_limit=3)
+    asq_reader = BioASQDataReader(samples_limit=samples_limit)
     article_fetcher = PubMedArticleFetcher()
 
     # 1. Read the BIOASQ parquet data file
@@ -81,10 +78,12 @@ def load_graph_data():
     graph_loader.load_mesh_nodes()
     graph_loader.load_qa_articles_contexts()
     graph_loader.load_similarities_to_graph()
+    logger.info("Loading in Neo4j Database completed successfully!")
 
 
 if __name__ == "__main__":
     # 1 step: construct the graph dataset
-    construct_graph_dataset()
+    num_of_samples = 100
+    construct_graph_dataset(samples_limit=num_of_samples)
     # 2 step: load the dataset to Neo4j db
     load_graph_data()

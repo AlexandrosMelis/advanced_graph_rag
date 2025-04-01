@@ -19,7 +19,7 @@ from utils.utils import read_json_file
 
 # --- Configuration ---
 # Best practice: Move these to a dedicated config file or system
-DEFAULT_SIMILARITY_THRESHOLD = 0.7
+DEFAULT_SIMILARITY_THRESHOLD = 0.8
 DEFAULT_MESH_DEFINITIONS_FILENAME = "mesh_term_definitions.json"
 
 
@@ -286,8 +286,9 @@ class GraphLoader:
         seen_article_temp_ids: Set[str] = set()
 
         for qa_sample in tqdm(self.data, desc="Pass 1: Preparing data"):
-            # QA Node
+            # QA node
             qa_temp_id = f"qa_{qa_sample[self.ID_KEY]}"
+            # QA node properties
             qa_props = {
                 self.QA_ID_PROPERTY: qa_sample[self.ID_KEY],
                 self.QUESTION_KEY: qa_sample[self.QUESTION_KEY],
@@ -308,6 +309,7 @@ class GraphLoader:
                 article_temp_id = f"article_{pmid}"
                 # Prepare article node only if not seen before in this batch
                 if article_temp_id not in seen_article_temp_ids:
+                    # Article node properties
                     article_props = {
                         self.ARTICLE_PMID_PROPERTY: pmid,
                         self.TITLE_KEY: article_data.get(self.TITLE_KEY, ""),
@@ -398,7 +400,7 @@ class GraphLoader:
             chunk_embeddings = self.embedding_model.embed_documents(unique_chunks)
             if len(chunk_embeddings) != len(unique_chunks):
                 logger.error(
-                    f"Pass 2 Error: Mismatch between number of unique chunks ({len(unique_chunks)}) and embeddings ({len(chunk_embeddings)})."
+                    f"Pass 2 Error: Mismatch between number of unique chunks ({len(unique_chunks)}) and embeddings ({len(chunk_embeddings)}). Unique chunks: {unique_chunks}"
                 )
                 # Decide how critical this is - returning empty map signifies failure to proceed.
                 return {}  # Return empty map to signal failure
@@ -546,9 +548,7 @@ class GraphLoader:
         # Assumed VectorDataForBatch is: {'node_id': NodeID, 'embedding': List[float]}
         # Need to adapt if GraphCrud expects the former structure. Let's use VectorDataForBatch.
 
-        context_vectors_to_set: List[VectorDataForBatch] = (
-            []
-        )  # Use VectorDataForBatch type
+        context_vectors_to_set: List[Dict] = []  # Use VectorDataForBatch type
         for prepared_node in prepared_context_nodes:
             real_id = temp_id_map.get(prepared_node.temp_id)
             embedding = prepared_node.embedding  # Get stored embedding
