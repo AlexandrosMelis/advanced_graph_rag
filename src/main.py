@@ -1,4 +1,6 @@
 import os
+from datetime import datetime
+from typing import Any
 
 from configs import ConfigEnv, ConfigPath
 from configs.config import logger
@@ -6,10 +8,14 @@ from data_collection.dataset_constructor import DatasetConstructor
 from data_collection.fetcher import MeshTermFetcher, PubMedArticleFetcher
 from data_collection.reader import BioASQDataReader
 from data_preprocessing.text_splitter import TextSplitter
+from evaluation.retrieval_evaluation import run_evaluation_on_retrieved_chunks
+from evaluation.retriever_executor import collect_retrieved_chunks
 from knowledge_graph.connection import Neo4jConnection
 from knowledge_graph.crud import GraphCrud
 from knowledge_graph.loader import GraphLoader
 from llms.embedding_model import EmbeddingModel
+from llms.llm import ChatModel
+from retrieval.tools.vector_search_tool import VectorSimilaritySearchTool
 from utils.utils import read_json_file
 
 
@@ -73,15 +79,34 @@ def load_graph_data(embedding_model, graph_crud):
     logger.info("Loading in Neo4j Database completed successfully!")
 
 
-def evaluate_retriever():
-    pass
+def evaluate_retriever(source_data: list, retriever: Any):
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # create a folder with the datetime name
+    output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
+    os.makedirs(output_dir_path, exist_ok=True)
+    retrieved_chunks = collect_retrieved_chunks(
+        source_data=source_data,
+        retriever=retriever,
+        output_dir=output_dir_path,
+    )
+    run_evaluation_on_retrieved_chunks(
+        benchmark_data=source_data,
+        retrieval_results=retrieved_chunks,
+        output_dir=output_dir_path,
+    )
+    print("\n\nEvaluation completed successfully!")
 
 
 if __name__ == "__main__":
     # required initializations
-    samples_limit = 100
+    samples_limit = 500
     asq_reader = BioASQDataReader(samples_limit=samples_limit)
+    asq_data_file_path = os.path.join(ConfigPath.RAW_DATA_DIR, "bioasq_train.parquet")
+    data = asq_reader.read_parquet_file(file_path=asq_data_file_path)
     embedding_model = EmbeddingModel()
+    llm = ChatModel(
+        provider="google", model_name="gemini-2.0-flash-lite"
+    ).initialize_model()
     neo4j_connection = Neo4jConnection(
         uri=ConfigEnv.NEO4J_URI,
         user=ConfigEnv.NEO4J_USER,
@@ -91,7 +116,16 @@ if __name__ == "__main__":
     graph_crud = GraphCrud(neo4j_connection=neo4j_connection)
 
     # 1 step: construct the graph dataset
-    num_of_samples = 100
-    construct_graph_dataset(asq_reader=asq_reader)
+    # construct_graph_dataset(asq_reader=asq_reader)
     # 2 step: load the dataset to Neo4j db
-    load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
+    # load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
+
+    # ******** Evaluation ********
+    # Evaluate similarity search retriever
+    vector_search_tool = VectorSimilaritySearchTool(
+        llm=llm,
+        embedding_model=embedding_model,
+        neo4j_connection=neo4j_connection,
+        return_direct=True,
+    )
+    evaluate_retriever(source_data=data, retriever=vector_search_tool)

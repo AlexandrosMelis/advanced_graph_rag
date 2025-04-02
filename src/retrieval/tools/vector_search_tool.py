@@ -19,10 +19,10 @@ class VectorToolInput(BaseModel):
     query: str = Field(description="The query for searching in the Neo4j vector index")
 
 
-class VectorSearchTool(BaseTool):
-    """Tool for searching in vector index"""
+class VectorSimilaritySearchTool(BaseTool):
+    """Tool for performing similarity search in vector index to get the relevant chunks"""
 
-    name: str = "VectorSearchTool"
+    name: str = "VectorSimilaritySearchTool"
     description: str = (
         "useful for when you need to answer questions based on articles content"
     )

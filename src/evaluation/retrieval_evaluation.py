@@ -1,4 +1,5 @@
 import math
+import os
 from collections import defaultdict
 from typing import Any, Dict, List, Set, Tuple
 
@@ -7,8 +8,10 @@ import numpy as np
 import pandas as pd
 from scipy.stats import sem
 
+from utils.utils import save_json_file
 
-class GraphRAGEvaluator:
+
+class RetrievalEvaluator:
     """
     Evaluator for Graph Retrieval Augmented Generation techniques.
     Calculates various retrieval metrics based on retrieved chunks and ground truth relevant passages.
@@ -197,12 +200,12 @@ class GraphRAGEvaluator:
 
         return sum_precisions / len(relevant_set) if relevant_set else 0.0
 
-    def generate_summary_report(self, output_file: str = None) -> pd.DataFrame:
+    def generate_summary_report(self, output_path: str = None) -> pd.DataFrame:
         """
         Generate a summary report of all metrics.
 
         Args:
-            output_file: Optional path to save CSV file
+            output_path: Optional path to save CSV file
 
         Returns:
             DataFrame with metrics summary
@@ -224,8 +227,8 @@ class GraphRAGEvaluator:
         # Pivot to get metrics by k value
         pivot_df = metrics_df.pivot(index="Metric", columns="k", values="Value")
 
-        if output_file:
-            pivot_df.to_csv(output_file)
+        if output_path:
+            pivot_df.to_csv(output_path)
 
         return pivot_df
 
@@ -233,7 +236,7 @@ class GraphRAGEvaluator:
         self,
         metrics_to_plot: List[str] = None,
         figsize: Tuple[int, int] = (12, 8),
-        output_file: str = None,
+        output_path: str = None,
     ) -> None:
         """
         Plot metrics against k values.
@@ -281,8 +284,8 @@ class GraphRAGEvaluator:
         # Set x-ticks to k values
         ax.set_xticks(k_values)
 
-        if output_file:
-            plt.savefig(output_file, bbox_inches="tight")
+        if output_path:
+            plt.savefig(output_path, bbox_inches="tight")
 
         plt.tight_layout()
         plt.show()
@@ -489,21 +492,18 @@ def format_retrieval_results(
     """
     formatted_results = []
     for question_id, retrieved_chunks in raw_results.items():
-        # format retrieved chunks
-        retrieved_chunks = [
-            (chunk["pmid"], chunk["score"]) for chunk in retrieved_chunks
-        ]
         formatted_results.append(
             {"question_id": question_id, "retrieved_chunks": retrieved_chunks}
         )
     return formatted_results
 
 
-def run_retrieval_evaluation(
+def run_evaluation_on_retrieved_chunks(
     benchmark_data: List[Dict[str, Any]],
     retrieval_results: Dict[str, List[Tuple[str, float]]],
     k_values: List[int] = [1, 3, 5, 10, 20],
-) -> Tuple[Dict[str, float], GraphRAGEvaluator]:
+    output_dir: str = None,
+) -> Tuple[Dict[str, float], RetrievalEvaluator]:
     """
     Convenience function to run evaluation in one step.
 
@@ -519,10 +519,28 @@ def run_retrieval_evaluation(
     formatted_results = format_retrieval_results(retrieval_results)
 
     # Initialize evaluator
-    evaluator = GraphRAGEvaluator(benchmark_data)
+    evaluator = RetrievalEvaluator(benchmark_data)
 
     # Run evaluation
     metrics = evaluator.evaluate_retrieval(formatted_results, k_values)
+
+    # Save metrics
+    if output_dir:
+        # save metrics json
+        metrics_file_name = "metrics.json"
+        save_json_file(
+            file_path=os.path.join(output_dir, metrics_file_name), data=metrics
+        )
+
+        # save summary report csv
+        report_file_name = "metrics_summary_report.csv"
+        output_path = os.path.join(output_dir, report_file_name)
+        evaluator.generate_summary_report(output_path=output_path)
+
+        # save plots
+        plot_file_name = "plot.png"
+        output_path = os.path.join(output_dir, plot_file_name)
+        evaluator.plot_metrics(output_path=output_path)
 
     return metrics, evaluator
 
@@ -564,7 +582,9 @@ if __name__ == "__main__":
     }
 
     # Run evaluation
-    metrics, evaluator = run_retrieval_evaluation(benchmark_data, retrieval_results)
+    metrics, evaluator = run_evaluation_on_retrieved_chunks(
+        benchmark_data, retrieval_results
+    )
 
     # Generate summary report
     report = evaluator.generate_summary_report()
