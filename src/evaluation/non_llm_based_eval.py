@@ -527,18 +527,18 @@ def run_evaluation_on_retrieved_chunks(
     # Save metrics
     if output_dir:
         # save metrics json
-        metrics_file_name = "metrics.json"
+        metrics_file_name = "non_llm_based_metrics.json"
         save_json_file(
             file_path=os.path.join(output_dir, metrics_file_name), data=metrics
         )
 
         # save summary report csv
-        report_file_name = "metrics_summary_report.csv"
+        report_file_name = "non_llm_based_metrics_summary_report.csv"
         output_path = os.path.join(output_dir, report_file_name)
         evaluator.generate_summary_report(output_path=output_path)
 
         # save plots
-        plot_file_name = "plot.png"
+        plot_file_name = "non_llm_based_plot.png"
         output_path = os.path.join(output_dir, plot_file_name)
         evaluator.plot_metrics(output_path=output_path)
 

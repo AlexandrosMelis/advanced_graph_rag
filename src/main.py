@@ -9,6 +9,7 @@ from data_collection.fetcher import MeshTermFetcher, PubMedArticleFetcher
 from data_collection.reader import BioASQDataReader
 from data_collection.text_splitter import TextSplitter
 from evaluation.executor import collect_generated_answers, collect_retrieved_chunks
+from evaluation.llm_based_eval import run_evaluation_on_generated_answers
 from evaluation.non_llm_based_eval import run_evaluation_on_retrieved_chunks
 from knowledge_graph.connection import Neo4jConnection
 from knowledge_graph.crud import GraphCrud
@@ -96,19 +97,28 @@ def evaluate_retriever_without_llm(
 
 
 def evaluate_retriever_with_llm(
-    source_data: list, retriever: Any, output_dir_path: str = None
+    source_data: list,
+    retriever: Any,
+    output_dir_path: str = None,
+    llm: Any = None,
+    embedding_model: Any = None,
 ):
     retrieved_answers = collect_generated_answers(
         source_data=source_data, retriever=retriever, output_dir=output_dir_path
     )
     # TODO: add evaluation function
-
+    run_evaluation_on_generated_answers(
+        generated_data=retrieved_answers,
+        llm=llm,
+        embedding_model=embedding_model,
+        output_dir=output_dir_path,
+    )
     print("\n\nEvaluation with LLM completed successfully!")
 
 
 if __name__ == "__main__":
     # required initializations
-    samples_limit = 2
+    samples_limit = 1
     asq_reader = BioASQDataReader(samples_limit=samples_limit)
     asq_data_file_path = os.path.join(ConfigPath.RAW_DATA_DIR, "bioasq_train.parquet")
     data = asq_reader.read_parquet_file(file_path=asq_data_file_path)
