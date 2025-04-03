@@ -11,10 +11,10 @@ from scipy.stats import sem
 from utils.utils import save_json_file
 
 
-class RetrievalEvaluator:
+class NonLLMRetrievalEvaluator:
     """
-    Evaluator for Graph Retrieval Augmented Generation techniques.
-    Calculates various retrieval metrics based on retrieved chunks and ground truth relevant passages.
+    Evaluator for assessing the retrieval technique ability to correctly retrieve relevant chunks.
+    Calculates various metrics relevant with chunk retrieval.
 
     ** Core Metrics **
     - Precision@k: Measures the percentage of retrieved chunks that are in the ground truth relevant set. It answers "Of the chunks I retrieved, how many were actually relevant?"
@@ -503,7 +503,7 @@ def run_evaluation_on_retrieved_chunks(
     retrieval_results: Dict[str, List[Tuple[str, float]]],
     k_values: List[int] = [1, 3, 5, 10, 20],
     output_dir: str = None,
-) -> Tuple[Dict[str, float], RetrievalEvaluator]:
+) -> Tuple[Dict[str, float], NonLLMRetrievalEvaluator]:
     """
     Convenience function to run evaluation in one step.
 
@@ -519,7 +519,7 @@ def run_evaluation_on_retrieved_chunks(
     formatted_results = format_retrieval_results(retrieval_results)
 
     # Initialize evaluator
-    evaluator = RetrievalEvaluator(benchmark_data)
+    evaluator = NonLLMRetrievalEvaluator(benchmark_data)
 
     # Run evaluation
     metrics = evaluator.evaluate_retrieval(formatted_results, k_values)

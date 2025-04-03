@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 # Assumed project structure and imports (adjust as necessary)
 from configs.config import ConfigPath, logger  # Assuming logger is configured
-from data_preprocessing.text_splitter import TextSplitter
+from data_collection.text_splitter import TextSplitter
 from knowledge_graph.crud import GraphCrud
 from llms.embedding_model import (
     EmbeddingModel,

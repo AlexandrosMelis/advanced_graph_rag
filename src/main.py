@@ -7,9 +7,9 @@ from configs.config import logger
 from data_collection.dataset_constructor import DatasetConstructor
 from data_collection.fetcher import MeshTermFetcher, PubMedArticleFetcher
 from data_collection.reader import BioASQDataReader
-from data_preprocessing.text_splitter import TextSplitter
-from evaluation.retrieval_evaluation import run_evaluation_on_retrieved_chunks
-from evaluation.retriever_executor import collect_retrieved_chunks
+from data_collection.text_splitter import TextSplitter
+from evaluation.executor import collect_generated_answers, collect_retrieved_chunks
+from evaluation.non_llm_based_eval import run_evaluation_on_retrieved_chunks
 from knowledge_graph.connection import Neo4jConnection
 from knowledge_graph.crud import GraphCrud
 from knowledge_graph.loader import GraphLoader
@@ -79,11 +79,9 @@ def load_graph_data(embedding_model, graph_crud):
     logger.info("Loading in Neo4j Database completed successfully!")
 
 
-def evaluate_retriever(source_data: list, retriever: Any):
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    # create a folder with the datetime name
-    output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
-    os.makedirs(output_dir_path, exist_ok=True)
+def evaluate_retriever_without_llm(
+    source_data: list, retriever: Any, output_dir_path: str = None
+):
     retrieved_chunks = collect_retrieved_chunks(
         source_data=source_data,
         retriever=retriever,
@@ -94,12 +92,23 @@ def evaluate_retriever(source_data: list, retriever: Any):
         retrieval_results=retrieved_chunks,
         output_dir=output_dir_path,
     )
-    print("\n\nEvaluation completed successfully!")
+    print("\n\nEvaluation without LLM completed successfully!")
+
+
+def evaluate_retriever_with_llm(
+    source_data: list, retriever: Any, output_dir_path: str = None
+):
+    retrieved_answers = collect_generated_answers(
+        source_data=source_data, retriever=retriever, output_dir=output_dir_path
+    )
+    # TODO: add evaluation function
+
+    print("\n\nEvaluation with LLM completed successfully!")
 
 
 if __name__ == "__main__":
     # required initializations
-    samples_limit = 500
+    samples_limit = 2
     asq_reader = BioASQDataReader(samples_limit=samples_limit)
     asq_data_file_path = os.path.join(ConfigPath.RAW_DATA_DIR, "bioasq_train.parquet")
     data = asq_reader.read_parquet_file(file_path=asq_data_file_path)
@@ -121,11 +130,31 @@ if __name__ == "__main__":
     # load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
 
     # ******** Evaluation ********
-    # Evaluate similarity search retriever
-    vector_search_tool = VectorSimilaritySearchTool(
+
+    # create results folder
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
+    os.makedirs(output_dir_path, exist_ok=True)
+    # initialize retriever
+    vector_tool_with_chunks = VectorSimilaritySearchTool(
         llm=llm,
         embedding_model=embedding_model,
         neo4j_connection=neo4j_connection,
         return_direct=True,
     )
-    evaluate_retriever(source_data=data, retriever=vector_search_tool)
+    vector_tool_with_answers = VectorSimilaritySearchTool(
+        llm=llm,
+        embedding_model=embedding_model,
+        neo4j_connection=neo4j_connection,
+        return_direct=False,
+    )
+
+    # Evaluate similarity search retriever without LLM
+    # evaluate_retriever_without_llm(source_data=data, retriever=vector_tool_with_chunks, output_dir_path=output_dir_path)
+
+    # Evaluate similarity search retriever with LLM
+    evaluate_retriever_with_llm(
+        source_data=data,
+        retriever=vector_tool_with_answers,
+        output_dir_path=output_dir_path,
+    )
