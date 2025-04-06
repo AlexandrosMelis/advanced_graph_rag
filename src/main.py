@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from typing import Any
+from typing import Any, Literal
 
 from configs import ConfigEnv, ConfigPath
 from configs.config import logger
@@ -17,6 +17,7 @@ from knowledge_graph.loader import GraphLoader
 from llms.embedding_model import EmbeddingModel
 from llms.llm import ChatModel
 from retrieval.tools.vector_search_tool import VectorSimilaritySearchTool
+from retrieval_techniques.similarity_search import SimilaritySearchRetriever
 from utils.utils import read_json_file
 
 
@@ -81,17 +82,27 @@ def load_graph_data(embedding_model, graph_crud):
 
 
 def evaluate_retriever_without_llm(
-    source_data: list, retriever: Any, output_dir_path: str = None
+    source_data: list,
+    retriever: SimilaritySearchRetriever,
+    output_dir_path: str = None,
+    retrieval_technique: Literal[
+        "relevant_contexts", "relevant_meshes"
+    ] = "relevant_contexts",
+    k_neighbors: int = 10,
+    k_eval_values: list = [1, 3, 5, 10],
 ):
     retrieved_chunks = collect_retrieved_chunks(
         source_data=source_data,
         retriever=retriever,
+        k=k_neighbors,
+        retrieval_technique=retrieval_technique,
         output_dir=output_dir_path,
     )
     run_evaluation_on_retrieved_chunks(
         benchmark_data=source_data,
         retrieval_results=retrieved_chunks,
         output_dir=output_dir_path,
+        k_values=k_eval_values,
     )
     print("\n\nEvaluation without LLM completed successfully!")
 
@@ -118,7 +129,7 @@ def evaluate_retriever_with_llm(
 
 if __name__ == "__main__":
     # required initializations
-    samples_limit = 1
+    samples_limit = 100
     asq_reader = BioASQDataReader(samples_limit=samples_limit)
     asq_data_file_path = os.path.join(ConfigPath.RAW_DATA_DIR, "bioasq_train.parquet")
     data = asq_reader.read_parquet_file(file_path=asq_data_file_path)
@@ -146,25 +157,35 @@ if __name__ == "__main__":
     output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
     os.makedirs(output_dir_path, exist_ok=True)
     # initialize retriever
-    vector_tool_with_chunks = VectorSimilaritySearchTool(
+    # vector_tool_with_chunks = VectorSimilaritySearchTool(
+    #     llm=llm,
+    #     embedding_model=embedding_model,
+    #     neo4j_connection=neo4j_connection,
+    #     return_direct=True,
+    # )
+    # vector_tool_with_answers = VectorSimilaritySearchTool(
+    #     llm=llm,
+    #     embedding_model=embedding_model,
+    #     neo4j_connection=neo4j_connection,
+    #     return_direct=False,
+    # )
+    retriever = SimilaritySearchRetriever(
         llm=llm,
         embedding_model=embedding_model,
         neo4j_connection=neo4j_connection,
-        return_direct=True,
-    )
-    vector_tool_with_answers = VectorSimilaritySearchTool(
-        llm=llm,
-        embedding_model=embedding_model,
-        neo4j_connection=neo4j_connection,
-        return_direct=False,
     )
 
     # Evaluate similarity search retriever without LLM
-    # evaluate_retriever_without_llm(source_data=data, retriever=vector_tool_with_chunks, output_dir_path=output_dir_path)
+    evaluate_retriever_without_llm(
+        source_data=data,
+        retriever=retriever,
+        output_dir_path=output_dir_path,
+        k_eval_values=[1, 3, 5, 10],
+    )
 
     # Evaluate similarity search retriever with LLM
-    evaluate_retriever_with_llm(
-        source_data=data,
-        retriever=vector_tool_with_answers,
-        output_dir_path=output_dir_path,
-    )
+    # evaluate_retriever_with_llm(
+    #     source_data=data,
+    #     retriever=vector_tool_with_answers,
+    #     output_dir_path=output_dir_path,
+    # )

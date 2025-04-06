@@ -102,11 +102,8 @@ class ConfigPath:
     # Data directories
     DATA_DIR = os.path.join(PROJECT_DIR, "data")
     RAW_DATA_DIR = os.path.join(DATA_DIR, "raw")
-    PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")
-    INTERMEDIATE_DATA_DIR = os.path.join(DATA_DIR, "intermediate")
     EXTERNAL_DATA_DIR = os.path.join(DATA_DIR, "external")
     RESULTS_DIR = os.path.join(DATA_DIR, "results")
-    METRICS_DIR = os.path.join(DATA_DIR, "metrics")
 
     # KG DIRECTORIES
     KG_DIR = os.path.join(BASE_DIR, "knowledge_graph")
@@ -118,11 +115,8 @@ class ConfigPath:
         dirs_to_create = [
             cls.DATA_DIR,
             cls.RAW_DATA_DIR,
-            cls.PROCESSED_DATA_DIR,
-            cls.INTERMEDIATE_DATA_DIR,
             cls.EXTERNAL_DATA_DIR,
             cls.RESULTS_DIR,
-            cls.METRICS_DIR,
         ]
 
         for directory in dirs_to_create:

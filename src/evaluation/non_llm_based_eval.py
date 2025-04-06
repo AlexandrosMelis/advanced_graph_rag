@@ -86,6 +86,7 @@ class NonLLMRetrievalEvaluator:
             ap_values = []  # For MAP calculation
 
             for question_id, relevant_passages in benchmark_samples.items():
+
                 if question_id not in retrieval_map:
                     continue
 
@@ -501,7 +502,7 @@ def format_retrieval_results(
 def run_evaluation_on_retrieved_chunks(
     benchmark_data: List[Dict[str, Any]],
     retrieval_results: Dict[str, List[Tuple[str, float]]],
-    k_values: List[int] = [1, 3, 5, 10, 20],
+    k_values: List[int] = [1, 3, 5, 10],
     output_dir: str = None,
 ) -> Tuple[Dict[str, float], NonLLMRetrievalEvaluator]:
     """

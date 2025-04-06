@@ -36,6 +36,7 @@ class VectorSimilaritySearchTool(BaseTool):
     # static variables
     context_alias: str = "context"
     context_label: str = "CONTEXT"
+    vector_index: str = "contextIndex"
     k: int = 10
     threshold: float = 0.70
 
@@ -76,19 +77,28 @@ Find the context placed in <context></context> tags and the question placed in <
 
         embedded_query = self.embedding_model.embed_query(query)
 
-        VECTOR_SEARCH_QUERY = f"""MATCH (article:ARTICLE)-[:HAS_CONTEXT]->({self.context_alias}:{self.context_label})
-        WITH article, {self.context_alias},
-            vector.similarity.cosine($query, {self.context_alias}.embedding) AS score
-            ORDER BY score DESCENDING
-            LIMIT $k WHERE score > $threshold
-        RETURN article.pmid as pmid, {self.context_alias}.text_content as content, score as score""".strip()
+        # VECTOR_SEARCH_QUERY = f"""MATCH (article:ARTICLE)-[:HAS_CONTEXT]->({self.context_alias}:{self.context_label})
+        # WITH article, {self.context_alias},
+        #     vector.similarity.cosine($query, {self.context_alias}.embedding) AS score
+        #     ORDER BY score DESCENDING
+        #     LIMIT $k WHERE score > $threshold
+        # RETURN article.pmid as pmid, {self.context_alias}.text_content as content, score as score""".strip()
+
+        VECTOR_QUERY = """CALL db.index.vector.queryNodes($vector_index, $k, $embedded_query)
+YIELD node AS context, score""".strip()
+
+        RETRIEVAL_QUERY = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context)
+RETURN article.pmid as pmid, context.text_content as content, score as score""".strip()
+
+        VECTOR_SEARCH_QUERY = f"""{VECTOR_QUERY}\n{RETRIEVAL_QUERY}""".strip()
 
         retrieved_contexts = self.neo4j_connection.execute_query(
             query=VECTOR_SEARCH_QUERY,
             params={
-                "query": embedded_query,
+                "embedded_query": embedded_query,
                 "k": self.k,
                 "threshold": self.threshold,
+                "vector_index": self.vector_index,
             },
         )
 

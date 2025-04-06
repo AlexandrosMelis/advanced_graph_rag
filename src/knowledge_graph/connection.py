@@ -13,6 +13,7 @@ class Neo4jConnection:
             logger.debug("Connection successful!")
         except Exception as e:
             logger.debug(f"Failed to connect to Neo4j: {e}")
+            raise e
 
     def get_driver(self) -> GraphDatabase:
         return self.driver

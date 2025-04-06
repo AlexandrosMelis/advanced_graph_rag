@@ -511,9 +511,9 @@ class GraphCrud:
         """
         # Use backticks for safety around identifiers
         query = (
-            f"CREATE VECTOR INDEX `{index_name}` IF NOT EXISTS "
-            f"FOR (n:`{label}`) "
-            f"ON (n.`{property_name}`) "
+            f"CREATE VECTOR INDEX {index_name} IF NOT EXISTS "
+            f"FOR (n:{label}) "
+            f"ON (n.{property_name}) "
             f"OPTIONS {{indexConfig: {{`vector.dimensions`: {dimensions}, `vector.similarity_function`: '{similarity_function}'}}}}"
         )
         try:

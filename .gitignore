@@ -169,3 +169,6 @@ logs
 
 # vscode folders
 .vscode
+
+# folders
+results
