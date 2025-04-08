@@ -46,7 +46,7 @@ class NonLLMRetrievalEvaluator:
     def evaluate_retrieval(
         self,
         retrieval_results: List[Dict[str, Any]],
-        k_values: List[int] = [1, 3, 5, 10, 20],
+        k_values: List[int] = [1, 3, 5, 10],
     ) -> Dict[str, Dict[str, float]]:
         """
         Evaluate retrieval results against benchmark data for various k values.

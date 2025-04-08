@@ -84,18 +84,19 @@ def load_graph_data(embedding_model, graph_crud):
 def evaluate_retriever_without_llm(
     source_data: list,
     retriever: SimilaritySearchRetriever,
+    func_args: dict,
+    retrieval_type: Literal[
+        "relevant_contexts", "1_hop_similar_contexts", "relevant_meshes"
+    ],
     output_dir_path: str = None,
-    retrieval_technique: Literal[
-        "relevant_contexts", "relevant_meshes"
-    ] = "relevant_contexts",
-    k_neighbors: int = 10,
     k_eval_values: list = [1, 3, 5, 10],
 ):
+
     retrieved_chunks = collect_retrieved_chunks(
         source_data=source_data,
         retriever=retriever,
-        k=k_neighbors,
-        retrieval_technique=retrieval_technique,
+        retrieval_type=retrieval_type,
+        func_args=func_args,
         output_dir=output_dir_path,
     )
     run_evaluation_on_retrieved_chunks(
@@ -176,9 +177,16 @@ if __name__ == "__main__":
     )
 
     # Evaluate similarity search retriever without LLM
+    retrieval_type = "1_hop_similar_contexts"
+    func_args = {"k": 10, "n_similar_contexts": 10}
+    # retrieval_type = "relevant_contexts"
+    # func_args = {"k": 10}
+
     evaluate_retriever_without_llm(
         source_data=data,
         retriever=retriever,
+        retrieval_type=retrieval_type,
+        func_args=func_args,
         output_dir_path=output_dir_path,
         k_eval_values=[1, 3, 5, 10],
     )

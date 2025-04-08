@@ -1,6 +1,7 @@
 import os
 from typing import Any, Literal, Tuple
 
+import pandas as pd
 from tqdm import tqdm
 
 from configs.config import ConfigPath
@@ -11,8 +12,8 @@ from utils.utils import save_json_file
 def collect_retrieved_chunks(
     source_data: list,
     retriever: SimilaritySearchRetriever,
-    k: int,
-    retrieval_technique: Literal["relevant_contexts", "relevant_meshes"],
+    retrieval_type: Literal["relevant_contexts", "relevant_meshes"],
+    func_args: dict,
     output_dir: str = None,
 ) -> dict:
     """Run the retriever against every sample in the source data.
@@ -22,19 +23,36 @@ def collect_retrieved_chunks(
         dict: contains the id, question and the retrieved chunks
     """
     results = {}
+    results_for_save = {}
+    print(f"Retrieval type: {retrieval_type} with arguments: {func_args}")
     for sample in tqdm(source_data, desc="Collecting retrieved chunks..."):
         sample_id = sample.get("id")
-        question = sample.get("question")
+        func_args.update({"query": sample["question"]})
         retrieved_data = retriever.retrieve_chunks(
-            query=question, k=k, technique=retrieval_technique
+            retrieval_type=retrieval_type, **func_args
         )
-        retrieved_data = [(chunk["pmid"], chunk["score"]) for chunk in retrieved_data]
-        results[sample_id] = retrieved_data
+        results[sample_id] = [
+            (chunk["pmid"], chunk["score"]) for chunk in retrieved_data
+        ]
+
+        retrieved_pmids = [chunk["pmid"] for chunk in retrieved_data]
+        results_for_save[sample_id] = retrieved_pmids
 
     if output_dir:
-        file_name = f"{k}_{retrieval_technique}_chunks.json"
+        # save results in csv
+        pmid_results = list(results_for_save.values())
+
+        len_of_retrieved_results = [len(pmids) for pmids in pmid_results]
+        data = {
+            "id": list(results.keys()),
+            "retrieved_pmids": pmid_results,
+            "num_of_chunks": len_of_retrieved_results,
+        }
+        # data = {"id": list(results.keys()), "retrieved_chunks}
+        df = pd.DataFrame(data)
+        file_name = f"{retrieval_type}_chunks.csv"
         file_path = os.path.join(output_dir, file_name)
-        save_json_file(file_path=file_path, data=results)
+        df.to_csv(file_path, index=False)
 
     return results
 
