@@ -239,12 +239,11 @@ class MeshTermFetcher:
                     definition = self.get_definition(ui, term)
                     definitions[term] = definition
                 else:
-                    definitions[term] = "No MeSH definition found"
+                    continue
             except Exception as e:
                 logger.error(
                     f"Failed to retrieve MeSH definition for term: {term}. Error: {e}"
                 )
-                definitions[term] = "No MeSH definition found"
 
             save_json_file(file_path=file_path, data=definitions)
 

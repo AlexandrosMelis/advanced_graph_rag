@@ -168,7 +168,12 @@ class GraphLoader:
         mesh_terms = set()
         for sample in self.data:
             for article in sample.get(self.ARTICLES_KEY, []):
-                mesh_terms.update(article.get(self.MESHES_KEY, []))
+                try:
+                    mesh_terms.update(article.get(self.MESHES_KEY, []))
+                except Exception as e:
+                    logger.error(
+                        f"Error extracting MESH terms in sample with id: {sample['id']}, error: {e}"
+                    )
         self.distinct_mesh_terms = mesh_terms
         logger.info(f"Found {len(self.distinct_mesh_terms)} distinct MESH terms.")
 

@@ -22,7 +22,9 @@ class DatasetConstructor:
             relevant_pmids = bioasq_sample.pop("relevant_passage_ids")
             # get relevant pubmed data
             contexts = [
-                self.pubmed_data.get(str(pmid), None) for pmid in relevant_pmids
+                self.pubmed_data[str(pmid)]
+                for pmid in relevant_pmids
+                if pmid in self.pubmed_data
             ]
 
             bioasq_sample["articles"] = contexts

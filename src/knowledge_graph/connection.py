@@ -8,6 +8,7 @@ class Neo4jConnection:
         self.driver = GraphDatabase.driver(
             uri, auth=(user, password), database=database
         )
+        print(f"Using database: {database}")
         try:
             self.driver.verify_connectivity()
             logger.debug("Connection successful!")
