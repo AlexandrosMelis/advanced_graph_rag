@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from typing import Any, Literal
+from typing import Any
 
 from configs import ConfigEnv, ConfigPath
 from configs.config import logger
@@ -17,7 +17,7 @@ from knowledge_graph.loader import GraphLoader
 from llms.embedding_model import EmbeddingModel
 from llms.llm import ChatModel
 from retrieval_techniques.similarity_search import SimilaritySearchRetriever
-from utils.utils import read_json_file
+from utils.utils import read_json_file, save_json_file
 
 
 def construct_graph_dataset(asq_reader: BioASQDataReader):
@@ -84,20 +84,21 @@ def evaluate_retriever_without_llm(
     source_data: list,
     retriever: SimilaritySearchRetriever,
     func_args: dict,
-    retrieval_type: Literal[
-        "relevant_contexts", "1_hop_similar_contexts", "relevant_meshes"
-    ],
     output_dir_path: str = None,
     k_eval_values: list = [1, 3, 5, 10],
 ):
 
+    save_json_file(
+        file_path=os.path.join(output_dir_path, "retrieval_args.json"), data=func_args
+    )
+
     retrieved_chunks = collect_retrieved_chunks(
         source_data=source_data,
         retriever=retriever,
-        retrieval_type=retrieval_type,
         func_args=func_args,
         output_dir=output_dir_path,
     )
+
     run_evaluation_on_retrieved_chunks(
         benchmark_data=source_data,
         retrieval_results=retrieved_chunks,
@@ -143,52 +144,45 @@ if __name__ == "__main__":
         password=ConfigEnv.NEO4J_PASSWORD,
         database=ConfigEnv.NEO4J_DB,
     )
-    graph_crud = GraphCrud(neo4j_connection=neo4j_connection)
+    # graph_crud = GraphCrud(neo4j_connection=neo4j_connection)
 
+    #############################################
+    # GRAPH PREPARATION AND LOADING
+    #############################################
     # 1 step: construct the graph dataset
-    construct_graph_dataset(asq_reader=asq_reader)
+    # construct_graph_dataset(asq_reader=asq_reader)
     # 2 step: load the dataset to Neo4j db
-    load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
+    # load_graph_data(embedding_model=embedding_model, graph_crud=graph_crud)
 
-    # ******** Evaluation ********
-
+    #############################################
+    # RETRIEVAL EXECUTION AND EVALUATION
+    #############################################
     # create results folder
-    # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    # output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
-    # os.makedirs(output_dir_path, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_dir_path = os.path.join(ConfigPath.RESULTS_DIR, timestamp)
+    os.makedirs(output_dir_path, exist_ok=True)
     # initialize retriever
-    # vector_tool_with_chunks = VectorSimilaritySearchTool(
-    #     llm=llm,
-    #     embedding_model=embedding_model,
-    #     neo4j_connection=neo4j_connection,
-    #     return_direct=True,
-    # )
-    # vector_tool_with_answers = VectorSimilaritySearchTool(
-    #     llm=llm,
-    #     embedding_model=embedding_model,
-    #     neo4j_connection=neo4j_connection,
-    #     return_direct=False,
-    # )
-    # retriever = SimilaritySearchRetriever(
-    #     llm=llm,
-    #     embedding_model=embedding_model,
-    #     neo4j_connection=neo4j_connection,
-    # )
+    retriever = SimilaritySearchRetriever(
+        llm=llm,
+        embedding_model=embedding_model,
+        neo4j_connection=neo4j_connection,
+    )
 
     # Evaluate similarity search retriever without LLM
-    # retrieval_type = "1_hop_similar_contexts"
-    # func_args = {"k": 10, "n_similar_contexts": 10}
-    # retrieval_type = "relevant_contexts"
-    # func_args = {"k": 10}
+    func_args = {
+        "retrieval_type": "1_hop_similar_contexts",
+        "k": 10,
+        "n_similar_contexts": 10,
+    }
+    # func_args = {"retrieval_type": "relevant_contexts", "k": 10}
 
-    # evaluate_retriever_without_llm(
-    #     source_data=data,
-    #     retriever=retriever,
-    #     retrieval_type=retrieval_type,
-    #     func_args=func_args,
-    #     output_dir_path=output_dir_path,
-    #     k_eval_values=[1, 3, 5, 10],
-    # )
+    evaluate_retriever_without_llm(
+        source_data=data,
+        retriever=retriever,
+        func_args=func_args,
+        output_dir_path=output_dir_path,
+        k_eval_values=[1, 3, 5, 10],
+    )
 
     # Evaluate similarity search retriever with LLM
     # evaluate_retriever_with_llm(

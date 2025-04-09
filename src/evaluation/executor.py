@@ -12,7 +12,6 @@ from utils.utils import save_json_file
 def collect_retrieved_chunks(
     source_data: list,
     retriever: SimilaritySearchRetriever,
-    retrieval_type: Literal["relevant_contexts", "relevant_meshes"],
     func_args: dict,
     output_dir: str = None,
 ) -> dict:
@@ -24,13 +23,12 @@ def collect_retrieved_chunks(
     """
     results = {}
     results_for_save = {}
-    print(f"Retrieval type: {retrieval_type} with arguments: {func_args}")
+    retrieval_type = func_args["retrieval_type"]
+    print(f"Retrieval type: {retrieval_type}")
     for sample in tqdm(source_data, desc="Collecting retrieved chunks..."):
         sample_id = sample.get("id")
         func_args.update({"query": sample["question"]})
-        retrieved_data = retriever.retrieve_chunks(
-            retrieval_type=retrieval_type, **func_args
-        )
+        retrieved_data = retriever.retrieve_chunks(**func_args)
         results[sample_id] = [
             (chunk["pmid"], chunk["score"]) for chunk in retrieved_data
         ]

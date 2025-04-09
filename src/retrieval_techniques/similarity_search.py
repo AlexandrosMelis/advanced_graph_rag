@@ -60,11 +60,12 @@ class SimilaritySearchRetriever:
             "relevant_contexts": self.get_answer_based_on_contexts,
         }
 
-    def retrieve_chunks(self, retrieval_type: str, **kwargs):
+    def retrieve_chunks(self, **kwargs):
         """
         Factory method to retrieve chunks based on the technique specified.
         Entry point for the chunk retrieval process.
         """
+        retrieval_type = kwargs.pop("retrieval_type")
         if retrieval_type not in self.retrieval_techniques_mapper:
             raise ValueError(
                 f"Retrieval technique '{retrieval_type}' is not supported. Valid options are: {list(self.retrieval_techniques_mapper.keys())}."
