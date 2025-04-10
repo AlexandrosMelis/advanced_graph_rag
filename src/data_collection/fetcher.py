@@ -222,14 +222,20 @@ class MeshTermFetcher:
     def fetch_definitions(self, mesh_terms: list):
 
         logger.debug(f"Working on file: {self._file_name}")
-        file_path = os.path.join(ConfigPath.EXTERNAL_DATA_DIR, self._file_name)
-        if os.path.exists(file_path):
-            definitions = read_json_file(file_path=file_path)
+        mesh_definitions_file_path = os.path.join(
+            ConfigPath.EXTERNAL_DATA_DIR, self._file_name
+        )
+        issued_definitions_file_path = os.path.join(
+            ConfigPath.EXTERNAL_DATA_DIR, "issued_terms.json"
+        )
+        if os.path.exists(mesh_definitions_file_path):
+            definitions = read_json_file(file_path=mesh_definitions_file_path)
             if not definitions:
                 definitions = {}
         else:
             definitions = {}
 
+        issued_terms = []
         for term in tqdm(mesh_terms):
             if term in definitions:
                 continue
@@ -239,12 +245,15 @@ class MeshTermFetcher:
                     definition = self.get_definition(ui, term)
                     definitions[term] = definition
                 else:
-                    continue
+                    issued_terms.append(term)
             except Exception as e:
                 logger.error(
                     f"Failed to retrieve MeSH definition for term: {term}. Error: {e}"
                 )
+                issued_terms.append(term)
 
-            save_json_file(file_path=file_path, data=definitions)
+            save_json_file(file_path=mesh_definitions_file_path, data=definitions)
+            # save issued terms for retry
+            save_json_file(file_path=issued_definitions_file_path, data=issued_terms)
 
         return definitions
