@@ -16,7 +16,7 @@ class SimilaritySearchRetriever:
     CONTEXT_VECTOR_SEARCH_CYPHER = """CALL db.index.vector.queryNodes('contextIndex', $k, $embedded_query) YIELD node AS context, score""".strip()
     MESH_VECTOR_SEARCH_CYPHER = """CALL db.index.vector.queryNodes('meshIndex', $k, $embedded_query) YIELD node AS mesh, score""".strip()
     CONTEXT_RETRIEVAL_CYPHER_SNIPPET = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context) RETURN elementId(context) as element_id, article.pmid as pmid, context.text_content as content, score as score""".strip()
-    MESH_RETRIEVAL_CYPHER_SNIPPET = """MATCH (context)-[:HAS_MESH_TERM]->(mesh:MESH) RETURN mesh.name as term, mesh.definition as definition, score as score""".strip()
+    MESH_RETRIEVAL_CYPHER_SNIPPET = """RETURN mesh.name as term, mesh.definition as definition, score as score""".strip()
     SIMILAR_CONTEXT_RETRIEVAL_CYPHER_SNIPPET = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context:CONTEXT) WHERE elementId(context) in $relevant_element_ids
         // For each context, find its top 5 most similar contexts
         WITH context, article.pmid AS original_pmid, context.text_content AS original_content
@@ -92,15 +92,218 @@ class SimilaritySearchRetriever:
 
         return chunks
 
+    def search_in_meshes(self, query: str, k: int, retrieval_snippet: str) -> list:
+        """
+        Perform similarity search in Mesh index and retrieve the `k` most relevant chunks.
+        """
+        CYPHER_QUERY = f"{self.MESH_VECTOR_SEARCH_CYPHER}\n{retrieval_snippet}".strip()
+
+        embedded_query = self.embedding_model.embed_query(query)
+        chunks = self.neo4j_connection.execute_query(
+            query=CYPHER_QUERY,
+            params={
+                "embedded_query": embedded_query,
+                "k": k,
+            },
+        )
+
+        return chunks
+
+    def get_relevant_meshes(self, query: str, k: int) -> list:
+        """
+        Get `k` most relevant Mesh terms to the query.
+        """
+        return self.search_in_meshes(
+            query=query, k=k, retrieval_snippet=self.MESH_RETRIEVAL_CYPHER_SNIPPET
+        )
+
     def get_relevant_contexts(self, query: str, k: int) -> list:
         """
-        Get similar contexts from the knowledge graph using similarity search.
+        Get `k` most relevant contexts to the query.
         """
         return self.search_in_contexts(
             query=query,
             k=k,
             retrieval_snippet=self.CONTEXT_RETRIEVAL_CYPHER_SNIPPET,
         )
+
+    def perform_meshes_subgraph_search(
+        self, query: str, k: int, n_meshes: int = 10
+    ) -> list:
+
+        # embed query
+        embedded_query = self.embedding_model.embed_query(query)
+
+        # get relevant meshes
+        relevant_meshes = self.get_relevant_meshes(query=query, k=n_meshes)
+        relevant_mesh_terms = [mesh["term"] for mesh in relevant_meshes]
+
+        # apply graph prefiltering
+        PREFILTERING_VECTOR_SEARCH_CYPHER = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context:CONTEXT)-[:HAS_MESH_TERM]->(mesh:MESH)
+        WHERE mesh.name IN $mesh_terms
+        WITH article, context, mesh, vector.similarity.cosine(context.embedding, $embedding) AS score 
+        ORDER BY score DESC LIMIT toInteger($k) 
+        RETURN article.pmid as pmid, context.text_content as content, score as score""".strip()
+
+        chunks = self.neo4j_connection.execute_query(
+            query=PREFILTERING_VECTOR_SEARCH_CYPHER,
+            params={
+                "embedding": embedded_query,
+                "k": k,
+                "mesh_terms": relevant_mesh_terms,
+            },
+        )
+
+        return chunks
+
+    def perform_enhanced_mesh_search(
+        self,
+        query: str,
+        k: int,
+        n_meshes: int = 10,
+        mesh_weight: float = 0.3,
+        expansion_factor: float = 0.5,
+    ) -> list:
+        """
+        Enhanced mesh-based retrieval that uses mesh term relevance to guide the context search.
+
+        Args:
+            query: The user query
+            k: Number of contexts to retrieve
+            n_meshes: Number of primary mesh terms to consider
+            mesh_weight: Weight given to mesh term relevance (0-1)
+            expansion_factor: Factor for including related mesh terms (0-1)
+
+        Returns:
+            List of retrieved contexts with combined scoring
+        """
+        # Embed query
+        embedded_query = self.embedding_model.embed_query(query)
+
+        # 1. Get primary relevant mesh terms with scores
+        primary_meshes = self.get_relevant_meshes(query=query, k=n_meshes)
+        primary_mesh_terms = [mesh["term"] for mesh in primary_meshes]
+
+        # Create a dictionary to store mesh term scores
+        mesh_scores = {mesh["term"]: mesh["score"] for mesh in primary_meshes}
+
+        # 2. Expand to related mesh terms (those frequently co-occurring with primary terms)
+        n_expanded = int(n_meshes * expansion_factor)
+        if n_expanded > 0:
+            MESH_EXPANSION_CYPHER = """
+            MATCH (mesh:MESH)<-[:HAS_MESH_TERM]-(context:CONTEXT)-[:HAS_MESH_TERM]->(related_mesh:MESH)
+            WHERE mesh.name IN $primary_mesh_terms
+            AND NOT related_mesh.name IN $primary_mesh_terms
+            WITH related_mesh, COUNT(DISTINCT context) AS co_occurrence_count
+            ORDER BY co_occurrence_count DESC
+            LIMIT $n_expanded
+            RETURN related_mesh.name AS term
+            """
+
+            expanded_meshes = self.neo4j_connection.execute_query(
+                query=MESH_EXPANSION_CYPHER,
+                params={
+                    "primary_mesh_terms": primary_mesh_terms,
+                    "n_expanded": n_expanded,
+                },
+            )
+
+            expanded_mesh_terms = [mesh["term"] for mesh in expanded_meshes]
+
+            # Assign a lower score to expanded terms (half of the lowest primary term score)
+            min_primary_score = min(mesh_scores.values()) if mesh_scores else 0.5
+            for term in expanded_mesh_terms:
+                mesh_scores[term] = min_primary_score * 0.5
+        else:
+            expanded_mesh_terms = []
+
+        # Combine primary and expanded mesh terms
+        all_mesh_terms = primary_mesh_terms + expanded_mesh_terms
+
+        # 3. Retrieve contexts using a hybrid approach that considers both:
+        #    - Mesh term relevance (weighted by term scores)
+        #    - Direct vector similarity to the query
+        HYBRID_SEARCH_CYPHER = """
+        // First, find contexts connected to relevant mesh terms
+        MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context:CONTEXT)-[:HAS_MESH_TERM]->(mesh:MESH)
+        WHERE mesh.name IN $mesh_terms
+        
+        // Calculate mesh relevance score - sum of the scores of all matching mesh terms
+        WITH article, context, 
+             SUM(
+                CASE 
+                    WHEN mesh.name IN $mesh_terms THEN $mesh_scores[mesh.name] 
+                    ELSE 0 
+                END
+             ) AS mesh_relevance
+        
+        // Calculate direct vector similarity between context and query
+        WITH article, context, mesh_relevance,
+             vector.similarity.cosine(context.embedding, $embedding) AS vector_similarity
+        
+        // Combine scores with weighting
+        WITH article, context,
+             (1.0 - $mesh_weight) * vector_similarity + $mesh_weight * mesh_relevance AS combined_score
+        
+        // Order by combined score and take top k
+        ORDER BY combined_score DESC
+        LIMIT toInteger($k)
+        
+        // Return the results
+        RETURN 
+            article.pmid AS pmid, 
+            context.text_content AS content, 
+            combined_score AS score
+        """
+
+        # Convert mesh_scores to a format that can be used in Cypher
+        mesh_scores_param = {}
+        for term, score in mesh_scores.items():
+            mesh_scores_param[term] = float(score)
+
+        # Execute hybrid search
+        chunks = self.neo4j_connection.execute_query(
+            query=HYBRID_SEARCH_CYPHER,
+            params={
+                "embedding": embedded_query,
+                "k": k,
+                "mesh_terms": all_mesh_terms,
+                "mesh_scores": mesh_scores_param,
+                "mesh_weight": mesh_weight,
+            },
+        )
+
+        # 4. Handle the case where mesh filtering is too restrictive
+        # If we didn't get enough results, perform direct vector search as a fallback
+        if len(chunks) < k:
+            # Calculate how many more results we need
+            remaining_k = k - len(chunks)
+
+            # Get element IDs of already retrieved contexts to exclude them
+            retrieved_pmids = [chunk["pmid"] for chunk in chunks]
+
+            FALLBACK_VECTOR_SEARCH_CYPHER = """
+            MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context:CONTEXT)
+            WHERE NOT article.pmid IN $excluded_pmids
+            WITH article, context, vector.similarity.cosine(context.embedding, $embedding) AS score
+            ORDER BY score DESC
+            LIMIT toInteger($remaining_k)
+            RETURN article.pmid AS pmid, context.text_content AS content, score AS score
+            """
+
+            fallback_chunks = self.neo4j_connection.execute_query(
+                query=FALLBACK_VECTOR_SEARCH_CYPHER,
+                params={
+                    "embedding": embedded_query,
+                    "remaining_k": remaining_k,
+                    "excluded_pmids": retrieved_pmids,
+                },
+            )
+
+            # Add fallback results to our chunks
+            chunks.extend(fallback_chunks)
+
+        return chunks
 
     def get_1_hop_similar_contexts(
         self, query: str, k: int, n_similar_contexts: int
@@ -147,23 +350,6 @@ class SimilaritySearchRetriever:
         ]
 
         return results
-
-    def search_in_meshes(self, query: str, k: int, retrieval_snippet: str) -> list:
-        """
-        Perform similarity search in Mesh index and retrieve the `k` most relevant chunks.
-        """
-        CYPHER_QUERY = f"{self.MESH_VECTOR_SEARCH_CYPHER}\n{retrieval_snippet}".strip()
-
-        embedded_query = self.embedding_model.embed_query(query)
-        chunks = self.neo4j_connection.execute_query(
-            query=CYPHER_QUERY,
-            params={
-                "embedded_query": embedded_query,
-                "k": k,
-            },
-        )
-
-        return chunks
 
     def get_mesh_centrality_contexts(
         self,
