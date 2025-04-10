@@ -13,9 +13,10 @@ class SimilaritySearchRetriever:
     mesh_vector_index = "meshIndex"
 
     # cypher snippets
-    SIMILARITY_SEARCH_CYPHER_SNIPPET = """CALL db.index.vector.queryNodes($vector_index, $k, $embedded_query) YIELD node AS context, score""".strip()
+    CONTEXT_VECTOR_SEARCH_CYPHER = """CALL db.index.vector.queryNodes('contextIndex', $k, $embedded_query) YIELD node AS context, score""".strip()
+    MESH_VECTOR_SEARCH_CYPHER = """CALL db.index.vector.queryNodes('meshIndex', $k, $embedded_query) YIELD node AS mesh, score""".strip()
     CONTEXT_RETRIEVAL_CYPHER_SNIPPET = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context) RETURN elementId(context) as element_id, article.pmid as pmid, context.text_content as content, score as score""".strip()
-    MESH_RETRIEVAL_CYPHER_SNIPPET = """MATCH (article:ARTICLE)-[:HAS_MESH]->(mesh) RETURN article.pmid as pmid, mesh.name as term, mesh.definition as definition, score as score""".strip()
+    MESH_RETRIEVAL_CYPHER_SNIPPET = """MATCH (context)-[:HAS_MESH_TERM]->(mesh:MESH) RETURN mesh.name as term, mesh.definition as definition, score as score""".strip()
     SIMILAR_CONTEXT_RETRIEVAL_CYPHER_SNIPPET = """MATCH (article:ARTICLE)-[:HAS_CONTEXT]->(context:CONTEXT) WHERE elementId(context) in $relevant_element_ids
         // For each context, find its top 5 most similar contexts
         WITH context, article.pmid AS original_pmid, context.text_content AS original_content
@@ -50,9 +51,9 @@ class SimilaritySearchRetriever:
 
         # retrieval techniques mapper
         self.retrieval_techniques_mapper = {
-            "relevant_contexts": self.get_relevant_contexts,
-            "relevant_meshes": self.get_relevant_mesh_terms,
-            "1_hop_similar_contexts": self.get_1_hop_similar_contexts,
+            "context_vector_search": self.get_relevant_contexts,
+            "1_hop_context_expansion": self.get_1_hop_similar_contexts,
+            "mesh_centrality_contexts": self.get_mesh_centrality_contexts,
         }
 
         # answer techniques mapper
@@ -60,57 +61,32 @@ class SimilaritySearchRetriever:
             "relevant_contexts": self.get_answer_based_on_contexts,
         }
 
-    def retrieve_chunks(self, **kwargs):
+    def perform_retrieval(self, retrieval_type: str, query: str, k: int, **kwargs):
         """
         Factory method to retrieve chunks based on the technique specified.
         Entry point for the chunk retrieval process.
         """
-        retrieval_type = kwargs.pop("retrieval_type")
         if retrieval_type not in self.retrieval_techniques_mapper:
             raise ValueError(
                 f"Retrieval technique '{retrieval_type}' is not supported. Valid options are: {list(self.retrieval_techniques_mapper.keys())}."
             )
-        return self.retrieval_techniques_mapper[retrieval_type](**kwargs)
-
-    def answer(self, **kwargs):
-        """
-        Factory method to get the answer based on the technique specified.
-        Entry point for the answer retrieval process.
-        """
-        technique = kwargs.get("technique", None)
-        if technique is None:
-            raise ValueError("Technique is not defined. `technique` must be provided.")
-        if technique not in self.answer_techniques_mapper:
-            raise ValueError(
-                f"Answer technique '{technique}' is not supported. Valid options are: {list(self.answer_techniques_mapper.keys())}."
-            )
-        if "k" not in kwargs:
-            raise ValueError("k neighbors is not defined. `k` must be provided.")
-        if "query" not in kwargs:
-            raise ValueError("Query is not defined. `query` must be provided.")
-        return self.answer_techniques_mapper[technique](
-            query=kwargs["query"], k=kwargs["k"]
+        return self.retrieval_techniques_mapper[retrieval_type](
+            query=query, k=k, **kwargs
         )
 
-    def similarity_search(
-        self, query: str, k: int, vector_index: str, retrieval_snippet: str
-    ) -> list:
+    def search_in_contexts(self, query: str, k: int, retrieval_snippet: str) -> list:
         """
-        Perform similarity search in the knowledge graph using the provided query and vector index.
+        Perform similarity search in Context index and retrieve the `k` most relevant chunks.
         """
-        VECTOR_SEARCH_QUERY = (
-            f"{self.SIMILARITY_SEARCH_CYPHER_SNIPPET}\n{retrieval_snippet}".strip()
+        CYPHER_QUERY = (
+            f"{self.CONTEXT_VECTOR_SEARCH_CYPHER}\n{retrieval_snippet}".strip()
         )
-
-        # create the query embedding
         embedded_query = self.embedding_model.embed_query(query)
-
         chunks = self.neo4j_connection.execute_query(
-            query=VECTOR_SEARCH_QUERY,
+            query=CYPHER_QUERY,
             params={
                 "embedded_query": embedded_query,
                 "k": k,
-                "vector_index": vector_index,
             },
         )
 
@@ -120,10 +96,9 @@ class SimilaritySearchRetriever:
         """
         Get similar contexts from the knowledge graph using similarity search.
         """
-        return self.similarity_search(
+        return self.search_in_contexts(
             query=query,
             k=k,
-            vector_index=self.context_vector_index,
             retrieval_snippet=self.CONTEXT_RETRIEVAL_CYPHER_SNIPPET,
         )
 
@@ -138,7 +113,7 @@ class SimilaritySearchRetriever:
 
         embedded_query = self.embedding_model.embed_query(query)
 
-        # get top n similar neighbors for each context
+        # expand to 1-hop similar context and get top n similar neighbors for each context
         retrieved_similar_contexts = self.neo4j_connection.execute_query(
             query=self.SIMILAR_CONTEXT_RETRIEVAL_CYPHER_SNIPPET,
             params={
@@ -173,15 +148,208 @@ class SimilaritySearchRetriever:
 
         return results
 
-    def get_relevant_mesh_terms(self, query: str, k: int) -> list:
+    def search_in_meshes(self, query: str, k: int, retrieval_snippet: str) -> list:
         """
-        Get similar mesh terms from the knowledge graph using similarity search.
+        Perform similarity search in Mesh index and retrieve the `k` most relevant chunks.
         """
-        return self.similarity_search(
-            query=query,
-            k=k,
-            vector_index=self.context_vector_index,
-            retrieval_snippet=self.MESH_RETRIEVAL_CYPHER_SNIPPET,
+        CYPHER_QUERY = f"{self.MESH_VECTOR_SEARCH_CYPHER}\n{retrieval_snippet}".strip()
+
+        embedded_query = self.embedding_model.embed_query(query)
+        chunks = self.neo4j_connection.execute_query(
+            query=CYPHER_QUERY,
+            params={
+                "embedded_query": embedded_query,
+                "k": k,
+            },
+        )
+
+        return chunks
+
+    def get_mesh_centrality_contexts(
+        self,
+        query: str,
+        k: int,
+        centrality_type: str = "degree",
+        centrality_weight: float = 0.3,
+    ) -> list:
+        """
+        Retrieve contexts based on both vector similarity and the centrality of connected MESH terms.
+
+        This method enhances retrieval by considering not just semantic relevance (vector similarity)
+        but also the structural importance of medical concepts (MESH terms) in the knowledge graph.
+
+        Args:
+            query: The user query
+            k: Number of contexts to retrieve
+            centrality_type: Type of centrality to use ("degree", "betweenness", or "eigenvector")
+            centrality_weight: Weight to apply to centrality scores (0-1)
+
+        Returns:
+            List of retrieved contexts ordered by combined score
+        """
+        print(f"Centrality type: {centrality_type}")
+
+        # Step 1: Get initial contexts based on vector similarity
+        initial_contexts = self.get_relevant_contexts(
+            query=query, k=k * 2
+        )  # Get more than needed initially
+
+        # Extract the element IDs of the retrieved contexts
+        context_element_ids = [context["element_id"] for context in initial_contexts]
+
+        # Step 2: Calculate MESH term centrality based on the specified type
+        if centrality_type == "degree":
+            # Degree centrality: how many contexts are connected to each MESH term
+            MESH_CENTRALITY_CYPHER = """
+            MATCH (context:CONTEXT)-[:HAS_MESH_TERM]->(mesh:MESH)
+            WHERE elementId(context) IN $context_element_ids
+            
+            WITH mesh, COUNT(DISTINCT context) AS degree_centrality
+            
+            MATCH (related_context:CONTEXT)-[:HAS_MESH_TERM]->(mesh)
+            WHERE elementId(related_context) IN $context_element_ids
+            
+            RETURN 
+                elementId(related_context) AS element_id, 
+                mesh.name AS mesh_term,
+                degree_centrality AS centrality
+            """
+        elif centrality_type == "betweenness":
+            # Betweenness centrality approximation: how often a MESH term connects different contexts
+            MESH_CENTRALITY_CYPHER = """
+            MATCH (context:CONTEXT)-[:HAS_MESH_TERM]->(mesh:MESH)
+            WHERE elementId(context) IN $context_element_ids
+            
+            WITH mesh
+            MATCH (mesh)<-[:HAS_MESH_TERM]-(c:CONTEXT)-[:HAS_MESH_TERM]->(other_mesh:MESH)
+            WHERE mesh <> other_mesh
+            
+            WITH mesh, COUNT(DISTINCT other_mesh) AS betweenness
+            
+            MATCH (related_context:CONTEXT)-[:HAS_MESH_TERM]->(mesh)
+            WHERE elementId(related_context) IN $context_element_ids
+            
+            RETURN 
+                elementId(related_context) AS element_id, 
+                mesh.name AS mesh_term,
+                betweenness AS centrality
+            """
+        elif centrality_type == "eigenvector":
+            # Eigenvector centrality approximation: importance based on connections to other important MESH terms
+            MESH_CENTRALITY_CYPHER = """
+            MATCH (context:CONTEXT)-[:HAS_MESH_TERM]->(mesh:MESH)
+            WHERE elementId(context) IN $context_element_ids
+            
+            WITH mesh
+            MATCH (mesh)<-[:HAS_MESH_TERM]-(c:CONTEXT)-[:HAS_MESH_TERM]->(connected_mesh:MESH)<-[:HAS_MESH_TERM]-(other_c:CONTEXT)
+            WHERE mesh <> connected_mesh
+            
+            WITH mesh, COUNT(DISTINCT other_c) AS eigenvector_approx
+            
+            MATCH (related_context:CONTEXT)-[:HAS_MESH_TERM]->(mesh)
+            WHERE elementId(related_context) IN $context_element_ids
+            
+            RETURN 
+                elementId(related_context) AS element_id, 
+                mesh.name AS mesh_term,
+                eigenvector_approx AS centrality
+            """
+        else:
+            raise ValueError(
+                f"Centrality type '{centrality_type}' is not supported. Valid options are: 'degree', 'betweenness', 'eigenvector'."
+            )
+
+        # Execute the centrality query
+        mesh_centrality_results = self.neo4j_connection.execute_query(
+            query=MESH_CENTRALITY_CYPHER,
+            params={"context_element_ids": context_element_ids},
+        )
+
+        # Step 3: Aggregate MESH centrality scores by context
+        context_to_centrality = {}
+        for result in mesh_centrality_results:
+            element_id = result["element_id"]
+            centrality = result["centrality"]
+
+            if element_id not in context_to_centrality:
+                context_to_centrality[element_id] = []
+
+            context_to_centrality[element_id].append(centrality)
+
+        # Calculate average centrality for each context
+        context_avg_centrality = {}
+        for element_id, centralities in context_to_centrality.items():
+            context_avg_centrality[element_id] = sum(centralities) / len(centralities)
+
+        # Normalize centrality scores to 0-1 range if there are any scores
+        if context_avg_centrality:
+            max_centrality = max(context_avg_centrality.values())
+            if max_centrality > 0:  # Avoid division by zero
+                for element_id in context_avg_centrality:
+                    context_avg_centrality[element_id] /= max_centrality
+
+        # Step 4: Combine vector similarity and centrality scores
+        combined_results = []
+        for context in initial_contexts:
+            element_id = context["element_id"]
+            similarity_score = context["score"]
+            centrality_score = context_avg_centrality.get(element_id, 0)
+
+            # Calculate combined score
+            combined_score = (
+                1 - centrality_weight
+            ) * similarity_score + centrality_weight * centrality_score
+
+            combined_results.append(
+                {
+                    "element_id": element_id,
+                    "pmid": context["pmid"],
+                    "content": context["content"],
+                    "similarity_score": similarity_score,
+                    "centrality_score": centrality_score,
+                    "combined_score": combined_score,
+                }
+            )
+
+        # Sort by combined score and take top k
+        combined_results.sort(key=lambda x: x["combined_score"], reverse=True)
+        top_k_results = combined_results[:k]
+
+        # Format results to match existing output structure
+        formatted_results = [
+            {
+                "element_id": r["element_id"],
+                "pmid": r["pmid"],
+                "content": r["content"],
+                "score": r["combined_score"],
+            }
+            for r in top_k_results
+        ]
+
+        return formatted_results
+
+    ####################
+    # ANSWER GENERATION #
+    ####################
+
+    def answer(self, **kwargs):
+        """
+        Factory method to get the answer based on the technique specified.
+        Entry point for the answer retrieval process.
+        """
+        technique = kwargs.get("technique", None)
+        if technique is None:
+            raise ValueError("Technique is not defined. `technique` must be provided.")
+        if technique not in self.answer_techniques_mapper:
+            raise ValueError(
+                f"Answer technique '{technique}' is not supported. Valid options are: {list(self.answer_techniques_mapper.keys())}."
+            )
+        if "k" not in kwargs:
+            raise ValueError("k neighbors is not defined. `k` must be provided.")
+        if "query" not in kwargs:
+            raise ValueError("Query is not defined. `query` must be provided.")
+        return self.answer_techniques_mapper[technique](
+            query=kwargs["query"], k=kwargs["k"]
         )
 
     def _get_answer_template(self) -> PromptTemplate:
